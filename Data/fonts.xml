@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 U (http://www.xmlspy.com) by Ilya Kreymer (Big Huge Games) -->
+<!---->
+<!-- STYLES KEY-->
+<!---->
+<!--B=BOLD-->
+<!--I=ITALIC-->
+<!--O=OUTLINE-->
+<!--U=UNDERLINED-->
+<!--A=ALIASED (DEFAULT is anti-aliased text)-->
+<!--S=STRIKETHRU-->
+<ROOT>
+	<FONTS>
+		<CODEPAGE name="Default" use_ea_line_breaking="1">
+			<RESOLUTION res="1280">
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="22" style="B"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="18" style="B"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="18" style=""/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="16" style="B"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="16" style="I"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="16" style="BI"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="B"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="OB"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="OBS"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style="U"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="BI"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style="I"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style=""/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="B"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="B"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style=""/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style=""/>
+			</RESOLUTION>
+			<RESOLUTION res="1024">
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="22" style="B"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="18" style="B"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="B"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style="I"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="BI"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="OB"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="OBS"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style="U"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="B"/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="10" style="B"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="10" style=""/>
+				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="BI"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style="I"/>
+				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style=""/>
+			</RESOLUTION>
+			<!--  <RESOLUTION res="800">
+        <FONT name="微軟正黑體" size="22" tex_size="18" style="B"/>
+        <FONT name="微軟正黑體" size="18" tex_size="15" style="B"/>
+        <FONT name="微軟正黑體" size="14" tex_size="12" style="B"/>
+        <FONT name="微軟正黑體" size="14" tex_size="12" style="I"/>
+        <FONT name="微軟正黑體" size="14" tex_size="12" style="BI"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style="OB"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style="OBS"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style="U"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style="B"/>
+        <FONT name="微軟正黑體" size="10" tex_size="8" style="B"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style="BI"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style="I"/>
+        <FONT name="微軟正黑體" size="12" tex_size="10" style=""/>
+      </RESOLUTION>
+      -->
+		</CODEPAGE>
+  	</FONTS>
+	<LOOKUPS>
+		<LOOKUP tag="setup_chat">
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="big_huge_size">
+			<RESOLUTION res="1280" size="22"/>
+			<RESOLUTION res="1024" size="22"/>
+		</LOOKUP>
+		<LOOKUP tag="big_size">
+			<RESOLUTION res="1280" size="18"/>
+			<RESOLUTION res="1024" size="18"/>
+		</LOOKUP>
+		<LOOKUP tag="message_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="option_size">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="city_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="info_size">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="info_temp_size">
+			<RESOLUTION res="1280" size="10"/>
+			<RESOLUTION res="1024" size="10"/>
+		</LOOKUP>
+		<LOOKUP tag="stat_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="small_size">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="city_name_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="template_name">
+			<RESOLUTION res="1280" size="18"/>
+			<RESOLUTION res="1024" size="18"/>
+		</LOOKUP>
+		<LOOKUP tag="template_size">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="gamestat_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="console_size">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="10"/>
+		</LOOKUP>
+		<LOOKUP tag="helpbox_size1">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="helpbox_size2">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="helpbox_size3">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="helpbox_size4">
+			<RESOLUTION res="1280" size="14" style="BI"/>
+			<RESOLUTION res="1024" size="12" style="BI"/>
+		</LOOKUP>
+		<LOOKUP tag="helpbox_size5">
+			<RESOLUTION res="1280" size="14" style="BI"/>
+			<RESOLUTION res="1024" size="12" style="BI"/>
+		</LOOKUP>
+		<LOOKUP tag="timer_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="research_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="feedback_size">
+			<RESOLUTION res="1280" size="16" style="B"/>
+			<RESOLUTION res="1024" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="scenario_size">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="data_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="data_defeat_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="game_over_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="clock_size">
+			<RESOLUTION res="1280" size="12" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="debug_size">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="victory_defeat_size">
+			<RESOLUTION res="1280" size="22"/>
+			<RESOLUTION res="1024" size="22"/>
+		</LOOKUP>
+		<LOOKUP tag="paused_size">
+			<RESOLUTION res="1280" size="22"/>
+			<RESOLUTION res="1024" size="22"/>
+		</LOOKUP>
+		<LOOKUP tag="bubble_size">
+			<RESOLUTION res="1280" size="16" style="B"/>
+			<RESOLUTION res="1024" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="bubble_size_italic">
+			<RESOLUTION res="1280" size="16" style="BI"/>
+			<RESOLUTION res="1024" size="14" style="BI"/>
+		</LOOKUP>
+		<LOOKUP tag="bubble_size_bold">
+			<RESOLUTION res="1280" size="16" style="B"/>
+			<RESOLUTION res="1024" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="offer_size">
+			<RESOLUTION res="1280" size="18"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="game_options_size">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="10"/>
+		</LOOKUP>
+		<LOOKUP tag="onscreen_mouseover_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="motd_size">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="10"/>
+		</LOOKUP>
+		<LOOKUP tag="build_name">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="build_hp">
+			<RESOLUTION res="1280" size="10"/>
+			<RESOLUTION res="1024" size="10"/>
+		</LOOKUP>
+		<LOOKUP tag="editor_map">
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1024" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="unit_stat">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="unit_hp">
+			<RESOLUTION res="1280" size="10"/>
+			<RESOLUTION res="1024" size="10"/>
+		</LOOKUP>
+		<LOOKUP tag="unit_name">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="unit_info">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="progress_bar_label">
+			<RESOLUTION res="1280" size="14"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="frame_rate_size">
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1024" size="10" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="control_group_size">
+			<RESOLUTION res="1280" size="6"/>
+			<RESOLUTION res="1024" size="6"/>
+		</LOOKUP>
+		<LOOKUP tag="tip_size">
+			<RESOLUTION res="1280" size="18"/>
+			<RESOLUTION res="1024" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="gamespy_chat_receive">
+			<RESOLUTION res="1024" size="14" style="?"/>
+			<RESOLUTION res="1280" size="14" style="?"/>
+			<RESOLUTION res="1600" size="14" style="?"/>
+		</LOOKUP>
+		<LOOKUP tag="script_editor_text">
+			<RESOLUTION res="1024" size="14"/>
+			<RESOLUTION res="1280" size="14" style=""/>
+			<RESOLUTION res="1600" size="14"/>
+		</LOOKUP>
+		<LOOKUP tag="helpbox_size">
+			<RESOLUTION res="1024" size="12" style="B"/>
+			<RESOLUTION res="1280" size="12" style="B"/>
+			<RESOLUTION res="1600" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="game_over_message_size">
+			<RESOLUTION res="1024" size="18" style="?"/>
+			<RESOLUTION res="1280" size="18" style="?"/>
+			<RESOLUTION res="1600" size="18" style="?"/>
+		</LOOKUP>
+		<LOOKUP tag="popup_dialog">
+			<RESOLUTION res="1024" size="12" style="B"/>
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1600" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="drop_menu_size">
+			<RESOLUTION res="1024" size="14" style="B"/>
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1600" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="in_game_chat_box">
+			<RESOLUTION res="1024" size="18" style=""/>
+			<RESOLUTION res="1280" size="18" style=""/>
+			<RESOLUTION res="1600" size="18" style=""/>
+		</LOOKUP>
+		<LOOKUP tag="copyright_notice">
+			<RESOLUTION res="1024" size="10" style=""/>
+			<RESOLUTION res="1280" size="10" style=""/>
+			<RESOLUTION res="1600" size="10" style=""/>
+		</LOOKUP>
+		<LOOKUP tag="scenario_objectives">
+			<RESOLUTION res="1024" size="12" style="B"/>
+			<RESOLUTION res="1280" size="12" style="B"/>
+			<RESOLUTION res="1600" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="gamespy_game_title">
+			<RESOLUTION res="1024" size="18" style="B"/>
+			<RESOLUTION res="1280" size="18" style="B"/>
+			<RESOLUTION res="1600" size="18" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_nation_info_header">
+			<RESOLUTION res="1024" size="14" style="B"/>
+			<RESOLUTION res="1280" size="16" style="B"/>
+			<RESOLUTION res="1600" size="16" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_nation_info">
+			<RESOLUTION res="1024" size="12"/>
+			<RESOLUTION res="1280" size="12"/>
+			<RESOLUTION res="1600" size="12"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_bonus_cards_lg">
+			<RESOLUTION res="1024" size="15" style="B"/>
+			<RESOLUTION res="1280" size="14" style="B"/>
+			<RESOLUTION res="1600" size="14" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_bonus_cards_sm">
+			<RESOLUTION res="1024" size="11" style="B"/>
+			<RESOLUTION res="1280" size="11" style="B"/>
+			<RESOLUTION res="1600" size="11" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_neg_win_tribute">
+			<RESOLUTION res="1024" size="18" style="B"/>
+			<RESOLUTION res="1280" size="18" style="B"/>
+			<RESOLUTION res="1600" size="18" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_neg_win_tribute_control">
+			<RESOLUTION res="1024" size="16" style="B"/>
+			<RESOLUTION res="1280" size="16" style="B"/>
+			<RESOLUTION res="1600" size="16" style="B"/>
+		</LOOKUP>
+		<!---
+		<LOOKUP tag="ime_comp_string">
+			<RESOLUTION res="1024" size="12" style=""/>
+			<RESOLUTION res="1280" size="12" style=""/>
+			<RESOLUTION res="1600" size="12" style=""/>
+		</LOOKUP>
+    -->
+    	<LOOKUP tag="ctw_neg_win_tribute_control">
+			<RESOLUTION res="1024" size="12" style="B"/>
+			<RESOLUTION res="1280" size="12" style="B"/>
+			<RESOLUTION res="1600" size="12" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="ctw_neg_win_tribute">
+			<RESOLUTION res="1024" size="18" style="B"/>
+			<RESOLUTION res="1280" size="18" style="B"/>
+			<RESOLUTION res="1600" size="18" style="B"/>
+		</LOOKUP>
+		<LOOKUP tag="Courier New">
+			<RESOLUTION res="1024" size="10" style="B"/>
+			<RESOLUTION res="1280" size="10" style="B"/>
+			<RESOLUTION res="1600" size="10" style="B"/>
+		</LOOKUP>
+	</LOOKUPS>
+</ROOT>

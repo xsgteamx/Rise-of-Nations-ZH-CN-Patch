@@ -1,0 +1,51 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="印加人">
+  <LEADERS>
+    <LEADER>曼科卡帕克皇帝</LEADER>
+    <LEADER>维拉科嘉印加皇帝</LEADER>
+    <LEADER>伯雀孔第皇帝</LEADER>
+    <LEADER>托帕印加皇帝</LEADER>
+    <LEADER>外拿卡巴王</LEADER>
+    <LEADER>花思卡皇帝</LEADER>
+    <LEADER>阿打瓦巴皇帝</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>库斯科</CITY>
+    <CITY>昌昌</CITY>
+    <CITY>基多</CITY>
+    <CITY>维卡苏安门</CITY>
+    <CITY>阿亚维瑞</CITY>
+    <CITY>楚揆多</CITY>
+    <CITY>瓦奴可彭巴</CITY>
+    <CITY>卡哈马卡</CITY>
+    <CITY>库斯班巴</CITY>
+    <CITY>坦比斯</CITY>
+    <CITY>托美班巴</CITY>
+    <CITY>马丘比丘</CITY>
+    <CITY>帕卡拉</CITY>
+    <CITY>欧阳载丹坡</CITY>
+    <CITY>蒂瓦纳库</CITY>
+    <CITY>利玛坦堡</CITY>
+    <CITY>印加瓦斯</CITY>
+    <CITY>帕夏克马克</CITY>
+    <CITY>朋邦</CITY>
+    <CITY>瓦努科</CITY>
+    <CITY>库恩卡</CITY>
+    <CITY>皮基尔克塔</CITY>
+    <CITY>纳斯卡</CITY>
+    <CITY>阿萨卡罗</CITY>
+    <CITY>瓦玛楚科</CITY>
+    <CITY>科恰班巴</CITY>
+    <CITY>哈土卡拉</CITY>
+    <CITY>科托帕契</CITY>
+    <CITY>拉科契</CITY>
+    <CITY>瓦拉斯  </CITY>
+    <CITY>维尔卡康加</CITY>
+    <CITY>阿亚库乔</CITY>
+    <CITY>豪哈</CITY>
+    <CITY>外拉斯</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

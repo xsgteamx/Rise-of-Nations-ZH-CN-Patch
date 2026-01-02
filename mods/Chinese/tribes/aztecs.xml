@@ -1,0 +1,59 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="阿兹特克人">
+  <LEADERS>
+    <LEADER>阿卡玛皮奇特里皇帝</LEADER>
+    <LEADER>胡伊兹里胡伊特皇帝</LEADER>
+    <LEADER>奇玛波波卡皇帝</LEADER>
+    <LEADER>伊兹柯特尔皇帝</LEADER>
+    <LEADER>伊胡卡明纳皇帝</LEADER>
+    <LEADER>阿克萨亚卡特尔皇帝</LEADER>
+    <LEADER>提佐克皇帝</LEADER>
+    <LEADER>阿胡伊特佐特尔皇帝</LEADER>
+    <LEADER>阿胡伊佐特尔皇帝</LEADER>
+    <LEADER>马克特朱玛皇帝</LEADER>
+    <LEADER>奎特拉回克皇帝</LEADER>
+    <LEADER>高特马克皇帝</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>铁诺奇帝兰</CITY>
+    <CITY>迪奥狄华肯</CITY>
+    <CITY>特拉克斯卡拉</CITY>
+    <CITY>阿斯卡帕萨科</CITY>
+    <CITY>特拉科潘</CITY>
+    <CITY>德斯科科</CITY>
+    <CITY>特拉特罗科</CITY>
+    <CITY>卡里兹托胡卡</CITY>
+    <CITY>土拉</CITY>
+    <CITY>兹引尊赞</CITY>
+    <CITY>塔姆因</CITY>
+    <CITY>提亚约</CITY>
+    <CITY>索奇卡科</CITY>
+    <CITY>科约阿坎</CITY>
+    <CITY>黑兹易罗波可</CITY>
+    <CITY>伊斯塔帕拉帕</CITY>
+    <CITY>索奇米尔科</CITY>
+    <CITY>密兹魁克</CITY>
+    <CITY>科阿特佩克</CITY>
+    <CITY>奇亢奥特拉</CITY>
+    <CITY>特派兹潘</CITY>
+    <CITY>特佩老克斯托</CITY>
+    <CITY>济特拉特佩克</CITY>
+    <CITY>威威托卡</CITY>
+    <CITY>特魁兹魁艾</CITY>
+    <CITY>吉娄兹印茍</CITY>
+    <CITY>特兹尤卡夫</CITY>
+    <CITY>阿美卡美卡</CITY>
+    <CITY>米特拉</CITY>
+    <CITY>雅告</CITY>
+    <CITY>佐康欧错</CITY>
+    <CITY>谢姆波阿拉</CITY>
+    <CITY>卡卡兹特拉</CITY>
+    <CITY>卓路拉</CITY>
+    <CITY>提欧提特兰</CITY>
+    <CITY>马利纳可</CITY>
+    <CITY>阿帕金赣</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

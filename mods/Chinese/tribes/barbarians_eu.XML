@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Robert Nicaise (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="维京人">
+  <LEADERS>
+    <LEADER>克努特大王</LEADER>
+    <LEADER>欧勒夫王</LEADER>
+    <LEADER>血斧王艾瑞克</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>杰陵</CITY>
+    <CITY>洛斯克德</CITY>
+    <CITY>史克琳索</CITY>
+    <CITY>奥登斯</CITY>
+    <CITY>莱柏</CITY>
+    <CITY>特朗罕</CITY>
+    <CITY>海德比</CITY>
+    <CITY>纳尼贝肯</CITY>
+    <CITY>罗德克品吉</CITY>
+    <CITY>隆德</CITY>
+    <CITY>乌普赛拉</CITY>
+    <CITY>卫斯特尼斯</CITY>
+    <CITY>佐维克</CITY>
+    <CITY>惠特比</CITY>
+    <CITY>德凯比</CITY>
+    <CITY>卡托透匹</CITY>
+    <CITY>格林斯塔</CITY>
+    <CITY>伊斯比斯特</CITY>
+    <CITY>卡屋邦</CITY>
+    <CITY>诺姆提尔</CITY>
+    <CITY>布莱特海德</CITY>
+    <CITY>柏卡</CITY>
+    <CITY>斯特拉雅拉度迦</CITY>
+    <CITY>荷姆加德</CITY>
+    <CITY>塞伯斯昂德</CITY>
+    <CITY>乌帕克拉</CITY>
+    <CITY>诺福格勒</CITY>
+    <CITY>海沙布</CITY>
+    <CITY>哥罗狄斯奇</CITY>
+    <CITY>德贝</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

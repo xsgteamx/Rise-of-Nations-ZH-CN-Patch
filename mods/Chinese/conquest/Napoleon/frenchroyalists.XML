@@ -1,0 +1,51 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Andy Clark (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="保皇党" substitute="1">
+  <LEADERS>
+    <LEADER>孔代亲王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>巴黎</CITY>
+    <CITY>奥尔良</CITY>
+    <CITY>海姆斯</CITY>
+    <CITY>土尔</CITY>
+    <CITY>里昂</CITY>
+    <CITY>鲁昂</CITY>
+    <CITY>马赛</CITY>
+    <CITY>波尔多</CITY>
+    <CITY>南特</CITY>
+    <CITY>里耳</CITY>
+    <CITY>土鲁斯</CITY>
+    <CITY>布洛瓦</CITY>
+    <CITY>普瓦提耶</CITY>
+    <CITY>迪戎</CITY>
+    <CITY>亚维农</CITY>
+    <CITY>特鲁瓦</CITY>
+    <CITY>布列斯特</CITY>
+    <CITY>利哈佛</CITY>
+    <CITY>纳尔榜</CITY>
+    <CITY>艾克斯</CITY>
+    <CITY>波尔奇斯</CITY>
+    <CITY>凡尔赛宫</CITY>
+    <CITY>苏阿松</CITY>
+    <CITY>亚眠</CITY>
+    <CITY>瑟堡</CITY>
+    <CITY>卡昂</CITY>
+    <CITY>洛黑昂</CITY>
+    <CITY>安格拉姆</CITY>
+    <CITY>北昂</CITY>
+    <CITY>尼姆</CITY>
+    <CITY>土伦</CITY>
+    <CITY>贝桑松</CITY>
+    <CITY>思特拉斯堡</CITY>
+    <CITY>加来</CITY>
+    <CITY>布洛涅</CITY>
+    <CITY>旺多姆</CITY>
+    <CITY>慕林斯</CITY>
+    <CITY>里翁</CITY>
+    <CITY>奥碧松</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>1 NEuro</BACKUP_BUILD_CONTINENT>
+</TRIBE>

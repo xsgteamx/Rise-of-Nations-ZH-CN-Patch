@@ -1,0 +1,37 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="土耳其人">
+  <LEADERS>
+    <LEADER>苏里曼大帝</LEADER>
+    <LEADER>墨赫迈二世加吉汗</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>伊斯坦堡</CITY>
+    <CITY>安卡拉</CITY>
+    <CITY>阿列坡</CITY>
+    <CITY>绰鲁姆</CITY>
+    <CITY>士每拿</CITY>
+    <CITY>安提阿</CITY>
+    <CITY>依兹尼克</CITY>
+    <CITY>布鲁</CITY>
+    <CITY>艾雷利</CITY>
+    <CITY>卡尔斯</CITY>
+    <CITY>巴巴厄斯克</CITY>
+    <CITY>埃尔兹鲁姆</CITY>
+    <CITY>特瑞毕让</CITY>
+    <CITY>伊兹米特</CITY>
+    <CITY>康雅</CITY>
+    <CITY>伊斯帕尔塔</CITY>
+    <CITY>加里波利</CITY>
+    <CITY>迪亚尔巴克尔</CITY>
+    <CITY>马尼沙</CITY>
+    <CITY>吉达</CITY>
+    <CITY>基尔库克</CITY>
+    <CITY>哈瓦亚</CITY>
+    <CITY>康卡</CITY>
+    <CITY>开瑟里</CITY>
+    <CITY>卡拉普那尔</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 Europe</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

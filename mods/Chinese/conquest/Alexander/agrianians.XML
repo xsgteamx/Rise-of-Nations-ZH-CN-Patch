@@ -1,0 +1,56 @@
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="阿格瑞安人" substitute="1">
+  <LEADERS>
+    <LEADER>蓝格洛斯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>狄翁</CITY>
+    <CITY>阿拉洛斯</CITY>
+    <CITY>皮特拿</CITY>
+    <CITY>哈提拉</CITY>
+    <CITY>佩特拉</CITY>
+    <CITY>菲雷斯</CITY>
+    <CITY>伊里马</CITY>
+    <CITY>赫拉顿</CITY>
+    <CITY>卡拉比亚</CITY>
+    <CITY>加利甘</CITY>
+    <CITY>赛尔斯</CITY>
+    <CITY>阿尔马纳</CITY>
+    <CITY>奥湖波利斯</CITY>
+    <CITY>德柏罗斯</CITY>
+    <CITY>夕德</CITY>
+    <CITY>普露维纳</CITY>
+    <CITY>波尔比</CITY>
+    <CITY>加里克斯</CITY>
+    <CITY>奥列昔</CITY>
+    <CITY>狄汪</CITY>
+    <CITY>菲力亚</CITY>
+    <CITY>门达</CITY>
+    <CITY>西科因</CITY>
+    <CITY>阿萨</CITY>
+    <CITY>帕西哥波里斯</CITY>
+    <CITY>荷马</CITY>
+    <CITY>司徒伯拉</CITY>
+    <CITY>斯提巴拉</CITY>
+    <CITY>阿斯提波斯</CITY>
+    <CITY>安纳瓦沙隆</CITY>
+    <CITY>米耶札</CITY>
+    <CITY>尤罗帕斯</CITY>
+    <CITY>加尼萨</CITY>
+    <CITY>维金尼亚</CITY>
+    <CITY>伊德萨</CITY>
+    <CITY>塞雷斯</CITY>
+    <CITY>德拉马</CITY>
+    <CITY>维尼亚</CITY>
+    <CITY>佩拉哥尼亚</CITY>
+    <CITY>艾该</CITY>
+    <CITY>艾恩</CITY>
+    <CITY>奥林萨斯</CITY>
+    <CITY>色玛</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<ROOT name="ColdWar ">
+	<FILE hash="7259608" name="afghanistan">
+		<STRING hash="10763292">斯大林总理</STRING>
+		<STRING hash="12692203">阿敏</STRING>
+		<STRING hash="1320610">喀布尔</STRING>
+	</FILE>
+	<FILE hash="2136964" name="alaska">
+		<STRING hash="986161">亚默克</STRING>
+		<STRING hash="15655114">伊兹柯特尔皇帝</STRING>
+		<STRING hash="3354577">科特瑟标</STRING>
+		<STRING hash="4376791">泊船港</STRING>
+		<STRING hash="4771708">费班克</STRING>
+		<STRING hash="1892989">朱诺</STRING>
+		<STRING hash="4548081">克奇坎</STRING>
+	</FILE>
+	<FILE hash="4868591" name="australia">
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="3914528">坎培拉</STRING>
+		<STRING hash="1596477">雪梨</STRING>
+		<STRING hash="939114">伯斯</STRING>
+		<STRING hash="2943345">阿得雷德</STRING>
+		<STRING hash="4157992">墨尔本</STRING>
+		<STRING hash="1696110">达尔文</STRING>
+		<STRING hash="1799993">肯因兹</STRING>
+		<STRING hash="2078755">荷巴特</STRING>
+	</FILE>
+	<FILE hash="3298755" name="bombdrop">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="6623862">海参崴</STRING>
+		<STRING hash="3348825">纳科德卡</STRING>
+		<STRING hash="6003327">伯力</STRING>
+	</FILE>
+	<FILE hash="1839553" name="brazil">
+		<STRING hash="19271620">秦始皇</STRING>
+		<STRING hash="9094656">巴西领袖</STRING>
+		<STRING hash="3594901">巴西利亚</STRING>
+		<STRING hash="1553057">海息飞</STRING>
+		<STRING hash="3108052">圣路易斯</STRING>
+		<STRING hash="2551130">古雅巴</STRING>
+		<STRING hash="4464237">圣保罗</STRING>
+		<STRING hash="10271774">里约热内卢</STRING>
+		<STRING hash="3391812">萨尔瓦多</STRING>
+	</FILE>
+	<FILE hash="1224953" name="bribe">
+		<STRING hash="17874528">奥托·冯·俾斯麦</STRING>
+		<STRING hash="1595878">薛西斯</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="813804682">美国政府对于您侵犯其领域感到非常愤怒。备战等级已经提升一级。您已撤回这项任务的军队，避免发生进一步的灾难。</STRING>
+		<STRING hash="12115773">南非人</STRING>
+		<STRING hash="5552795">伊索比亚人</STRING>
+		<STRING hash="4447723">埃及人</STRING>
+		<STRING hash="3758464">刚果人</STRING>
+		<STRING hash="467179916">我们已达成在此建立友好政权的任务。$STRING0现在是我们的附庸国。</STRING>
+		<STRING hash="309008723">我们顺利达成任务。洗劫了所有被占领的城镇，并找到 100 单位贡品。</STRING>
+	</FILE>
+	<FILE hash="2264791" name="canada">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="9656284">沙巴卡王</STRING>
+		<STRING hash="646213">努克</STRING>
+		<STRING hash="3052415">西西谬特</STRING>
+		<STRING hash="2250259">渥太华</STRING>
+		<STRING hash="3304164">蒙特娄</STRING>
+		<STRING hash="4925905">圣约翰</STRING>
+		<STRING hash="2717903">哈利法克斯</STRING>
+	</FILE>
+	<FILE hash="2662375" name="central">
+		<STRING hash="41655734">贝亚特丽克丝</STRING>
+		<STRING hash="1540458">巴卡尔王</STRING>
+		<STRING hash="19564304">西哥特人亚拉里克</STRING>
+		<STRING hash="10298317">路易十四国王</STRING>
+		<STRING hash="6516178">丹干王</STRING>
+		<STRING hash="6812241">恰克巴蓝</STRING>
+		<STRING hash="3424406">贝尔莫潘</STRING>
+		<STRING hash="19216289">西巴拿马运河</STRING>
+		<STRING hash="19346633">东巴拿马运河</STRING>
+		<STRING hash="12144071">瓜地马拉市</STRING>
+		<STRING hash="7616956">德古斯加巴</STRING>
+		<STRING hash="3020092">马拿瓜</STRING>
+		<STRING hash="2947341">圣荷西</STRING>
+	</FILE>
+	<FILE hash="1304786" name="china">
+		<STRING hash="22052516">斯大林总理</STRING>
+		<STRING hash="25360448">毛泽东</STRING>
+		<STRING hash="2091924">北京</STRING>
+		<STRING hash="1217444">西安</STRING>
+		<STRING hash="1192009">济南</STRING>
+		<STRING hash="3332043">上海</STRING>
+		<STRING hash="1315155">合肥</STRING>
+	</FILE>
+	<FILE hash="3822426" name="colombia">
+		<STRING hash="32395306">维拉科嘉印加皇帝</STRING>
+		<STRING hash="6516178">丹干王</STRING>
+		<STRING hash="9360218">菲利浦二世</STRING>
+		<STRING hash="3456726">卡拉卡斯</STRING>
+		<STRING hash="1983299">波哥大 </STRING>
+		<STRING hash="7596557">反叛军领袖</STRING>
+		<STRING hash="1708882">反叛军</STRING>
+		<STRING hash="10372129">维拉维辛西奥</STRING>
+	</FILE>
+	<FILE hash="1883288" name="crimea">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="5460491">萨瓦斯特波尔</STRING>
+		<STRING hash="5007379">辛佛洛普</STRING>
+		<STRING hash="3418476">阿米亚斯克</STRING>
+		<STRING hash="1191430">克赤</STRING>
+		<STRING hash="12356803">契荷纳斯科依</STRING>
+		<STRING hash="1433356">雅尔达</STRING>
+	</FILE>
+	<FILE hash="2160527" name="crimea2">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="5460491">萨瓦斯特波尔</STRING>
+		<STRING hash="1433356">雅尔达</STRING>
+		<STRING hash="5007379">辛佛洛普</STRING>
+		<STRING hash="1191430">克赤</STRING>
+		<STRING hash="12356803">契荷纳斯科依</STRING>
+		<STRING hash="3418476">阿米亚斯克</STRING>
+	</FILE>
+	<FILE hash="2449588" name="cubabp">
+		<STRING hash="25407040">甘迺迪总统</STRING>
+		<STRING hash="28169981">卡斯楚总统</STRING>
+		<STRING hash="12878265">裴瑞兹圣罗马</STRING>
+		<STRING hash="1089386">迈阿密 </STRING>
+		<STRING hash="5472689">皮尔斯堡</STRING>
+		<STRING hash="6151162">关达那摩</STRING>
+		<STRING hash="2295326">哈瓦那</STRING>
+		<STRING hash="15900246">圣地牙哥古巴</STRING>
+		<STRING hash="8257560">圣克拉拉</STRING>
+		<STRING hash="3480599">努埃维塔斯</STRING>
+		<STRING hash="7014497">洛斯阿罗优斯</STRING>
+	</FILE>
+	<FILE hash="271134" name="dc">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="5172789">华盛顿</STRING>
+		<STRING hash="4025376">巴尔的摩</STRING>
+		<STRING hash="8101451">费城</STRING>
+		<STRING hash="5730074">哈利斯堡</STRING>
+		<STRING hash="2996418">里奇蒙</STRING>
+		<STRING hash="3020785">纽约</STRING>
+		<STRING hash="5346132">普洛维顿斯</STRING>
+		<STRING hash="1687352">波士顿</STRING>
+		<STRING hash="2980942">哈特福</STRING>
+		<STRING hash="2183168">奥巴尼</STRING>
+	</FILE>
+	<FILE hash="351365" name="dc2">
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="2183168">奥巴尼</STRING>
+		<STRING hash="2980942">哈特福</STRING>
+		<STRING hash="5346132">普洛维顿斯</STRING>
+		<STRING hash="1687352">波士顿</STRING>
+		<STRING hash="5172789">华盛顿</STRING>
+		<STRING hash="2996418">里奇蒙</STRING>
+		<STRING hash="4025376">巴尔的摩</STRING>
+		<STRING hash="8101451">费城</STRING>
+		<STRING hash="5730074">哈利斯堡</STRING>
+		<STRING hash="3020785">纽约</STRING>
+	</FILE>
+	<FILE hash="355014" name="dc3">
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="9081391">威廉比克</STRING>
+		<STRING hash="5172789">华盛顿</STRING>
+		<STRING hash="2183168">奥巴尼</STRING>
+		<STRING hash="2980942">哈特福</STRING>
+		<STRING hash="5346132">普洛维顿斯</STRING>
+		<STRING hash="1687352">波士顿</STRING>
+		<STRING hash="2996418">里奇蒙</STRING>
+		<STRING hash="4025376">巴尔的摩</STRING>
+		<STRING hash="8101451">费城</STRING>
+		<STRING hash="5730074">哈利斯堡</STRING>
+		<STRING hash="3020785">纽约</STRING>
+	</FILE>
+	<FILE hash="3239963" name="falkland">
+		<STRING hash="14300143">哈特谢普苏特王后</STRING>
+		<STRING hash="13639234">路易拿破仑</STRING>
+		<STRING hash="6746062">霍华德港</STRING>
+		<STRING hash="5714762">绿鹅</STRING>
+		<STRING hash="1989461">威德尔</STRING>
+		<STRING hash="2463798">史坦莱</STRING>
+		<STRING hash="6005939">圣卡洛斯</STRING>
+	</FILE>
+	<FILE hash="2655039" name="germany">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="13537010">乌布利希</STRING>
+		<STRING hash="1626454">卡瑟尔</STRING>
+		<STRING hash="690187">波昂</STRING>
+		<STRING hash="2132323">科伦</STRING>
+		<STRING hash="2614806">汉堡</STRING>
+		<STRING hash="3113027">汉诺威</STRING>
+		<STRING hash="4849258">杜塞尔多夫</STRING>
+		<STRING hash="6496275">西柏林</STRING>
+		<STRING hash="2671505">罗斯托克</STRING>
+		<STRING hash="6626619">东柏林</STRING>
+		<STRING hash="2038279">德勒斯登</STRING>
+		<STRING hash="2144016">莱比锡</STRING>
+		<STRING hash="4305697">马格德堡</STRING>
+	</FILE>
+	<FILE hash="2953705" name="germany2">
+		<STRING hash="10763292">斯大林总理</STRING>
+		<STRING hash="41244344">艾森豪总统</STRING>
+		<STRING hash="6626619">东柏林</STRING>
+		<STRING hash="2038279">德勒斯登</STRING>
+		<STRING hash="2144016">莱比锡</STRING>
+		<STRING hash="2671505">罗斯托克</STRING>
+		<STRING hash="4305697">马格德堡</STRING>
+		<STRING hash="2614806">汉堡</STRING>
+		<STRING hash="3113027">汉诺威</STRING>
+		<STRING hash="1626454">卡瑟尔</STRING>
+		<STRING hash="690187">波昂</STRING>
+		<STRING hash="2132323">科伦</STRING>
+		<STRING hash="4849258">杜塞尔多夫</STRING>
+		<STRING hash="6496275">西柏林</STRING>
+	</FILE>
+	<FILE hash="12079270" name="guerillaaction">
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="31501344">雷根总统</STRING>
+	</FILE>
+	<FILE hash="566038" name="gulf">
+		<STRING hash="19894699">墨赫迈二世加吉汗</STRING>
+		<STRING hash="15746088">女王伊莉莎白一世</STRING>
+		<STRING hash="4095648">圣路易</STRING>
+		<STRING hash="1406406">坦帕</STRING>
+		<STRING hash="3009339">亚特兰大</STRING>
+		<STRING hash="6797832">纽奥尔良</STRING>
+		<STRING hash="2337866">休士顿</STRING>
+		<STRING hash="2086816">洛利</STRING>
+	</FILE>
+	<FILE hash="3183624" name="hostages">
+		<STRING hash="10396827">赛斯瓦约王</STRING>
+		<STRING hash="3615044">独裁者</STRING>
+		<STRING hash="3183624">人质</STRING>
+		<STRING hash="9225059">解放人质</STRING>
+		<STRING hash="3456726">卡拉卡斯</STRING>
+		<STRING hash="3011625">塔亚沙尔</STRING>
+		<STRING hash="3350676">山提亚哥</STRING>
+		<STRING hash="2947341">圣荷西</STRING>
+		<STRING hash="11499360">人质: $NUM0</STRING>
+		<STRING hash="7168506">已解放: $NUM0</STRING>
+		<STRING hash="6168220">损失: $NUM0</STRING>
+		<STRING hash="7378943">已解救: $NUM0</STRING>
+		<STRING hash="229700131">提示：人质被关在有旗帜的建筑物里。</STRING>
+		<STRING hash="441778364">人质家属已支付我们 $NUM0 单位贡品作为报酬，并且得到军事发明加分卡。</STRING>
+		<STRING hash="185410505">人质家属已经支付我们 $NUM0 单位的贡品作为报酬。</STRING>
+	</FILE>
+	<FILE hash="1186620" name="india">
+		<STRING hash="17559888">戈巴契夫总理</STRING>
+		<STRING hash="1572796">甘地</STRING>
+		<STRING hash="3528957">新德里</STRING>
+		<STRING hash="2002055">马德拉斯</STRING>
+		<STRING hash="1319784">盖加</STRING>
+		<STRING hash="2086198">孟买</STRING>
+		<STRING hash="4777329">拉贾斯坦</STRING>
+		<STRING hash="2961207">加尔各答</STRING>
+		<STRING hash="12531769">维沙卡帕南</STRING>
+	</FILE>
+	<FILE hash="5494993" name="infiltrate">
+		<STRING hash="6472897">窝阔台汗</STRING>
+		<STRING hash="19894699">墨赫迈二世加吉汗</STRING>
+		<STRING hash="6590957">明尼亚波里</STRING>
+		<STRING hash="5577923">明尼通卡</STRING>
+		<STRING hash="3441209">圣保罗</STRING>
+		<STRING hash="178529049">提示: 您若要想占领敌人的城市，就会尝到被击败的滋味。</STRING>
+		<STRING hash="267633325">由于进行渗透，所以我们得到了大思想家加分卡。</STRING>
+	</FILE>
+	<FILE hash="1337553" name="japan">
+		<STRING hash="17874528">奥托·冯·俾斯麦</STRING>
+		<STRING hash="12118150">居鲁士大帝</STRING>
+		<STRING hash="1039053">京都</STRING>
+		<STRING hash="1035369">东京</STRING>
+	</FILE>
+	<FILE hash="1366085" name="kazak">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="3393787">贝康诺</STRING>
+		<STRING hash="20353167">贝康诺太空中心</STRING>
+		<STRING hash="4515144">基吉奥达</STRING>
+		<STRING hash="1465255">塔拉兹</STRING>
+		<STRING hash="3341089">贝康诺</STRING>
+	</FILE>
+	<FILE hash="1227151" name="korea">
+		<STRING hash="1035369">东京</STRING>
+		<STRING hash="1442712">大阪</STRING>
+		<STRING hash="1716589">仙台</STRING>
+		<STRING hash="6623862">海参崴</STRING>
+		<STRING hash="4327897">平壤</STRING>
+		<STRING hash="1895061">元山</STRING>
+		<STRING hash="2207651">阳德</STRING>
+		<STRING hash="637657">伊院</STRING>
+		<STRING hash="979399">汉城</STRING>
+		<STRING hash="1620266">大田</STRING>
+		<STRING hash="1325052">釜山</STRING>
+		<STRING hash="1039451">水原</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="21228465">艾森豪总统</STRING>
+		<STRING hash="16204356">赫鲁雪夫总理</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="5724964">金日成</STRING>
+		<STRING hash="4922117">金日成</STRING>
+		<STRING hash="1041017">罗津</STRING>
+		<STRING hash="2278296">清州</STRING>
+		<STRING hash="5071259">斯拉维扬斯克</STRING>
+		<STRING hash="5706333">伯利</STRING>
+		<STRING hash="2213268">大田</STRING>
+	</FILE>
+	<FILE hash="1474726" name="korea3">
+		<STRING hash="15465827">威廉三世</STRING>
+		<STRING hash="6623862">海参崴</STRING>
+		<STRING hash="979399">汉城</STRING>
+		<STRING hash="1620266">大田</STRING>
+		<STRING hash="1325052">釜山</STRING>
+		<STRING hash="1039451">水原</STRING>
+		<STRING hash="4327897">平壤</STRING>
+		<STRING hash="1895061">元山</STRING>
+		<STRING hash="2207651">阳德</STRING>
+		<STRING hash="637657">伊院</STRING>
+		<STRING hash="1035369">东京</STRING>
+		<STRING hash="1442712">大阪</STRING>
+		<STRING hash="1716589">仙台</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="21228465">艾森豪总统</STRING>
+		<STRING hash="14405071">杜鲁门总统</STRING>
+		<STRING hash="5724964">金日成</STRING>
+		<STRING hash="4922117">金日成</STRING>
+		<STRING hash="2278296">清州</STRING>
+		<STRING hash="1041017">罗津</STRING>
+		<STRING hash="5071259">斯拉维扬斯克</STRING>
+		<STRING hash="5706333">伯利</STRING>
+		<STRING hash="2213268">大田</STRING>
+	</FILE>
+	<FILE hash="1484201" name="korea4">
+		<STRING hash="15465827">威廉三世</STRING>
+		<STRING hash="6623862">海参崴</STRING>
+		<STRING hash="1035369">东京</STRING>
+		<STRING hash="1442712">大阪</STRING>
+		<STRING hash="1716589">仙台</STRING>
+		<STRING hash="4327897">平壤</STRING>
+		<STRING hash="1895061">元山</STRING>
+		<STRING hash="2207651">阳德</STRING>
+		<STRING hash="637657">伊院</STRING>
+		<STRING hash="979399">汉城</STRING>
+		<STRING hash="1620266">大田</STRING>
+		<STRING hash="1325052">釜山</STRING>
+		<STRING hash="1039451">水原</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="21228465">艾森豪总统</STRING>
+		<STRING hash="14405071">杜鲁门总统</STRING>
+		<STRING hash="5724964">金日成</STRING>
+		<STRING hash="4922117">金日成</STRING>
+		<STRING hash="2278296">清州</STRING>
+		<STRING hash="1041017">罗津</STRING>
+		<STRING hash="5071259">斯拉维扬斯克</STRING>
+		<STRING hash="5706333">伯利</STRING>
+		<STRING hash="2213268">大田</STRING>
+	</FILE>
+	<FILE hash="1914576" name="mexico">
+		<STRING hash="3215441">培里克利斯</STRING>
+		<STRING hash="15745024">华盛顿</STRING>
+		<STRING hash="7305284">墨西哥城</STRING>
+		<STRING hash="4064732">蒙特瑞</STRING>
+		<STRING hash="9818200">华瑞兹城</STRING>
+	</FILE>
+	<FILE hash="2271031" name="midwest">
+		<STRING hash="2183222">塞内卡</STRING>
+		<STRING hash="11463208">奈菲尔蒂蒂王后</STRING>
+		<STRING hash="1532483">丹佛</STRING>
+		<STRING hash="4095648">圣路易</STRING>
+		<STRING hash="7441422">堪萨斯市</STRING>
+		<STRING hash="6590957">明尼亚波里</STRING>
+	</FILE>
+	<FILE hash="2562933" name="militia">
+		<STRING hash="8242034">汉武帝</STRING>
+		<STRING hash="3615044">独裁者</STRING>
+		<STRING hash="1589556">基克威特</STRING>
+		<STRING hash="928989">波马</STRING>
+		<STRING hash="1190280">伊雷波</STRING>
+		<STRING hash="1811125">马塔迪</STRING>
+		<STRING hash="258323666">您已经摧毁$STRING0的城市。当地人民已加入您的叛变行列。</STRING>
+		<STRING hash="497690903">我们的任务顺利完成，控制了$s0! 我们还获得叛军加分卡。</STRING>
+		<STRING hash="521306082">我们的任务顺利完成，搜集到 $s0 单位贡品! 此外，我们还得到 1 张叛军加分卡。</STRING>
+		<STRING hash="499255795">我们的任务顺利完成，控制了$s0! 我们还获得叛军加分卡。</STRING>
+		<STRING hash="523295148">我们的任务顺利完成，搜集到 $s0 单位贡品! 此外，我们还得到 1 张叛军加分卡。</STRING>
+		<STRING hash="12261037">西非</STRING><STRING hash="12391381">东非</STRING><STRING hash="1159109">古巴</STRING><STRING hash="14363997">中美洲</STRING><STRING hash="29848530">南美洲北部</STRING><STRING hash="1839553">巴西</STRING><STRING hash="12687216">中非</STRING><STRING hash="965650">安地斯山脉</STRING><STRING hash="4726919">巴塔哥尼亚</STRING><STRING hash="13843010">南非</STRING><STRING hash="1304786">中国</STRING><STRING hash="2755770">巴尔干</STRING><STRING hash="1227151">韩国</STRING><STRING hash="1186620">印度</STRING><STRING hash="1914576">墨西哥</STRING><STRING hash="11902869">东南亚</STRING></FILE>
+	<FILE hash="1967493" name="moscow">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="22052516">斯大林总理</STRING>
+		<STRING hash="1967493">莫斯科</STRING>
+		<STRING hash="3655693">雅洛斯拉夫</STRING>
+		<STRING hash="2894912">斯墨蓝斯克</STRING>
+		<STRING hash="4147037">列宁格勒</STRING>
+		<STRING hash="912717">高尔基</STRING>
+		<STRING hash="2255410">卡里宁</STRING>
+		<STRING hash="2045362">坦波夫</STRING>
+	</FILE>
+	<FILE hash="1682257" name="poland">
+		<STRING hash="17311140">老罗斯福</STRING>
+		<STRING hash="14300143">哈特谢普苏特王后</STRING>
+		<STRING hash="4942518">因斯布鲁克</STRING>
+		<STRING hash="2128390">华沙</STRING>
+		<STRING hash="3303216">布达佩斯</STRING>
+		<STRING hash="1850024">维也纳</STRING>
+		<STRING hash="1656307">布拉格</STRING>
+		<STRING hash="1818018">克拉科夫</STRING>
+	</FILE>
+	<FILE hash="5180511" name="poland_cz">
+		<STRING hash="17311140">老罗斯福</STRING>
+		<STRING hash="14300143">哈特谢普苏特王后</STRING>
+		<STRING hash="2183222">塞内卡</STRING>
+		<STRING hash="4942518">因斯布鲁克</STRING>
+		<STRING hash="2128390">华沙</STRING>
+		<STRING hash="3303216">布达佩斯</STRING>
+		<STRING hash="1850024">维也纳</STRING>
+		<STRING hash="1656307">布拉格</STRING>
+		<STRING hash="14950776">杜布切克</STRING>
+		<STRING hash="1818018">克拉科夫</STRING>
+	</FILE>
+	<FILE hash="5564761" name="poland_hun">
+		<STRING hash="17311140">老罗斯福</STRING>
+		<STRING hash="14300143">哈特谢普苏特王后</STRING>
+		<STRING hash="25993650">薇比雅萨宾娜女帝</STRING>
+		<STRING hash="4942518">因斯布鲁克</STRING>
+		<STRING hash="2128390">华沙</STRING>
+		<STRING hash="1850024">维也纳</STRING>
+		<STRING hash="1656307">布拉格</STRING>
+		<STRING hash="3303216">布达佩斯</STRING>
+		<STRING hash="4324351">奈吉</STRING>
+		<STRING hash="1818018">克拉科夫</STRING>
+	</FILE>
+	<FILE hash="7859135" name="southafrica">
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="21136914">南非领袖</STRING>
+		<STRING hash="11081910">曼德拉</STRING>
+		<STRING hash="8419978">约翰尼斯堡</STRING>
+		<STRING hash="3411462">普利托里亚</STRING>
+		<STRING hash="6075278">摩梭湾</STRING>
+		<STRING hash="11513088">伊丽莎白港</STRING>
+		<STRING hash="2151541">德尔班</STRING>
+		<STRING hash="4227474">开普敦</STRING>
+	</FILE>
+	<FILE hash="568236" name="sub">
+		<STRING hash="7041777">卑弥呼女王</STRING>
+		<STRING hash="19271620">秦始皇</STRING>
+		<STRING hash="263467275">我们的胜利使我们得到 100 单位的贡品和 1 张贸易禁运加分卡。</STRING>
+	</FILE>
+	<FILE hash="821302" name="suez2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="4473168">穆拉德贝</STRING>
+		<STRING hash="25032389">狮心王理查</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="898155">吉萨</STRING>
+		<STRING hash="1172615">开罗</STRING>
+		<STRING hash="4138619">塞德港</STRING>
+		<STRING hash="683217">苏伊士</STRING>
+		<STRING hash="7596557">反叛军领袖</STRING>
+		<STRING hash="1708882">反叛军</STRING>
+	</FILE>
+	<FILE hash="2332507" name="ukraine">
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="604047">基辅</STRING>
+		<STRING hash="4575095">车诺比</STRING>
+		<STRING hash="2493130">卡尔科夫</STRING>
+	</FILE>
+	<FILE hash="2552586" name="vietnam">
+		<STRING hash="32122047">詹森总统</STRING>
+		<STRING hash="6008533">胡志明</STRING>
+		<STRING hash="13538188">阮文绍</STRING>
+		<STRING hash="2262294">波布</STRING>
+		<STRING hash="1048804">河内</STRING>
+		<STRING hash="2918088">海防</STRING>
+		<STRING hash="2703778">同会</STRING>
+		<STRING hash="4030899">宁平</STRING>
+		<STRING hash="1617188">西贡</STRING>
+		<STRING hash="3927804">广治</STRING>
+		<STRING hash="4355900">藩郎</STRING>
+		<STRING hash="2515191">岘港</STRING>
+		<STRING hash="4642980">金边</STRING>
+	</FILE>
+	<FILE hash="2729532" name="westside">
+		<STRING hash="19564304">西哥特人亚拉里克</STRING>
+		<STRING hash="33275302">足利高氏将军</STRING>
+		<STRING hash="1797264">赫勒拿</STRING>
+		<STRING hash="2332176">西雅图</STRING>
+		<STRING hash="10923651">旧金山</STRING>
+		<STRING hash="6274595">洛杉几</STRING>
+		<STRING hash="3688409">圣地牙哥</STRING>
+		<STRING hash="4454519">拉斯维加斯</STRING>
+	</FILE>
+	<FILE hash="9182302" name="afghanruntime">
+		<STRING hash="35742051">建造或占领城市。</STRING>
+		<STRING hash="274274800">在计时器终止之前，摧毁所有敌方建筑并占领所有敌方城市。</STRING>
+		<STRING hash="134393012">提示: 使用直升机来巡逻区域。</STRING>
+	</FILE>
+	<FILE hash="10412322" name="airliftruntime">
+		<STRING hash="8862046">所有货物 +50 单位</STRING>
+		<STRING hash="26348528">补给已经抵达!</STRING>
+	</FILE>
+	<FILE hash="21166192" name="americafinalruntime">
+		<STRING hash="182059567">摧毁位于西部的油井与炼油厂。</STRING>
+		<STRING hash="189011231">摧毁位于贝康诺太空中心的导弹筒仓。</STRING>
+		<STRING hash="298732376">营救军事基地中所拘留的科学家，并将他们留在堡垒。</STRING>
+		<STRING hash="32578900">已发射巡航导弹!</STRING>
+		<STRING hash="334553970">您已经摧毁$STRING0的城市。当地人民已变节并加入您的叛变行列。</STRING>
+		<STRING hash="188632546">摧毁位于东北的军事基地。</STRING>
+		<STRING hash="9935333">导弹攻击</STRING>
+		<STRING hash="806224555">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡，并摧毁了 $d0 枚苏联核导弹!</STRING>
+		<STRING hash="819469579">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡，并摧毁了 $d0 枚苏联核导弹!</STRING>
+		<STRING hash="884108419">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡、$d0 单位贡品，并摧毁了 $d1 枚苏联核导弹!</STRING>
+		<STRING hash="893830583">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡、$d0 单位贡品，并摧毁了 $d1 枚苏联核导弹!</STRING>
+		<STRING hash="603548517">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡和 $d0 单位的贡品。</STRING>
+		<STRING hash="807417204">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡，并摧毁了 $d0 枚苏联核导弹!</STRING>
+		<STRING hash="820545086">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡，并摧毁了 $d0 枚苏联核导弹!</STRING>
+		<STRING hash="886205506">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡、$d0 单位贡品，并摧毁了 $d1枚苏联核导弹!</STRING>
+		<STRING hash="896103820">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡、$d0 单位贡品，并摧毁了 $d1枚苏联核导弹!</STRING>
+		<STRING hash="606679794">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡和 $d0 单位的贡品。</STRING>
+		<STRING hash="902277268">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡、$d0 单位贡品，并摧毁了 $d1枚苏联核导弹!</STRING>
+		<STRING hash="912684468">我们的任务顺利完成，获得了 1 张文化支配加分卡、1 张贸易禁运加分卡、$d0 单位贡品，并摧毁了 $d1枚苏联核导弹!</STRING>
+	</FILE>
+	<FILE hash="14675410" name="australiaruntime">
+		<STRING hash="35742051">建造或占领城市。</STRING>
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="13870314" name="bayofpigsruntime">
+		<STRING hash="119406746">协助流亡者占领敌人首都。</STRING>
+		<STRING hash="3004181">继续</STRING>
+		<STRING hash="15953939">停止侵略</STRING>
+		<STRING hash="848210534">初次侵略行动失败。我们可以持续推进，对古巴进行全面入侵，但这将严重影响我国对世界其他国家的外交地位。</STRING>
+		<STRING hash="1072472688">苏联对于我们在这次侵略行动中采取主导角色感到愤怒，虽然他们不会以武力干预，但已派遣顾问训练卡斯楚的军队，并提供他们最新的科技。</STRING>
+	</FILE>
+	<FILE hash="12366255" name="bombdropruntime">
+		<STRING hash="246386360">摧毁位于西部邻近海参崴的油井和炼油厂。</STRING>
+		<STRING hash="246797311">摧毁位于北部邻近伯力的油井和炼油厂。</STRING>
+		<STRING hash="430480610">使用您的特种部队单位移动到雷达基地附近，以干扰空中防御雷达炮。</STRING>
+		<STRING hash="608163656">我们的任务顺利完成，获得了 1 张渗透破坏加分卡、1 张佣兵加分卡和 1 张后勤学加分卡。</STRING>
+	</FILE>
+	<FILE hash="9201241" name="brazilruntime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="9626479" name="canadaruntime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="10849068" name="centralruntime">
+		<STRING hash="59010292">盟友加分: 修复陆上车辆</STRING>
+		<STRING hash="30491979">盟友加分: 石油率 +50</STRING>
+		<STRING hash="70803948">盟友加分: 获得游击队员</STRING>
+		<STRING hash="67511869">盟友加分: 建造船只速度加快 75% </STRING>
+		<STRING hash="292222277">由于瓜地马拉与我们签署了结盟协定，所以他们会修复我们所有的陆上车辆。</STRING>
+		<STRING hash="418406734">萨尔瓦多把您的石油率提高 50，作为结盟的谢礼。</STRING>
+		<STRING hash="458265619">尼加拉瓜人为感激与我们的新联盟，已同意我们可以在棱堡训练其游击队员。</STRING>
+		<STRING hash="338349079">哥斯大黎加人已同意协助我们以 75% 更快的速度建造船只，作为双方结盟的部分协议。</STRING>
+		<STRING hash="273069938">由于结盟关系终止，所以瓜地马拉不会再修复我们的车辆。</STRING>
+		<STRING hash="196368889">尼加拉瓜人不会再协助我们训练游击队员。</STRING>
+		<STRING hash="193164704">哥斯大黎加人不会再协助我们更快地建造船只。</STRING>
+		<STRING hash="136751756">我们要求您提供更令人信服的提议。</STRING>
+		<STRING hash="520449144">提示: 选择一个盟友。每个民族提供不同的加分。按一下民族的首都来检视它提供何种加分。</STRING>
+		<STRING hash="474726589">尼加拉瓜人同意让我们在我们的军营训练他们的无后座力枪，来感谢我们最近的结盟。</STRING>
+		<STRING hash="492476332">尼加拉瓜人同意让我们在我们的军营训练他们的神龙反坦克导弹，来感谢我们最近的结盟。</STRING>
+		<STRING hash="193638051">尼加拉瓜人不再协助我们训练无后座力枪。</STRING>
+		<STRING hash="203135611">尼加拉瓜人不再协助我们训练神龙反坦克导弹。</STRING>
+		<STRING hash="95151920">盟友加分: 得到独特的重装步兵</STRING>
+		<STRING hash="158041970">萨尔瓦多不会再给我们石油。</STRING>
+		<STRING hash="94077695">盟友加分: 发现远古奇迹</STRING>
+		<STRING hash="96581551">盟友加分: 他们将不会与您结盟</STRING>
+		<STRING hash="65106619">盟友加分: 获得一样秘密武器</STRING>
+		<STRING hash="428935590">哥斯大黎加人已经将秘密武器交给我们，但警告我们若是使用就会有严重后果。</STRING>
+		<STRING hash="177079876">萨尔瓦多人已经摧毁马雅提卡尔神庙。</STRING>
+		<STRING hash="206234071">剩下的民族认为若是各自为政是无法击败您的。</STRING>
+		<STRING hash="81576400">盟友加分: 获得攻击直升机</STRING>
+		<STRING hash="33875967">盟友加分: 获得 +500 单位石油</STRING>
+		<STRING hash="234526558">哥斯大黎加人已经摧毁我们的攻击直升机蓝图。</STRING>
+		<STRING hash="213022539">哥斯大黎加人已经教导我们如何建造攻击直升机。</STRING>
+		<STRING hash="273053504">哥斯大黎加人为了感谢双方的结盟，赠送我们 500 单位石油。</STRING>
+		<STRING hash="550007716">萨尔瓦多人已告知我们马雅提卡尔神庙的隐密地点。似乎就在我方城市$STRING0的不远处。</STRING>
+	</FILE>
+	<FILE hash="7883999" name="chinaruntime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="14131426" name="coldwar_battles">
+		<STRING hash="642510444">美国军队的训练极为精良。我们不要对他们过于咄咄逼人，不然核战可能一触即发。</STRING>
+		<STRING hash="513356641">阿富汗政府并不同意我方政策。我们应该让他们知道他们错了。</STRING>
+		<STRING hash="706976082">阿根廷政府已拒绝我们所有的对谈要求。阿根廷人民不应该有孤立主义的政府。我们必须帮助他们。</STRING>
+		<STRING hash="378002703">巴西的大部分领域都是丛林。您得在大片树林中进行战斗。</STRING>
+		<STRING hash="499967119">中美洲民族无法和平相处。预料在这个国家中，势必要站在某一方来对付另一方。</STRING>
+		<STRING hash="469187198">这将会是场苦战。中国拥有非常庞大的军队，而且会运用他们的农村优势，使我们陷入困境。</STRING>
+		<STRING hash="498718084">哥伦比亚政府已经允诺，如果我们能够击败在乡村肆虐的数支反叛军，就加入我方。</STRING>
+		<STRING hash="468857727">刚果的独裁者不喜欢我方政策。我们应该帮助其人民拥立更好的政府。</STRING>
+		<STRING hash="430880353">埃及军队正与反叛军在苏伊士运河一带作战。我们应该要帮助其中一方。</STRING>
+		<STRING hash="561328623">伊索比亚政府断然拒绝我们所有的友好提议。我们应该帮助伊索比亚人民拥立更为友善的政府。</STRING>
+		<STRING hash="807640342">印度政府欺骗人民，说我们忽略他们的最佳利益。我们必须把他们纳入我们的保护翼下，并证明事实并非如此。</STRING>
+		<STRING hash="267913790">石油输出国家支配了全球大部分的财富。我们应该得到部分大饼。</STRING>
+		<STRING hash="511153477">日本本岛已经装备所有最新的防御科技。我们在此将会有一场苦战。</STRING>
+		<STRING hash="881743868">墨西哥政府所进行的政策，不利于我方的利益。我们应该帮助墨西哥人民，拥立真正为人民最佳利益着想的政府。</STRING>
+		<STRING hash="355883083">北大西洋公约组织的成员是现代国家。他们不会轻易坐视我们的直接干预。</STRING>
+		<STRING hash="585540112">阿尔及利亚政府最近做出一些有问题的决策。我们应该帮助阿尔及利亚人民拥立更有智慧的政府。</STRING>
+		<STRING hash="883558862">南非政府完全忽略我方对其内政上的忠告。我们应该帮助南非人民拥立更愿意倾听的政府。</STRING>
+		<STRING hash="417052637">北大西洋公约组织的成员是现代国家。他们不会轻易坐视我们的直接干预。</STRING>
+		<STRING hash="478055916">这片领域已荒废很久了，看不到任何文明的迹象。我们必须让这片土地恢复原有的面貌。</STRING>
+		<STRING hash="411226986">匈牙利正在叛变中。如果我们现在攻击这里，就可以指望有他们的支援。</STRING>
+		<STRING hash="791523460">斯洛伐克最近通过改革，触怒了苏联，因而受到攻击。如果我们现在攻击这里，就可以指望有他们的支援。</STRING>
+		<STRING hash="81490776">我们预计在此应该会有场苦战。</STRING>
+		<STRING hash="897478314">埃及是苏伊士运河的贸易枢纽点，具有重要的战略位置。如果我们占领该地，将会对敌人造成重大打击。</STRING>
+		<STRING hash="350290541">巴西的大部分领域都是丛林。您得在大片树林中进行战斗。</STRING>
+		<STRING hash="595112857">蒙古政府最近做出一些有问题的决策。我们应该帮助蒙古人民拥立更有智慧的政府。</STRING>
+		<STRING hash="647670114">记住，您已签订一项协议，同意在信息时代之前都不会攻击中国。如果您违背协议，就有可能造成严重后果。</STRING>
+		<STRING hash="769458963">苏联有能力派出大规模的军队。要经过那些对我们有毁灭性核弹威胁的地方时，一定要格外小心。</STRING>
+		<STRING hash="646752185">卡斯楚是不愿屈服于外界压力的死硬派领袖。我们应该帮助古巴人民拥立更能顺应情势的领袖。</STRING>
+		<STRING hash="997323754">韩国人民已经分裂成两派，一派拥护资本主义而一派拥护共产主义。我们应该介入，帮助韩国人民了解哪一条才是正确道路。</STRING>
+		<STRING hash="863941463">祕鲁政府已无力击败占据安地斯山脉的游击队。该国政府已经允诺，如果我们帮他们摆平这个威胁，便会支持我们。</STRING>
+		<STRING hash="1031150580">越南人民已经分裂成两派，一派拥护资本主义，另一派拥护共产主义。我们应该介入来帮助越南人民选择正确的路。</STRING>
+		<STRING hash="455787643">农场在这严酷恶劣的北方气候中不能收成。不过，我们或许可以找到丰富的鱼类和石油。</STRING>
+	</FILE>
+	<FILE hash="9555676" name="coldwar_diplo">
+		<STRING hash="381360458">我们对您的领域没有兴趣。纳贡给我们，然后我们才会评估您的提议。</STRING>
+		<STRING hash="228545387">您一定是在开玩笑。我们绝不可能跟您交换领域。</STRING>
+		<STRING hash="413954371">我们没有兴趣与您协商。您的帝国很快就会灭亡，届时世界将是我们所有。</STRING>
+		<STRING hash="70035668">没错，就让我们结束这场恐怖的战争吧!</STRING>
+		<STRING hash="195097471">非常好。我们将结束这场战争，并签署您的和平条款。</STRING>
+		<STRING hash="201587037">没问题，我们也需要一点时间来准备新的攻击行动。</STRING>
+		<STRING hash="178986281">是的，我们同意。和平对大家都有利。</STRING>
+		<STRING hash="196830738">条件非常好! 我们同意这份和平条约。</STRING>
+		<STRING hash="437427955">不要嘲弄我们。我们宁愿对自己发射核导弹，也不愿意成为您的附庸国。</STRING>
+		<STRING hash="179942468">是啊，谁不想加入您伟大的民族呢?</STRING>
+		<STRING hash="224646203">您的提议还算不错，我们的军队会马上与您并肩作战。</STRING>
+		<STRING hash="113867821">不管怎样，我们都需要换政府。</STRING>
+		<STRING hash="90672259">我们同意。那么要先杀谁呢?</STRING>
+		<STRING hash="186776966">提议很公平。我们将会成为您的附庸国。</STRING>
+		<STRING hash="93816062">我们满怀感激，接受您的贡品。</STRING>
+		<STRING hash="22201777">非常感谢您!</STRING>
+		<STRING hash="178969743">您不需要任何回报吗? 随便你了。</STRING>
+		<STRING hash="427861469">您的赠礼来得正好! 现在我们可以升级首都的防御能力，达到无懈可击。</STRING>
+		<STRING hash="165086851">我们的首领很乐于收到这些赠礼。</STRING>
+		<STRING hash="114859917">我们投降了。我们会将这件贡品献给您。</STRING>
+		<STRING hash="206629898">我们觉得现在对您的需求让步，才是明智之举。</STRING>
+		<STRING hash="57888995">够了! 够了! 请放我们一条生路。</STRING>
+		<STRING hash="182815262">凭什么要我们付给您? 应该是您付给我们才对!</STRING>
+		<STRING hash="200999449">这真是无法无天! 我们绝不容许这样的敲诈。</STRING>
+		<STRING hash="115462695">当真? 别拿我开玩笑了。</STRING>
+		<STRING hash="87034289">这个交易比较符合我们的喜好。</STRING>
+		<STRING hash="217783634">您的提议不足以让我们放弃独立。</STRING>
+		<STRING hash="180435386">我们不会为了这样微薄的代价，放弃自由。</STRING>
+		<STRING hash="254456942">如果您要我们听从，就必须给我们更多。</STRING>
+		<STRING hash="192455612">我们伟大的民族绝不会向暴政低头。</STRING>
+		<STRING hash="337312105">我们绝不会为这么点东西出卖自己民族。目前您没有足以吸引我们的东西。</STRING>
+		<STRING hash="76264722">只有笨蛋才会签那份条约!</STRING>
+		<STRING hash="134021399">要靠您的全面破坏才会结束这场战争。</STRING>
+		<STRING hash="243319077">我们才不像您那样软弱，这场战争我们将会坚持到最后。</STRING>
+		<STRING hash="174500249">看不出这对我们有任何利益。我们不接受。</STRING>
+		<STRING hash="199708652">过几个回合后，当您有我们所感兴趣的条件时，再回来找我们。</STRING>
+		<STRING hash="164281389">您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="289559624">我们没有意愿管理您那可悲的领域，我们的贡品还是归我方拥有!</STRING>
+		<STRING hash="296805213">我们不需要加分卡! 我们要的是可以使我们民族繁荣的贡品。</STRING>
+		<STRING hash="441928478">我们没有意愿管理您那可悲的领域。光是管理我们自己的领域，就已经够麻烦了。</STRING>
+		<STRING hash="239240833">我们不需要加分卡! 它们对我们民族的繁荣没有帮助。</STRING>
+		<STRING hash="152117702">您是来谈判，还是来浪费我们的时间?</STRING>
+		<STRING hash="207952698">我们厌烦您的把戏。提出像样的提议，不然就别谈了!</STRING>
+		<STRING hash="267330760">很明显地，贵国不善于谈判。</STRING>
+		<STRING hash="207300490">那是我生平中见过最差劲的提议。是不是在开玩笑?</STRING>
+		<STRING hash="439121001">我们并不是到此一游。如果这是您所能提出的最佳提议，也许我们应该结束协商。</STRING>
+		<STRING hash="277046577">我们不愿意与您交换加分卡。如有需要，请尝试花钱购入。</STRING>
+	</FILE>
+	<FILE hash="20516444" name="coldwar_diplo_offer">
+		<STRING hash="202409341">我们需要贡品。请接受我们成为附庸国。</STRING>
+		<STRING hash="846448670">让我们忘记彼此在朝鲜半岛上的侵略行动。没有必要因为此事而让全球紧张局势再度升高。让我们签署和平条约吧。我们不会再提出这项提议。</STRING>
+		<STRING hash="-2065601316">我们推翻了荼毒古巴并对资本主义友善的旧政权。现在由我们掌权，但革命代价很高。如果您愿意提供若干经济援助，我们就会成为您的附庸国。将来，也许我们也会提议，但不要指望会有这样优渥的条件。</STRING>
+		<STRING hash="717658687">不要让在非洲发生的小小冲突，破坏我们的友谊。让我们签署和平条约，并忘记任何侵略行动。此提议错过不再。</STRING>
+		<STRING hash="1646157626">我们推翻了荼毒古巴并对资本主义友善的旧政权，但革命代价很高。如果您愿意提供若干经济援助，我们就会成为您的附庸国。将来，也许我们也会提议，但不要指望会有这样优渥的条件。</STRING>
+		<STRING hash="1376984680">我们推翻了对资本主义友善的古巴旧政权，但革命代价很高。如果您愿意提供若干经济援助，我们就会成为您的附庸国。将来，也许我们会再次提议，但不要指望会有这样优渥的条件。</STRING>
+		<STRING hash="750192981">我们的共产主义友邦中国，似乎再也无法帮助我们达成理想。也许您可以考虑让我们效忠成为苏联附庸国?</STRING>
+		<STRING hash="1051601124">由于某种原因，我们今年的预算短缺。没有资金外援，我们就无法付薪水给核导弹工厂的工人，我们可不想因此而发生任何闪失。</STRING>
+		<STRING hash="846442295">今年的税收似乎不如预期。也许您能够帮助我们纾困? 不然，我们可能必须向您的领域发射几枚核导弹，来达到目的。</STRING>
+		<STRING hash="352906125">支付我们所要求的贡品，不然我们就对您的领域发射核导弹。</STRING>
+		<STRING hash="877001071">我们在核武竞赛中落后了。如果不迎头赶上，$STRING0可能会以他们的核弹优势来威胁我们，或甚至彻底摧毁我国。</STRING>
+		<STRING hash="422194829">$STRING0已要求立即与我们进行高峰会议，来谈论重要议题。</STRING>
+		<STRING hash="2000285">接受</STRING>
+		<STRING hash="2245578">拒绝</STRING>
+		<STRING hash="443756862">$STRING0坚持由我方召开高峰会议，来谈论极为重要的议题。</STRING>
+		<STRING hash="621157233">$STRING0要求我们出席高峰会议，来商讨他们国内的动乱。不出席可能会导致严重后果。</STRING>
+		<STRING hash="192299781">南非希望与我方召开高峰会议。</STRING>
+		<STRING hash="280780291">苏联希望商讨我们近来的冲突，并拟定和平解决方案。</STRING>
+		<STRING hash="278994724">苏联想要召开高峰会议，以免紧张局势变得无法控制。</STRING>
+		<STRING hash="426794646">现在古巴已摆脱资本主义旧政权，他们的新领袖想要与我们举行高峰会议。</STRING>
+		<STRING hash="416683375">北韩外交官已经抵达莫斯科，要商讨双方外交关系。是否应与他会面?</STRING>
+		<STRING hash="207063727">刚果人已经发出消息，希望与我们举行高峰会议。</STRING>
+		<STRING hash="297614319">美国人想要在紧张局势变得无法控制之前召开高峰会议。</STRING>
+		<STRING hash="254247117">美国希望双方最近的冲突，能达成和平解决方案。</STRING>
+		<STRING hash="379897670">$STRING0已要求与我们立即进行高峰会议，来商讨重要议题。</STRING>
+		<STRING hash="443972357">$STRING0坚持由我们召开高峰会议，来谈论极为重要的议题。</STRING>
+		<STRING hash="635188740">$STRING0要求我们出席高峰会议，来商讨他们国内的动乱。不出席可能会导致严重后果。</STRING>
+		<STRING hash="100159018">南非希望与我们会面。</STRING>
+		<STRING hash="379172491">苏联想要召开高峰会议，以免紧张局势变得无法控制。</STRING>
+		<STRING hash="357311238">现在古巴已摆脱资本主义旧政权，他们的新领袖想要与我们举行会谈。</STRING>
+		<STRING hash="254325441">刚果已经发出消息，希望与我们商讨重要议题。</STRING>
+		<STRING hash="399381312">美国人想要召开高峰会议，以免战争失去控制。</STRING>
+		<STRING hash="813145828">让我们忘记彼此在战场上的侵略行动。没有必要因为此事而让全球紧张局势再度升高。让我们签署和平条约吧。我们不会再提出这项提议。</STRING>
+		<STRING hash="675859611">不要让小小的冲突破坏我们的友谊。让我们签署和平条约，并忘记任何侵略行动。此提议错过不再。</STRING>
+		<STRING hash="1179896695">让我们停止这些疯狂的活动，以免局面一发不可收拾! 我们为了维持全球势力平衡，向您提出这项交易。如果您不接受，可能会迫使我们采取最后手段来保护我方的利益。</STRING>
+		<STRING hash="815210191">全球社会主义国家需要团结起来。我们只需要一点贡品，来说服人民我们做出了正确的决定。这项提议错过不再。</STRING>
+	</FILE>
+	<FILE hash="8393611" name="coldwar_init">
+		<STRING hash="937385844">重建北大西洋公约组织的每个领域，使其基础建设达到第 3 级，不然他们可能会改变效忠对象，加入华沙公约组织。在有动乱的领域中，驻扎一支军队，便可镇压住动乱一回合。</STRING>
+		<STRING hash="422448722">苏联计划要在下一回合攻击南韩。先攻击北韩，可制止这项侵略行动。</STRING>
+		<STRING hash="920917350">重建华沙公约组织的每个领域，使其基础建设达到第 3 级，不然他们可能会转改变效忠对象，加入北大西洋公约组织。在有动乱的领域中，驻扎一支军队，便可镇压住动乱一回合。</STRING>
+		<STRING hash="482957988">我们应在这一回合就攻击南韩，以免美国与南韩签署协议，并建立他们的领域力量。</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="9081391">威廉比克</STRING>
+		<STRING hash="11238711">伊斯梅</STRING>
+		<STRING hash="5339887">查希尔</STRING>
+		<STRING hash="5192807">裴隆</STRING>
+		<STRING hash="9223138">林荷瑞斯</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="30608731">卡玛戈</STRING>
+		<STRING hash="11107516">尤卢</STRING>
+		<STRING hash="842607">格劳</STRING>
+		<STRING hash="42611175">阿道夫</STRING>
+		<STRING hash="2112858">法鲁克一世</STRING>
+		<STRING hash="13161223">海尔塞拉西一世</STRING>
+		<STRING hash="14691835">拉迦高帕拉查里</STRING>
+		<STRING hash="26592699">卡马乔</STRING>
+		<STRING hash="868735">石油输出国家组织</STRING>
+		<STRING hash="24614382">布斯塔曼特</STRING>
+		<STRING hash="6008533">胡志明</STRING>
+		<STRING hash="7799975">吴庭琰</STRING>
+		<STRING hash="31691186">雅克伯斯</STRING>
+		<STRING hash="12909704">本贝拉</STRING>
+		<STRING hash="2000285">接受</STRING>
+		<STRING hash="1877284">拒绝</STRING>
+		<STRING hash="766555692">中东具有重要战略地位。如果我们在这一回合派遣军队到那里，就可以防止美国在近期内进入南亚。</STRING>
+		<STRING hash="498416413">苏联计划要在下一回合派遣部队进入南韩。先带领联合国部队进入南韩，可制止这项侵略行动。</STRING>
+		<STRING hash="20331385">邦特善</STRING>
+		<STRING hash="13914199">卡玛戈</STRING>
+		<STRING hash="7897318">阿道夫</STRING>
+		<STRING hash="12698841">卡马乔</STRING>
+		<STRING hash="12454042">吉田茂</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+	</FILE>
+	<FILE hash="17790498" name="coldwar_post_turn">
+		<STRING hash="769652">北大西洋公约组织</STRING>
+		<STRING hash="740853349">古巴发生社会主义革命! 新政权不像旧政权，对您不再友好。古巴已成为苏联的附庸国。</STRING>
+		<STRING hash="447576342">古巴发生社会主义革命! 古巴已经摆脱资本主义旧政权的帝国主义枷锁。</STRING>
+		<STRING hash="777413515">您在欧洲的友邦开始抱怨我们资助不足。如果不提高他们的领域力量，尽速安抚他们，他们可能会做出极端举动。</STRING>
+		<STRING hash="552742039">$s0认为您已经不能满足百姓的需求。他们决定要看看铁幕的另一端是什么样子。</STRING>
+		<STRING hash="971387008">重建北大西洋公约组织的每个领域，使其领域力量达到第 3 级，不然他们可能会改变效忠对象，加入华沙公约组织。在有动乱的领域中，驻扎一支军队，便可镇压住动乱一回合。</STRING>
+		<STRING hash="418273958">苏联计划要在这一回合攻击南韩。先攻击南韩，可制止这项侵略行动。</STRING>
+		<STRING hash="583919866">由于在对抗北韩的战役期间，于南韩增置防御工事，使得南韩的领域力量提升两级。</STRING>
+		<STRING hash="1557517374">我们已顺利阻止俄罗斯控制中东。当地政权额外赠与我们 50 单位的贡品。因为我们在中东的势力提升，苏联已将哈萨克的领域力量提升两级。</STRING>
+		<STRING hash="269176125">埃及的反叛军已发出消息，如果我们想要他们的协助，现在就发动攻击。</STRING>
+		<STRING hash="406432207">我们必须先镇压古巴的社会主义反叛军，以免苏联从中获利。</STRING>
+		<STRING hash="668484765">中欧爆发叛变。他们的领域力量已经下降。如果我们现在去那里，势必会得到反叛军的支援。</STRING>
+		<STRING hash="694404414">共产党势力正在猛烈攻击东南亚。如果我们不希望该地区落入共产主义者手中，就必须派遣军队前往那里。</STRING>
+		<STRING hash="704249902">中欧部分地区因反对苏联教条而爆发叛乱。如果我们现在攻击那里，势必会得到反叛军的支援。</STRING>
+		<STRING hash="522542261">苏联在打阿富汗的主意。我们现在应该与阿富汗签订协议，否则冒险让苏联很快进入该地。</STRING>
+		<STRING hash="443060992">巴拿马快要与苏联签署一项交易。如果我们想要阻止他们，就应该尽速攻击那里。</STRING>
+		<STRING hash="1091659878">我们国内选民对于那沈沦腐败的政府早已是满腹牢骚。请设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都达到第一级以上。</STRING>
+		<STRING hash="920917350">重建华沙公约组织的每个领域，使其基础建设达到第 3 级，不然他们可能会改变效忠对象，加入北大西洋公约组织。在有动乱的领域中，驻扎一支军队，便可镇压住动乱一回合。</STRING>
+		<STRING hash="482957988">我们应在这一回合攻击南韩，以免美国与南韩签署协议，并建立他们的领域力量。</STRING>
+		<STRING hash="633617279">美国持续援助中东的一个派系。如果我们掉以轻心，中东就会落入美国手中。</STRING>
+		<STRING hash="1386658161">我们已顺利阻止美国控制中东。我们的部队找到额外的 50 单位贡品。因为我们在中东的势力提升，美国已将土耳其的领域力量提升两级。</STRING>
+		<STRING hash="574350388">美国人正在打埃及的主意。我们应该去那边实地调查，并在当地扶植更为友善的政权。</STRING>
+		<STRING hash="429493859">如果我们在这一回合要与古巴的共产主义新政权协商，应该很容易。</STRING>
+		<STRING hash="1058081361">中欧已爆发叛变，而使该地区的领域力量下降两级。我们应该加强此领域力量两级，不然美国就会利用机会趁隙而入。</STRING>
+		<STRING hash="547638239">派遣军队增援中欧并加强领域力量，让美国打消要利用叛变的念头。</STRING>
+		<STRING hash="652811197">据传闻，美国很快就要派遣军队前往越南。但是如果我们先出兵，他们就必须按兵不动。</STRING>
+		<STRING hash="1252426006">我们成功拯救东南亚，使得美国近期没有机会攻击。此外，由于澳洲失去东南亚这个贸易伙伴，领域力量已下降两级。</STRING>
+		<STRING hash="823613710">报告显示美国即将与南非签署协议，利用南非当作进攻中非的基地。</STRING>
+		<STRING hash="455160611">派遣军队增援中欧并加强领域力量，以免美国决定攻击反叛军政权。</STRING>
+		<STRING hash="490474560">据说阿富汗目前有战乱。我们应该利用现在攻击阿富汗，免得美国有机可乘。</STRING>
+		<STRING hash="569482803">阿根廷的反叛军要求我们协助。如果我们现在提供协助，他们愿意在往后的战役中，为我们效劳。</STRING>
+		<STRING hash="1033697351">您的顾问提出建议，想在南美洲或非洲资助游击队员。他们想藉此让当地的每个国家领域力量下降一级。</STRING>
+		<STRING hash="2286497">非洲</STRING>
+		<STRING hash="6425368">南美</STRING>
+		<STRING hash="2106349">两者皆非</STRING>
+		<STRING hash="187471674">非洲各地的领域力量已下降一级。</STRING>
+		<STRING hash="201986085">南美各地的领域力量已下降一级。</STRING>
+		<STRING hash="705358459">巴拿马快要与美国签署一项交易。如果我们要阻止这项交易，就应该在下两个回合内攻击该地。</STRING>
+		<STRING hash="27832641">扩展您的影响力。</STRING>
+		<STRING hash="560902597">匈牙利正在中欧发动叛变。如果我们现在攻击那里，在战役中，就可以指望有他们的支援。</STRING>
+		<STRING hash="998671611">斯洛伐克背叛了华沙公约组织。他们在中欧面对着与日俱增的压力，所以要求我们的协助。如果我们现在攻击那里，在战役中可以获得他们的支援 。</STRING>
+		<STRING hash="6358130">苏联人</STRING>
+		<STRING hash="10443415">美国人</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="282661875">太棒了，我们很高兴，双方能在全球性重要事务上达成协议。</STRING>
+		<STRING hash="437793608">随你高兴，但几个回合后，当我们的核武器瞄准您的首都时，您就会觉得自己真傻。</STRING>
+		<STRING hash="1158055259">$STRING0发出消息，希望能够结束我方所展开的核战恶性竞争，以免无法挽回。他们提议我们双方都停止建造更多核武器，并摧毁我们目前拥有的核武。</STRING>
+		<STRING hash="231612251">任何一方不再以毁灭性核武来威胁世界!</STRING>
+		<STRING hash="707341933">$STRING0对于我们的选择感到失望，但他们理解我们害怕战败。他们也警告我们，不要妄想他们会停止建造核武器。</STRING>
+		<STRING hash="45432507">加拿大和澳洲拒绝</STRING>
+		<STRING hash="713226">有</STRING>
+		<STRING hash="10867784">加拿大拒绝</STRING>
+		<STRING hash="476598">有</STRING>
+		<STRING hash="16014050">澳洲拒绝</STRING>
+		<STRING hash="534927928">服从苏联与$STRING1的$STRING0，为了避免和其他北大西洋公约组织国家有相同的命运，也就是被苏联所并吞，已经加入美国的行列。</STRING>
+		<STRING hash="10204571">大获全胜</STRING>
+		<STRING hash="213351909">您卓越的工业已迫使苏联经济崩溃!</STRING>
+		<STRING hash="223056826">您卓越的工业已迫使美国经济崩溃!</STRING>
+		<STRING hash="51220531">您已经击败苏联!</STRING>
+		<STRING hash="63599912">您已经击败美国!</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="9081391">威廉比克</STRING>
+		<STRING hash="13537010">乌布利希</STRING>
+		<STRING hash="6110567">史托夫</STRING>
+		<STRING hash="10806581">何内克</STRING>
+		<STRING hash="11238711">伊斯梅</STRING>
+		<STRING hash="15022047">史巴克</STRING>
+		<STRING hash="16941384">史帝克</STRING>
+		<STRING hash="9450095">伯西欧</STRING>
+		<STRING hash="6204675">仑斯</STRING>
+		<STRING hash="14569773">彼得卡林顿</STRING>
+		<STRING hash="5339887">查希尔</STRING>
+		<STRING hash="14404907">达乌德</STRING>
+		<STRING hash="5818062">塔拉基</STRING>
+		<STRING hash="12692203">阿敏</STRING>
+		<STRING hash="10589574">卡尔迈勒</STRING>
+		<STRING hash="5192807">裴隆</STRING>
+		<STRING hash="11876258">方迪兹</STRING>
+		<STRING hash="22221741">欧甘尼亚</STRING>
+		<STRING hash="37866357">兰乌斯</STRING>
+		<STRING hash="28935687">马丁尼兹裴隆</STRING>
+		<STRING hash="20391267">魏德拉</STRING>
+		<STRING hash="9283253">阿方辛</STRING>
+		<STRING hash="22221951">杜塔</STRING>
+		<STRING hash="11692202">瓦加斯</STRING>
+		<STRING hash="23615931">库柏契克</STRING>
+		<STRING hash="8512063">高拉特</STRING>
+		<STRING hash="9749461">伊席尔法</STRING>
+		<STRING hash="8923531">梅迪奇</STRING>
+		<STRING hash="9722850">盖赛尔</STRING>
+		<STRING hash="11412652">菲格雷多</STRING>
+		<STRING hash="6797287">萨尼</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="9115866">邓主席</STRING>
+		<STRING hash="22812293">马力安诺裴瑞兹</STRING>
+		<STRING hash="41047444">阿贝雷</STRING>
+		<STRING hash="26034026">罗哈斯皮尼亚</STRING>
+		<STRING hash="30608731">卡玛戈</STRING>
+		<STRING hash="35635882">穆诺兹</STRING>
+		<STRING hash="27677058">雷司崔波</STRING>
+		<STRING hash="14424623">帕斯特拉</STRING>
+		<STRING hash="30087252">米切尔森</STRING>
+		<STRING hash="21775433">阿亚拉</STRING>
+		<STRING hash="47035270">夸塔斯</STRING>
+		<STRING hash="28352215">巴尔加斯</STRING>
+		<STRING hash="11107516">尤卢</STRING>
+		<STRING hash="35548588">马沙巴德贝特</STRING>
+		<STRING hash="11715980">恩古瓦比</STRING>
+		<STRING hash="23066388">萨苏恩格索</STRING>
+		<STRING hash="25422874">梭卡拉斯</STRING>
+		<STRING hash="18169745">巴蒂斯塔</STRING>
+		<STRING hash="8541452">卡斯楚</STRING>
+		<STRING hash="42611175">阿道夫</STRING>
+		<STRING hash="19706651">坎特拉</STRING>
+		<STRING hash="54579445">纳华洛</STRING>
+		<STRING hash="22591402">雷蒙</STRING>
+		<STRING hash="22934766">亚诺弗马德里</STRING>
+		<STRING hash="52358701">巴哈斯</STRING>
+		<STRING hash="29098068">桑契斯</STRING>
+		<STRING hash="30384449">西包斯提</STRING>
+		<STRING hash="83389804">柯汉安瑞克斯</STRING>
+		<STRING hash="2112858">法鲁克一世</STRING>
+		<STRING hash="2814433">富埃德二世</STRING>
+		<STRING hash="1107146">纳西尔</STRING>
+		<STRING hash="12465280">沙达特</STRING>
+		<STRING hash="10655879">穆巴拉克</STRING>
+		<STRING hash="13161223">海尔塞拉西一世</STRING>
+		<STRING hash="8089641">班蒂</STRING>
+		<STRING hash="26031695">马力安</STRING>
+		<STRING hash="14691835">拉迦高帕拉查里</STRING>
+		<STRING hash="1967180">普拉萨德</STRING>
+		<STRING hash="9903489">拉哈克瑞施南</STRING>
+		<STRING hash="1788153">胡森</STRING>
+		<STRING hash="574385">基林</STRING>
+		<STRING hash="876710">艾哈迈德</STRING>
+		<STRING hash="4834357">瑞迪</STRING>
+		<STRING hash="4859096">萨伊尔辛格</STRING>
+		<STRING hash="32304586">范卡塔拉曼</STRING>
+		<STRING hash="22928440">巴尔德斯</STRING>
+		<STRING hash="22830740">柯堤尼斯</STRING>
+		<STRING hash="20339852">马堤欧斯</STRING>
+		<STRING hash="19458844">欧达兹</STRING>
+		<STRING hash="33510544">阿雷斯</STRING>
+		<STRING hash="10375012">波帝洛</STRING>
+		<STRING hash="10892139">乌尔塔多</STRING>
+		<STRING hash="868735">石油输出国家组织</STRING>
+		<STRING hash="24614382">布斯塔曼特</STRING>
+		<STRING hash="7964099">奥德希亚</STRING>
+		<STRING hash="34759257">布拉多</STRING>
+		<STRING hash="30898407">泰瑞</STRING>
+		<STRING hash="28585438">阿尔瓦拉多</STRING>
+		<STRING hash="41775524">贝穆德斯</STRING>
+		<STRING hash="16932154">艾伦加西亚裴瑞兹</STRING>
+		<STRING hash="6008533">胡志明</STRING>
+		<STRING hash="9616026">孙德胜</STRING>
+		<STRING hash="7586967">长征</STRING>
+		<STRING hash="7799975">吴庭琰</STRING>
+		<STRING hash="13538188">阮文绍</STRING>
+		<STRING hash="23608959">布兰德凡塞尔</STRING>
+		<STRING hash="21647527">强森</STRING>
+		<STRING hash="10052686">史瓦特</STRING>
+		<STRING hash="20746798">蒂德利希</STRING>
+		<STRING hash="10355579">维欧恩</STRING>
+		<STRING hash="8535547">波塔</STRING>
+		<STRING hash="12909704">本贝拉</STRING>
+		<STRING hash="15229912">布迈汀</STRING>
+		<STRING hash="12829674">班杰迪德</STRING>
+		<STRING hash="860160028">中东地区具有重要战略地位。如果我们尽速派遣军队到那里，就可以防止美国在近期内进入南亚。</STRING>
+		<STRING hash="1462179611">您的顾问提出建议，想在南美洲以 40 单位贡品，或在非洲以 50 单位贡品资助游击队员 (我们有 $NUM0 单位贡品)。他们想藉此让当地的每个国家领域力量下降一级。</STRING>
+		<STRING hash="477061189">苏联计划要在这一回合派遣部队进入南韩。先带领联合国部队进入南韩，可制止该项侵略行动。</STRING>
+		<STRING hash="517648234">我们应在美国人与南韩签署协议并建立他们的领域力量之前，在这一回合就派遣部队到南韩。</STRING>
+		<STRING hash="895988161">古巴发生社会主义革命! 新兴政权不像旧政权，对您不再友好。情报显示，古巴很快就会成为苏联的附庸国。</STRING>
+		<STRING hash="1201004717">我们的间谍在等候您的命令。按一下位于迷你地图下方的﹝谍报任务﹞按钮，即可从事谍报任务。在这回合中除了攻击以外，执行这项行动可获得极佳的报酬。</STRING>
+		<STRING hash="20331385">邦特善</STRING>
+		<STRING hash="26945574">亚基玛</STRING>
+		<STRING hash="11520541">鲁维山</STRING>
+		<STRING hash="24086964">策登保</STRING>
+		<STRING hash="1474809522">透过您巧妙的规划、外交手段和连续的军事施压，您已经成功击败苏联! 您深入打击苏联帝国的心脏地带，并避免一场核浩劫。让全世界知道，任何国家都不能阻挡自由之路!</STRING>
+		<STRING hash="718949590">我们必须设法让北大西洋公约组织中剩余的友邦感到满意，方法是确保他们的领域力量至少维持在 3，或是在他们的领域中驻扎军队。</STRING>
+		<STRING hash="771653674">我们必须设法让华沙公约组织中剩余的友邦感到满意，方法是确保他们的领域力量至少维持在 3，或是在他们的领域中驻扎军队。</STRING>
+		<STRING hash="8745887">欧甘尼亚</STRING>
+		<STRING hash="16263416">兰乌斯</STRING>
+		<STRING hash="7652914">魏德拉</STRING>
+		<STRING hash="8629465">杜塔</STRING>
+		<STRING hash="9233540">马力安诺裴瑞兹</STRING>
+		<STRING hash="15792399">阿贝雷</STRING>
+		<STRING hash="12889608">罗哈斯皮尼亚</STRING>
+		<STRING hash="13914199">卡玛戈</STRING>
+		<STRING hash="12112159">穆诺兹</STRING>
+		<STRING hash="12155756">雷司崔波</STRING>
+		<STRING hash="15614535">米切尔森</STRING>
+		<STRING hash="7762361">阿亚拉</STRING>
+		<STRING hash="18561938">夸塔斯</STRING>
+		<STRING hash="13164567">巴尔加斯</STRING>
+		<STRING hash="7897318">阿道夫</STRING>
+		<STRING hash="9025697">坎特拉</STRING>
+		<STRING hash="13521725">纳华洛</STRING>
+		<STRING hash="8904097">雷蒙</STRING>
+		<STRING hash="10310081">亚诺弗马德里</STRING>
+		<STRING hash="25608516">巴哈斯</STRING>
+		<STRING hash="16843059">桑契斯</STRING>
+		<STRING hash="11454088">西包斯提</STRING>
+		<STRING hash="22773748">柯汉安瑞克斯</STRING>
+		<STRING hash="8944865">巴尔德斯</STRING>
+		<STRING hash="12386776">柯堤尼斯</STRING>
+		<STRING hash="9283661">马堤欧斯</STRING>
+		<STRING hash="10110206">欧达兹</STRING>
+		<STRING hash="8719012">阿雷斯</STRING>
+		<STRING hash="10544661">阿尔瓦拉多</STRING>
+		<STRING hash="19130767">贝穆德斯</STRING>
+		<STRING hash="9146847">强森</STRING>
+		<STRING hash="901789814">叛乱者已降低中欧的领域力量两级。我们必须尽速使力量还原两级，不然美国必定会攻击那里。</STRING>
+		<STRING hash="1497774756">$s0不满意您提供给他们人民的支援。唯有在当地派驻军队，才能断绝他们背叛的念头。不过，如果我们不提升他们的领域力量，那么军队就无法再次制止其背叛行动。</STRING>
+		<STRING hash="1438052067">主席同志相信美国的中产阶级帝国主义者与崇高的无产阶级之间的斗争，会以另一种方式结束。我们英勇的士兵已经前进到华盛顿，并永久终结那讨厌的资本主义猪。</STRING>
+		<STRING hash="12454042">吉田茂</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="10161941">朴正熙</STRING>
+		<STRING hash="9640986">全斗焕</STRING>
+		<STRING hash="921278260">积极要证明我国科技优势的国会，已经拨出经费要来建造世界奇迹。使用这张加分卡，就可建造建造超级对撞器或太空计划。</STRING>
+		<STRING hash="1195637955">该政党看起来暂时不会有经济困难。政党为了感谢金援，提供了对抗美国的叛军。我们已获得 1 张叛军加分卡。</STRING>
+		<STRING hash="685097595">反叛军为了感谢我们的协助，已提供两支佣兵分遣队给我们。我们已获得两张佣兵加分卡。</STRING>
+		<STRING hash="9936907">岸信介</STRING>
+		<STRING hash="8027164">池田勇人</STRING>
+		<STRING hash="838102330">报告显示美国即将与南非签署协议，利用南非当作进攻中非的基地。</STRING>
+		<STRING hash="571040320">巴塔哥尼亚的反叛军寻求我们的帮忙。如果我们现在协助他们，他们愿意在往后的战役中将军队借给我们。</STRING>
+		<STRING hash="13708238">富歇</STRING>
+		<STRING hash="858561897">我们的许多友邦厌恶我们不顾协议，攻打中国的做法。$STRING0不愿意作为背信国的盟友，已脱离$STRING1，而加入$STRING2。</STRING>
+		<STRING hash="587463767">目前的中东政府对于成为附庸国可得到的报酬感兴趣，但他们接受两方的提议!</STRING>
+		<STRING hash="732778121">刚果受到苏联的威胁。我们应该与刚果建立附庸国关系，这样苏联就会转移其注意力。</STRING>
+		<STRING hash="1002837490">随着我们在核武竞赛中日益落后，人民也逐渐丧失斗志。我们的核导弹必须在 3 回合内多过美国，才能平息人民的不安。</STRING>
+		<STRING hash="1056109594">共产党快要耗尽资金了。如果我们所占领的领域力量总计未达到 5，或是在其他地方建立的领域力量未达到 5，我们就必须放弃部分在俄罗斯的领域力量。</STRING>
+		<STRING hash="1049504243">$STRING0找我们商量有关裁减军备一事。如果我们愿意摧毁 2 枚核导弹，他们也愿意跟进。这样做可以降低发生核武大战的机会。</STRING>
+		<STRING hash="14607508">华沙公约组织</STRING>
+		<STRING hash="694390933">由于我们成功巩固了领域，让我们得到一位大思想家。我们已获得一张大思想家加分卡。</STRING>
+		<STRING hash="714884904">由于我们在核导弹方面建立了新优势，所以我方人民在街道上欢喜庆祝。我们已获得每种经济加分卡。</STRING>
+		<STRING hash="670487199">很不幸，我们无法取得足够的政党资金。就此形成的动乱使俄罗斯西部的领域力量损失两个等级。</STRING>
+		<STRING hash="500647037">蒙古人就快要和苏联签订协议了。现在可能是我们唯一能和他们谈判达成协议的机会。</STRING>
+		<STRING hash="468467238">由于我们成功巩固了领域，让我们获得一张大思想家加分卡。</STRING>
+		<STRING hash="1771212850">我们国内选民对于那沈沦腐败的政府早已是满腹牢骚。我们应该设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都达到第一级以上。不过，我们还是可以选择维持现状。</STRING>
+		<STRING hash="20383796">中欧西部</STRING>
+		<STRING hash="2372944">芬兰</STRING>
+		<STRING hash="2755770">巴尔干</STRING>
+		<STRING hash="6198911">西欧</STRING>
+		<STRING hash="7662735">斯堪的那维亚半岛</STRING>
+		<STRING hash="1623781">土耳其</STRING>
+		<STRING hash="1719026">希腊</STRING>
+		<STRING hash="1236952">义大利</STRING>
+		<STRING hash="1126964">西班牙</STRING>
+		<STRING hash="8642368">不列颠群岛</STRING>
+		<STRING hash="1063448959">我们国内选民对于那沈沦腐败的政府早已是满腹牢骚。我们应该设法在下一回合之前，让所有领域  (包括您的附庸国) 的领域力量都达到第一级以上。</STRING>
+		<STRING hash="808236030">随着我们在核武竞赛中日益落后，人民也逐渐丧失斗志。如果我们的核导弹能在 3 回合内多过美国，可以帮助振奋人心。</STRING>
+	</FILE>
+	<FILE hash="12889926" name="colombiaruntime">
+		<STRING hash="78696530">反叛军商人小屋尚有: $NUM0 座</STRING>
+	</FILE>
+	<FILE hash="24588879" name="countermissileruntime">
+		<STRING hash="77512974">保护我们在萨瓦斯特波尔的炼油厂。</STRING>
+		<STRING hash="125635283">保护我们在中央地区的油井。</STRING>
+		<STRING hash="109702427">保护我们在雅尔达北方的导弹筒仓。</STRING>
+		<STRING hash="32578900">已发射巡航导弹!</STRING>
+		<STRING hash="269911493">我们的任务顺利完成，获得了一张渗透破坏加分卡。</STRING>
+		<STRING hash="276143267">我们的任务顺利完成，获得了两张渗透破坏加分卡。</STRING>
+		<STRING hash="283623638">我们的任务顺利完成，获得了三张渗透破坏加分卡。</STRING>
+		<STRING hash="9935333">导弹攻击</STRING>
+	</FILE>
+	<FILE hash="3942107" name="cwruntime">
+		<STRING hash="51599754">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="4996646" name="dc2runtime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="3977124" name="dcruntime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="12021205" name="germany2runtime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="10841732" name="germanyruntime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="26387922" name="guerillaactionruntime">
+		<STRING hash="29157840">消灭 $d0 个以上的单位。</STRING>
+		<STRING hash="26095240">消灭 $d0 个以上的单位。</STRING>
+		<STRING hash="392981013">我们的任务顺利完成，获得了 1 张佣兵加分卡并控制了 $s0!</STRING>
+		<STRING hash="399108239">我们的任务顺利完成，获得了 1 张佣兵加分卡并控制了 $s0!</STRING>
+		<STRING hash="336636489">我们的任务顺利完成，获得了 1 张佣兵加分卡和 $d0 单位贡品!</STRING>
+	</FILE>
+	<FILE hash="7765833" name="indiaruntime">
+		<STRING hash="35742051">建造或占领城市。</STRING>
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="8836414" name="korea3runtime">
+		<STRING hash="999102207">中国愿意在这场战役协助我们，前提是我们接受信息时代前不侵略他们的条约。如果我们签订了条约，在信息时代前，都要遵守条约规定。</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="328677736">中国已依照我们的附庸国协议，派遣部队前来协助我们作战。</STRING>
+		<STRING hash="205055026">中国已前来协助他们的美国盟友作战!</STRING>
+		<STRING hash="1057712065">中国愿意在这场战役协助我们，前提是我们接受信息时代前不侵略他们的条约。如果我们签订了条约，在信息时代前，都要遵守条约规定。</STRING>
+	</FILE>
+	<FILE hash="8845889" name="korea4runtime">
+		<STRING hash="999102207">中国愿意在这场战役协助我们，前提是我们接受信息时代前不侵略他们的条约。如果我们签订了条约，在信息时代前，都要遵守条约规定。</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="328677736">中国已依照我们的附庸国协议，派遣部队前来协助我们作战。</STRING>
+		<STRING hash="205055026">中国已前来协助他们的美国盟友作战!</STRING>
+		<STRING hash="1057712065">中国愿意在这场战役协助我们，前提是我们接受信息时代前不侵略他们的条约。如果我们签订了条约，在信息时代前，都要遵守条约规定。</STRING>
+	</FILE>
+	<FILE hash="7806364" name="korearuntime">
+		<STRING hash="61409863">解救南韩人 (橘色)。</STRING>
+		<STRING hash="1620266">大田</STRING>
+		<STRING hash="420712480">协助南韩 (橘色) 继续守住汉城、大田、釜山和水原，直到时间终止为止。</STRING>
+		<STRING hash="291564224">协助南韩 (橘色) 继续守住他们开始的城市，直到时间终止为止。</STRING>
+		<STRING hash="22540471">- 收复$STRING0</STRING>
+		<STRING hash="3004181">继续</STRING>
+		<STRING hash="3073703">撤离</STRING>
+		<STRING hash="790633944">南韩政府逃离汉城并已在大田成立新政府。如果我们不能去那里保护他们，并夺回汉城，就会输掉这场战役。</STRING>
+		<STRING hash="2213268">大田</STRING>
+		<STRING hash="33360884">击败北韩人</STRING>
+		<STRING hash="1937824050">您已成功阻止北韩的入侵。现在我们可以推进北韩，并在一个友善的政府之下统一整个半岛。您只要支付 30 单位贡品，我们可以在此地再支持 60 分钟。我们若是成功，就会得到北韩与南韩两地。</STRING>
+		<STRING hash="692528035">中国政府不乐见我们接近他们与北韩的边界，并且派兵干预。不能让他们阻止我们!</STRING>
+	</FILE>
+	<FILE hash="9276264" name="mexicoruntime">
+		<STRING hash="60575758">建立作战基地。</STRING>
+		<STRING hash="42056244">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="21944034" name="missilestrikeruntime">
+		<STRING hash="76780436">摧毁萨瓦斯特波尔的炼油厂。</STRING>
+		<STRING hash="188847167">摧毁位于半岛中央地区的油井。</STRING>
+		<STRING hash="193299775">摧毁位于雅尔达北方某处的导弹筒仓。</STRING>
+		<STRING hash="112843082">使用您的间谍来呼叫导弹攻击。</STRING>
+		<STRING hash="32578900">已发射巡航导弹!</STRING>
+		<STRING hash="276143267">我们的任务顺利完成，获得了两张渗透破坏加分卡。</STRING>
+		<STRING hash="211463021">摧毁辛佛洛普西北方某处的导弹筒仓。</STRING>
+		<STRING hash="9935333">导弹攻击</STRING>
+		<STRING hash="298518936">我们的任务顺利完成，摧毁了 1 枚在乌克兰的核导弹!</STRING>
+		<STRING hash="302092448">我们的任务顺利完成，摧毁了 1 枚在加雷利亚的核导弹!</STRING>
+		<STRING hash="326298082">我们的任务顺利完成，摧毁了 1 枚在哈萨克的核导弹!</STRING>
+		<STRING hash="346724521">我们的任务顺利完成，摧毁了 1 枚在俄罗斯西部的核导弹!</STRING>
+		<STRING hash="355312306">由于我们的任务顺利完成，所以已经摧毁了 1 枚在俄罗斯中部的核导弹!</STRING>
+		<STRING hash="303943493">我们的任务顺利完成，摧毁了 1 枚在蒙古的核导弹!</STRING>
+		<STRING hash="350162629">我们的任务顺利完成，摧毁了 1 枚在俄罗斯东部的核导弹!</STRING>
+		<STRING hash="343681120">我们的任务顺利完成，摧毁了 1 枚在东欧的核导弹!</STRING>
+	</FILE>
+	<FILE hash="9329181" name="moscowruntime">
+		<STRING hash="60575758">建立作战基地。</STRING>
+		<STRING hash="42056244">占领敌人首都。</STRING>
+		<STRING hash="35742051">建造或占领城市。</STRING>
+	</FILE>
+	<FILE hash="14480842" name="perubasesruntime">
+		<STRING hash="104756247">还剩下 $d0 个游击队基地。</STRING>
+		<STRING hash="98625926">还剩下 $d0 个游击队基地。</STRING>
+	</FILE>
+	<FILE hash="17925753" name="seekdestroyruntime">
+		<STRING hash="245293068">摧毁基辅南方石油矿区中的军营和车厂。</STRING>
+		<STRING hash="209538947">摧毁基辅西北方的所有军营和空军基地。</STRING>
+		<STRING hash="405325331">摧毁基辅对岸石油矿区中的所有攻城工厂和军营。</STRING>
+		<STRING hash="201412873">摧毁卡尔科夫市区的军营和车厂。</STRING>
+		<STRING hash="469423391">我们的任务顺利完成，获得了 1 张渗透破坏加分卡和 1 张政治文宣加分卡。</STRING>
+	</FILE>
+	<FILE hash="19250774" name="southafricaruntime">
+		<STRING hash="190070622">协助反叛军占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="18071365" name="sovietfinalruntime">
+		<STRING hash="60094725">摧毁敌方导弹筒仓。</STRING>
+		<STRING hash="214090767">渗透三个美国城市，找出附近的导弹筒仓。</STRING>
+		<STRING hash="324271958">我们在$STRING0的线民透露了，在附近的美国导弹筒仓位置。</STRING>
+		<STRING hash="7441422">堪萨斯市</STRING>
+		<STRING hash="1409301">奥马哈</STRING>
+		<STRING hash="1315012">塔尔萨</STRING>
+		<STRING hash="430126492">我们的任务顺利完成，获得了 200 单位贡品和 1 张世界奇迹加分卡。</STRING>
+		<STRING hash="854058092">我们的任务顺利完成，获得了 100 单位贡品，并摧毁了 1 枚美国的核导弹。我们还获得 1 张世界奇迹加分卡。</STRING>
+		<STRING hash="510331725">我们的任务顺利完成，获得了 200 单位贡品。我们还获得 1 张世界奇迹加分卡。</STRING>
+		<STRING hash="661151577">由于我们的任务顺利完成，所以摧毁了 $d0 枚美国的核导弹! 我们还获得 1 张世界奇迹加分卡。</STRING>
+	</FILE>
+	<FILE hash="6296061" name="suezruntime">
+		<STRING hash="1820341318">埃及表达感激之意，并要求您交还苏伊士和塞德港。如果您照做，他们就会提供 50 单位的贡品和食物经济繁荣，作为报酬。如果不照做，他们就会对我们宣战。但如果我们把这两地让给他们，就不能拥立友善政权。</STRING>
+		<STRING hash="1744729">遵从</STRING>
+		<STRING hash="14237753">拒绝服从</STRING>
+		<STRING hash="1418729814">埃及已经对我们宣战。很明显的，这与我们和反叛军的友谊有关。由于我们协议要将所有征服的城市交给反叛军，所以反叛军已经将塞德港交给我们作为基地。</STRING>
+		<STRING hash="7804781">西非</STRING>
+		<STRING hash="12687216">中非</STRING>
+		<STRING hash="7935125">东非</STRING>
+		<STRING hash="-1400104536">埃及表达感激之意，并要求您交还苏伊士和塞德港。如果您照做，他们就会提供 100 单位的贡品和效忠誓言，作为报酬，或是帮助我们在$STRING0发动政变，让那个国家成为我们的附庸国。如果不照做，他们就会对我们宣战。但如果我们把这两地让给他们，就不能拥立友善政权。</STRING>
+		<STRING hash="5156898">拿钱</STRING>
+		<STRING hash="5642336">发动政变</STRING>
+		<STRING hash="1897589963">埃及表达感激之意，并要求您交还苏伊士和塞德港。如果您照做，他们就会提供 100 单位的贡品和效忠誓言，作为报酬。如果不照做，他们就会对我们宣战。但如果我们把这两地让给他们，就不能拥立友善政权。</STRING>
+		<STRING hash="297079433">反叛军已经决定放下武器。看样子他们的决心有所动摇。</STRING>
+		<STRING hash="191789402">埃及人表达感激之意，并要求您交还 </STRING>
+		<STRING hash="55772219">苏伊士和塞德港给他们</STRING>
+		<STRING hash="25612574">塞德港给他们</STRING>
+		<STRING hash="14577771">苏伊士给他们</STRING>
+		<STRING hash="48399657">既然反叛军都消灭了，</STRING>
+		<STRING hash="247334754">埃及要求您离开，但还是感谢您的关切。</STRING>
+		<STRING hash="2026358065">$STRING0$STRING1。如果您顺从他们，我们就可以获得 100 单位的贡品和效忠誓言，作为报酬，或是帮助我们在$STRING2发动政变，让那个国家成为我们的附庸国。如果我们不服从，他们就会对我们宣战。但如果我们把该区域让给他们，就不能拥立友善政权。</STRING>
+		<STRING hash="766066052">反叛军担心策略不会奏效。他们希望公开与我们结盟一起对抗埃及，即使这会使备战等级显示提升一级。</STRING>
+		<STRING hash="2000285">接受</STRING>
+		<STRING hash="2245578">拒绝</STRING>
+		<STRING hash="607522884">由于我们协议要将所有征服的城市交给反叛军，所以反叛军已经将塞德港交给我们作为基地。</STRING>
+		<STRING hash="186416408">非常好，但请不要期盼我们能够长久维持这项策略。</STRING>
+		<STRING hash="589856612">反叛军提供一支佣兵分遣队给我们，作为前来协助他们的谢礼。我们已获得一张佣兵加分卡。</STRING>
+	</FILE>
+	<FILE hash="10739279" name="vietnamruntime">
+		<STRING hash="51599754">占领敌人首都。</STRING>
+		<STRING hash="172772462">如果南越 (白色) 战败，您也就输了。</STRING>
+		<STRING hash="1062677195">由于我们长时间卷入这场战役，在美国本土爆发了反对声浪。您是否要把握这次机会从战场上撤回部队? 还是要继续战斗，尝试击败共产主义威胁?</STRING>
+		<STRING hash="14514570">继续作战</STRING>
+		<STRING hash="1101628">离开</STRING>
+		<STRING hash="404217277">由于长期战争且领域力量遭破坏下降三级，太平洋洛几山脉的抗议群众暴动闹事!</STRING>
+	</FILE>
+	<FILE hash="6671539" name="polandsetup">
+		<STRING hash="5896701">匈牙利人</STRING>
+		<STRING hash="4324351">奈吉</STRING>
+		<STRING hash="15687333">斯洛伐克人</STRING>
+		<STRING hash="14950776">杜布切克</STRING>
+		<STRING hash="1656307">布拉格</STRING>
+		<STRING hash="3303216">布达佩斯</STRING>
+	</FILE>
+	<FILE hash="7126246" name="alaskasetup">
+		<STRING hash="2441271">爱国者</STRING>
+	</FILE>
+	<FILE hash="17181712" name="americafinalsetup">
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+	</FILE>
+	<FILE hash="9557981" name="bombdropsetup">
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+	</FILE>
+	<FILE hash="5524012" name="bribesetup">
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+	</FILE>
+	<FILE hash="20200087" name="countermissilesetup">
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+	</FILE>
+	<FILE hash="21999130" name="guerillaactionsetup">
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+	</FILE>
+	<FILE hash="9442850" name="hostagessetup">
+		<STRING hash="22052516">斯大林总理</STRING>
+		<STRING hash="31717139">赫鲁雪夫总理</STRING>
+		<STRING hash="30035341">布里兹涅夫总理</STRING>
+		<STRING hash="25395571">安德洛波夫总理</STRING>
+		<STRING hash="47383640">契尔年科总理</STRING>
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+	</FILE>
+	<FILE hash="12757703" name="infiltratesetup">
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+	</FILE>
+	<FILE hash="8183630" name="militiasetup">
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="2627683">议会</STRING>
+	</FILE>
+	<FILE hash="17814268" name="missilestrikesetup">
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+	</FILE>
+	<FILE hash="14302825" name="seekdestroysetup">
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+	</FILE>
+	<FILE hash="14448437" name="sovietfinalsetup">
+		<STRING hash="9081391">威廉比克</STRING>
+		<STRING hash="13537010">乌布利希</STRING>
+		<STRING hash="6110567">史托夫</STRING>
+		<STRING hash="10806581">何内克</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+	</FILE>
+	<FILE hash="3322789" name="subsetup">
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+	</FILE>
+	<FILE hash="358969" name="dc4">
+		<STRING hash="39545553">戈巴契夫总理</STRING>
+		<STRING hash="31501344">雷根总统</STRING>
+		<STRING hash="19271620">秦始皇</STRING>
+		<STRING hash="5172789">华盛顿</STRING>
+		<STRING hash="2183168">奥巴尼</STRING>
+		<STRING hash="2980942">哈特福</STRING>
+		<STRING hash="5346132">普洛维顿斯</STRING>
+		<STRING hash="2996418">里奇蒙</STRING>
+		<STRING hash="4025376">巴尔的摩</STRING>
+		<STRING hash="8101451">费城</STRING>
+		<STRING hash="5730074">哈利斯堡</STRING>
+		<STRING hash="3020785">纽约</STRING>
+		<STRING hash="1687352">波士顿</STRING>
+	</FILE>
+	<FILE hash="5526210" name="koreasetup">
+		<STRING hash="10753240">联合国</STRING>
+		<STRING hash="9395955">南韩人</STRING>
+		<STRING hash="9373203">北韩人</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="2547333">韩国人</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="10161941">朴正熙</STRING>
+		<STRING hash="9640986">全斗焕</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="9115866">邓主席</STRING>
+	</FILE>
+	<FILE hash="3263995" name="skirmish2">
+		<STRING hash="9828691">夫拉迪默‧列宁</STRING>
+		<STRING hash="9046521">塔哈卡王</STRING>
+		<STRING hash="1389999">艾雷利</STRING>
+	</FILE>
+	<FILE hash="6679726" name="sovietfinal">
+		<STRING hash="41655734">贝亚特丽克丝</STRING>
+		<STRING hash="23793468">维克拉姆帝亚六世</STRING>
+		<STRING hash="1315012">塔尔萨</STRING>
+		<STRING hash="1409301">奥马哈</STRING>
+		<STRING hash="7441422">堪萨斯市</STRING>
+	</FILE>
+	<FILE hash="8283072" name="centralsetup">
+		<STRING hash="8704752">荷西阿瑞法罗</STRING>
+		<STRING hash="14528838">安迪诺</STRING>
+		<STRING hash="15432756">阿纳史塔欧苏慕萨</STRING>
+		<STRING hash="11372171">皮卡度</STRING>
+		<STRING hash="11087213">阿尔本兹</STRING>
+		<STRING hash="7013495">贾维斯</STRING>
+		<STRING hash="8367164">维多罗马</STRING>
+		<STRING hash="7895869">乌拉特</STRING>
+		<STRING hash="11769778">阿马斯</STRING>
+		<STRING hash="8218626">罗哲诺</STRING>
+		<STRING hash="8556342">费格雷斯</STRING>
+		<STRING hash="12524311">雅迪格拉斯</STRING>
+		<STRING hash="7229456">路易斯苏慕萨</STRING>
+		<STRING hash="9457201">伊查迪</STRING>
+		<STRING hash="13365106">波罗塔</STRING>
+		<STRING hash="7155903">席克</STRING>
+		<STRING hash="15246643">欧立契</STRING>
+		<STRING hash="7779050">维耶达</STRING>
+		<STRING hash="7209532">门德斯</STRING>
+		<STRING hash="8041390">华肯</STRING>
+		<STRING hash="9428187">阿拉纳</STRING>
+		<STRING hash="9087900">罗培兹</STRING>
+		<STRING hash="10429898">洛葛胡</STRING>
+		<STRING hash="6818020">梅乐加</STRING>
+		<STRING hash="9314237">奥杜贝尔</STRING>
+		<STRING hash="7441710">卢卡斯</STRING>
+		<STRING hash="10329683">帕斯</STRING>
+		<STRING hash="9314612">奥地加</STRING>
+		<STRING hash="12405525">卡拉索</STRING>
+		<STRING hash="6942966">梅西亚</STRING>
+		<STRING hash="10178560">苏亚佐</STRING>
+		<STRING hash="4746046">路易斯孟杰</STRING>
+		<STRING hash="11204394">席瑞索</STRING>
+		<STRING hash="7939661">阿斯刚拿</STRING>
+		<STRING hash="7655860">阿里亚斯</STRING>
+		<STRING hash="1708882">反叛军</STRING>
+	</FILE>
+	<FILE hash="6464008" name="korea3setup">
+		<STRING hash="9373203">北韩人</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="2547333">韩国人</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="10161941">朴正熙</STRING>
+		<STRING hash="9640986">全斗焕</STRING>
+		<STRING hash="9395955">南韩人</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="9115866">邓主席</STRING>
+		<STRING hash="10753240">联合国</STRING>
+	</FILE>
+	<FILE hash="6473483" name="korea4setup">
+		<STRING hash="9373203">北韩人</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="2547333">韩国人</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="10161941">朴正熙</STRING>
+		<STRING hash="9640986">全斗焕</STRING>
+		<STRING hash="9395955">南韩人</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="9115866">邓主席</STRING>
+		<STRING hash="10753240">联合国</STRING>
+	</FILE>
+	<FILE hash="6455145" name="korea2setup">
+		<STRING hash="9373203">北韩人</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="15043839">艾森豪</STRING>
+		<STRING hash="7259083">甘迺迪</STRING>
+		<STRING hash="10194146">詹森</STRING>
+		<STRING hash="9294622">尼克森</STRING>
+		<STRING hash="5966680">福特</STRING>
+		<STRING hash="8520651">卡特</STRING>
+		<STRING hash="9860973">雷根</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="13104671">赫鲁雪夫</STRING>
+		<STRING hash="12235581">布里兹涅夫</STRING>
+		<STRING hash="9484613">安德洛波夫</STRING>
+		<STRING hash="22410150">契尔年科</STRING>
+		<STRING hash="17838185">戈巴契夫</STRING>
+		<STRING hash="2547333">韩国人</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="10161941">朴正熙</STRING>
+		<STRING hash="9640986">全斗焕</STRING>
+		<STRING hash="9395955">南韩人</STRING>
+	</FILE>
+	<FILE hash="1492164" name="korea5">
+		<STRING hash="1035369">东京</STRING>
+		<STRING hash="1442712">大阪</STRING>
+		<STRING hash="1716589">仙台</STRING>
+		<STRING hash="979399">汉城</STRING>
+		<STRING hash="1620266">大田</STRING>
+		<STRING hash="1325052">釜山</STRING>
+		<STRING hash="1039451">水原</STRING>
+		<STRING hash="4327897">平壤</STRING>
+		<STRING hash="1895061">元山</STRING>
+		<STRING hash="2207651">阳德</STRING>
+		<STRING hash="637657">伊院</STRING>
+		<STRING hash="6623862">海参崴</STRING>
+		<STRING hash="8531629">杜鲁门</STRING>
+		<STRING hash="9472139">李承晚</STRING>
+		<STRING hash="6259964">金日成</STRING>
+		<STRING hash="7833674">斯大林</STRING>
+		<STRING hash="21228465">艾森豪总统</STRING>
+		<STRING hash="16204356">赫鲁雪夫总理</STRING>
+		<STRING hash="7820516">毛泽东</STRING>
+		<STRING hash="5724964">金日成</STRING>
+		<STRING hash="1041017">罗津</STRING>
+		<STRING hash="2278296">清州</STRING>
+		<STRING hash="2213268">大田</STRING>
+	</FILE>
+	<FILE hash="14377308" name="coldwar_post_ai">
+		<STRING hash="19601224">工业胜利</STRING>
+		<STRING hash="1477342438">不管您使用什么招数都已经没有用了。您的繁荣经济迫使苏联崩溃! 中央集权的体制已经被大规模防御支出和美国独创性所击败。工业之火已经融化冷战!</STRING>
+		<STRING hash="15891629">工业战败</STRING>
+		<STRING hash="1321694458">不管您使用什么招数都已经没有用了。您日渐衰退的经济已经彻底崩溃! 虽然我们有大规模防御支出，但是苏联的中央集权体制却战胜一切。经济上的挫败导致冷战结束!</STRING>
+		<STRING hash="1252611775">美国的经济远远超过我国! 我们的附庸国对于社会主义经济已失去信心，并与我们断绝友好关系。苏联已穷途末路!</STRING>
+		<STRING hash="10204571">大获全胜</STRING>
+		<STRING hash="1474809522">透过您巧妙的规划、外交手段和连续的军事施压，您已经成功击败苏联! 您深入打击苏联帝国的心脏地带，并避免一场核浩劫。让全世界知道，任何国家都不能阻挡自由之路!</STRING>
+		<STRING hash="2019543387">无产阶级的超级劳动力，已迫使美国的经济崩溃! 不道德的资本主义者相信，他们的中产阶级精英能够胜过苏联主席同志的生产力，但藉由这次胜利，我们已经证明，社会主义路线的无私奉献，可以克服一切障碍!</STRING>
+		<STRING hash="1438052067">主席同志相信美国的中产阶级帝国主义者与崇高的无产阶级之间的斗争，会以另一种方式结束。我们英勇的士兵已经前进到华盛顿，并永久终结那讨厌的资本主义猪。</STRING>
+		<STRING hash="1059719691">苏联经济快速成长! 如果我们不采取行动赶上他们的话，我们势必将输掉冷战。请藉由整肃行动和外交手腕来取得附庸国，或是使您的领域力量升级!</STRING>
+		<STRING hash="1074962168">美国经济快速成长! 如果我们不采取行动赶上他们的话，我们势必将输掉冷战。请藉由整肃行动和外交手腕来取得附庸国，或是使您的领域力量升级!</STRING>
+		<STRING hash="448257360">您的经济发展远超过敌国! 您要结束游戏，宣告工业胜利吗?</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+	</FILE>
+	<FILE hash="9498652" name="alaskaruntime">
+		<STRING hash="42360484">提示: 捕鱼来搜集食物。</STRING>
+	</FILE>
+	<FILE hash="12636884" name="skirmishruntime2">
+		<STRING hash="195820496">提示: 占领油井可提升资源搜集率。</STRING>
+	</FILE>
+	<FILE hash="15627846" name="southafricasetup">
+		<STRING hash="1708882">反叛军</STRING>
+	</FILE>
+	<FILE hash="8173283" name="vietnamsetup">
+		<STRING hash="5923189">赤色高棉</STRING>
+		<STRING hash="6008533">胡志明</STRING>
+		<STRING hash="9616026">孙德胜</STRING>
+		<STRING hash="7586967">长征</STRING>
+		<STRING hash="7799975">吴庭琰</STRING>
+		<STRING hash="13538188">阮文绍</STRING>
+	</FILE>
+	<FILE hash="11461270" name="perubasessetup">
+		<STRING hash="14496282">反叛军游击队</STRING>
+	</FILE>
+</ROOT>

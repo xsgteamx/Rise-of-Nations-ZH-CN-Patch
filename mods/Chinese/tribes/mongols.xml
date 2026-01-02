@@ -1,0 +1,49 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="蒙古人">
+  <LEADERS>
+    <LEADER>成吉思汗</LEADER>
+    <LEADER>窝阔台</LEADER>
+    <LEADER>忽必烈</LEADER>
+    <LEADER>拔都</LEADER>
+    <LEADER>满都海皇后</LEADER>
+    <LEADER>察比皇后</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>喀拉崑仑</CITY>
+    <CITY>坎巴利</CITY>
+    <CITY>塔什干</CITY>
+    <CITY>撒马尔罕</CITY>
+    <CITY>善土</CITY>
+    <CITY>锡良</CITY>
+    <CITY>疏勒</CITY>
+    <CITY>卡拉欧托</CITY>
+    <CITY>和阗</CITY>
+    <CITY>旧沙来</CITY>
+    <CITY>乌尔根奇</CITY>
+    <CITY>塔纳</CITY>
+    <CITY>提弗利司</CITY>
+    <CITY>谋夫</CITY>
+    <CITY>新沙来</CITY>
+    <CITY>波尔加</CITY>
+    <CITY>柯柬德</CITY>
+    <CITY>巴尔赫</CITY>
+    <CITY>开封</CITY>
+    <CITY>宁夏</CITY>
+    <CITY>库地加</CITY>
+    <CITY>帕夏瓦</CITY>
+    <CITY>窝塔尔</CITY>
+    <CITY>沙甚</CITY>
+    <CITY>吐鲁番</CITY>
+    <CITY>贝斯巴立克</CITY>
+    <CITY>八剌沙衮</CITY>
+    <CITY>加兹尼</CITY>
+    <CITY>喀布尔</CITY>
+    <CITY>坎大哈</CITY>
+    <CITY>雷</CITY>
+    <CITY>亚拉勿</CITY>
+    <CITY>亚札克</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>3 Asian   </UNIT_CONTINENT>
+  <BUILD_CONTINENT>2 Asian</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

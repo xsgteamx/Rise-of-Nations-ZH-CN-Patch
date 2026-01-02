@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<ROOT name="Napoleon ">
+	<FILE hash="5471102" name="austerlitz">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="14658885">查尔斯大公</STRING>
+		<STRING hash="2393040">特勒尼兹</STRING>
+		<STRING hash="4175008">索科尔尼兹</STRING>
+		<STRING hash="1084706">布尔诺</STRING>
+		<STRING hash="5471102">奥斯特利兹</STRING>
+		<STRING hash="5522692">卡兹诺维奇</STRING>
+	</FILE>
+	<FILE hash="5986149" name="austerlitz2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="14658885">查尔斯大公</STRING>
+		<STRING hash="1084706">布尔诺</STRING>
+		<STRING hash="2393040">特勒尼兹</STRING>
+		<STRING hash="4175008">索科尔尼兹</STRING>
+		<STRING hash="5471102">奥斯特利兹</STRING>
+		<STRING hash="5522692">卡兹诺维奇</STRING>
+	</FILE>
+	<FILE hash="6003946" name="austerlitz3">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="14658885">查尔斯大公</STRING>
+		<STRING hash="1084706">布尔诺</STRING>
+		<STRING hash="2393040">特勒尼兹</STRING>
+		<STRING hash="4175008">索科尔尼兹</STRING>
+		<STRING hash="5471102">奥斯特利兹</STRING>
+		<STRING hash="5522692">卡兹诺维奇</STRING>
+	</FILE>
+	<FILE hash="2249591" name="belgium">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="24410354">威廉五世</STRING>
+		<STRING hash="1336038">阿拉斯</STRING>
+		<STRING hash="2168722">敦克尔克</STRING>
+		<STRING hash="3082023">布鲁塞尔</STRING>
+		<STRING hash="2361725">安特卫普</STRING>
+		<STRING hash="2195880">瓦米</STRING>
+		<STRING hash="2333923">塞拉莫</STRING>
+		<STRING hash="1830369">迪南特</STRING>
+	</FILE>
+	<FILE hash="3607635" name="brittany">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="10598325">乔治三世</STRING>
+		<STRING hash="1601281">安杰</STRING>
+		<STRING hash="1507450">雷恩</STRING>
+		<STRING hash="1688176">南特</STRING>
+		<STRING hash="1664234">凡恩</STRING>
+		<STRING hash="9032508">圣布里厄</STRING>
+		<STRING hash="1077129">布列斯特</STRING>
+		<STRING hash="2181103">坎佩</STRING>
+	</FILE>
+	<FILE hash="3122120" name="burgundy">
+		<STRING hash="2999286">拿破仑</STRING>
+		<STRING hash="3654935">雅各宾派</STRING>
+		<STRING hash="4392665">保皇党</STRING>
+		<STRING hash="1036264">里昂</STRING>
+		<STRING hash="926671">迪戎</STRING>
+		<STRING hash="1618845">特鲁瓦</STRING>
+		<STRING hash="103459848">不要让敌人夺取任何城市。</STRING>
+		<STRING hash="56724427">劳工阶级发生叛变!</STRING>
+	</FILE>
+	<FILE hash="3135408" name="corsica">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="10598325">乔治三世</STRING>
+		<STRING hash="2107315">巴斯提亚</STRING>
+		<STRING hash="1025370">哥图</STRING>
+		<STRING hash="3076862">阿雅秀</STRING>
+		<STRING hash="2224470">萨坦</STRING>
+		<STRING hash="4705713">波尼法休</STRING>
+	</FILE>
+	<FILE hash="1280839" name="eylau">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="36937850">斐特烈威廉三世</STRING>
+		<STRING hash="13791951">沙皇亚历山大一世</STRING>
+		<STRING hash="1280839">艾劳</STRING>
+	</FILE>
+	<FILE hash="4003004" name="friedland">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="36937850">斐特烈威廉三世</STRING>
+		<STRING hash="13791951">沙皇亚历山大一世</STRING>
+		<STRING hash="4003004">弗里德兰</STRING>
+	</FILE>
+	<FILE hash="8790518" name="greatbritain">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="10598325">乔治三世</STRING>
+		<STRING hash="775179">卡昂</STRING>
+		<STRING hash="2168722">敦克尔克</STRING>
+		<STRING hash="1995844">加来</STRING>
+		<STRING hash="5257154">普兹茅斯</STRING>
+		<STRING hash="3070950">普利茅斯</STRING>
+		<STRING hash="5412045">曼彻斯特</STRING>
+		<STRING hash="4127575">爱丁堡</STRING>
+		<STRING hash="2486756">格拉斯哥</STRING>
+		<STRING hash="2638227">伯发斯特</STRING>
+		<STRING hash="1712435">都柏林</STRING>
+		<STRING hash="1497489">伦敦</STRING>
+	</FILE>
+	<FILE hash="827114" name="jena">
+		<STRING hash="2999286">拿破仑</STRING>
+		<STRING hash="36937850">斐特烈威廉三世</STRING>
+		<STRING hash="838557">格拉</STRING>
+		<STRING hash="3475145">瑙堡</STRING>
+		<STRING hash="827114">耶拿</STRING>
+		<STRING hash="1644255">耳弗特</STRING>
+		<STRING hash="2636440">苏勒斐</STRING>
+		<STRING hash="178166945">敌人援军已经到达! 我们必须撤退!</STRING>
+		<STRING hash="196341485">可以立刻产生单位，救援战败的盟友。</STRING>
+		<STRING hash="194985139">占领外围的城市，迫使战役拉到开阔的战场上。</STRING>
+		<STRING hash="199601006">敌人正撤退到耶拿附近集结。现在是我们进攻的好时机!</STRING>
+		<STRING hash="97404635">利用您优势的军力，攻下耶拿。</STRING>
+		<STRING hash="184984943">提示: 使用无限排程功能，提高您的等级。</STRING>
+	</FILE>
+	<FILE hash="2144016" name="leipzig">
+		<STRING hash="2999286">拿破仑</STRING>
+		<STRING hash="33868131">斐特烈威廉二世</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="13890873">沙皇亚历山大一世</STRING>
+		<STRING hash="37667369">古斯塔夫四世</STRING>
+		<STRING hash="1610831">卢珍</STRING>
+		<STRING hash="2041859">吕北克</STRING>
+		<STRING hash="3201074">利格尼兹</STRING>
+		<STRING hash="2506113">包森</STRING>
+		<STRING hash="4184227">丹乃威兹</STRING>
+		<STRING hash="2038279">德勒斯登</STRING>
+		<STRING hash="2272516">库斯恩</STRING>
+		<STRING hash="7555595">哥罗斯白令</STRING>
+		<STRING hash="344261209">我们的斥候回报说，施瓦森伯格将军正从南方带领一支军队到来。</STRING>
+		<STRING hash="94656753">在卢珍地区取得据点。</STRING>
+		<STRING hash="1583133308">了不起! 但该区居民不会轻易臣服于您的统治。您必须掌握该区经济及基础建设，他们才会俯首顺从。寻找并控制食物、木材、金属、知识及政府等主要中心。</STRING>
+		<STRING hash="151785705">占领「谷仓」，协助您的「食物」生产。</STRING>
+		<STRING hash="186790284">占领「木材场」，协助您的「木材」生产。</STRING>
+		<STRING hash="160989728">占领「冶鍊厂」，协助您的「金属」生产。</STRING>
+		<STRING hash="184734381">占领「大学」，协助您的「知识」生产。</STRING>
+		<STRING hash="132405895">占领「议会」，以使用「政府」。</STRING>
+		<STRING hash="490799970">做得好! 您现在控制该区大部分的食物生产，而且很容易就可以雇用更多的农民。</STRING>
+		<STRING hash="439911113">太好了! 您现在控制该区的文明人，并适时提供更多学校教育。</STRING>
+		<STRING hash="507732725">很好! 您现在控制该区大部分的金属生产，而且很容易就可以雇用更多的矿工。</STRING>
+		<STRING hash="490939784">真了不起! 您现在控制该区的人民代表，并可适时透过议会修改法律条文。</STRING>
+		<STRING hash="1287119238">在北方，发现叛徒贝纳多特和班宁森将军有援军! 我方恐怕寡不敌众。如果我们现在撤退，还可以从占领地区重整军备 (得到 50 单位贡品)。</STRING>
+		<STRING hash="360712582">我们的斥候回报说，施瓦森伯格将军正从南方带领一支军队到来!</STRING>
+		<STRING hash="1340742706">在北方发现狡滑的查尔斯大公和布鲁雪将军的援军! 我方恐怕寡不敌众。如果我们现在撤退，还可以在占领地区重整军备 (取得 50 单位贡品)。</STRING>
+		<STRING hash="514779162">做得好! 您现在控制该区大部分的木材生产，而且很容易就可以雇用更多的伐木工。</STRING>
+		<STRING hash="1706502544">在北方发现狡滑的查尔斯大公和布鲁雪将军的援军! 我方恐怕寡不敌众。如果我们现在撤退，还可以在占领地区重整军备 (取得 100 单位贡品和一张佣兵加分卡)。</STRING>
+		<STRING hash="3115158">撤退!</STRING>
+		<STRING hash="1306282">攻击!</STRING>
+	</FILE>
+	<FILE hash="1832544" name="lisbon">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="9135566">玛丽亚皇后一世</STRING>
+		<STRING hash="1111418">巴黎</STRING>
+		<STRING hash="1832544">里斯本</STRING>
+	</FILE>
+	<FILE hash="536232" name="lodi">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="13080657">商业巨子</STRING>
+		<STRING hash="7197993">亚历山德里亚</STRING>
+		<STRING hash="1186740">米兰</STRING>
+		<STRING hash="536232">洛迪</STRING>
+		<STRING hash="3992653">皮辰札</STRING>
+		<STRING hash="1846668">洛纳托</STRING>
+	</FILE>
+	<FILE hash="674317" name="lodi2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="6971851">教宗庇护二世</STRING>
+		<STRING hash="13080657">商业巨子</STRING>
+		<STRING hash="14658885">查尔斯大公</STRING>
+		<STRING hash="7197993">亚历山德里亚</STRING>
+		<STRING hash="536232">洛迪</STRING>
+		<STRING hash="3992653">皮辰札</STRING>
+		<STRING hash="1846668">洛纳托</STRING>
+		<STRING hash="1186740">米兰</STRING>
+	</FILE>
+	<FILE hash="11429772" name="lowrationsruss">
+		<STRING hash="2999286">拿破仑</STRING>
+		<STRING hash="13890873">沙皇亚历山大一世</STRING>
+		<STRING hash="924003">里夫内</STRING>
+		<STRING hash="4548767">马克维卡</STRING>
+		<STRING hash="10765539">聂伯城</STRING>
+		<STRING hash="2849872">乌日哥罗德</STRING>
+		<STRING hash="4356125">维巴维特</STRING>
+		<STRING hash="604047">基辅</STRING>
+		<STRING hash="3502560">文尼察</STRING>
+		<STRING hash="2493130">卡尔科夫</STRING>
+		<STRING hash="134635834">提示: 攻占城市，来收编更多部队。</STRING>
+		<STRING hash="20942645">配给计时器: $NUM0</STRING>
+		<STRING hash="297891685">来自$STRING0的战俘决定向我们透露敌人首都的位置。</STRING>
+		<STRING hash="24154533">您的配给很低!</STRING>
+		<STRING hash="623216464">来自$STRING0的战俘决定向我们透露敌国其他城市的位置! 不过，可能有更近的城市。</STRING>
+		<STRING hash="45796689">我们补充了一支加农炮。</STRING>
+		<STRING hash="95256954">我们征召了一队燧枪兵。</STRING>
+		<STRING hash="101418640">我们征召了一队火枪手。</STRING>
+		<STRING hash="114316290">我们征召了一名掷弹警骑兵。</STRING>
+		<STRING hash="45129230">我们征召了一名轻骑军。</STRING>
+		<STRING hash="69169302">我们补充了一辆补给车。</STRING>
+	</FILE>
+	<FILE hash="11236481" name="lowrationsturk">
+		<STRING hash="2999286">拿破仑</STRING>
+		<STRING hash="660796">奥托</STRING>
+		<STRING hash="4604838">布加勒斯特</STRING>
+		<STRING hash="1995080">札格拉布</STRING>
+		<STRING hash="1703910">地拉那</STRING>
+		<STRING hash="3337163">萨拉耶佛</STRING>
+		<STRING hash="3303216">布达佩斯</STRING>
+		<STRING hash="5056858">艾朱比安纳</STRING>
+		<STRING hash="1206713">索非亚</STRING>
+		<STRING hash="3074564">贝尔格勒</STRING>
+		<STRING hash="134635834">提示: 攻占城市，来收编更多部队。</STRING>
+		<STRING hash="20942645">配给计时器: $NUM0</STRING>
+		<STRING hash="297891685">来自$STRING0的战俘决定向我们透露敌人首都的位置。</STRING>
+		<STRING hash="24154533">您的配给很低!</STRING>
+		<STRING hash="45796689">我们补充了一支加农炮。</STRING>
+		<STRING hash="95256954">我们征召了一队燧枪兵。</STRING>
+		<STRING hash="101418640">我们征召了一队火枪手。</STRING>
+		<STRING hash="114316290">我们征召了一名掷弹警骑兵。</STRING>
+		<STRING hash="45129230">我们征召了一名轻骑军。</STRING>
+		<STRING hash="69169302">我们补充了一辆补给车。</STRING>
+		<STRING hash="623216464">来自$STRING0的战俘决定向我们透露敌国其他城市的位置! 不过，可能有更近的城市。</STRING>
+	</FILE>
+	<FILE hash="1419320" name="malta">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12753762">苏丹萨利姆三世</STRING>
+		<STRING hash="3602937">法勒他</STRING>
+	</FILE>
+	<FILE hash="1658032" name="malta2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12753762">苏丹萨利姆三世</STRING>
+		<STRING hash="3602937">法勒他</STRING>
+	</FILE>
+	<FILE hash="1666895" name="malta3">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12753762">苏丹萨利姆三世</STRING>
+		<STRING hash="3602937">法勒他</STRING>
+	</FILE>
+	<FILE hash="2111839" name="mantua">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="12202226">威尼西亚总督</STRING>
+		<STRING hash="3007687">布雷沙</STRING>
+		<STRING hash="1512076">里弗利</STRING>
+		<STRING hash="2111839">曼图亚</STRING>
+		<STRING hash="3013751">卡德耶罗</STRING>
+		<STRING hash="1769181">威尼斯</STRING>
+	</FILE>
+	<FILE hash="5623299" name="montenotte4">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="6971851">教宗庇护二世</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="762521">尼斯</STRING>
+		<STRING hash="1240685">热诺亚</STRING>
+		<STRING hash="1558569">沃尔席</STRING>
+		<STRING hash="546797">德哥</STRING>
+		<STRING hash="5071536">芒泰诺泰</STRING>
+		<STRING hash="32993151">施瓦森柏格指挥官</STRING>
+		<STRING hash="10866361">奥地利废墟</STRING>
+		<STRING hash="2201086">蒙多比</STRING>
+		<STRING hash="1156222">洛安诺</STRING>
+		<STRING hash="978649">杜林</STRING>
+	</FILE>
+	<FILE hash="11653418" name="napoleonopening">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="3587565">平民</STRING>
+		<STRING hash="10598325">乔治三世</STRING>
+		<STRING hash="1111418">巴黎</STRING>
+		<STRING hash="1588212">土伦</STRING>
+		<STRING hash="31181484">按一下空格键跳过</STRING>
+	</FILE>
+	<FILE hash="9008892" name="newmontenotte">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="8950167">热诺亚总督</STRING>
+		<STRING hash="5071536">芒泰诺泰</STRING>
+		<STRING hash="1240685">热诺亚</STRING>
+		<STRING hash="180934311">提示: 在您的军事建筑，生产新的部队。</STRING>
+	</FILE>
+	<FILE hash="20155862" name="northlandseabattle">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="25500834">腓尼基领导人</STRING>
+	</FILE>
+	<FILE hash="3134853" name="pyramids">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="4473168">穆拉德贝</STRING>
+		<STRING hash="10498909">阿布杜勒拉赫曼</STRING>
+		<STRING hash="1172615">开罗</STRING>
+		<STRING hash="898155">吉萨</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="2705506">罗瑟塔</STRING>
+		<STRING hash="1570640">瓦登</STRING>
+		<STRING hash="5642398">舒布克提</STRING>
+	</FILE>
+	<FILE hash="560387" name="rome">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="6971851">教宗庇护二世</STRING>
+		<STRING hash="4545521">塔昆尼亚</STRING>
+		<STRING hash="560387">罗马</STRING>
+		<STRING hash="5232303">布拉夏诺</STRING>
+		<STRING hash="3902550">且维特里</STRING>
+	</FILE>
+	<FILE hash="1927270" name="russia">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="13791951">沙皇亚历山大一世</STRING>
+		<STRING hash="2894912">斯墨蓝斯克</STRING>
+		<STRING hash="2939930">波罗第诺</STRING>
+		<STRING hash="1967493">莫斯科</STRING>
+		<STRING hash="1256547">维尔纳</STRING>
+		<STRING hash="2874032">诺福格勒</STRING>
+	</FILE>
+	<FILE hash="8063203" name="scandanavia">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="19898565">斐特烈大帝</STRING>
+		<STRING hash="5022504">威灵顿</STRING>
+		<STRING hash="4326529">夫连士堡</STRING>
+		<STRING hash="622909">奥斯陆</STRING>
+		<STRING hash="8449507">克利欣珊</STRING>
+		<STRING hash="5199515">哥本哈根</STRING>
+	</FILE>
+	<FILE hash="8602377" name="scandanavia2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="19898565">斐特烈大帝</STRING>
+		<STRING hash="4326529">夫连士堡</STRING>
+		<STRING hash="622909">奥斯陆</STRING>
+		<STRING hash="8449507">克利欣珊</STRING>
+		<STRING hash="5199515">哥本哈根</STRING>
+	</FILE>
+	<FILE hash="4630950" name="seabattle">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="25500834">腓尼基领导人</STRING>
+	</FILE>
+	<FILE hash="1407517" name="sweden">
+		<STRING hash="19894699">墨赫迈二世加吉汗</STRING>
+		<STRING hash="7949715">坐着的公牛</STRING>
+		<STRING hash="5199515">哥本哈根</STRING>
+		<STRING hash="4132815">斯德哥尔摩</STRING>
+		<STRING hash="3212793">哥特堡</STRING>
+		<STRING hash="3753592">言雪平</STRING>
+	</FILE>
+	<FILE hash="1291443" name="syria">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12753762">苏丹萨利姆三世</STRING>
+		<STRING hash="788659">亚克</STRING>
+		<STRING hash="1300687">雅法</STRING>
+		<STRING hash="1037847">加萨</STRING>
+		<STRING hash="3263049">阿里士</STRING>
+	</FILE>
+	<FILE hash="13864021" name="tolandseabattle">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="25500834">腓尼基领导人</STRING>
+	</FILE>
+	<FILE hash="18093050" name="tosicilyseabattle">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="25500834">腓尼基领导人</STRING>
+	</FILE>
+	<FILE hash="9162036" name="transylvania">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="13453649">村议会</STRING>
+		<STRING hash="5051721">弗拉德特佩斯</STRING>
+		<STRING hash="6109021">西治索拉</STRING>
+		<STRING hash="12118150">居鲁士大帝</STRING>
+	</FILE>
+	<FILE hash="1623781" name="turkey">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12753762">苏丹萨利姆三世</STRING>
+		<STRING hash="1491378">阿达纳</STRING>
+		<STRING hash="1655769">哈拉布</STRING>
+		<STRING hash="3693128">伊斯坦堡</STRING>
+		<STRING hash="4963296">法马哥斯塔</STRING>
+		<STRING hash="1406418">布尔萨</STRING>
+		<STRING hash="2214953">安卡拉</STRING>
+		<STRING hash="1454902">罗德斯岛</STRING>
+	</FILE>
+	<FILE hash="1901020" name="turkey2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12753762">苏丹萨利姆三世</STRING>
+		<STRING hash="3693128">伊斯坦堡</STRING>
+		<STRING hash="4963296">法马哥斯塔</STRING>
+		<STRING hash="2214953">安卡拉</STRING>
+		<STRING hash="1454902">罗德斯岛</STRING>
+		<STRING hash="1655769">哈拉布</STRING>
+		<STRING hash="1491378">阿达纳</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+	</FILE>
+	<FILE hash="339052" name="ulm">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="34027066">苏里曼大帝</STRING>
+		<STRING hash="7026791">巴登巴登</STRING>
+		<STRING hash="4849258">杜塞尔多夫</STRING>
+		<STRING hash="3571152">康斯坦兹</STRING>
+		<STRING hash="339052">乌尔姆</STRING>
+	</FILE>
+	<FILE hash="1967040" name="wagram">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="12050660">奥皇法兰西斯一世</STRING>
+		<STRING hash="1850024">维也纳</STRING>
+		<STRING hash="1607262">亚斯伯恩</STRING>
+		<STRING hash="2893542">努斯多夫</STRING>
+		<STRING hash="2105975">艾斯林</STRING>
+		<STRING hash="4382418">利欧波杜</STRING>
+		<STRING hash="1967040">瓦格拉姆</STRING>
+	</FILE>
+	<FILE hash="3096177" name="waterloo">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="24410354">威廉五世</STRING>
+		<STRING hash="29632946">陆军元帅布鲁雪</STRING>
+		<STRING hash="17107838">威灵顿公爵</STRING>
+		<STRING hash="3096177">滑铁卢</STRING>
+	</FILE>
+	<FILE hash="15992478" name="austerlitzruntime">
+		<STRING hash="51599754">占领敌人首都。</STRING>
+	</FILE>
+	<FILE hash="12733812" name="austerlitzsetup">
+		<STRING hash="4542655">奥地利人</STRING>
+	</FILE>
+	<FILE hash="10436284" name="belgiumruntime">
+		<STRING hash="49137003">占领敌人首都。</STRING>
+		<STRING hash="119412587">摧毁$STRING0的所有 (蓝色) 建筑。</STRING>
+		<STRING hash="203094153">我们的斥候回报说，奥地利密使快要到了。</STRING>
+		<STRING hash="8095623">听他的</STRING>
+		<STRING hash="10022077">把他赶走</STRING>
+		<STRING hash="1614077">支付 20</STRING>
+		<STRING hash="6928586">拒绝提议</STRING>
+		<STRING hash="8337715">拒绝提议</STRING>
+		<STRING hash="225786052">我们的斥候报告，奥地利密使快要到了。</STRING>
+		<STRING hash="1083444579">来自当地奥地利指挥官的消息: 我们也不愿意远离家乡，千里迢迢到这个地方来打战。如果您愿意给我们 20 单位的贡品，我们就离开这个地方。(您有 $d0 单位的贡品。)</STRING>
+		<STRING hash="112874817">可惜您没有 20 个单位的贡品。</STRING>
+		<STRING hash="788792208">既然我们已经在这里，或许可以帮您镇压这个地方的人民。但是您必须要给我们酬劳。(您有 $d0 单位贡品。)</STRING>
+		<STRING hash="219616298">可惜您没有 20 单位的贡品。奥地利人离开了。</STRING>
+	</FILE>
+	<FILE hash="7870288" name="belgiumsetup">
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="3324335">比利时人</STRING>
+		<STRING hash="32924523">比利时合众国</STRING>
+	</FILE>
+	<FILE hash="10757088" name="britainruntime">
+		<STRING hash="49137003">占领敌人首都。</STRING>
+		<STRING hash="469356096">您的将军已经集结海军，准备为您攻击伦敦。他们在亚眠附近等您。</STRING>
+		<STRING hash="180427734">英国政府正往北逃往苏格兰!</STRING>
+		<STRING hash="167095230">英国政府正往西逃往爱尔兰!</STRING>
+		<STRING hash="171773834">英国政府正在逃回英格兰!</STRING>
+		<STRING hash="486030292">您的将军已经集结海军，准备为您攻击伦敦。他们在加来附近等您。</STRING>
+	</FILE>
+	<FILE hash="12675135" name="brittanyruntime">
+		<STRING hash="23539396">提示: 占领凡恩</STRING>
+		<STRING hash="49137003">占领敌人首都。</STRING>
+		<STRING hash="184656398">英国的密使要求召见。</STRING>
+		<STRING hash="8095623">听他的</STRING>
+		<STRING hash="7389039">不听</STRING>
+		<STRING hash="1614077">支付 20</STRING>
+		<STRING hash="6928586">拒绝提议</STRING>
+		<STRING hash="210402003">好啊，不过要记得: 再失去任何生命点数，您就死定了!</STRING>
+		<STRING hash="823441406">我们希望停止两国的敌对状态。只要给我们 20 单位的贡品，我们就同意离开这个地方，并签署和平条约。(您有 $d0 单位贡品。)</STRING>
+		<STRING hash="106782287">可惜您没有 20 个单位的贡品。</STRING>
+	</FILE>
+	<FILE hash="11322101" name="corsicaruntime">
+		<STRING hash="183420946">时间终止前，占领敌人的所有城市。</STRING>
+	</FILE>
+	<FILE hash="8756105" name="corsicasetup">
+		<STRING hash="14018229">鲍利</STRING>
+		<STRING hash="4933740">科西嘉岛人</STRING>
+	</FILE>
+	<FILE hash="7860052" name="eylauruntime">
+		<STRING hash="119261649">占领艾劳，拖延到时间结束为止。</STRING>
+		<STRING hash="265675945">提示: 使用控制群组，可以更妥善组织您的军队 (CTRL+1, CTRL+2 等)。</STRING>
+		<STRING hash="184692714">您的一位色彩深度帅已经带着援军抵达!</STRING>
+	</FILE>
+	<FILE hash="5579898" name="eylausetup">
+		<STRING hash="4480869">普鲁士人</STRING>
+	</FILE>
+	<FILE hash="13809823" name="friedlandruntime">
+		<STRING hash="422875350">抵抗普俄联军，拖延到拿破仑率领援军到达为止。</STRING>
+		<STRING hash="175689209">拿破仑已经抵达，而且带来了大批法国军队!</STRING>
+		<STRING hash="416867741">拿破仑已经抵达，而且带来了大批法国军队! 击溃俄罗斯，夺下弗里德兰的时候到了!</STRING>
+		<STRING hash="69168562">占领弗里德兰，拖到时间到为止。</STRING>
+		<STRING hash="32089397">提示: 控制河流。</STRING>
+	</FILE>
+	<FILE hash="10790251" name="friedlandsetup">
+		<STRING hash="4480869">普鲁士人</STRING>
+	</FILE>
+	<FILE hash="23762767" name="guerillabasesruntime">
+		<STRING hash="104756247">还剩下 $d0 个游击队基地。</STRING>
+		<STRING hash="98625926">还剩下 $d0 个游击队基地。</STRING>
+	</FILE>
+	<FILE hash="7253530" name="lodi2runtime">
+		<STRING hash="204356048">如果米兰人丧失首都米兰，您就会被击败。</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="1195638455">我们有许多东西出售: 像是军营里的皇家近卫军、马厩的重炮象兵，以及攻城工厂的轰击炮。若要购买，请按一下相关建筑。</STRING>
+		<STRING hash="215858847">提示: 按一下商业巨子的 (白色) 建筑，来购买单位。</STRING>
+		<STRING hash="310648742">您要以 $NUM0 单位贡品来购买 5 名皇家近卫军吗? (您有 $NUM1 单位贡品。)</STRING>
+		<STRING hash="264628635">您要以 $NUM0 单位贡品来购买 3 只大象吗? (您有 $NUM1 单位贡品。)</STRING>
+		<STRING hash="305630655">您要以 $NUM0 单位贡品来购买 3 支轰击炮吗? (您有 $NUM1 单位贡品。)</STRING>
+		<STRING hash="91592820">很抱歉，您的贡品不够。</STRING>
+	</FILE>
+	<FILE hash="4973376" name="lodi2setup">
+		<STRING hash="3015060">米兰人</STRING>
+		<STRING hash="17441108">波斯商人</STRING>
+		<STRING hash="8463418">教廷国</STRING>
+		<STRING hash="14658885">查尔斯大公</STRING>
+		<STRING hash="536232">洛迪</STRING>
+		<STRING hash="1846668">洛纳托</STRING>
+		<STRING hash="3992653">皮辰札</STRING>
+		<STRING hash="1186740">米兰</STRING>
+	</FILE>
+	<FILE hash="6149076" name="lodiruntime">
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="1195638455">我们有许多东西出售: 像是军营里的皇家近卫军、马厩的重炮象兵，以及攻城工厂的轰击炮。若要购买，请按一下相关建筑。</STRING>
+		<STRING hash="220406825">提示: 按一下商业巨子的 (橘色) 建筑，来购买单位。</STRING>
+		<STRING hash="1370994531">来自奥地利的消息: 我军无心再战。或许您愿意签署和平协议，停止这场战争。条件是，您近期不再攻打? 我们的交换条件是，支付您 50 单位贡品和割让比利时领土。</STRING>
+		<STRING hash="310648742">您要以 $NUM0 单位贡品来购买 5 名皇家近卫军吗? (您有 $NUM1 单位贡品。)</STRING>
+		<STRING hash="91592820">很抱歉，您的贡品不够。</STRING>
+		<STRING hash="264628635">您要以 $NUM0 单位贡品来购买 3 只大象吗? (您有 $NUM1 单位贡品。)</STRING>
+		<STRING hash="305630655">您要以 $NUM0 单位贡品来购买 3 支轰击炮吗? (您有 $NUM1 单位贡品。)</STRING>
+	</FILE>
+	<FILE hash="4005434" name="lodisetup">
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="17441108">波斯商人</STRING>
+		<STRING hash="536232">洛迪</STRING>
+		<STRING hash="1846668">洛纳托</STRING>
+		<STRING hash="3992653">皮辰札</STRING>
+		<STRING hash="1186740">米兰</STRING>
+	</FILE>
+	<FILE hash="8864420" name="madridruntime">
+		<STRING hash="404597483">到访的大不列颠密使: 我们希望代表我们的西班牙友邦，与您对谈。</STRING>
+		<STRING hash="1518462">听从。</STRING>
+		<STRING hash="7389039">不听。</STRING>
+		<STRING hash="1378323841">我们知道，您已经让西班牙国王深陷困境。我们愿意和平解决。只要您同意和西班牙签订和平条约，并且马上离开这地方，我们也会与您签订和平条约。</STRING>
+		<STRING hash="17260705">签订和平条约。</STRING>
+		<STRING hash="4803036">不签。</STRING>
+		<STRING hash="32932773">与西班牙和谈。</STRING>
+		<STRING hash="64653754">与大不列颠和谈。</STRING>
+		<STRING hash="1469634633">我们知道，您已经让西班牙国王深陷困境。我们愿意和平解决。如果您不同意和西班牙签订和平条约，并且马上离开这地方，我们只好被迫采取行动!</STRING>
+		<STRING hash="91792528">大不列颠已经向您宣战!</STRING>
+	</FILE>
+	<FILE hash="9473527" name="mantuaruntime">
+		<STRING hash="325954023">提示: 试着占领曼图亚后方的奥地利 (蓝色) 城市，再突击曼图亚。</STRING>
+		<STRING hash="138488167">提示: 试着与威尼西亚人 (橘色) 结盟。</STRING>
+		<STRING hash="940404114">来自威尼西亚 (橘色) 密使的消息: 威尼斯长久以来，独立自主。外国势力别想改变现状。不要进入我领土，就可以相安无事。</STRING>
+		<STRING hash="1080066272">现在，我们已经毁灭奥地利 (蓝色)，可以进一步掠夺威尼西亚人 (橘色) 庞大的财富。另一方面，威尼西亚人维持独立，我们还是可以掌控这个地区。</STRING>
+		<STRING hash="2226791">攻击</STRING>
+		<STRING hash="1101628">离开</STRING>
+		<STRING hash="209611263">奥地利人 (蓝色) 丧失大本营之后，正在逃亡。</STRING>
+		<STRING hash="60764140">占领$STRING0的曼图亚，赢得这场胜利。</STRING>
+	</FILE>
+	<FILE hash="7101121" name="mantuasetup">
+		<STRING hash="4345736">威尼西亚人</STRING>
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="2111839">曼图亚</STRING>
+		<STRING hash="1512076">里弗利</STRING>
+		<STRING hash="3013751">卡德耶罗</STRING>
+	</FILE>
+	<FILE hash="17014938" name="montenotte4runtime">
+		<STRING hash="330217524">我们发现，存活的奥地利士兵军营。他们的领袖想要和您谈。</STRING>
+		<STRING hash="897955747">欢迎您，拿破仑，我是施瓦森伯格指挥官。很高兴您来协助我们行动。如果您成功帮我们收复这块领土，我们会提供非常优厚的报酬。</STRING>
+		<STRING hash="747432">成交</STRING>
+		<STRING hash="4266043">多谢，不用了</STRING>
+		<STRING hash="3718150">协助您?</STRING>
+		<STRING hash="687133833">很好，我会带领突击队，去摧毁他们的基础设施。目前暂时将我们的芒泰诺泰城托附于您。</STRING>
+		<STRING hash="97396134">好啊，随便您。这视同宣战!</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="1213464269">欢迎您，拿破仑，我是施瓦森伯格指挥官。奥地利人撤出这片领域时，我的士兵与我留下来了。现在我们是佣兵，给 15 单位贡品，我们就愿意协助您 (您有 $NUM0 单位贡品)。</STRING>
+		<STRING hash="429350655">好啊，随便您。我确定，欧陆的任一个政府，都会付 15 单位的贡品，作为换取您人头的报酬。</STRING>
+		<STRING hash="276538086">我们发现存活的奥地利士兵领袖。他希望与您交谈。</STRING>
+		<STRING hash="278205046">奥地利 (橘色) 城市已弃守。应该很容易占领。</STRING>
+		<STRING hash="175436606">找到施瓦森柏格指挥官 (白色)，寻求他的协助。</STRING>
+		<STRING hash="308210667">很好，我会带领突击队去摧毁他们的基础设施。</STRING>
+		<STRING hash="542367519">您的贡品这么少，真是遗憾。我们本来可能会帮助您。不过现在只好取下您的人头了。</STRING>
+	</FILE>
+	<FILE hash="13392010" name="montenotte4setup">
+		<STRING hash="8463418">教廷国</STRING>
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="14658885">查尔斯大公</STRING>
+		<STRING hash="1240685">热诺亚</STRING>
+		<STRING hash="546797">德哥</STRING>
+		<STRING hash="1558569">沃尔席</STRING>
+		<STRING hash="5071536">芒泰诺泰</STRING>
+		<STRING hash="32993151">施瓦森柏格指挥官</STRING>
+	</FILE>
+	<FILE hash="15592912" name="montenotteruntime">
+		<STRING hash="318945881">摧毁 $NUM0 座奥地利 (蓝色) 要塞，或占领萨丁尼亚岛 (青绿色) 的首都。</STRING>
+		<STRING hash="214676491">提示: 试着与热诺亚人 (白色) 或萨丁尼亚岛人 (青绿色) 结盟。</STRING>
+		<STRING hash="122761571">摧毁 $NUM0 座奥地利 (蓝色) 要塞。</STRING>
+		<STRING hash="310516552">摧毁 $NUM0 座奥地利 (蓝色) 要塞，或占领萨丁尼亚岛 (青绿色) 的首都。</STRING>
+		<STRING hash="136392846">摧毁 $NUM0 座奥地利 (蓝色) 要塞。</STRING>
+		<STRING hash="46156052">我们有相反的提议。</STRING>
+		<STRING hash="68421969">我们另有打算。</STRING>
+		<STRING hash="71041512">我们要更多。</STRING>
+		<STRING hash="61704171">我们需要您增加贡品。</STRING>
+	</FILE>
+	<FILE hash="12334246" name="montenottesetup">
+		<STRING hash="2560867">热诺亚人</STRING>
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="5634325">萨丁尼亚岛人</STRING>
+	</FILE>
+	<FILE hash="15563374" name="napoleon_battles">
+		<STRING hash="402375950">虽然巴伐利亚势力不强，不过还是小心提防他们的战技。</STRING>
+		<STRING hash="1680101687">英国建立横跨世界的强大帝国。他们的军队重质不重量，训练精良；皇家海军更是提供英国本土铜墙铁壁般的保护。而他们的殖民地提供非常大的经济优势作后盾。</STRING>
+		<STRING hash="436629674">荷兰对欧陆不会造成威胁。他们比较在意海外殖民地。</STRING>
+		<STRING hash="378062435">葡萄牙是欧陆小国，不过在全世界却拥有大片领土。</STRING>
+		<STRING hash="164700540">波兰人对法国军队不会造成威胁。</STRING>
+		<STRING hash="209927910">萨丁尼亚岛人只不过是奥地利皇帝的爪牙而已。</STRING>
+		<STRING hash="394522843">法国保皇党在这个地方叛变。由您决定是否要镇压他们。</STRING>
+		<STRING hash="367571832">教廷国在欧洲议会的主张，并无事实根据。</STRING>
+		<STRING hash="211854476">俄罗斯人不是忠实盟友，不值得信任。</STRING>
+		<STRING hash="959354437">虽然西班牙帝国可能衰微，但他们仍然有众多的殖民地。我们还是要提防西班牙人，就算消灭他们的国王，他们还是会继续反抗到底。</STRING>
+		<STRING hash="223087006">鄂图曼土耳其版图幅员广阔，不过对我们没有威胁。</STRING>
+		<STRING hash="75007355">这里不重要。</STRING>
+		<STRING hash="760724215">鄂图曼任命的埃及统治者 - 阿拉伯奴隶兵，正在压迫埃及人民。由您决定是否要解放他们，将革新带入埃及。</STRING>
+		<STRING hash="511433514">我们能够在叙利亚赢得胜利。想必是鄂图曼土耳其人不介意少一块地吧? 也许他们根本没有注意!</STRING>
+		<STRING hash="266696723">这是场硬仗。如果要嬴得这场战役，就全力以赴吧!</STRING>
+		<STRING hash="620326366">奥地利的首善地区。要占领维也纳并不难，但是在面对首都的边远地区可能会遇到阻挠。</STRING>
+		<STRING hash="722922791">一支庞大的军队已经集结，在这里作战。敌众我寡，但在您的领导之下，相信我们一定赢得胜利。</STRING>
+		<STRING hash="606181529">英国人已经掌控布列塔尼，在欧陆取得立足点。我们必须赶走他们，来维护法国的主权!</STRING>
+		<STRING hash="447121577">这个地区的普鲁士人不像俄罗斯人，并不会制造太多问题。他们在这里有一支优秀军队。</STRING>
+		<STRING hash="408458613">普鲁士和俄罗斯军队都部署在这个地区。这次作战并不简单。</STRING>
+		<STRING hash="461731276">普鲁士人已经进驻这里，而且与俄罗斯人合作。这次作战并不简单。</STRING>
+		<STRING hash="618806872">英国人防御力太强了，更何况我们没有海军! 我们必须先破坏他们的基础设施，并且建立一支海军，然后再进攻!</STRING>
+		<STRING hash="722899784">英国防御力太强了! 皇家海军经常在英吉利海峡巡逻。我们必须先破坏他们的基础设施，然后再进攻!</STRING>
+		<STRING hash="803819675">虽然英国军队很弱，但是我们尚未建立海军。我们应该等到有战船，再以优势的军力攻击。</STRING>
+		<STRING hash="223911657">英国防御力很弱! 我们一定要把握这次机会进攻!</STRING>
+		<STRING hash="683679589">英国在这里没有足够的军队来影响我们。不过，这个岛的居民天生就是神枪手。</STRING>
+		<STRING hash="723483155">我们的斥候说，这地区的人民早已听闻您在别处的伟大功迹。但愿这表示，在这里不会有流血事件。</STRING>
+		<STRING hash="671904597">奥地利人最近丧失这块领域，落入教廷国手中。奥地利昔日的臣属米兰人，正在寻求我们的协助。</STRING>
+		<STRING hash="255611936">我们的补给有限，不过只要在英明的领导下，我们一定可以击败敌人。</STRING>
+		<STRING hash="742178404">教廷国最近征服这块领域。他们将大部份市镇夷为平地。如果我们入侵的话，他们就会这样对付我们。</STRING>
+		<STRING hash="814524237">如果我们可以攻下此地，距离奥地利首都就不远了。这个地方的门户是曼图亚的要塞。只要拿下这个地方，胜利就是我们的!</STRING>
+		<STRING hash="222758892">您必须先歼灭敌人联军，以免他们进入法国!</STRING>
+		<STRING hash="245790885">绝不允许奥地利人控制紧邻法国的地区!</STRING>
+		<STRING hash="510679006">俄罗斯的气候非常恶劣，使得战役的成本提高，而且很难掌握胜算。最好考虑和平谈判。</STRING>
+		<STRING hash="641559945">西班牙人痛恨国家被占领。就算击败西班牙的皇家军队后，他们还是会继续打游击战。</STRING>
+		<STRING hash="474514071">我们不仅要对抗西班牙军队，也要对付这个地区的游击队。</STRING>
+		<STRING hash="491720003">我们不仅要对抗葡萄牙军队，也要对付这个地区的游击队。</STRING>
+		<STRING hash="3139921">$STRING0</STRING>
+		<STRING hash="2329789">STRING0</STRING>
+		<STRING hash="500659">$s0</STRING>
+		<STRING hash="177990694">萨克逊也许是蕞尔小国，但战士勇敢善战。</STRING>
+		<STRING hash="523045142">普鲁士人是斐特烈大帝后裔，不要轻敌。不过，在我们进攻下，他们必败无疑。</STRING>
+		<STRING hash="410010484">奥地利帝国尽管有辉煌历史，但帝国正衰败。其欧陆强权的时代即将结束。</STRING>
+		<STRING hash="443790845">马尔他岛是这个地方的要冲。我们必须击败马尔他骑士团，完成不可能的任务。</STRING>
+		<STRING hash="582977061">这个地区有一座小型市镇，正遭受河对岸城堡国王的恐怖统治。如果我们提供协助，他们一定会加入法国。</STRING>
+		<STRING hash="939515019">瑞典人来自于寒冷严酷的气候。虽然他们在欧洲大陆似乎只是次要的角色，但是请不要低估他们对欧洲事务的影响能力。</STRING>
+	</FILE>
+	<FILE hash="10607114" name="napoleon_diplo">
+		<STRING hash="196275144">没有任何英王甘愿屈服于法国的专制君主。</STRING>
+		<STRING hash="921702610">我们英国人不像法国人，我们不会放弃自己的殖民地。我们绝不会考虑放弃任何一个殖民地。 怕你们忘了，我们早在 1763 年就从你们手中取得加拿大和印度。</STRING>
+		<STRING hash="150931759">我们不会与国王的叛徒协商。</STRING>
+		<STRING hash="568516512">我们瑞士人向来喜欢贸易，尤其是手表、巧克力等类似的商品。我们不做土地买卖。</STRING>
+		<STRING hash="449536732">没有海军的国家怎能处理海外的殖民地? 您是在消遣我们吧。</STRING>
+		<STRING hash="70416430">我们都爱好和平。</STRING>
+		<STRING hash="86045529">我们都是好盟友。</STRING>
+		<STRING hash="604843977">如果要我们服从法国，请出个价来换取我们的自尊和价值。您出这个价，实在差太远了。</STRING>
+		<STRING hash="214508866">交易似乎合理了点，不过我们还是不能接受。</STRING>
+		<STRING hash="45915699">我们同意您的条件!</STRING>
+		<STRING hash="432968708">我们没有兴趣与您协商。我们只想征服贵国，欧洲将会是我们的天下。</STRING>
+		<STRING hash="258162342">我们已经是盟友了，不必再签订和平协议。</STRING>
+		<STRING hash="70035668">没错，就让我们结束这场恐怖的战争吧!</STRING>
+		<STRING hash="195097471">非常好。我们将结束这场战争，并签署您的和平条款。</STRING>
+		<STRING hash="201587037">好的，我们也需要一些时间，来准备下一次的突击行动。</STRING>
+		<STRING hash="178986281">是的，我们同意。和平对大家都有利。</STRING>
+		<STRING hash="196830738">条件非常好! 我们同意这份和平条约。</STRING>
+		<STRING hash="282812868">也许我们最好先谈和，再谈结盟。</STRING>
+		<STRING hash="28667321">真是个好主意!</STRING>
+		<STRING hash="116138985">苏丹认为，这是一场不错的游戏。</STRING>
+		<STRING hash="172406433">不用了，我们现在的盟友已经够多了。</STRING>
+		<STRING hash="359222075">我们已经考虑过类似的提议。相信我们彼此一定会合作愉快。</STRING>
+		<STRING hash="98137659">我们希望与法国合作。</STRING>
+		<STRING hash="60219225">没错! 我们要先摧毁谁?</STRING>
+		<STRING hash="254952077">没错! 现在，没有人可以阻挡$s0! 喔，不对，我是说$s0和$s1!</STRING>
+		<STRING hash="186030804">条件非常好! 我们同意这项结盟。</STRING>
+		<STRING hash="218383423">如果要我们提供协助，至少支付这么多的贡品。</STRING>
+		<STRING hash="198630764">这些条件真是少的可怜。我们需要更多。</STRING>
+		<STRING hash="189366780">只要比这个还少，我们就不会签订盟约。</STRING>
+		<STRING hash="180964565">是啊，谁不想加入拿破仑帝国呢?</STRING>
+		<STRING hash="224646203">您的提议还算不错，我们的军队会马上与您并肩作战。</STRING>
+		<STRING hash="113867821">无论如何，我们需要换政府。</STRING>
+		<STRING hash="90672259">我们同意。那么要先杀谁呢?</STRING>
+		<STRING hash="172654211">提议很公平。我们会成为您的藩属。</STRING>
+		<STRING hash="193379578">嗯，我们一直认定你的土地是我们的。</STRING>
+		<STRING hash="174869181">我们很欣赏这种态度。这省了我们不少时间。</STRING>
+		<STRING hash="331136588">虽然我们两国正在交战，但是我们愿意和解，前提是必须根据我们的条件。</STRING>
+		<STRING hash="66330431">这个交易很公平。我们接受。</STRING>
+		<STRING hash="182489676">陛下很高兴，我们达成这份协议。</STRING>
+		<STRING hash="115481436">这个交易很公平。不后悔!</STRING>
+		<STRING hash="112094490">非常好，我想我们都同意。</STRING>
+		<STRING hash="187273799">好吧，如果您最多只能做到这样，我想我们可以同意。</STRING>
+		<STRING hash="42164205">蛮公平的。我接受。</STRING>
+		<STRING hash="243571091">不行，这对我们民族不公平。我们认为应该是像这样。</STRING>
+		<STRING hash="203467566">我们不同意您的提议，不过，或许您会同意这个提议?</STRING>
+		<STRING hash="116271759">先前那个提议很好。但这个更好。</STRING>
+		<STRING hash="205021505">那个交易对我们不太公平。请考虑这项提议。</STRING>
+		<STRING hash="93816062">我们满怀感激，接受您的贡品。</STRING>
+		<STRING hash="22201777">非常感谢您!</STRING>
+		<STRING hash="178969743">您不需要任何回报吗? 随便你了。</STRING>
+		<STRING hash="427861469">您的赠礼来得正好! 现在我们可以升级首都的防御能力，达到无懈可击。</STRING>
+		<STRING hash="175483081">我们的君主很乐于收到这些赠礼。</STRING>
+		<STRING hash="114859917">我们投降了。我们会将这件贡品献给您。</STRING>
+		<STRING hash="206629898">我们觉得现在对您的需求让步，才是明智之举。</STRING>
+		<STRING hash="57888995">够了! 够了! 请放我们一条生路。</STRING>
+		<STRING hash="182815262">凭什么要我们付给您? 应该是您付给我们才对!</STRING>
+		<STRING hash="200999449">这真是无法无天! 我们绝不容许这样的敲诈。</STRING>
+		<STRING hash="115462695">当真? 别拿我开玩笑。</STRING>
+		<STRING hash="217783634">您没有任何条件可以让我们放弃独立。</STRING>
+		<STRING hash="180435386">我们不会为了这样微薄的代价，放弃自由。</STRING>
+		<STRING hash="254456942">如果您要我们听从，就必须给我们更多。</STRING>
+		<STRING hash="192455612">我们伟大的民族绝不会向暴政低头。</STRING>
+		<STRING hash="337312105">我们绝不会为这么点东西出卖自己民族。目前您没有足以吸引我们的东西。</STRING>
+		<STRING hash="311983950">为什么我们要同意和平? 我们从攻击可以获得更多。</STRING>
+		<STRING hash="76264722">只有笨蛋才会签那份条约!</STRING>
+		<STRING hash="134021399">要靠您的全面破坏才会结束这场战争。</STRING>
+		<STRING hash="243319077">我们才不像您那样软弱，这场战争我们将会坚持到最后。</STRING>
+		<STRING hash="174500249">看不出这对我们有任何利益。我们不接受。</STRING>
+		<STRING hash="368368031">我们伟大的民族不需要和您们这种人结盟。而且，我们就是喜欢欺侮弱小。</STRING>
+		<STRING hash="621766239">在不同的情况下，也许我们会考虑与您结盟。很抱歉，我们不能接受您的提议。</STRING>
+		<STRING hash="402888531">您的民族无法提供紧急的协助。我们没有多余时间浪费在您身上。</STRING>
+		<STRING hash="199708652">过几个回合后，当您有我们所感兴趣的条件时，再回来找我们。</STRING>
+		<STRING hash="164281389">您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="87034289">这个交易比较符合我们的喜好。</STRING>
+		<STRING hash="188772689">我们绝对不会向法国专制君主屈服。</STRING>
+		<STRING hash="186271542">不好意思，您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="221083251">要我们同意这项交易，您必须提供更多给我们。</STRING>
+		<STRING hash="183994371">等您征服更多的领域时，我们再来交涉。</STRING>
+		<STRING hash="268324888">您目前没有任何东西能迫使我们签那协议。</STRING>
+		<STRING hash="459783390">我们不是来这里协商提议的细节。您应该趁机会赶快接受提议。</STRING>
+		<STRING hash="424384834">您以为我们真的在意这次的交易。这些协议全部取消!</STRING>
+		<STRING hash="442711818">您以为是在跟谁讨价还价? 您忘了自己的地位。这次讨论到此为止。</STRING>
+		<STRING hash="357208835">如果您想要讨论家臣制度，就必须从协商中移除领域。</STRING>
+		<STRING hash="470425936">您以为我们真的在意这次的交易吗? 如果不接受我们的条件，一切免谈。</STRING>
+		<STRING hash="396791957">您以为我们真的要来协商吗? 如果不接受我们的条件，一切免谈。</STRING>
+		<STRING hash="152117702">您是来谈判，还是来浪费我们的时间?</STRING>
+		<STRING hash="207952698">我们厌烦您的把戏。提出像样的提议，不然就别谈了!</STRING>
+		<STRING hash="267330760">很明显地，贵国不善于谈判。</STRING>
+		<STRING hash="439121001">我们并不是到此一游。如果这是您所能提出的最佳提议，也许我们应该结束协商。</STRING>
+		<STRING hash="207300490">那是我生平中见过最差劲的提议。是不是在开玩笑?</STRING>
+		<STRING hash="1475128">波兰人</STRING>
+		<STRING hash="2079703">瑞典人</STRING>
+		<STRING hash="5634325">萨丁尼亚岛人</STRING>
+		<STRING hash="1783919">萨克逊人</STRING>
+		<STRING hash="1256409">班图人</STRING>
+		<STRING hash="4480869">普鲁士人</STRING>
+		<STRING hash="14671356">马尔他骑士团</STRING>
+		<STRING hash="4991502">葡萄牙人</STRING>
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="421028632">如果您想要讨论家臣制度，就必须从协商中移除领域和殖民地。</STRING>
+		<STRING hash="349220716">如果您想要讨论家臣制度，就必须从协商中移除殖民地。</STRING>
+		<STRING hash="474629436">如果你以为我们会和一个法国小将军谈判，那你就错了。讨论到此为止。</STRING>
+	</FILE>
+	<FILE hash="22351294" name="napoleon_diplo_offer">
+		<STRING hash="1385639306">威尼西亚的领域距离我们的奥地利首都，比距离巴黎更近。如果您愿意用威尼西亚来换取比利时，相信双方都可以受惠。交易过程中，我们也会签订和平条约。</STRING>
+		<STRING hash="380143602">奥地利政府认为，这场战争必须结束。您愿意签订和平条约吗?</STRING>
+		<STRING hash="190709178">不用再发生冲突了。我们愿意和平协议。</STRING>
+		<STRING hash="495482098">因为我们的奥地利盟友已经背弃我们，奥地利政府决定对法国提出和平条约。</STRING>
+		<STRING hash="918803144">我们知道照顾殖民地的辛苦。所以英王乔治三世陛下愿意施恩，接下您统治路易斯安那州的负担。您用不着感谢他。</STRING>
+		<STRING hash="738375332">您已经打败普鲁士，我们认为这场战争没有必要继续下去。只要您同意，让我们继续控制东西普鲁士，我们会签订和平条约。</STRING>
+		<STRING hash="265598423">您为什么一直攻击我们? 持续的交战，对双方都没有好处。</STRING>
+		<STRING hash="336649526">法皇拿破仑，您又再次打败我们，您现在有没有兴趣谈和呢?</STRING>
+		<STRING hash="175905054">这场战争伤及双方帝国。我们不要再打了。</STRING>
+		<STRING hash="802732569">您的军力展示令我们印象深刻。您已经巧妙地从我们的作战方式，学到不少东西。我们希望与您结盟。</STRING>
+		<STRING hash="884019252">为了维护我们巴尔干领域的和平，麻烦已经够多了。所以，为了报答您送回我们的原有领土，我们会签订和平条约来补偿您。</STRING>
+		<STRING hash="180927075">我们觉得不必再继续打这场战。</STRING>
+		<STRING hash="464660357">哈布斯堡王室再也无法容忍，您现身在义大利南部。请马上离开，我们会好好补偿您。</STRING>
+		<STRING hash="278420754">现在是您离开义大利南部的时候。请马上离开，我们会补偿您的。</STRING>
+		<STRING hash="238984075">我们不想与法国发生争执。让我们结束彼此的争端吧。</STRING>
+		<STRING hash="191212398">我们两国之间不要再战。</STRING>
+		<STRING hash="509219941">我们没有兴趣再和您打战，让我们和谈，我们会将巴西的殖民地送给您。</STRING>
+		<STRING hash="837875404">我们没有兴趣再和您打战，让我们和谈，我们会将远东地区南海的澳门殖民地送给您。</STRING>
+		<STRING hash="385393684">我们曾经协助您作战。现在是我们要求您这位盟友报答的时候了。</STRING>
+		<STRING hash="514051930">我们已经与法国开始交战。现在，如果您愿意继续维持这段盟友关系，必须对我们的忠诚有所报偿。</STRING>
+		<STRING hash="568989941">结盟本于诚信、善意和共同的目标。法国已经达到目标。现在也应该帮助荷兰达到这个目标。</STRING>
+		<STRING hash="236111748">斐特烈威廉陛下很乐意与法国结盟。</STRING>
+		<STRING hash="729504849">斐特烈威廉陛下很感谢您照顾他的领域，现在是归还我们的时候了。我们会提供优渥的补偿。</STRING>
+		<STRING hash="115919781">波兰是萨克逊人合法的资产。</STRING>
+		<STRING hash="230308850">为了要支配欧洲中部，我们需要贡品。</STRING>
+		<STRING hash="258729559">我们认为，结盟是目前最适当的动作。</STRING>
+		<STRING hash="279680485">我们认为，和平条约是目前最适当的动作。</STRING>
+		<STRING hash="561794232">我们对欧洲西部的事务没有兴趣，不过在那里结盟，也许可以空出一些军队，调往其他地方打战。</STRING>
+		<STRING hash="499208510">我们对欧洲西部的事务没有兴趣。我们来签订和平条约，集中精力在其他地方。</STRING>
+		<STRING hash="206361813">国王，您一直是很好的朋友。我们来签署结盟吧。</STRING>
+		<STRING hash="215173941">国王，这场战争不会有好结果。我们来签订和平条约吧。</STRING>
+		<STRING hash="466090594">对于这场战争，奥地利人想要与击败奥军的伟大将军，来讨论外交解决之道。</STRING>
+		<STRING hash="2000285">接受</STRING>
+		<STRING hash="2245578">拒绝</STRING>
+		<STRING hash="260406479">奥地利人对这场永无止尽的战争感到厌烦。他们想要举行协商，来结束战争。</STRING>
+		<STRING hash="237380801">英国外交官想要与您讨论外交事宜。</STRING>
+		<STRING hash="218862464">英国外交官已经抵达，想要就我们其中一个殖民地来磋商议价。</STRING>
+		<STRING hash="403835900">俄罗斯沙皇亚历山大一世想要达成协议，结束两国之间的战争。</STRING>
+		<STRING hash="375851769">奥皇法兰西斯一世希望与您谈谈，化解我们之间的歧见。</STRING>
+		<STRING hash="317038173">普鲁士外交官已经抵达，希望讨论目前的法普关系。</STRING>
+		<STRING hash="396537502">鄂图曼土耳其帝国的苏丹，想要解决法国目前与他们之间的争端。</STRING>
+		<STRING hash="433248594">不列颠乔治三世希望与您商谈两国目前的冲突。</STRING>
+		<STRING hash="656482967">奥地利人对于我们入侵义大利感到愤慨。他们想要与您协商，达成让双方都满意的协议。</STRING>
+		<STRING hash="588662996">教廷国对于我们入侵义大利感到不悦。他们想要与您协商，达成让双方都满意的协议。</STRING>
+		<STRING hash="295319578">荷兰人不想再与我们持续交战，已经来协商了。</STRING>
+		<STRING hash="429419494">西班牙人想要坐下来谈判，希望结束目前与法国的敌对状态。</STRING>
+		<STRING hash="304483193">葡萄牙女王玛丽亚皇后一世想要与您谈谈法葡两国的关系。</STRING>
+		<STRING hash="281341168">我的盟友巴伐利亚人想就他们持续的支援，讨论应得的报酬。</STRING>
+		<STRING hash="243576600">我的盟友萨克逊人想就他们持续的支援，讨论应得的报酬。</STRING>
+		<STRING hash="361671679">荷兰威廉五世想要就他持续的支援，谈谈应得的报酬。</STRING>
+		<STRING hash="257061461">斐特烈威廉一世想要讨论普法的外交关系。</STRING>
+		<STRING hash="239806789">普鲁士人已经邀请我们到谈判桌协商。</STRING>
+		<STRING hash="207304135">萨克逊的斐特烈奥古斯特一世希望与您会谈。</STRING>
+		<STRING hash="142293109">瑞士人要求您的召见。</STRING>
+		<STRING hash="269622059">鄂图曼帝国的苏丹想要讨论我们两国的关系。</STRING>
+		<STRING hash="197086462">瑞典人想要与您坐下来谈判。</STRING>
+		<STRING hash="250117378">对于这场战争，奥地利人想要讨论可能的外交解决之道。</STRING>
+		<STRING hash="274822451">奥地利人对这场永无止尽的战争感到厌烦。他们想要进行协商，来结束战争。</STRING>
+		<STRING hash="246885021">英国大使想要与您讨论外交事宜。</STRING>
+		<STRING hash="230603736">英国外交官想要讨论，我们其中一个殖民地的状态。</STRING>
+		<STRING hash="427076144">俄罗斯沙皇亚历山大一世想要讨论协议，结束两国战争。</STRING>
+		<STRING hash="291528613">奥皇法兰西斯一世希望达成协议，化解我们之间的歧见。</STRING>
+		<STRING hash="323640156">普鲁士外交官已经抵达，希望讨论目前的法普关系。</STRING>
+		<STRING hash="466817845">不列颠乔治三世希望与您协商，结束两国目前的冲突。</STRING>
+		<STRING hash="684884980">奥地利人对于我们入侵义大利感到愤慨。他们想要讨论让双方都满意的协议。</STRING>
+		<STRING hash="609125254">教廷国对于我们入侵义大利感到不悦。他们希望讨论让双方都满意的协议。</STRING>
+		<STRING hash="290999191">我的盟友巴伐利亚人想就他们持续的支援，讨论应得的报酬。</STRING>
+		<STRING hash="257711827">我的盟友萨克逊人想就他们持续的支援，讨论应得的报酬。</STRING>
+	</FILE>
+	<FILE hash="9329244" name="napoleon_init">
+		<STRING hash="722043473">虽然我们革命成功，但青年将军仍未成气候，无法主导法国的外交政策!</STRING>
+		<STRING hash="1054242774">指挥在马赛的义大利军队，去攻占皮蒙特在萨丁尼亚岛上的领土，或指挥巴黎西部的军队，去镇压法国保皇党在勃艮第的叛乱。</STRING>
+	</FILE>
+	<FILE hash="19597142" name="napoleon_post_turn">
+		<STRING hash="434310154">萨伏衣国已经决定加入法兰西共和国。他们对您在皮蒙特的胜利印象深刻。</STRING>
+		<STRING hash="324283142">奥地利人为了答谢在伦巴底拯救他们，已经与我们签订和平条约。</STRING>
+		<STRING hash="304936551">奥地利人为了答谢在伦巴底拯救他们，已经与我们签署结盟。</STRING>
+		<STRING hash="263515778">奥地利人为了答谢在伦巴底拯救他们，已经给我们 50 个单位的贡品。</STRING>
+		<STRING hash="440692508">基于您在上一场战役中的胜利令人印象深刻，萨丁尼亚岛已经决定成为法国的藩属。</STRING>
+		<STRING hash="1240685">热诺亚</STRING>
+		<STRING hash="298622967">为了纪念热诺亚人在上一场战役中的牺牲精神，您已经将皮蒙特改名为热诺亚。</STRING>
+		<STRING hash="376169882">摩拉维亚的人民已经选择加入普鲁士人，而不是选择在您的统治下继续生存。</STRING>
+		<STRING hash="352748180">摩拉维亚的人民已经选择加入萨克逊人，而不是选择在您的统治下继续生存。</STRING>
+		<STRING hash="386801883">摩拉维亚的人民已经选择加入巴伐利亚人，而不是选择在您的统治下继续生存。</STRING>
+		<STRING hash="367887893">摩拉维亚的人民已经选择加入俄罗斯人，而不是选择在您的统治下继续生存。</STRING>
+		<STRING hash="1823033881">我们藉由征服了西班牙首都，控制路易斯安那领域，也藉此取得密西西比河全部的控制权。美国人向来对密西西比河自由通行权有兴趣。只要我们待得够久，他们一定会找我们协商。</STRING>
+		<STRING hash="615806446">美国的使节来询问密西西比河的航行权。您要召见他吗?</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="671650921">美国使节: 我们愿意购买纽奥尔良市，来保障在密西西比河上自由通行。我们出价 25 个单位的贡品。</STRING>
+		<STRING hash="571788">出售</STRING>
+		<STRING hash="4801461">不卖</STRING>
+		<STRING hash="13384589">提供路易斯安那州</STRING>
+		<STRING hash="447674685">美国使节: 您是一位非常明理的统治者。很荣幸完成这笔交易。</STRING>
+		<STRING hash="307672020">美国使节: 非常遗憾。希望您可以重新考虑。</STRING>
+		<STRING hash="617562490">美国使节:  您不同意这个价格，实在令人遗憾。我们可不可以用 25 个单位的贡品来买纽奥尔良呢?</STRING>
+		<STRING hash="22541376">您已经被放逐!</STRING>
+		<STRING hash="-1710961553">您已经惨败。法国人已经背弃您，而您的对手也将您从欧陆流放到小岛艾尔巴。不过，您仍有一线希望。如果您能逃出来，而且打嬴胜仗，法国人一定会再次接受您成为他们的领袖。嬴得战役，让法国重回光荣的时代。</STRING>
+		<STRING hash="15847397">遣逃回国!</STRING>
+		<STRING hash="1192084707">您必须了解在您流亡期间，欧洲改变很多。您的反对者已经在法国北方的低地国家集结军力。如果您要拯救法国，就必须攻击比利时，击溃您的敌人。</STRING>
+		<STRING hash="-1940893784">法国人与大多数人一样，对于屡战屡胜的人给予欢呼喝采，可是一旦失败则遭人唾弃。您的子民废除了您的王位，旧时仇敌也迫使您流亡。现在，敌人已经将您囚禁在一个远离欧洲的小岛上，让您永远都逃不出去。属于您的光荣岁月就此划上句点。</STRING>
+		<STRING hash="658078996">您已经给督政府留下深刻的印象。由于法国对义大利的外岛很有兴趣，现在授命您去攻占科西嘉岛。</STRING>
+		<STRING hash="1902297519">您已经给督政府留下深刻的印象。他们命令您继续进入义大利北部，占领奥地利领域伦巴底。此外，您已经击败巴黎西部的军队，所以督政府正全力支持您，并给您一张金属经济繁荣加分卡。</STRING>
+		<STRING hash="729728208">督政府对您上一场战役的结果感到失望。他们送给您一张佣兵加分卡，希望您不要再重蹈覆辙。</STRING>
+		<STRING hash="1570612281">督政府要求您解释清楚。您应该是去攻击皮蒙特或勃艮第，而不是待在法国，沈迷于既得的名利! 您现在别无选择，因为在巴黎西部的军队已经离营脱逃。赶快带领马赛的军队去占领皮蒙特。</STRING>
+		<STRING hash="1124493353">您的进展让督政府印象深刻。他们将您的军队召回皮蒙特，让您征服教廷国。他们已经提供一张政治文宣加分卡来协助您作战。</STRING>
+		<STRING hash="784660243">督政府对您最近的协商感到满意。他们希望您这一次遵守命令，来征服教廷国的首都塔斯卡尼。</STRING>
+		<STRING hash="419147406">督政府命令您继续挺进义大利，进入严密防守的领域威尼西亚。</STRING>
+		<STRING hash="1718478642">继最近出兵频频传出捷报，督政府发出两个不同的命令，让您趁胜出击: 领军入侵西班牙，或是领军去征服北非。请选择您要指挥的军队，开始进攻!</STRING>
+		<STRING hash="1924285553">督政府命令您与您的军队返回巴黎。他们要您将英国人赶出布列塔尼，刻不容缓。此外，您已经击败在马赛的义大利军队，所以督政府全力支持您，并给予您一张食物经济繁荣加分卡。</STRING>
+		<STRING hash="848534264">督政府对您上一场战役的结果感到失望。他们会给您更多的部队来进行下一场战役，希望您不要再重蹈覆辙。</STRING>
+		<STRING hash="596683179">督政府命令您与您的军队返回巴黎。他们要您将奥地利人赶出比利时，刻不容缓。</STRING>
+		<STRING hash="1718820985">继最近出兵频频传出捷报，督政府发出两个不同的命令，让您趁胜出击: 领军入侵西班牙，或是领军去征服北非。请选择您要指挥的军队，开始进攻!</STRING>
+		<STRING hash="504837274">督政府恭喜您屡战屡胜。攻占西班牙的领域塞维尔，能够进一步继续取悦他们。</STRING>
+		<STRING hash="772112639">督政府很高兴，不过，要等到您占领西班牙首都领域卡斯提亚之后，将西班牙统治者赶下台，他们才会真的高兴。</STRING>
+		<STRING hash="532803510">利比亚国欢迎我们的军队，没有抵抗。督政府命令您前进掠夺埃及的宝藏。</STRING>
+		<STRING hash="186004813">督政府希望您取得叙利亚的控制权。</STRING>
+		<STRING hash="12759365">国王加冕!</STRING>
+		<STRING hash="-1916720339">您在战场上的胜利，已经让您成为巴黎举杯歌颂的人物。利用您旺盛的人气，您已经把自己加冕为「法国皇帝」。您现在完全掌控法兰西帝国。虽然您最喜欢在欧洲大陆上随心所欲，不过，如果打算用您的旗帜来统一欧洲，您必须运用外交手段。</STRING>
+		<STRING hash="9176178">返回地图</STRING>
+		<STRING hash="968325826">一支新型的轻步兵 - 皇家卫队，已经受命前来保护您。皇家卫队的生命点数和防御力比火枪兵强。可以在您的军营训练他们。</STRING>
+		<STRING hash="722043473">虽然我们革命成功，但青年将军仍未成气候，无法主导法国的外交政策!</STRING>
+		<STRING hash="1276622936">为了让奸诈的英国，也就是大不列颠臣服，您必须建立强大的海军。不过，您必须先判断入侵不列颠群岛的价值，才能妥善地运用资源。 (您有 $d0 个单位的贡品)。</STRING>
+		<STRING hash="2910595">支付 100</STRING>
+		<STRING hash="1632344">支付 50</STRING>
+		<STRING hash="6207567">不支付</STRING>
+		<STRING hash="115987246">可惜您没有 100 个单位的贡品。</STRING>
+		<STRING hash="106952612">可惜您没有 50 个单位的贡品。</STRING>
+		<STRING hash="587841711">很好。只要再多 25 个单位的贡品，我们也就能派遣一支诱敌鉴队，降低大不列颠的防御力。(您有 $d0 个单位的贡品)</STRING>
+		<STRING hash="531958522">为了报复我们征服布兰登堡，东西普鲁士的总督容许俄罗斯占据他们的领域!</STRING>
+		<STRING hash="435672511">有一群拓荒着要求资金去建立新的殖民地。您愿意给他们 70 个单位的贡品作为资金吗?</STRING>
+		<STRING hash="960934068">我们派出的拓荒者已有消息回报，以法国之名，他们已经建立了殖民地$STRING0。我们从现在开始会从那里收到贡品和稀有资源。</STRING>
+		<STRING hash="1054242774">指挥在马赛的义大利军队，去攻占皮蒙特在萨丁尼亚岛上的领土，或指挥巴黎西部的军队，去镇压法国保皇党在勃艮第的叛乱。</STRING>
+		<STRING hash="235523265">征服科西嘉岛，扩展法国在地中海的领土。</STRING>
+		<STRING hash="329901388">征服奥地利领域伦巴底，来继续征服义大利北部。</STRING>
+		<STRING hash="289091124">攻击教廷国的首都塔斯卡尼，征服整个义大利南部。</STRING>
+		<STRING hash="286858082">在威尼西亚击败奥地利人，完成您征服义大利北部的目标。</STRING>
+		<STRING hash="204907201">将英国人赶出布列塔尼，才能继续统一法国。</STRING>
+		<STRING hash="190298224">从奥地利夺取比利时，来扩展法国的领土。</STRING>
+		<STRING hash="1060643799">指挥在波尔多的南部军队，去攻占西班牙的领土阿拉贡，或指挥马赛的远东军队，去攻占土耳其的领土突尼西亚。</STRING>
+		<STRING hash="206070205">夺取塞维尔领域，来继续征服西班牙。</STRING>
+		<STRING hash="370982364">在首都领域卡斯提亚击败西班牙人，完成您征服西班牙的目标。</STRING>
+		<STRING hash="306087937">占领埃及的阿拉伯奴隶兵领域，来继续征服北非。</STRING>
+		<STRING hash="369848295">夺取鄂图曼领土叙利亚，扩展法国在地中海东岸的势力。</STRING>
+		<STRING hash="27832641">扩展您的影响力。</STRING>
+		<STRING hash="1016574441">一支新型的轻步兵 - 帝国卫队，已经受命前来保护您。帝国卫队的生命点数和防御力比火枪兵强。可以在您的军营训练他们。</STRING>
+		<STRING hash="184068599">欧洲其他国家拒绝与您协商。</STRING>
+		<STRING hash="1630967311">为了让奸诈的英国，也就是大不列颠臣服，您必须建立强大的海军。不过，您必须先判断入侵不列颠群岛的价值，才能妥善地运用资源。 (您有 $d0 个单位的贡品)。</STRING>
+		<STRING hash="596423340">很好。只要再多 25 个单位的贡品，我们也就能派遣一支诱敌鉴队，降低大不列颠的防御力。(您有 $d0 个单位的贡品)</STRING>
+		<STRING hash="-1605424813">为了让奸诈的英国，也就是大不列颠臣服，不过，您必须先判断入侵不列颠群岛的价值，才能妥善地运用资源。花费更多贡品，就可以建构更庞大的舰队从法国攻击大不列颠 (您有 $d0 个单位的贡品)。</STRING>
+		<STRING hash="979818522">美国使节: 太意外了! 我真的没有权利来核准这么庞大的交易，但我又怎能拒绝呢? 我们愿意用 150 个单位的贡品，来交换路易斯安那领域。</STRING>
+		<STRING hash="607905812">由于没有民族肯承认您是法国的合法领袖，所以您无法进行协商或打出战略加分卡。</STRING>
+		<STRING hash="1575501299">您已经给督政府留下深刻的印象。他们命令您继续进入义大利北部，占领奥地利领域伦巴底。此外，您已经击败巴黎的西部军队，所以督政府正全力支持您，并给您 25 单位的贡品。</STRING>
+		<STRING hash="176729667">小心失败，因为你会因此流亡外国。</STRING>
+		<STRING hash="1605834">大溪地</STRING>
+		<STRING hash="6902529">马达加斯加</STRING>
+		<STRING hash="1053572">海地</STRING>
+		<STRING hash="991702047">美国使节: 太意外了! 我真得没有权利核准这么庞大的一笔交易，但我又怎能拒绝呢? 我们愿意用 150 个单位的贡品来交换路易斯安那领域。</STRING>
+	</FILE>
+	<FILE hash="12436890" name="portugalruntime">
+		<STRING hash="405911052">到访的大不列颠密使: 我们希望代表我们的葡萄牙友邦来与您对谈。</STRING>
+		<STRING hash="1518462">听从。</STRING>
+		<STRING hash="7389039">不听。</STRING>
+		<STRING hash="1447832016">我们知道，您已经让葡萄牙国王深陷困境。我们希望和平解决。只要您同意和葡萄牙签订和平条约，马上离开这个地方，我们也会与您签订和平条约。</STRING>
+		<STRING hash="17260705">签订和平条约。</STRING>
+		<STRING hash="4803036">不签。</STRING>
+		<STRING hash="43569638">与葡萄牙和谈。</STRING>
+		<STRING hash="64653754">与大不列颠和谈。</STRING>
+		<STRING hash="1501684512">我们知道，您已经让葡萄牙国王深陷困境。我们希望和平解决; 如果您不同意和葡萄牙签订和平条约，马上离开这个地方，我们只好被迫采取行动!</STRING>
+		<STRING hash="103979208">大不列颠已经向您宣战!</STRING>
+	</FILE>
+	<FILE hash="12202353" name="pyramidsruntime">
+		<STRING hash="42056244">占领敌人首都。</STRING>
+		<STRING hash="265613437">提示: 先占领海岸的亚历山大港，再深入内陆。</STRING>
+		<STRING hash="128473547">提示: 未收复的领域造成损耗。</STRING>
+		<STRING hash="1068171725">陛下，我们应该把$STRING0的城市统治权移交给埃及人。毕竟我们攻打的是阿拉伯奴隶兵，不是埃及人。何况，这样可以获得埃及人全面的善意。</STRING>
+		<STRING hash="2166865">我同意</STRING>
+		<STRING hash="1996727">不行</STRING>
+		<STRING hash="1772669682">您已经解放埃及人 (紫色)。根据协议，我们不会在埃及建造任何新的城市。不过，因为他们需要我们提供军事支援，所以埃及人可以协助建造我们的军事建筑。如果您选取他们的一个市民，他会暂时变成我们这一队。</STRING>
+		<STRING hash="637464393">而且，埃及人为了感谢我们解救他们，愿意缴税给我们。应该对埃及人 (紫色) 贸易课征多少的税率呢?</STRING>
+		<STRING hash="417618">50%</STRING>
+		<STRING hash="251653">33%</STRING>
+		<STRING hash="415233">20%</STRING>
+		<STRING hash="895306220">埃及人愿意将他们资源生产的 50% 给我们。查看一下左上角的资源搜集率，就可以知道目前每一项资源的税金。</STRING>
+		<STRING hash="892968309">埃及人愿意将他们资源生产的 33% 给我们。查看一下左上角的资源搜集率，就可以知道目前每一项资源的税金。</STRING>
+		<STRING hash="895163369">埃及人愿意将他们资源生产的 20% 给我们。查看一下左上角的资源搜集率，就可以知道目前每一项资源的税金。</STRING>
+		<STRING hash="493518268">由于您在亚历山大港对埃及人的人性对待，所以罗瑟塔的人民毫不抵抗就将城市献给您。</STRING>
+		<STRING hash="484234682">由于您在罗瑟塔对埃及人的人性对待，所以亚历山大港的人民毫不抵抗就将城市献给您。</STRING>
+		<STRING hash="1001904189">有许多阿拉伯奴隶兵 (蓝色) 已经逃到山腰。我们现在要开始担心他们会不会入侵。唯一阻止他们的方法是摧毁他们在城市的要塞里以及往西部和南部的要塞。</STRING>
+		<STRING hash="282069995">摧毁阿拉伯奴隶兵 (蓝色) 城市的要塞，以及西部到南部的要塞。</STRING>
+		<STRING hash="243130739">提示: 选取埃及市民以建造军事建筑。</STRING>
+	</FILE>
+	<FILE hash="9394079" name="pyramidssetup">
+		<STRING hash="3981397">阿拉伯奴隶兵</STRING>
+		<STRING hash="4447723">埃及人</STRING>
+	</FILE>
+	<FILE hash="4029589" name="romesetup">
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="560387">罗马</STRING>
+		<STRING hash="5232303">布拉夏诺</STRING>
+		<STRING hash="1514526">提弗利</STRING>
+	</FILE>
+	<FILE hash="9288958" name="russiaruntime">
+		<STRING hash="49137003">占领敌人首都。</STRING>
+		<STRING hash="30343911">提示: 占领斯墨蓝斯克。</STRING>
+		<STRING hash="278060883">俄罗斯游击队已经放火烧$s0! 市中心也已经被夷为平地!</STRING>
+		<STRING hash="31174661">提示: 占领波罗第诺。</STRING>
+		<STRING hash="520768923">俄罗斯人已经表示他们会奋斗到底! 守住莫斯科，拖到计时器终止，这样就可以击败他们了!</STRING>
+		<STRING hash="84447146">占领莫斯科，拖延到计时器终止。</STRING>
+		<STRING hash="758832859">占领$s0已经提高补给线的安全性。您现在可以用 5 个单位的贡品来买 5 辆补给车，或用 5 个单位的贡品来买 5 支加农炮。(您有 $d1。)</STRING>
+		<STRING hash="1705210">补给车</STRING>
+		<STRING hash="2497024">加农炮</STRING>
+		<STRING hash="4547367">不买</STRING>
+		<STRING hash="222851116">可惜，您没有足够的贡品可以买更多的补给车。</STRING>
+		<STRING hash="227515357">可惜，您没有足够的贡品可以买更多的加农炮。</STRING>
+	</FILE>
+	<FILE hash="4420279" name="scansetup">
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="622909">奥斯陆</STRING>
+		<STRING hash="8449507">克利欣珊</STRING>
+		<STRING hash="5199515">哥本哈根</STRING>
+	</FILE>
+	<FILE hash="7870656" name="syriaruntime">
+		<STRING hash="110225766">提示: 收买敌人来加入我方。</STRING>
+		<STRING hash="253655593">土耳其民兵已经将$STRING0夷为平地，不让我们占领。</STRING>
+		<STRING hash="96146518">我们征召了一队火枪手。</STRING>
+		<STRING hash="90108853">我们征召了一队燧枪兵。</STRING>
+		<STRING hash="41786137">我们征召了一名轻骑军。</STRING>
+		<STRING hash="64965151">我们补充了一辆补给车。</STRING>
+		<STRING hash="57824781">我们征召了一名胸甲骑兵。</STRING>
+		<STRING hash="53450581">我们征召了一名马其顿骑兵。</STRING>
+		<STRING hash="42453596">我们补充了一支加农炮。</STRING>
+		<STRING hash="199444728">利用从摧毁建筑所取得的掠夺物，来建造新的单位。</STRING>
+	</FILE>
+	<FILE hash="17509208" name="transylvaniasetup">
+		<STRING hash="4542655">奥地利人</STRING>
+		<STRING hash="12136588">外西凡尼亚人</STRING>
+		<STRING hash="10703799">议会领袖</STRING>
+		<STRING hash="5051721">弗拉德特佩斯</STRING>
+		<STRING hash="13453649">村议会</STRING>
+	</FILE>
+	<FILE hash="8985469" name="turkeyruntime">
+		<STRING hash="190598992">我们在伊斯坦堡城市发现新的民事科技。</STRING>
+		<STRING hash="201061012">我们在伊斯坦堡城市发现新的商业科技。</STRING>
+		<STRING hash="199935311">我们在伊斯坦堡城市发现新的科学科技。</STRING>
+		<STRING hash="200714916">我们在伊斯坦堡城市发现新的军事科技。</STRING>
+		<STRING hash="169049179">我们在伊斯坦堡城市发现 300 个单位的财富。</STRING>
+		<STRING hash="411040397">布尔萨的人民已经告诉我们的探索者，如何看得更远。探索者已经延伸他们的视线。</STRING>
+		<STRING hash="442627207">我们已经向安卡拉当地的一位商人征收 5 只战象。现在就给您运用。</STRING>
+		<STRING hash="604277737">法马哥斯塔的人民已经教我们，如何在这些水域钓到更多鱼。我们的渔船现在可以搜集多 25% 的食物和多 10% 的财富。</STRING>
+		<STRING hash="365402029">阿达纳的一些市民已经同意，协助您马上同化您占领的下一个城市。</STRING>
+		<STRING hash="197938403">我们在哈拉布城市发现新的军事科技。</STRING>
+		<STRING hash="197553637">我们在哈拉布城市发现新的科学科技。</STRING>
+		<STRING hash="198284499">我们在哈拉布城市发现新的商业科技。</STRING>
+		<STRING hash="189100152">我们在哈拉布城市发现新的民事科技。</STRING>
+		<STRING hash="142829429">我们在哈拉布城市发现 300 单位的财富。</STRING>
+	</FILE>
+	<FILE hash="6613063" name="turkeysetup">
+		<STRING hash="9496664">鄂图曼土耳其人</STRING>
+		<STRING hash="2214953">安卡拉</STRING>
+		<STRING hash="1491378">阿达纳</STRING>
+		<STRING hash="1655769">哈拉布</STRING>
+		<STRING hash="3693128">伊斯坦堡</STRING>
+		<STRING hash="1406418">布尔萨</STRING>
+	</FILE>
+	<FILE hash="9328728" name="wagramruntime">
+		<STRING hash="401489600">占领奥地利 (蓝色) 的城市亚斯伯恩和艾斯林，让一些奥地利人加入我们这一边。</STRING>
+		<STRING hash="198345373">提示: 小心奥地利人在维也纳的反击。</STRING>
+		<STRING hash="42056244">占领敌人首都。</STRING>
+		<STRING hash="271905428">在我们占领亚斯伯恩和艾斯林之后，奥地利判国者成群投靠我们这一边。</STRING>
+		<STRING hash="181514591">占领奥地利 (蓝色) 的亚斯伯恩和艾斯林。</STRING>
+	</FILE>
+	<FILE hash="6956322" name="wagramsetup">
+		<STRING hash="4542655">奥地利人</STRING>
+	</FILE>
+	<FILE hash="12163677" name="waterlooruntime">
+		<STRING hash="162544109">占领滑铁卢，击败所有敌军。</STRING>
+		<STRING hash="194876195">建立滑铁卢的防御并击败所有敌方军队。</STRING>
+	</FILE>
+	<FILE hash="9355403" name="waterloosetup">
+		<STRING hash="4480869">普鲁士人</STRING>
+	</FILE>
+	<FILE hash="6396799" name="swedensetup">
+		<STRING hash="4132815">斯德哥尔摩</STRING>
+		<STRING hash="3753592">言雪平</STRING>
+		<STRING hash="3212793">哥特堡</STRING>
+	</FILE>
+	<FILE hash="698472" name="rome2">
+		<STRING hash="19708841">拿破仑</STRING>
+		<STRING hash="6971851">教宗庇护二世</STRING>
+		<STRING hash="1378053">加艾塔</STRING>
+		<STRING hash="560387">罗马</STRING>
+		<STRING hash="5232303">布拉夏诺</STRING>
+		<STRING hash="3902550">且维特里</STRING>
+	</FILE>
+	<FILE hash="5718379" name="maltasetup">
+		<STRING hash="14671356">马尔他骑士团</STRING>
+	</FILE>
+	<FILE hash="8769205" name="swedenruntime">
+		<STRING hash="42360484">提示: 捕鱼来搜集食物。</STRING>
+	</FILE>
+	<FILE hash="7764713" name="leipzigsetup">
+		<STRING hash="9237148">联军</STRING>
+		<STRING hash="33863742">斐特烈威廉三世</STRING>
+		<STRING hash="18272897">圣达尼老二世</STRING>
+		<STRING hash="24410354">威廉五世</STRING>
+		<STRING hash="10598325">乔治三世</STRING>
+		<STRING hash="33044676">查尔斯狄奥多选侯</STRING>
+		<STRING hash="24818571">孔代亲王</STRING>
+	</FILE>
+	<FILE hash="21493688" name="transylvaniaruntime">
+		<STRING hash="73208856">摧毁弗拉德特佩斯 (紫色) 的堡垒。</STRING>
+		<STRING hash="899851">同意</STRING>
+		<STRING hash="2939154">不同意</STRING>
+		<STRING hash="216418496">非常感谢您。我们会尽全力协助您。</STRING>
+		<STRING hash="141451090">占领村议会 (蓝色) 的首都。</STRING>
+		<STRING hash="1001931276">谢天谢地总算有军队来了。可怕的弗拉德特佩斯 (紫色) 爵士威胁我们的村庄。我们真怕要是没人帮助，他就要征服我们了。您愿意帮助我们吗?</STRING>
+	</FILE>
+</ROOT>

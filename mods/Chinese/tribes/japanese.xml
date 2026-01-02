@@ -1,0 +1,54 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Brian Reynolds (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="日本人">
+	<LEADERS>
+		<LEADER>卑弥呼女王</LEADER>
+		<LEADER>平将门</LEADER>
+		<LEADER>源赖朝将军</LEADER>
+		<LEADER>足利尊氏将军</LEADER>
+		<LEADER>织田信长</LEADER>
+		<LEADER>德川家康将军</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>京都</CITY>
+		<CITY>奈良</CITY>
+		<CITY>名古屋</CITY>
+		<CITY>大阪</CITY>
+		<CITY>伏见</CITY>
+		<CITY>姬路</CITY>
+		<CITY>平户</CITY>
+		<CITY>平泉</CITY>
+		<CITY>弘前</CITY>
+		<CITY>伊势</CITY>
+		<CITY>出云</CITY>
+		<CITY>金泽</CITY>
+		<CITY>小仓</CITY>
+		<CITY>神户</CITY>
+		<CITY>熊本</CITY>
+		<CITY>松江</CITY>
+		<CITY>松本</CITY>
+		<CITY>松山</CITY>
+		<CITY>水户</CITY>
+		<CITY>都城</CITY>
+		<CITY>新泻</CITY>
+		<CITY>能代</CITY>
+		<CITY>小田原</CITY>
+		<CITY>大垣</CITY>
+		<CITY>小樽</CITY>
+		<CITY>界</CITY>
+		<CITY>仙台</CITY>
+		<CITY>下田</CITY>
+		<CITY>下关</CITY>
+		<CITY>高松</CITY>
+		<CITY>德岛</CITY>
+		<CITY>浦贺</CITY>
+		<CITY>宇和岛</CITY>
+		<CITY>山口</CITY>
+		<CITY>横滨</CITY>
+		<CITY>米子</CITY>
+		<CITY>米泽</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>3 Asian   </UNIT_CONTINENT>
+	<BUILD_CONTINENT>2 Asian</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

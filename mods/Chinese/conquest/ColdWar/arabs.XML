@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="阿拉伯人">
+  <LEADERS>
+    <LEADER>石油输出国家组织</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>德黑兰</CITY>
+    <CITY>巴格达</CITY>
+    <CITY>耶路撒冷</CITY>
+    <CITY>贝鲁特</CITY>
+    <CITY>利雅德</CITY>
+    <CITY>阿列坡</CITY>
+    <CITY>杜拜</CITY>
+    <CITY>麦什德</CITY>
+    <CITY>塔布里兹</CITY>
+    <CITY>设拉子</CITY>
+    <CITY>库姆</CITY>
+    <CITY>麦加</CITY>
+    <CITY>麦地那</CITY>
+    <CITY>特拉维夫</CITY>
+    <CITY>摩苏尔</CITY>
+    <CITY>乌尔</CITY>
+    <CITY>伊尔比尔</CITY>
+    <CITY>巴斯拉</CITY>
+    <CITY>卡巴拉</CITY>
+    <CITY>安曼</CITY>
+    <CITY>科威特巿</CITY>
+    <CITY>的黎波里</CITY>
+    <CITY>苏尔</CITY>
+    <CITY>马斯喀特马全</CITY>
+    <CITY>沙拉拉</CITY>
+    <CITY>希布伦</CITY>
+    <CITY>拉法</CITY>
+    <CITY>杜哈</CITY>
+    <CITY>海法</CITY>
+    <CITY>吉达</CITY>
+    <CITY>大马士革</CITY>
+    <CITY>阿布达比</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 Europe</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

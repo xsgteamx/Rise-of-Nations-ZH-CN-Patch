@@ -1,0 +1,43 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="拉科塔人">
+  <LEADERS>
+    <LEADER>疯马</LEADER>
+    <LEADER>坐着的公牛</LEADER>
+    <LEADER>红云</LEADER>
+    <LEADER>两次击倒</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>马卡西卡</CITY>
+    <CITY>木尼索塔</CITY>
+    <CITY>瓦帕拉沙帕</CITY>
+    <CITY>沙科匹</CITY>
+    <CITY>特顿华</CITY>
+    <CITY>西西顿万</CITY>
+    <CITY>帕亚拜亚</CITY>
+    <CITY>佩如塔金</CITY>
+    <CITY>奥格拉拉</CITY>
+    <CITY>塔皮斯莱卡</CITY>
+    <CITY>基亚克沙</CITY>
+    <CITY>瓦加吉</CITY>
+    <CITY>伊提西卡</CITY>
+    <CITY>奥湖皮</CITY>
+    <CITY>瓦格路西</CITY>
+    <CITY>黑脚部落</CITY>
+    <CITY>下西江古</CITY>
+    <CITY>上西江古</CITY>
+    <CITY>明尼康佐</CITY>
+    <CITY>奥荷诺帕</CITY>
+    <CITY>瓦罕欧朱</CITY>
+    <CITY>曼卡图</CITY>
+    <CITY>马加坦卡</CITY>
+    <CITY>帕哈沙帕</CITY>
+    <CITY>奥努威加</CITY>
+    <CITY>曼丹</CITY>
+    <CITY>希达察</CITY>
+    <CITY>曼克哈托</CITY>
+    <CITY>明尼欧帕</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>4 Iroquois</UNIT_CONTINENT>
+  <BUILD_CONTINENT>6 Iroquois</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>6 Iroquois</BACKUP_BUILD_CONTINENT>
+</TRIBE>

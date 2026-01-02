@@ -1,0 +1,53 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="波斯人">
+  <LEADERS>
+    <LEADER>阿西提斯</LEADER>
+    <LEADER>阿萨米斯</LEADER>
+    <LEADER>欧戎托巴提斯</LEADER>
+    <LEADER>米南德</LEADER>
+    <LEADER>艾达皇后</LEADER>
+    <LEADER>米萨尼斯</LEADER>
+    <LEADER>斯皮色瑞达提斯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>迦克墩</CITY>
+    <CITY>赫拉克里亚庞帝加</CITY>
+    <CITY>辛诺普</CITY>
+    <CITY>亚米塞斯</CITY>
+    <CITY>泽拉</CITY>
+    <CITY>奈萨</CITY>
+    <CITY>泰纳</CITY>
+    <CITY>索利</CITY>
+    <CITY>塔尔萨斯</CITY>
+    <CITY>坡迦</CITY>
+    <CITY>阿斯宾德斯</CITY>
+    <CITY>米拉萨</CITY>
+    <CITY>阿拉班达</CITY>
+    <CITY>坎那斯</CITY>
+    <CITY>太米萨斯</CITY>
+    <CITY>桑索斯</CITY>
+    <CITY>士每拿</CITY>
+    <CITY>马格尼西亚</CITY>
+    <CITY>赛姆</CITY>
+    <CITY>列贝多斯</CITY>
+    <CITY>马拉萨斯</CITY>
+    <CITY>阿拉杜斯</CITY>
+    <CITY>尼西比斯</CITY>
+    <CITY>卡雷</CITY>
+    <CITY>阿列坡</CITY>
+    <CITY>埃姆萨</CITY>
+    <CITY>大马士革</CITY>
+    <CITY>撒马利亚</CITY>
+    <CITY>阿布瓦南</CITY>
+    <CITY>艾立斯莱亚</CITY>
+    <CITY>达希林</CITY>
+    <CITY>伊利昂</CITY>
+    <CITY>安唐卓斯</CITY>
+    <CITY>安卡拉</CITY>
+    <CITY>夕拿达</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>5 EIndian</UNIT_CONTINENT>
+  <BUILD_CONTINENT>8 EIndian</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>8 EIndian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

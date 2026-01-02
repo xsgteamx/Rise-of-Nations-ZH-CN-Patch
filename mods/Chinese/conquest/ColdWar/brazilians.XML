@@ -1,0 +1,37 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="巴西人">
+  <LEADERS>
+    <LEADER>林荷瑞斯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>巴西利亚</CITY>
+    <CITY>里约热内卢</CITY>
+    <CITY>圣保罗</CITY>
+    <CITY>阿雷格港</CITY>
+    <CITY>海息飞</CITY>
+    <CITY>古里提巴</CITY>
+    <CITY>好景市</CITY>
+    <CITY>萨尔瓦多</CITY>
+    <CITY>玛瑙斯</CITY>
+    <CITY>马卡帕</CITY>
+    <CITY>贝伦</CITY>
+    <CITY>佛塔雷沙</CITY>
+    <CITY>纳塔尔</CITY>
+    <CITY>圣多斯</CITY>
+    <CITY>圣马利亚</CITY>
+    <CITY>蓬塔格罗萨</CITY>
+    <CITY>里约布兰科</CITY>
+    <CITY>马瑟欧</CITY>
+    <CITY>萨尔瓦多</CITY>
+    <CITY>维多利亚</CITY>
+    <CITY>弗洛里亚诺波利斯</CITY>
+    <CITY>阿拉加左</CITY>
+    <CITY>夫列西夫</CITY>
+    <CITY>德里仙那</CITY>
+    <CITY>维留港</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>4 Iroquois</UNIT_CONTINENT>
+  <BUILD_CONTINENT>6 Iroquois</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>6 Iroquois</BACKUP_BUILD_CONTINENT>
+</TRIBE>

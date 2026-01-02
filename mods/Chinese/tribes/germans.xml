@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Brian Reynolds (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="德国人">
+  <LEADERS>
+    <LEADER>西哥特人亚拉里克</LEADER>
+    <LEADER>斐特烈大帝</LEADER>
+    <LEADER>奥托·冯·俾斯麦</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>柏林</CITY>
+    <CITY>维也纳</CITY>
+    <CITY>波昂</CITY>
+    <CITY>慕尼黑</CITY>
+    <CITY>汉堡</CITY>
+    <CITY>科隆</CITY>
+    <CITY>莱比鍚</CITY>
+    <CITY>德勒斯登</CITY>
+    <CITY>吕北克</CITY>
+    <CITY>罗斯托克</CITY>
+    <CITY>马格德堡</CITY>
+    <CITY>布朗史威克</CITY>
+    <CITY>耳弗特</CITY>
+    <CITY>威腾堡</CITY>
+    <CITY>雷根斯堡</CITY>
+    <CITY>林茨</CITY>
+    <CITY>康斯坦玆</CITY>
+    <CITY>奥斯堡</CITY>
+    <CITY>纽伦堡</CITY>
+    <CITY>胡斯堡</CITY>
+    <CITY>特里尔</CITY>
+    <CITY>美因茨</CITY>
+    <CITY>史特拉斯堡</CITY>
+    <CITY>卢特屈</CITY>
+    <CITY>布兰登堡</CITY>
+    <CITY>科布伦茨</CITY>
+    <CITY>海德堡</CITY>
+    <CITY>杜塞尔多夫</CITY>
+    <CITY>基尔</CITY>
+    <CITY>法兰克福</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

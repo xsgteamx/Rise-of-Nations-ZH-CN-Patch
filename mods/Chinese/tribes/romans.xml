@@ -1,0 +1,61 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Brian Reynolds (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="罗马人">
+  <LEADERS>
+    <LEADER>凯撒大帝</LEADER>
+    <LEADER>奥古斯都大帝 </LEADER>
+    <LEADER>图雷真皇帝</LEADER>
+    <LEADER>马可斯奥勒留皇帝</LEADER>
+    <LEADER>哈德连皇帝</LEADER>
+    <LEADER>克劳迪斯皇帝</LEADER>
+    <LEADER>君士坦丁皇帝</LEADER>
+    <LEADER>查士丁尼大帝</LEADER>
+    <LEADER>希奥多拉女帝</LEADER>
+    <LEADER>莉薇雅女帝</LEADER>
+    <LEADER>薇比雅萨宾娜女帝</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>罗马</CITY>
+    <CITY>君士坦丁堡</CITY>
+    <CITY>邱米</CITY>
+    <CITY>安提乌姆</CITY>
+    <CITY>亚拉冈古都</CITY>
+    <CITY>维依</CITY>
+    <CITY>布林地西姆</CITY>
+    <CITY>安科纳</CITY>
+    <CITY>阿来提乌</CITY>
+    <CITY>利吉姆</CITY>
+    <CITY>那不勒斯</CITY>
+    <CITY>科菲纽</CITY>
+    <CITY>路卡</CITY>
+    <CITY>热诺亚</CITY>
+    <CITY>哥沙</CITY>
+    <CITY>比萨</CITY>
+    <CITY>巴马</CITY>
+    <CITY>布克森屯</CITY>
+    <CITY>莎朵妮雅</CITY>
+    <CITY>斯波列提乌</CITY>
+    <CITY>克罗敦</CITY>
+    <CITY>阿克埃赛克提埃</CITY>
+    <CITY>卢迪南</CITY>
+    <CITY>阿瓦利昆</CITY>
+    <CITY>阿奎莱亚</CITY>
+    <CITY>莫迪欧南</CITY>
+    <CITY>克雷蒙纳</CITY>
+    <CITY>慕提纳</CITY>
+    <CITY>底耳哈琴</CITY>
+    <CITY>佩鲁西亚</CITY>
+    <CITY>贝内温图</CITY>
+    <CITY>艾莫里塔奥古斯塔</CITY>
+    <CITY>文多波纳</CITY>
+    <CITY>杜罗科尔托罗</CITY>
+    <CITY>科隆尼亚亚格平娜</CITY>
+    <CITY>申腾塞拉伊</CITY>
+    <CITY>保诺尼亚</CITY>
+    <CITY>亚尼米林</CITY>
+    <CITY>塞美内伦</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

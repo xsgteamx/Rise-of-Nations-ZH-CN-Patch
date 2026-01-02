@@ -1,0 +1,39 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="瑞士人" substitute="1">
+  <LEADERS>
+    <LEADER>福斯特肯顿</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>伯恩</CITY>
+    <CITY>苏黎世</CITY>
+    <CITY>日内瓦</CITY>
+    <CITY>沙夫豪森</CITY>
+    <CITY>巴塞尔</CITY>
+    <CITY>温特图尔</CITY>
+    <CITY>圣加伦</CITY>
+    <CITY>比尔</CITY>
+    <CITY>纽夏特</CITY>
+    <CITY>琉森</CITY>
+    <CITY>图恩</CITY>
+    <CITY>弗莱堡</CITY>
+    <CITY>洛桑</CITY>
+    <CITY>科尔</CITY>
+    <CITY>卢加诺</CITY>
+    <CITY>奥坦</CITY>
+    <CITY>策马特</CITY>
+    <CITY>蒙投</CITY>
+    <CITY>索洛图恩</CITY>
+    <CITY>迈林根</CITY>
+    <CITY>安德马特</CITY>
+    <CITY>圣莫里兹</CITY>
+    <CITY>蓬特雷西纳</CITY>
+    <CITY>阿斯科纳</CITY>
+    <CITY>达弗斯</CITY>
+    <CITY>波斯基亚</CITY>
+    <CITY>楚格</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>1 NEuro</BACKUP_BUILD_CONTINENT>
+</TRIBE>

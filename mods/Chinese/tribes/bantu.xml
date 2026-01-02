@@ -1,0 +1,50 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="班图人">
+  <LEADERS>
+    <LEADER>沙卡王</LEADER>
+    <LEADER>赛斯瓦约王</LEADER>
+    <LEADER>丁安纳王</LEADER>
+    <LEADER>南笛女王</LEADER>
+    <LEADER>慕卡比女王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>大辛巴威</CITY>
+    <CITY>基耳瓦</CITY>
+    <CITY>哥科美勒</CITY>
+    <CITY>马布维尼</CITY>
+    <CITY>马拉巴提</CITY>
+    <CITY>帕拉波瓦</CITY>
+    <CITY>札卡</CITY>
+    <CITY>索法拉</CITY>
+    <CITY>马托拉</CITY>
+    <CITY>卡米</CITY>
+    <CITY>丹巴瓦</CITY>
+    <CITY>干杜</CITY>
+    <CITY>卢布希</CITY>
+    <CITY>丹巴拉雷</CITY>
+    <CITY>卡伦杜</CITY>
+    <CITY>印哥巴</CITY>
+    <CITY>卡普威林巴威</CITY>
+    <CITY>昌德威</CITY>
+    <CITY>基布辛</CITY>
+    <CITY>塔德威</CITY>
+    <CITY>坎善西</CITY>
+    <CITY>罗安札夫</CITY>
+    <CITY>巴瓦纳库巴瓦</CITY>
+    <CITY>马乌德朱</CITY>
+    <CITY>卡潘尼</CITY>
+    <CITY>圣加</CITY>
+    <CITY>坎纳马</CITY>
+    <CITY>恩康普</CITY>
+    <CITY>卡拉波</CITY>
+    <CITY>乌文札</CITY>
+    <CITY>克瓦尔</CITY>
+    <CITY>马邦克威</CITY>
+    <CITY>伊夫纳</CITY>
+    <CITY>马内克威尼</CITY>
+    <CITY>纳拉塔尔</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab    </UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

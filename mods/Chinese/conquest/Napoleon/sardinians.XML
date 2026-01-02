@@ -1,0 +1,41 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="萨丁尼亚岛人" substitute="1">
+  <LEADERS>
+    <LEADER>阿玛迪斯王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>卡利亚里</CITY>
+    <CITY>奥里斯坦诺</CITY>
+    <CITY>努奥罗</CITY>
+    <CITY>萨沙里</CITY>
+    <CITY>阿加洛</CITY>
+    <CITY>托勒斯港</CITY>
+    <CITY>利都普拉塔蒙纳</CITY>
+    <CITY>奥比亚</CITY>
+    <CITY>圣泰瑞莎加勒亚</CITY>
+    <CITY>阿巴塔克斯</CITY>
+    <CITY>夸图</CITY>
+    <CITY>伊格勒夏斯</CITY>
+    <CITY>卡波尼亚</CITY>
+    <CITY>维拉奇德罗</CITY>
+    <CITY>古斯匹尼</CITY>
+    <CITY>马格达莱纳</CITY>
+    <CITY>康特港</CITY>
+    <CITY>西尼斯</CITY>
+    <CITY>卡布拉斯</CITY>
+    <CITY>特塔利亚斯</CITY>
+    <CITY>乌塔</CITY>
+    <CITY>塞迪亚纳</CITY>
+    <CITY>萨达拉</CITY>
+    <CITY>桑路里</CITY>
+    <CITY>多利亚诺瓦</CITY>
+    <CITY>奥塔那</CITY>
+    <CITY>西兰努斯</CITY>
+    <CITY>阿达拉</CITY>
+    <CITY>奥吉艾里</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>1 NEuro</BACKUP_BUILD_CONTINENT>
+</TRIBE>

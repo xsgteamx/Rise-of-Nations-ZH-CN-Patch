@@ -1,0 +1,49 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="荷兰人">
+  <LEADERS>
+    <LEADER>贝亚特丽克丝</LEADER>
+    <LEADER>威廉三世</LEADER>
+    <LEADER>路易拿破仑</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>海牙</CITY>
+    <CITY>阿姆斯特丹</CITY>
+    <CITY>哈伦</CITY>
+    <CITY>台夫特</CITY>
+    <CITY>莱顿</CITY>
+    <CITY>高达</CITY>
+    <CITY>鹿特丹</CITY>
+    <CITY>哥昆</CITY>
+    <CITY>斯奇丹</CITY>
+    <CITY>雄荷芬</CITY>
+    <CITY>布利莱</CITY>
+    <CITY>阿克马</CITY>
+    <CITY>荷恩</CITY>
+    <CITY>艾登</CITY>
+    <CITY>窝登</CITY>
+    <CITY>乌德瓦特</CITY>
+    <CITY>豪斯登</CITY>
+    <CITY>窝昆</CITY>
+    <CITY>纳登</CITY>
+    <CITY>木丹</CITY>
+    <CITY>威斯特</CITY>
+    <CITY>维安纳</CITY>
+    <CITY>利尔丹</CITY>
+    <CITY>亚斯培恩</CITY>
+    <CITY>夫拉丁根</CITY>
+    <CITY>沙根</CITY>
+    <CITY>克朗德</CITY>
+    <CITY>乌特勒支</CITY>
+    <CITY>阿默斯福特</CITY>
+    <CITY>安恒</CITY>
+    <CITY>布列达</CITY>
+    <CITY>德文特</CITY>
+    <CITY>格罗宁根</CITY>
+    <CITY>坎朋</CITY>
+    <CITY>密德堡</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

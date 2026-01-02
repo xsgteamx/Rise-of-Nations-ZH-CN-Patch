@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Scott Lewis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Andy Clark (Big Huge Games) -->
+<ROOT>
+	<CAT hash="3630095">
+		<STRING hash="144179091" hash_i="144254483" needed="1">允许商队到结盟且和平的国家。</STRING>
+		<STRING hash="109448645" hash_i="110123043" needed="1">能够在市场买卖资源。</STRING>
+		<STRING hash="65524626" hash_i="65503050" needed="1">能够在海上运输单位。</STRING>
+		<STRING hash="47841210" hash_i="47916602" needed="1">能够殖民新大陆。</STRING>
+		<STRING hash="49944385" hash_i="50071323" needed="1">可看见盟友视线。</STRING>
+		<STRING hash="27256813" hash_i="27332205" needed="1">能够看见敌军边界。</STRING>
+		<STRING hash="46656408" hash_i="46642270" needed="1">整个地图已探索完成。</STRING>
+		<STRING hash="182550996" hash_i="182618702" needed="1">显示出您领域内的所有单位与建筑物。</STRING>
+		<STRING hash="185444026" hash_i="185429888" needed="1">显示整个地图，包括所有单位与建筑物。</STRING>
+		<STRING hash="175867710" hash_i="175853572" needed="1">敌军导弹不会在您的领域内爆炸。</STRING>
+		<STRING hash="72570973" hash_i="72638679" needed="1">世界末日时钟倒转 2 格。</STRING>
+		<STRING hash="199735905" hash_i="214961141" needed="1">以最大速率 (#ICON21 商业设限) 生产所有资源。</STRING>
+		<STRING hash="52830534" hash_i="52808958" needed="1">能够立刻生产单位。</STRING>
+		<STRING hash="79201232" hash_i="79276624" needed="1">商队能够反击敌军。</STRING>
+		<STRING hash="166030653" hash_i="179746329" needed="1">谷仓增加 $NUMBER0%  #ICON1 食物产量。</STRING>
+		<STRING hash="171157332" hash_i="186045100" needed="1">谷仓增加 $NUMBER0% #ICOIN1 食物产量。</STRING>
+		<STRING hash="96894344" hash_i="106362008" needed="1">渔夫搜集 +$NUMBER0% #ICON1 食物。</STRING>
+		<STRING hash="184973869" hash_i="194518543" needed="1">木材厂增加 $NUMBER0% #ICON2 木材产量。</STRING>
+		<STRING hash="166078205" hash_i="179566467" needed="1">冶鍊厂增加 $NUMBER0% #ICON5 金属产量。</STRING>
+		<STRING hash="210491964" hash_i="214318958" needed="1">寺庙增加城市对民族边界 +$NUMBER0 的作用。</STRING>
+		<STRING hash="133469093" hash_i="141754311" needed="1">寺庙增加 $NUMBER0% 城市生命点数。</STRING>
+		<STRING hash="154669543" hash_i="164056307" needed="1">寺庙增加 $NUMBER0% 城市战斗范围。</STRING>
+		<STRING hash="190473138" hash_i="193632166" needed="1">增加堡垒对民族边界的作用为 +$NUMBER0。</STRING>
+		<STRING hash="84938592" hash_i="86115138" needed="1">堡垒与塔楼的射程 +$NUMBER0。</STRING>
+		<STRING hash="168630552" hash_i="172591096" needed="1">堡垒与塔楼的驻守人数 +$NUMBER0。</STRING>
+		<STRING hash="74625840" hash_i="75830758" needed="1">堡垒与塔楼的视线 +$NUMBER0。</STRING>
+		<STRING hash="186982138" hash_i="188510740" needed="1">对您领域内敌军的损耗损害 (等级 1)。</STRING>
+		<STRING hash="205466638" hash_i="204395244" needed="1">增加对您领域内敌军的损耗损害 (等级 2)。</STRING>
+		<STRING hash="205522715" hash_i="204451321" needed="1">增加对您领域内敌军的损耗损害 (等级 3)。</STRING>
+		<STRING hash="205585320" hash_i="204513926" needed="1">增加对您领域内敌军的损耗损害 (等级 4)。</STRING>
+		<STRING hash="156760467" hash_i="164871007" needed="1">每位学者产生 +$NUMBER0 #ICON4 知识。</STRING>
+		<STRING hash="246423940" hash_i="254534480" needed="1">每位学者产生 +$NUMBER0 #ICON4 知识，且研究速度加倍。</STRING>
+		<STRING hash="157914388" hash_i="158821980" needed="1">生产步行与骑马部队的速度加快 (等级 1)。</STRING>
+		<STRING hash="153810355" hash_i="154717947" needed="1">生产步行与骑马部队的速度加快 (等级 2)。</STRING>
+		<STRING hash="153915924" hash_i="154823516" needed="1">生产步行与骑马部队的速度加快 (等级 3)。</STRING>
+		<STRING hash="185866805" hash_i="188445935" needed="1">增加步行与骑马部队的视线 (等级 1)。</STRING>
+		<STRING hash="180894172" hash_i="183473302" needed="1">增加步行与骑马部队的视线 (等级 2)。</STRING>
+		<STRING hash="180937235" hash_i="183516365" needed="1">增加步行与骑马部队的视线 (等级 3)。</STRING>
+		<STRING hash="55040700" hash_i="55328758" needed="1">生产船只的速度加快 (等级 1)。</STRING>
+		<STRING hash="52495733" hash_i="52783791" needed="1">生产船只的速度加快 (等级 2)。</STRING>
+		<STRING hash="52548180" hash_i="52836238" needed="1">生产船只的速度加快 (等级 3)。</STRING>
+		<STRING hash="184971908" hash_i="186725420" needed="1">驻守于建筑内时，单位治疗速度加快 (等级 1)。</STRING>
+		<STRING hash="179999275" hash_i="181752787" needed="1">驻守于建筑内时，单位治疗速度加快 (等级 2)。</STRING>
+		<STRING hash="180042338" hash_i="181795850" needed="1">驻守于建筑内时，单位治疗速度加快 (等级 3)。</STRING>
+		<STRING hash="93088932" hash_i="93650566" needed="1">建筑物建造速度加快 (等级 1)。</STRING>
+		<STRING hash="89845381" hash_i="90407015" needed="1">建筑物建造速度加快 (等级 2)。</STRING>
+		<STRING hash="89915772" hash_i="90477406" needed="1">建筑物建造速度加快 (等级 3)。</STRING>
+		<STRING hash="176155474" hash_i="184620142" needed="1">建筑物生命点数增加 $NUMBER0%  (等级 1)。</STRING>
+		<STRING hash="171534421" hash_i="179999089" needed="1">建筑物生命点数增加 $NUMBER0%  (等级 2)。</STRING>
+		<STRING hash="171570800" hash_i="180035468" needed="1">建筑物生命点数增加 $NUMBER0%  (等级 3)。</STRING>
+		<STRING hash="92567560" hash_i="93033962" needed="1">生产车辆单位速度加快 (等级 1)。</STRING>
+		<STRING hash="89324009" hash_i="89790411" needed="1">生产车辆单位速度加快 (等级 2)。</STRING>
+		<STRING hash="89394400" hash_i="89860802" needed="1">生产车辆单位速度加快 (等级 3)。</STRING>
+		<STRING hash="175566999" hash_i="177286423" needed="1">补给车增加范围/速度 (等级 1)。</STRING>
+		<STRING hash="171211908" hash_i="172931332" needed="1">补给车增加范围/速度 (等级 2)。</STRING>
+		<STRING hash="171335117" hash_i="173054541" needed="1">补给车增加范围/速度 (等级 3)。</STRING>
+		<STRING hash="401034947" hash_i="410005983" needed="1">您位于敌军领域的单位减少 $NUMBER0% 的损耗损害 (不移动或不作战时，则无损耗)。</STRING>
+		<STRING hash="210477311" hash_i="219448347" needed="1">您位于敌军领域的单位减少 $NUMBER0% 的损耗损害。</STRING>
+		<STRING hash="193269180" hash_i="193284552" needed="1">将军与间谍以两倍速度恢复其特殊功能。</STRING>
+		<STRING hash="165019048" hash_i="165034420" needed="1">以两倍速度生产将军与间谍。</STRING>
+		<STRING hash="105098061" hash_i="109803183" needed="1">将军与间谍降价 $NUMBER0%。</STRING>
+		<STRING hash="217309281" hash_i="217287459" needed="1">间谍能够以两倍速度贿络敌军单位与安置线民。</STRING>
+		<STRING hash="185014150" hash_i="190000068" needed="1">将军增加范围/生命点数/速度/视线 (等级 1)。</STRING>
+		<STRING hash="180393097" hash_i="185379015" needed="1">将军增加范围/生命点数/速度/视线 (等级 2)。</STRING>
+		<STRING hash="180429476" hash_i="185415394" needed="1">将军增加范围/生命点数/速度/视线 (等级 3)。</STRING>
+		<STRING hash="161882116" hash_i="165755826" needed="1">间谍增加射程/生命点数/速度/视线 (等级 1)。</STRING>
+		<STRING hash="157693629" hash_i="161567339" needed="1">间谍增加射程/生命点数/速度/视线 (等级 2)。</STRING>
+		<STRING hash="157804310" hash_i="161678020" needed="1">间谍增加射程/生命点数/速度/视线 (等级 3)。</STRING>
+		<STRING hash="451732932" hash_i="455597840" needed="1">可依据控制的世界领域百分比征税。税收率为 $NUMBER0% (等级 1)。</STRING>
+		<STRING hash="456958583" hash_i="463758193" needed="1">依据控制的世界领域百分比增加税收。税收率达到 $NUMBER0% (等级 2)。</STRING>
+		<STRING hash="457044780" hash_i="463844390" needed="1">依据控制的世界领域百分比增加税收。税收率达到 $NUMBER0% (等级 3)。</STRING>
+		<STRING hash="457142299" hash_i="463941909" needed="1">依据控制的世界领域百分比增加税收。税收率达到 $NUMBER0% (等级 4)。</STRING>
+		<STRING hash="399782665" hash_i="403310851" needed="1">将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 1)。</STRING>
+		<STRING hash="391150078" hash_i="394678264" needed="1">将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 2)。</STRING>
+		<STRING hash="391294959" hash_i="394823145" needed="1">将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 3)。</STRING>
+		<STRING hash="391449836" hash_i="394978022" needed="1">将商人 (及全部渔夫) 在盟友领域的搜集率增加为 $NUMBER0% (等级 4)。</STRING>
+		<STRING hash="47264117" hash_i="47336991" needed="1">建筑物建造速度加快 25%。</STRING>
+		<STRING hash="52106040" hash_i="52084598" needed="1">研究速度加快 25%。</STRING>
+		<STRING hash="37539725" hash_i="37517219" needed="1">生产部队速度加快 25%。</STRING>
+		<STRING hash="556997398" hash_i="576018538" needed="1">提高您的 #ICON21 商业设限及 #ICON20 人口设限至最大容许量，并增加资源生产 $NUMBER0%。</STRING>
+		<STRING hash="316363280" hash_i="319669830" needed="1">将军增加范围/生命点数/速度/视线，并增加单位防御力 (等级 1)。</STRING>
+		<STRING hash="308675629" hash_i="311982179" needed="1">将军增加范围/生命点数/速度/视线，并增加单位防御力 (等级 2)。</STRING>
+		<STRING hash="308780220" hash_i="312086770" needed="1">将军增加范围/生命点数/速度/视线，并增加单位防御力 (等级 3)。</STRING>
+		<STRING hash="186051172" hash_i="189828334" needed="1">补给车增加范围/速度/生命点数 (等级 1)。</STRING>
+		<STRING hash="181342023" hash_i="185119185" needed="1">补给车增加范围/速度/生命点数 (等级 2)。</STRING>
+		<STRING hash="181379872" hash_i="185157034" needed="1">补给车增加范围/速度/生命点数 (等级 3)。</STRING>
+		<STRING hash="314431875" hash_i="314499581" needed="1">瞬间赢得所有计时器胜利、城市同化，并消灭敌人首都。</STRING>
+		<STRING hash="504703001" hash_i="498267521" needed="1">将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 1)。</STRING>
+		<STRING hash="494144704" hash_i="487709224" needed="1">将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 2)。</STRING>
+		<STRING hash="494244761" hash_i="487809281" needed="1">将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 3)。</STRING>
+		<STRING hash="494356956" hash_i="487921476" needed="1">将商人 (及所有渔夫的非食物资源) 在盟友领域的搜集率增加为 $NUMBER0% (等级 4)。</STRING>
+		<STRING hash="165179027" hash_i="168565817" needed="1">可使用隐形轰炸机和先进战斗机。</STRING>
+		<STRING hash="125998989" hash_i="134055157" needed="1">塔楼及堡垒射程增加 +$NUMBER0%。</STRING>
+		<STRING hash="38372373" hash_i="39218445" needed="1">堡垒射程 +$NUMBER0。</STRING>
+		<STRING hash="31578535" hash_i="32510431" needed="1">堡垒视线 +$NUMBER0。</STRING>
+		<STRING hash="68179272" hash_i="69387892" needed="1">堡垒视线 +$NUMBER0。</STRING>
+		<STRING hash="188690342" hash_i="190311236" needed="1">生产战车、攻城及车辆单位加快 (等级 1)。</STRING>
+		<STRING hash="183804581" hash_i="185425475" needed="1">生产战车、攻城及车辆单位加快 (等级 2)。</STRING>
+		<STRING hash="183844950" hash_i="185465844" needed="1">生产战车、攻城及车辆单位加快 (等级 3)。</STRING>
+		<STRING hash="436154350" hash_i="451499334" needed="1">提高您的 #ICON21 商业设限至最大容许量，并增加资源生产 $NUMBER0%。</STRING>
+		<STRING hash="80801910" hash_i="84336400" needed="1">军事研究降价 $NUMBER0% 。</STRING>
+		<STRING hash="68026764" hash_i="73305166" needed="1">城市上限增加 $NUMBER0。</STRING>
+		<STRING hash="177106406" hash_i="189575374" needed="1">您部队的损耗损害减少 $NUMBER0%。</STRING>
+		<STRING hash="188634076" hash_i="194636398" needed="1">敌军部队的损耗损害增加 $NUMBER0%。</STRING>
+		<STRING hash="96725612" hash_i="101090380" needed="1">军营和马厩降价 $NUMBER0%。</STRING>
+		<STRING hash="39354009" hash_i="40977851" needed="1">奇迹降价 $NUMBER0%。</STRING>
+		<STRING hash="87067772" hash_i="93409494" needed="1">商业限制增加 $NUMBER0。</STRING>
+		<STRING hash="86570639" hash_i="92484737" needed="1">税收率增加 $NUMBER0%。</STRING>
+		<STRING hash="166339785" hash_i="175475777" needed="1">船只、商人与商队降价 $NUMBER0%。</STRING>
+		<STRING hash="174213996" hash_i="186637426" needed="1">斥候和船只视线增加 $NUMBER0。</STRING>
+		<STRING hash="39526173" hash_i="44052943" needed="1">民族边界 +$NUMBER0。</STRING>
+		<STRING hash="57630818" hash_i="60026862" needed="1">马厩单位降价 $NUMBER0%。</STRING>
+		<STRING hash="165669720" hash_i="175750940" needed="1">食物和金属生产增加 $NUMBER0%。</STRING>
+		<STRING hash="99888501" hash_i="104651125" needed="1">生产军营单位速度加快 $NUMBER0%。</STRING>
+		<STRING hash="70471621" hash_i="73545943" needed="1">奇迹建造成本便宜 $NUMBER0%。</STRING>
+		<STRING hash="61752133" hash_i="64355935" needed="1">船只建造成本便宜 $NUMBER0%。</STRING>
+		<STRING hash="99925864" hash_i="104366528" needed="1">地面单位生产成本便宜 $NUMBER0%。</STRING>
+		<STRING hash="182269798" hash_i="186914674" needed="1">建筑建造成本便宜 $NUMBER0% (奇迹除外)。</STRING>
+		<STRING hash="78239340" hash_i="82111690" needed="1">城市的同化速度加快 $NUMBER0%。</STRING>
+		<STRING hash="82916004" hash_i="88880290" needed="1">税收率增加 $NUMBER0。</STRING>
+		<STRING hash="130238244" hash_i="137181824" needed="1">船只和飞机的生产速度加快 $NUMBER0%。</STRING>
+		<STRING hash="74635324" hash_i="77925340" needed="1">奇迹建造成本便宜 $NUMBER0%。</STRING>
+		<STRING hash="108802954" hash_i="114968362" needed="1">商人和商队降价 $NUMBER0%。</STRING>
+		<STRING hash="183364647" hash_i="191993035" needed="1">军事研究及军营降价 $NUMBER0% 。</STRING>
+		<STRING hash="82630455" hash_i="88733059" needed="1">商业限制增加 $NUMBER0。</STRING>
+		<STRING hash="86110317" hash_i="92452039" needed="1">商业限制增加 $NUMBER0。</STRING>
+		<STRING hash="173990083" hash_i="182739779" needed="1">军营及马厩生产速度加快 $NUMBER0%。</STRING>
+		<STRING hash="118640689" hash_i="123801921" needed="1">非图书馆科技降价 $NUMBER0%。</STRING>
+		<STRING hash="54383524" hash_i="54451230" needed="1">空军单位不会增加成本。 </STRING>
+		<STRING hash="33603725" hash_i="36682749" needed="1">石油产量 +$NUMBER0%</STRING>
+		<STRING hash="708826280" hash_i="715468868" needed="1">军事研究和军营单位降价 $NUMBER0%; 获得专制君主 (可提供补给、视线、掠夺加分的将军)。</STRING>
+		<STRING hash="626259554" hash_i="632146718" needed="1">商业限制增加 $NUMBER0; 获得议员 (可提供治疗、建筑物防御/建筑速度加分的将军)。</STRING>
+		<STRING hash="710159880" hash_i="716665448" needed="1">军营和马厩生产速度加快 $NUMBER0%; 获得君主 (可提供补给、攻城、骑乘战斗优势的将军)。</STRING>
+		<STRING hash="717018516" hash_i="719579750" needed="1">非图书馆科技降价 $NUMBER0%; 获得总统 (可提供生产、建设、民兵优势的将军)。</STRING>
+		<STRING hash="553348181" hash_i="559015871" needed="1">空中单位没有暴增成本; 获得主席同志 (可提供补给、战斗、同化优势的将军)。</STRING>
+		<STRING hash="433710421" hash_i="443440011" needed="1">石油生产量 +$NUMBER0%; 获得总裁 (可提供资源和防御优势的将军)。</STRING>
+		<STRING hash="624034876" hash_i="629922040" needed="1">商业限制增加 $NUMBER0; 获得议员 (可提供治疗、行贿、建筑物防御加分的将军)。</STRING>
+		<STRING hash="722623155" hash_i="723683573" needed="1">马厩单位降价 $NUMBER0% 并提早完成; 获得君主 (可提供补给、攻城、骑乘战斗优势的将军)。</STRING>
+		<STRING hash="180889739" hash_i="184182287" needed="1">马厩单位降价 $NUMBER0% 并提早完成。</STRING>
+		<STRING hash="661314266" hash_i="663875500" needed="1">非图书馆科技降价 $NUMBER0%; 获得总统 (可提供生产、建设、治疗优势的将军)。</STRING>
+		<STRING hash="783216897" hash_i="788610393" needed="1">兵工厂、空军基地和码头单位便宜 20% 并较快完成; 获得主席同志 (可提供补给、战斗、同化优势的将军)。</STRING>
+		<STRING hash="500231088" hash_i="505352868" needed="1">获得 +100 单位石油收入和 500 单位石油; 获得总裁  (可提供防御、远距攻击和治疗优势的将军)。</STRING>
+		<STRING hash="786111280" hash_i="791504776" needed="1">Factory, airbase and dock units 10% cheaper and faster to build; receive The Comrade patriot (a general who also provides supply, combat and assimilation benefits).</STRING><STRING hash="499379441" hash_i="504501221" needed="1">Receive +150 oil income and 500 oil; receive The CEO patriot (a general who also provides defense, range, and healing benefits).</STRING></CAT>
+	<CAT hash="3573018">
+		<STRING hash="693695" hash_i="676295" needed="1">陆地</STRING>
+		<STRING hash="1147980" hash_i="1126158" needed="1">沙地的</STRING>
+		<STRING hash="1338397" hash_i="1318745" needed="1">海洋</STRING>
+		<STRING hash="1224015" hash_i="1299407" needed="1">海岸</STRING>
+		<STRING hash="1613382" hash_i="1597954" needed="1">森林</STRING>
+		<STRING hash="4404155" hash_i="4386949" needed="1">山地</STRING>
+		<STRING hash="1224793" hash_i="1203351" needed="1">岩石</STRING>
+		<STRING hash="336002" hash_i="316350" needed="1">石油</STRING>
+		<STRING hash="1456634" hash_i="1532026" needed="1">峭壁</STRING>
+	</CAT>
+	<CAT hash="9546836">
+		<STRING hash="558870" hash_i="541470" needed="1">阵线</STRING>
+		<STRING hash="2046690" hash_i="2025248" needed="1">屏障</STRING>
+		<STRING hash="2227817" hash_i="2213679" needed="1">包围</STRING>
+		<STRING hash="8580257" hash_i="8596309" needed="1">右梯队</STRING>
+		<STRING hash="7141685" hash_i="7194115" needed="1">左梯队</STRING>
+		<STRING hash="1720737" hash_i="1698915" needed="1">分散</STRING>
+		<STRING hash="1789870" hash_i="1768048" needed="1">矩形</STRING>
+		<STRING hash="811815" hash_i="787461" needed="1">楔形</STRING>
+		<STRING hash="1587059" hash_i="1662451" needed="1">纵列</STRING>
+		<STRING hash="561290" hash_i="544084" needed="1">围攻</STRING>
+	</CAT>
+	<CAT hash="7959911">
+		<STRING hash="595528" hash_i="541470" needed="1">阵线</STRING>
+		<STRING hash="2050142" hash_i="2025248" needed="1">屏障</STRING>
+		<STRING hash="2286171" hash_i="2213679" needed="1">包围</STRING>
+		<STRING hash="8129235" hash_i="8596309" needed="1">右梯队</STRING>
+		<STRING hash="6719729" hash_i="7194115" needed="1">左梯队</STRING>
+		<STRING hash="1534789" hash_i="1698915" needed="1">分散</STRING>
+		<STRING hash="1513880" hash_i="1768048" needed="1">矩形</STRING>
+		<STRING hash="841295" hash_i="787461" needed="1">楔形</STRING>
+		<STRING hash="1656317" hash_i="1662451" needed="1">纵列</STRING>
+		<STRING hash="325236" hash_i="544084" needed="1">围攻</STRING>
+	</CAT>
+</ROOT>

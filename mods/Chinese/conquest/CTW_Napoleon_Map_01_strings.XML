@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Scott Lewis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by J Cain (Big Huge Games) -->
+<ROOT>
+  <CAT hash="2131502">
+    <STRING hash="3017560" hash_i="2999286" needed="1">拿破仑</STRING>
+    <STRING hash="214639786" hash_i="214984782" needed="1">追随拿破仑的脚步，征服 1769 年的已知世界!</STRING>
+    <STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+    <STRING hash="-858600806" hash_i="-955174000" needed="1">拿破仑可说是历史上非常伟大的一位将军。这名出身于科西嘉岛的军官向世人证明了平民百姓也有可能罢黜君王。虽然后世对拿破仑的评价有褒有贬，但不可否认的是，当拿破仑的军队大举进攻欧洲时，他们同时也留下了许多激发法国大革命的共和思想。您可以选择追随拿破仑的脚步，或用自己的方式来征服世界!</STRING>
+    <STRING hash="0" hash_i="0" needed="1"/>
+  </CAT>
+  <CAT hash="7347124">
+    <STRING hash="9425217" hash_i="10067895" needed="1">大不列颠</STRING>
+    <STRING hash="18190644" hash_i="18294058" needed="1">挪威和丹麦</STRING>
+    <STRING hash="1429339" hash_i="1407517" needed="1">瑞典</STRING>
+    <STRING hash="1948712" hash_i="1927270" needed="1">俄罗斯</STRING>
+    <STRING hash="8645132" hash_i="8633834" needed="1">东普鲁士</STRING>
+    <STRING hash="1703101" hash_i="1682257" needed="1">波兰</STRING>
+    <STRING hash="4718115" hash_i="4697271" needed="1">波美拉尼亚</STRING>
+    <STRING hash="8525004" hash_i="8503490" needed="1">西普鲁士</STRING>
+    <STRING hash="2380471" hash_i="2362173" needed="1">汉诺威</STRING>
+    <STRING hash="2399840" hash_i="2381542" needed="1">荷兰</STRING>
+    <STRING hash="6914754" hash_i="6987628" needed="1">布兰登堡</STRING>
+    <STRING hash="2354083" hash_i="2332507" needed="1">乌克兰</STRING>
+    <STRING hash="1881359" hash_i="1859537" needed="1">萨克逊</STRING>
+    <STRING hash="2176717" hash_i="2249591" needed="1">比利时</STRING>
+    <STRING hash="927661" hash_i="909363" needed="1">黑森</STRING>
+    <STRING hash="2557090" hash_i="2535268" needed="1">西里西亚</STRING>
+    <STRING hash="2484779" hash_i="2557653" needed="1">波希米亚</STRING>
+    <STRING hash="5940061" hash_i="5915707" needed="1">西伐利亚</STRING>
+    <STRING hash="1132262" hash_i="1111418" needed="1">巴黎</STRING>
+    <STRING hash="2699860" hash_i="2681562" needed="1">匈牙利</STRING>
+    <STRING hash="2918925" hash_i="2901719" needed="1">摩拉维亚</STRING>
+    <STRING hash="3049246" hash_i="3122120" needed="1">勃艮第</STRING>
+    <STRING hash="3009474" hash_i="3082348" needed="1">巴伐利亚</STRING>
+    <STRING hash="3534761" hash_i="3607635" needed="1">布列塔尼</STRING>
+    <STRING hash="6655446" hash_i="6631092" needed="1">符腾堡</STRING>
+    <STRING hash="2676617" hash_i="2744323" needed="1">奥地利</STRING>
+    <STRING hash="4050282" hash_i="4025928" needed="1">瓦拉几亚</STRING>
+    <STRING hash="4514928" hash_i="4587802" needed="1">波尔多</STRING>
+    <STRING hash="6721601" hash_i="6699779" needed="1">瑞士</STRING>
+    <STRING hash="9184542" hash_i="9162036" needed="1">外西凡尼亚</STRING>
+    <STRING hash="18994470" hash_i="19033660" needed="1">伊利里亚地区</STRING>
+    <STRING hash="1251865" hash_i="1230043" needed="1">萨伏依</STRING>
+    <STRING hash="3627216" hash_i="3609816" needed="1">伦巴底</STRING>
+    <STRING hash="2569762" hash_i="2547404" needed="1">威尼西亚</STRING>
+    <STRING hash="2234697" hash_i="2310089" needed="1">卡斯提亚</STRING>
+    <STRING hash="5036274" hash_i="5019068" needed="1">马赛</STRING>
+    <STRING hash="2682896" hash_i="2755770" needed="1">巴尔干</STRING>
+    <STRING hash="2952074" hash_i="2931230" needed="1">皮蒙特</STRING>
+    <STRING hash="1701855" hash_i="1769561" needed="1">阿拉贡</STRING>
+    <STRING hash="3040331" hash_i="3017825" needed="1">塔斯卡尼</STRING>
+    <STRING hash="3390234" hash_i="3369390" needed="1">葡萄牙</STRING>
+    <STRING hash="3060016" hash_i="3135408" needed="1">科西嘉岛</STRING>
+    <STRING hash="1646287" hash_i="1623781" needed="1">土耳其</STRING>
+    <STRING hash="15215512" hash_i="15273512" needed="1">那不勒斯王国</STRING>
+    <STRING hash="2085442" hash_i="2063620" needed="1">塞维尔</STRING>
+    <STRING hash="3431765" hash_i="3409943" needed="1">萨丁尼亚岛</STRING>
+    <STRING hash="2178545" hash_i="2246251" needed="1">阿尔及尔</STRING>
+    <STRING hash="1313265" hash_i="1291443" needed="1">叙利亚</STRING>
+    <STRING hash="2628661" hash_i="2606155" needed="1">突尼西亚</STRING>
+    <STRING hash="1545034" hash_i="1527634" needed="1">利比亚</STRING>
+    <STRING hash="1054218" hash_i="1040080" needed="1">埃及</STRING>
+  </CAT>
+  <CAT hash="14987765">
+    <STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+  </CAT>
+  <CAT hash="7476607">
+    <STRING hash="1628340" hash_i="1605834" needed="1">大溪地</STRING>
+    <STRING hash="8540685" hash_i="9141221" needed="1">南非</STRING>
+    <STRING hash="671520" hash_i="650676" needed="1">秘鲁</STRING>
+    <STRING hash="1931782" hash_i="1914576" needed="1">墨西哥</STRING>
+    <STRING hash="6919735" hash_i="6902529" needed="1">马达加斯加</STRING>
+    <STRING hash="1577090" hash_i="1559884" needed="1">澳门</STRING>
+    <STRING hash="4854928" hash_i="4837528" needed="1">路易斯安那州</STRING>
+    <STRING hash="3471506" hash_i="3453036" needed="1">远东</STRING>
+    <STRING hash="1071870" hash_i="1053572" needed="1">海地</STRING>
+    <STRING hash="2221282" hash_i="2205426" needed="1">盖亚纳</STRING>
+    <STRING hash="1575761" hash_i="1651153" needed="1">锡兰</STRING>
+    <STRING hash="2189399" hash_i="2264791" needed="1">加拿大</STRING>
+    <STRING hash="1766679" hash_i="1839553" needed="1">巴西</STRING>
+    <STRING hash="2069258" hash_i="2136964" needed="1">阿拉斯加</STRING>
+    <STRING hash="1203598" hash_i="1186620" needed="1">印度</STRING>
+  </CAT>
+</ROOT>

@@ -1,0 +1,35 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="瑞典人" substitute="1">
+  <LEADERS>
+    <LEADER>古斯塔夫四世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>斯德哥尔摩</CITY>
+    <CITY>特朗罕</CITY>
+    <CITY>乌普赛拉</CITY>
+    <CITY>松兹瓦尔</CITY>
+    <CITY>翠勒堡</CITY>
+    <CITY>赫尔辛堡</CITY>
+    <CITY>维克休</CITY>
+    <CITY>奥勒布鲁</CITY>
+    <CITY>波兰哥</CITY>
+    <CITY>哥德堡</CITY>
+    <CITY>瓦兹特纳</CITY>
+    <CITY>维斯比</CITY>
+    <CITY>约克莫克</CITY>
+    <CITY>斯托路曼</CITY>
+    <CITY>耶夫勒</CITY>
+    <CITY>沙马</CITY>
+    <CITY>乌麦欧</CITY>
+    <CITY>奥斯特森</CITY>
+    <CITY>卢勒</CITY>
+    <CITY>哈内珊</CITY>
+    <CITY>胡第克斯瓦</CITY>
+    <CITY>林策平</CITY>
+    <CITY>言雪平</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,51 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="教廷国" substitute="1">
+  <LEADERS>
+    <LEADER>教宗庇护七世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>罗马</CITY>
+    <CITY>邱米</CITY>
+    <CITY>安提乌姆</CITY>
+    <CITY>亚拉冈古都</CITY>
+    <CITY>维依</CITY>
+    <CITY>布林地西姆</CITY>
+    <CITY>安科纳</CITY>
+    <CITY>阿来提乌</CITY>
+    <CITY>利吉姆</CITY>
+    <CITY>那不勒斯</CITY>
+    <CITY>科菲纽</CITY>
+    <CITY>路卡</CITY>
+    <CITY>热诺亚</CITY>
+    <CITY>哥沙</CITY>
+    <CITY>比萨</CITY>
+    <CITY>巴马</CITY>
+    <CITY>布克森屯</CITY>
+    <CITY>莎朵妮雅</CITY>
+    <CITY>斯波列提乌</CITY>
+    <CITY>克罗敦</CITY>
+    <CITY>阿克埃赛克提埃</CITY>
+    <CITY>卢迪南</CITY>
+    <CITY>阿瓦利昆</CITY>
+    <CITY>阿奎莱亚</CITY>
+    <CITY>莫迪欧南</CITY>
+    <CITY>克雷蒙纳</CITY>
+    <CITY>慕提纳</CITY>
+    <CITY>底耳哈琴</CITY>
+    <CITY>佩鲁西亚</CITY>
+    <CITY>贝内温图</CITY>
+    <CITY>艾莫里塔奥古斯塔</CITY>
+    <CITY>文多波纳</CITY>
+    <CITY>杜罗科尔托罗</CITY>
+    <CITY>科隆尼亚亚格平娜</CITY>
+    <CITY>申腾塞拉伊</CITY>
+    <CITY>保诺尼亚</CITY>
+    <CITY>亚尼米林</CITY>
+    <CITY>塞美内伦</CITY>
+    <CITY>卡托维治</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,48 @@
+
+
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="西班牙人" substitute="1">
+	<LEADERS>
+		<LEADER>伊莎贝拉女王</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>哈瓦那</CITY>
+		<CITY>安提瓜市</CITY>
+		<CITY>圣多明哥</CITY>
+		<CITY>罗亚尔港</CITY>
+		<CITY>圣胡安</CITY>
+		<CITY>圣荷西</CITY>
+		<CITY>波哥大 </CITY>
+		<CITY>圣萨尔瓦多</CITY>
+		<CITY>圣奥格斯汀</CITY>
+		<CITY>达里安</CITY>
+		<CITY>新巴塞隆纳</CITY>
+		<CITY>马拿瓜</CITY>
+		<CITY>卡拉卡斯</CITY>
+		<CITY>雷昂</CITY>
+		<CITY>雷阿尔城</CITY>
+		<CITY>维哥</CITY>
+		<CITY>科鲁尼亚</CITY>
+		<CITY>奥维多</CITY>
+		<CITY>毕尔包</CITY>
+		<CITY>潘普洛纳</CITY>
+		<CITY>莫西亚</CITY>
+		<CITY>格兰那达</CITY>
+		<CITY>桑坦德</CITY>
+		<CITY>阿兰蕙斯</CITY>
+		<CITY>阿曼沙</CITY>
+		<CITY>阿利甘地</CITY>
+		<CITY>欧苏纳</CITY>
+		<CITY>阿吉西拉斯</CITY>
+		<CITY>亚美利亚</CITY>
+		<CITY>塞哥维亚</CITY>
+		<CITY>巴达霍斯</CITY>
+		<CITY>塔拉韦拉</CITY>
+		<CITY>维多利亚</CITY>
+		<CITY>赫雷斯</CITY>
+		<CITY>希洪</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+	<BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

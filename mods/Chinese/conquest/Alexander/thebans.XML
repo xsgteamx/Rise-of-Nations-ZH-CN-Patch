@@ -1,0 +1,25 @@
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="底比斯人" substitute="1">
+  <LEADERS>
+    <LEADER>菲尼克斯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>霍扎</CITY>
+    <CITY>基俄斯</CITY>
+    <CITY>伊拉提亚</CITY>
+    <CITY>希拉克里亚</CITY>
+    <CITY>札拉克斯</CITY>
+    <CITY>帕拉提亚</CITY>
+    <CITY>科罗尼亚</CITY>
+    <CITY>塔那格拉</CITY>
+    <CITY>布利斯</CITY>
+    <CITY>欧帕斯</CITY>
+    <CITY>阿斯库拉</CITY>
+    <CITY>科罗涅亚</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

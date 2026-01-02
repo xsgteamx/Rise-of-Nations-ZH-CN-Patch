@@ -1,0 +1,32 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="巴伐利亚人" substitute="1">
+  <LEADERS>
+    <LEADER>查尔斯狄奥多选侯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>慕尼黑</CITY>
+    <CITY>兰修特</CITY>
+    <CITY>印格尔斯塔</CITY>
+    <CITY>罗森海姆</CITY>
+    <CITY>巴德妥兹</CITY>
+    <CITY>巴特赖兴哈尔</CITY>
+    <CITY>帕绍</CITY>
+    <CITY>德根多夫</CITY>
+    <CITY>克尔海姆</CITY>
+    <CITY>斯特洛丙</CITY>
+    <CITY>埃柏斯柏</CITY>
+    <CITY>福斯坦非布鲁</CITY>
+    <CITY>艾克斯塔</CITY>
+    <CITY>密耶斯贝</CITY>
+    <CITY>夫雷云</CITY>
+    <CITY>奴伯哥</CITY>
+    <CITY>玉兹堡</CITY>
+    <CITY>班堡</CITY>
+    <CITY>帕绍</CITY>
+    <CITY>林道</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

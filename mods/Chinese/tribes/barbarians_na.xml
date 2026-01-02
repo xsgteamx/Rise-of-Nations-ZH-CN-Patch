@@ -1,0 +1,48 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="卡曼契">
+  <LEADERS>
+    <LEADER>伊萨哈</LEADER>
+    <LEADER>库马奎</LEADER>
+    <LEADER>帕卡</LEADER>
+    <LEADER>恰马布鲁阿</LEADER>
+    <LEADER>卡纳瑞塔</LEADER>
+    <LEADER>托萨科瓦迪</LEADER>
+    <LEADER>沙布卡莎</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>夸哈鲁</CITY>
+    <CITY>霍伊斯</CITY>
+    <CITY>维狄努</CITY>
+    <CITY>诺蔻妮</CITY>
+    <CITY>佩纳特克</CITY>
+    <CITY>扬帕瑞卡</CITY>
+    <CITY>帕奇瑙</CITY>
+    <CITY>特尼马</CITY>
+    <CITY>特纳瓦</CITY>
+    <CITY>佩纳塔卡</CITY>
+    <CITY>克索塔卡</CITY>
+    <CITY>基瓦</CITY>
+    <CITY>卡撒</CITY>
+    <CITY>达赞</CITY>
+    <CITY>吉亚可</CITY>
+    <CITY>埃得希</CITY>
+    <CITY>印大</CITY>
+    <CITY>拉瑞塔</CITY>
+    <CITY>马汉</CITY>
+    <CITY>马哈娜</CITY>
+    <CITY>娜拉尼</CITY>
+    <CITY>纳尼塔</CITY>
+    <CITY>娜拉塔</CITY>
+    <CITY>纳塔</CITY>
+    <CITY>帕图库</CITY>
+    <CITY>桑科</CITY>
+    <CITY>索图</CITY>
+    <CITY>撒拉坎碰</CITY>
+    <CITY>塔阿卡若</CITY>
+    <CITY>延巴</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

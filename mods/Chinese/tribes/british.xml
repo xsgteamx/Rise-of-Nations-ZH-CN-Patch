@@ -1,0 +1,50 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Brian Reynolds (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="英国人">
+  <LEADERS>
+    <LEADER>亨利八世</LEADER>
+    <LEADER>狮心王理查</LEADER>
+    <LEADER>理查三世</LEADER>
+    <LEADER>亨利五世</LEADER>
+    <LEADER>征服者威廉</LEADER>
+    <LEADER>女王伊莉莎白一世</LEADER>
+    <LEADER>玛莉女王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>伦敦</CITY>
+    <CITY>爱丁堡</CITY>
+    <CITY>约克</CITY>
+    <CITY>萨利斯伯利</CITY>
+    <CITY>新堡</CITY>
+    <CITY>坎特伯里</CITY>
+    <CITY>诺丁罕</CITY>
+    <CITY>列斯特</CITY>
+    <CITY>诺威治</CITY>
+    <CITY>林肯</CITY>
+    <CITY>柴斯特</CITY>
+    <CITY>杜伦</CITY>
+    <CITY>巴斯</CITY>
+    <CITY>牛津</CITY>
+    <CITY>南安普敦</CITY>
+    <CITY>剑桥</CITY>
+    <CITY>惠特比</CITY>
+    <CITY>海克森</CITY>
+    <CITY>鲁尼米德</CITY>
+    <CITY>温莎</CITY>
+    <CITY>爱塞特</CITY>
+    <CITY>兰开斯特</CITY>
+    <CITY>喀来耳</CITY>
+    <CITY>亚伯丁</CITY>
+    <CITY>格拉斯哥</CITY>
+    <CITY>布里斯托</CITY>
+    <CITY>里奇蒙</CITY>
+    <CITY>伯明罕</CITY>
+    <CITY>曼彻斯特</CITY>
+    <CITY>普兹茅斯</CITY>
+    <CITY>利物浦</CITY>
+    <CITY>温彻斯特</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

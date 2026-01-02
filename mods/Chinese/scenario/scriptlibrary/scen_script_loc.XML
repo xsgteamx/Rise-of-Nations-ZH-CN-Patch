@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<ROOT name="scriptlibrary ">
+	<FILE hash="2933228" name="ctw_lib">
+		<STRING hash="536232">洛迪</STRING>
+		<STRING hash="2039021">阿兹特克人</STRING>
+		<STRING hash="1035240">马雅人</STRING>
+		<STRING hash="1071083">印加人</STRING>
+		<STRING hash="1256409">班图人</STRING>
+		<STRING hash="2782538">努比亚人</STRING>
+		<STRING hash="1472740">希腊人</STRING>
+		<STRING hash="1846297">罗马人</STRING>
+		<STRING hash="4447723">埃及人</STRING>
+		<STRING hash="1021102">土耳其人</STRING>
+		<STRING hash="2344938">西班牙人</STRING>
+		<STRING hash="1801297">法国人</STRING>
+		<STRING hash="2245385">英国人</STRING>
+		<STRING hash="2566969">德国人</STRING>
+		<STRING hash="3405402">俄罗斯人</STRING>
+		<STRING hash="2127023">中国人</STRING>
+		<STRING hash="3165873">日本人</STRING>
+		<STRING hash="2547333">韩国人</STRING>
+		<STRING hash="2226047">蒙古人</STRING>
+		<STRING hash="3051219">易落魁人</STRING>
+		<STRING hash="2049155">拉科塔人</STRING>
+		<STRING hash="4854206">美国人</STRING>
+		<STRING hash="2506802">印度人</STRING>
+		<STRING hash="1241213">荷兰人</STRING>
+		<STRING hash="3351807">波斯人</STRING>
+		<STRING hash="1013259">错误</STRING>
+	</FILE>
+	<FILE hash="11332504" name="general_powers">
+		<STRING hash="6028728">攻击力 +1!</STRING>
+		<STRING hash="9617559">特殊功能加倍!</STRING>
+		<STRING hash="10205736">范围加大!</STRING>
+		<STRING hash="15908794">伏击时间加长 3 倍!</STRING>
+		<STRING hash="36008525">一开始就有 5 名马其顿骑兵!</STRING>
+		<STRING hash="20456150">治疗邻近的单位!</STRING>
+		<STRING hash="63043918">驻防壕沟的单位承受 80% 的损害!</STRING>
+		<STRING hash="23681803">挖壕沟速度加倍</STRING>
+		<STRING hash="95068001">驻守时对建筑的攻击力 +3!</STRING>
+		<STRING hash="3807325">射程 +1!</STRING>
+		<STRING hash="4025243">防御力 +1!</STRING>
+		<STRING hash="5553989">防御力 +1!</STRING>
+		<STRING hash="12381841">一直伪装!</STRING>
+		<STRING hash="33200321">弓马兵攻击力 +1!</STRING>
+		<STRING hash="4205924">特殊功能加倍!</STRING>
+		<STRING hash="27148820">侦测伪装的单位!</STRING>
+		<STRING hash="15323978">生命点数加倍</STRING>
+		<STRING hash="15928973">产生两倍的诱饵</STRING>
+		<STRING hash="18695144">攻城攻击力 +2!</STRING>
+		<STRING hash="15661243">攻城射程 +1!</STRING>
+		<STRING hash="20662640">显示所有敌人!</STRING>
+		<STRING hash="9321886">特殊功能加三倍!</STRING>
+		<STRING hash="9940736">立即狙击!</STRING>
+		<STRING hash="16983525">立即渗透破坏!</STRING>
+		<STRING hash="16629125">生命点数加倍!</STRING>
+		<STRING hash="34436342">启用战马车!</STRING>
+		<STRING hash="40934474">建筑掠夺量增加!</STRING>
+		<STRING hash="55043812">从敌人单位取得掠夺物!</STRING>
+		<STRING hash="18697323">攻城攻击力 +3!</STRING>
+		<STRING hash="39871215">重装步兵攻击力 +2!</STRING>
+		<STRING hash="34115572">强行军速度加快 50%!</STRING>
+		<STRING hash="38372512">重骑兵攻击力 +1!</STRING>
+		<STRING hash="79337652">可在祖国领域外筑壕沟!</STRING>
+		<STRING hash="68252999">射击单位视线 +1!</STRING>
+		<STRING hash="19689220">防止损耗!</STRING>
+		<STRING hash="27064909">重新产生特殊功能的速度加倍!</STRING>
+		<STRING hash="85068739">希腊佣兵的攻击力增加!</STRING>
+		<STRING hash="76045622">希腊佣兵的防御力增加!</STRING>
+		<STRING hash="22155313">骑兵速度加快 20%!</STRING>
+		<STRING hash="24449544">大象速度加快 20%!</STRING>
+		<STRING hash="32518717">一开始就有 4 支突击队!</STRING>
+		<STRING hash="15019414">攻城攻击力 +1!</STRING>
+	</FILE>
+</ROOT>

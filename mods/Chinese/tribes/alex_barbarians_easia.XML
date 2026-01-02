@@ -1,0 +1,49 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="伊朗人">
+  <LEADERS>
+    <LEADER>萨提巴赞斯</LEADER>
+    <LEADER>科瑞尼斯</LEADER>
+    <LEADER>阿布莱提斯</LEADER>
+    <LEADER>波塞斯塔斯</LEADER>
+    <LEADER>婆陀罗</LEADER>
+    <LEADER>兴都库什山</LEADER>
+    <LEADER>察纳卡</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>苏西雅</CITY>
+    <CITY>赫卡托比勒斯</CITY>
+    <CITY>拉吉</CITY>
+    <CITY>伊克巴他拿</CITY>
+    <CITY>艾斯发罕</CITY>
+    <CITY>欧匹斯</CITY>
+    <CITY>法拉</CITY>
+    <CITY>普罗夫撒西亚</CITY>
+    <CITY>普勒</CITY>
+    <CITY>哈蒙吉亚</CITY>
+    <CITY>阿塔夸那</CITY>
+    <CITY>沙姆斯</CITY>
+    <CITY>拉巴西亚</CITY>
+    <CITY>喀拉蚩</CITY>
+    <CITY>帕特拉</CITY>
+    <CITY>奎塔</CITY>
+    <CITY>夕喀浦</CITY>
+    <CITY>加兹尼</CITY>
+    <CITY>德拉沙卡</CITY>
+    <CITY>瑙特卡</CITY>
+    <CITY>马拉卡达</CITY>
+    <CITY>赛瑞波里斯</CITY>
+    <CITY>布哈拉</CITY>
+    <CITY>监市城</CITY>
+    <CITY>瓜达尔</CITY>
+    <CITY>奥诺斯</CITY>
+    <CITY>马萨格</CITY>
+    <CITY>卡瓦克</CITY>
+    <CITY>库斯善</CITY>
+    <CITY>开伯尔</CITY>
+    <CITY>默拉</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>5 EIndian</UNIT_CONTINENT>
+  <BUILD_CONTINENT>8 EIndian</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>8 EIndian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

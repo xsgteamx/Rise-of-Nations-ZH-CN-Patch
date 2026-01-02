@@ -1,0 +1,27 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="斯巴达人" substitute="1">
+  <LEADERS>
+    <LEADER>阿吉斯三世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>阿哥斯</CITY>
+    <CITY>霍扎</CITY>
+    <CITY>基俄斯</CITY>
+    <CITY>扎金索斯岛</CITY>
+    <CITY>曼提尼亚</CITY>
+    <CITY>希拉克里亚</CITY>
+    <CITY>尼米亚</CITY>
+    <CITY>伊利斯</CITY>
+    <CITY>皮路斯</CITY>    
+    <CITY>特洛任</CITY>
+    <CITY>西锡安</CITY>
+    <CITY>皮洛斯</CITY>
+    <CITY>斯非泰瑞亚</CITY>
+    <CITY>麦新尼</CITY>
+    <CITY>库尔勒涅</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,64 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="希腊人">
+  <LEADERS>
+    <LEADER>培里克利斯</LEADER>
+    <LEADER>亚历山大大帝</LEADER>
+    <LEADER>斯巴达的莱桑德</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>雅典</CITY>
+    <CITY>斯巴达</CITY>
+    <CITY>底比斯</CITY>
+    <CITY>哥林斯</CITY>
+    <CITY>克诺塞斯</CITY>
+    <CITY>阿哥斯</CITY>
+    <CITY>美加拉</CITY>
+    <CITY>埃雷特里亚</CITY>
+    <CITY>加尔西士</CITY>
+    <CITY>伊拉克里翁</CITY>
+    <CITY>米利都</CITY>
+    <CITY>哈利卡纳素斯</CITY>
+    <CITY>林得斯</CITY>
+    <CITY>拉里素斯</CITY>
+    <CITY>撒摩</CITY>
+    <CITY>霍扎</CITY>
+    <CITY>基俄斯</CITY>
+    <CITY>特拉</CITY>
+    <CITY>米洛斯</CITY>
+    <CITY>法塞拉斯</CITY>
+    <CITY>派露斯岛</CITY>
+    <CITY>帖撒罗尼迦</CITY>
+    <CITY>德麦翠亚斯</CITY>
+    <CITY>提洛岛</CITY>
+    <CITY>扎金索斯岛</CITY>
+    <CITY>伊拉提亚</CITY>
+    <CITY>艾立斯莱亚</CITY>
+    <CITY>曼提尼亚</CITY>
+    <CITY>叙拉古</CITY>
+    <CITY>克奇拉</CITY>
+    <CITY>拜占庭</CITY>
+    <CITY>亚历山大港</CITY>
+    <CITY>波堤达亚</CITY>
+    <CITY>希拉克里亚</CITY>
+    <CITY>阿波罗尼亚</CITY>
+    <CITY>埃匹丹纳斯</CITY>
+    <CITY>派特雷</CITY>
+    <CITY>迦克墩</CITY>
+    <CITY>卡斯</CITY>
+    <CITY>克尼多斯</CITY>
+    <CITY>普南城</CITY>
+    <CITY>科洛封</CITY>
+    <CITY>库拉佐梅纳</CITY>
+    <CITY>提欧斯</CITY>
+    <CITY>撒摩</CITY>
+    <CITY>米提勒涅</CITY>
+    <CITY>麦里纳</CITY>
+    <CITY>帖索斯</CITY>
+    <CITY>萨莫色雷斯</CITY>
+    <CITY>派里厄斯</CITY>
+    <CITY>札拉克斯</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

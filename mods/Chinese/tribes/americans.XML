@@ -1,0 +1,51 @@
+<!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) by Brian Reynolds (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="美国人">
+  <LEADERS>
+    <LEADER>华盛顿</LEADER>
+    <LEADER>林肯</LEADER>
+    <LEADER>老罗斯福</LEADER>
+    <LEADER>杰佛逊</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>华盛顿</CITY>
+    <CITY>纽约</CITY>
+    <CITY>巴尔的摩</CITY>
+    <CITY>洛杉几</CITY>
+    <CITY>西雅图</CITY>
+    <CITY>迈阿密</CITY>
+    <CITY>哈特福</CITY>
+    <CITY>费城</CITY>
+    <CITY>芝加哥</CITY>
+    <CITY>奥斯汀</CITY>
+    <CITY>春田市</CITY>
+    <CITY>堪萨斯市</CITY>
+    <CITY>奥兰多</CITY>
+    <CITY>亚特兰大</CITY>
+    <CITY>纽华克</CITY>
+    <CITY>圣地牙哥</CITY>
+    <CITY>波特兰</CITY>
+    <CITY>旧金山</CITY>
+    <CITY>普洛维顿斯</CITY>
+    <CITY>克利夫兰</CITY>
+    <CITY>辛辛那提</CITY>
+    <CITY>树城</CITY>
+    <CITY>纽奥尔良</CITY>
+    <CITY>底特律</CITY>
+    <CITY>波士顿</CITY>
+    <CITY>休士顿</CITY>
+    <CITY>奥古斯塔</CITY>
+    <CITY>康科特</CITY>
+    <CITY>蒙哥马利</CITY>
+    <CITY>法兰克福</CITY>
+    <CITY>安纳波利斯</CITY>
+    <CITY>达拉斯</CITY>
+    <CITY>杰佛逊市</CITY>
+    <CITY>盐湖城</CITY>
+    <CITY>蒙佩列</CITY>
+
+  </CITIES>
+  <UNIT_CONTINENT>0 Europe</UNIT_CONTINENT>
+  <BUILD_CONTINENT>7 Colonial</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>7 Colonial</BACKUP_BUILD_CONTINENT>
+</TRIBE>

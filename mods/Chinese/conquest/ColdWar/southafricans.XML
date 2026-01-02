@@ -1,0 +1,33 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="南非人">
+  <LEADERS>
+    <LEADER>雅克伯斯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>索维托</CITY>
+    <CITY>彼德玛利斯堡</CITY>
+    <CITY>贝诺尼</CITY>
+    <CITY>维力尼金</CITY>
+    <CITY>布鲁芳登</CITY>
+    <CITY>新堡</CITY>
+    <CITY>东伦敦</CITY>
+    <CITY>威尔康</CITY>
+    <CITY>波沙贝罗</CITY>
+    <CITY>庆伯利</CITY>
+    <CITY>威特班克</CITY>
+    <CITY>卡顿士维</CITY>
+    <CITY>克勒斯多</CITY>
+    <CITY>路斯坦堡</CITY>
+    <CITY>库鲁曼</CITY>
+    <CITY>卡那文</CITY>
+    <CITY>姆丹特萨恩</CITY>
+    <CITY>乌木他塔</CITY>
+    <CITY>科斯塔</CITY>
+    <CITY>哈拉雷</CITY>
+    <CITY>嘉柏隆里</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab    </UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

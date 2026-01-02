@@ -1,0 +1,37 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="越南人">
+  <LEADERS>
+    <LEADER>胡志明</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>西贡</CITY>
+    <CITY>河内</CITY>
+    <CITY>海防</CITY>
+    <CITY>蚬港</CITY>
+    <CITY>边和</CITY>
+    <CITY>顺化</CITY>
+    <CITY>芽庄</CITY>
+    <CITY>芹苴</CITY>
+    <CITY>归仁</CITY>
+    <CITY>迪石</CITY>
+    <CITY>南定</CITY>
+    <CITY>头顿</CITY>
+    <CITY>龙川</CITY>
+    <CITY>鸿基</CITY>
+    <CITY>藩切</CITY>
+    <CITY>金兰湾</CITY>
+    <CITY>锦谱</CITY>
+    <CITY>邦美属</CITY>
+    <CITY>太原</CITY>
+    <CITY>大勒</CITY>
+    <CITY>沙坝</CITY>
+    <CITY>同登</CITY>
+    <CITY>永木</CITY>
+    <CITY>会安</CITY>
+    <CITY>木牌</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>3 Asian   </UNIT_CONTINENT>
+  <BUILD_CONTINENT>2 Asian</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

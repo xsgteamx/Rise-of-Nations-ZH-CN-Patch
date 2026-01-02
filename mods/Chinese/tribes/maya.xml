@@ -1,0 +1,46 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="马雅人">
+  <LEADERS>
+    <LEADER>巴卡尔王</LEADER>
+    <LEADER>恰克巴蓝</LEADER>
+    <LEADER>奇安</LEADER>
+    <LEADER>亚默克</LEADER>
+    <LEADER>瓦克奇</LEADER>
+    <LEADER>纳查坎</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>玛雅潘</CITY>
+    <CITY>蒂卡尔</CITY>
+    <CITY>契晨‧伊特萨</CITY>
+    <CITY>德兹比查坦</CITY>
+    <CITY>亚克斯哈</CITY>
+    <CITY>亚坎塞</CITY>
+    <CITY>洽波通</CITY>
+    <CITY>阿顿哈</CITY>
+    <CITY>伊奇帕托</CITY>
+    <CITY>伊克斯昆</CITY>
+    <CITY>拉马奈</CITY>
+    <CITY>科潘</CITY>
+    <CITY>兹明卡克斯</CITY>
+    <CITY>克斯普希尔</CITY>
+    <CITY>亚淑那</CITY>
+    <CITY>武锡玛</CITY>
+    <CITY>提普</CITY>
+    <CITY>乌卡纳</CITY>
+    <CITY>伯坎</CITY>
+    <CITY>卡米那留尤</CITY>
+    <CITY>西卡蓝歌</CITY>
+    <CITY>克斯科查</CITY>
+    <CITY>德兹比诺卡克</CITY>
+    <CITY>楚提克斯提欧斯</CITY>
+    <CITY>乌埃萨克唐</CITY>
+    <CITY>塔亚沙尔</CITY>
+    <CITY>札库类乌</CITY>
+    <CITY>伊琴切</CITY>
+    <CITY>亚卡蓝</CITY>
+    <CITY>图伦</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

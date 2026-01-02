@@ -1,0 +1,37 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="阿根廷人">
+  <LEADERS>
+    <LEADER>裴隆</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>巴利洛切</CITY>
+    <CITY>布宜诺斯艾利斯</CITY>
+    <CITY>哥多华</CITY>
+    <CITY>伊瓜苏</CITY>
+    <CITY>马普拉塔</CITY>
+    <CITY>门多萨</CITY>
+    <CITY>罗沙略</CITY>
+    <CITY>圣胡安</CITY>
+    <CITY>沙尔塔</CITY>
+    <CITY>圣米吉土库曼</CITY>
+    <CITY>雷夕塔尼亚</CITY>
+    <CITY>波沙达斯</CITY>
+    <CITY>圣塔非</CITY>
+    <CITY>巴拉那</CITY>
+    <CITY>里约夸托</CITY>
+    <CITY>哥多伊克路斯</CITY>
+    <CITY>摩伦</CITY>
+    <CITY>洛马斯札莫拉</CITY>
+    <CITY>布兰加湾</CITY>
+    <CITY>纽坎</CITY>
+    <CITY>翠琉</CITY>
+    <CITY>橄榄湾</CITY>
+    <CITY>里约加耶哥斯</CITY>
+    <CITY>艾斯开尔</CITY>
+    <CITY>德瑟亚多港</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

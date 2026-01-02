@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="墨西哥人">
+  <LEADERS>
+    <LEADER>卡马乔</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>墨西哥城</CITY>
+    <CITY>亚加普科</CITY>
+    <CITY>坎昆</CITY>
+    <CITY>奎纳瓦卡</CITY>
+    <CITY>恩瑟纳达</CITY>
+    <CITY>瓜达拉哈拉</CITY>
+    <CITY>瓜纳华托</CITY>
+    <CITY>伊斯达巴</CITY>
+    <CITY>查帕拉湖</CITY>
+    <CITY>洛斯卡波斯</CITY>
+    <CITY>曼萨尼尤</CITY>
+    <CITY>马萨特兰</CITY>
+    <CITY>梅里达</CITY>
+    <CITY>蒙特瑞</CITY>
+    <CITY>摩雷里亚</CITY>
+    <CITY>普拉雅卡门</CITY>
+    <CITY>普埃布拉</CITY>
+    <CITY>埃斯空地多港</CITY>
+    <CITY>瓦雅塔港</CITY>
+    <CITY>奎雷塔洛</CITY>
+    <CITY>圣米吉阿延第</CITY>
+    <CITY>提华纳</CITY>
+    <CITY>委拉克路斯</CITY>
+    <CITY>特皮克</CITY>
+    <CITY>瓦哈卡</CITY>
+    <CITY>克里尔</CITY>
+    <CITY>厄莫休</CITY>
+    <CITY>诺加里</CITY>
+    <CITY>罗沙利多</CITY>
+    <CITY>拉巴斯</CITY>
+    <CITY>札卡特卡</CITY>
+    <CITY>坦比哥</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

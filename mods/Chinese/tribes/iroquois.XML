@@ -1,0 +1,50 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2, Installed Multi for 15 users (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="易落魁人">
+	<LEADERS>
+		<LEADER>塔多达哈</LEADER>
+		<LEADER>塞内卡</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>欧挪达加</CITY>
+		<CITY>沙拉托格</CITY>
+		<CITY>卡尤加</CITY>
+		<CITY>塞内卡</CITY>
+		<CITY>摩和克</CITY>
+		<CITY>奥奈达</CITY>
+		<CITY>多伦多</CITY>
+		<CITY>提欧罗</CITY>
+		<CITY>奥诺塔瑞</CITY>
+		<CITY>荷尼奥伊 </CITY>
+		<CITY>鄂义各</CITY>
+		<CITY>条加</CITY>
+		<CITY>干诺介</CITY>
+		<CITY>卡奥卡</CITY>
+		<CITY>卡纳久亥利</CITY>
+		<CITY>卡宁加</CITY>
+		<CITY>农达斯</CITY>
+		<CITY>诺瓦达格</CITY>
+		<CITY>奥斯奎克</CITY>
+		<CITY>条华农达顿</CITY>
+		<CITY>乌纳迪拉</CITY>
+		<CITY>奥珍</CITY>
+		<CITY>契特纳果</CITY>
+		<CITY>柯瓦撒隆</CITY>
+		<CITY>加纳多加</CITY>
+		<CITY>奥里斯加</CITY>
+		<CITY>奥斯维果</CITY>
+		<CITY>加多卡特</CITY>
+		<CITY>卡特拉乌古斯</CITY>
+		<CITY>契芒</CITY>
+		<CITY>干农斯</CITY>
+		<CITY>吉斯塔卡特</CITY>
+		<CITY>卡匈</CITY>
+		<CITY>开珍</CITY>
+		<CITY>奥特卡</CITY>
+		<CITY>奥诺游特</CITY>
+		<CITY>卡纳基诺</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>4 Iroquois</UNIT_CONTINENT>
+	<BUILD_CONTINENT>6 Iroquois</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>6 Iroquois</BACKUP_BUILD_CONTINENT>
+</TRIBE>

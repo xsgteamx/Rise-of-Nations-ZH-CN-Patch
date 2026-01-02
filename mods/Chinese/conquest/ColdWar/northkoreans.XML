@@ -1,0 +1,29 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="北韩人">
+  <LEADERS>
+    <LEADER>金日成</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>咸兴</CITY>
+    <CITY>清津</CITY>
+    <CITY>南浦</CITY>
+    <CITY>新义州</CITY>
+    <CITY>平城</CITY>
+    <CITY>沙里院</CITY>
+    <CITY>海州</CITY>
+    <CITY>江界</CITY>
+    <CITY>金策</CITY>
+    <CITY>惠山</CITY>
+    <CITY>开城</CITY>
+    <CITY>松林</CITY>
+    <CITY>宁边</CITY>
+    <CITY>瓮津</CITY>
+    <CITY>茂山</CITY>
+    <CITY>开城</CITY>
+    <CITY>兴南</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>3 Asian</UNIT_CONTINENT>
+  <BUILD_CONTINENT>3 Korean</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

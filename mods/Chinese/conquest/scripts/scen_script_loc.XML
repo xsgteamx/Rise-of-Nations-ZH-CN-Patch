@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Andy Clark (Big Huge Games) -->
+<ROOT name="scripts ">
+	<FILE hash="12221574" name="conquestruntime">
+		<STRING hash="914699018">来自赛西亚人的消息: 您以为在色雷斯杀了我们的商人后，可以逃之夭夭吗? 我们已经联合您的敌人来对付您。准备迎接败仗!</STRING>
+		<STRING hash="793334141">来自您顾问的消息: 我们的斥候报告，有一群斯巴达反叛军前去帮我们的敌人。也许当初我们对他们手下留情是个错误。</STRING>
+	</FILE>
+	<FILE hash="10641929" name="diplo_response">
+		<STRING hash="110630">嗨</STRING>
+		<STRING hash="436030197">我们没有兴趣和您协商。我们只需要征服您的民族，世界就是我们的了。</STRING>
+		<STRING hash="258162342">我们已经是盟友了，不必再签订和平协议。</STRING>
+		<STRING hash="70035668">没错，就让我们结束这场恐怖的战争吧!</STRING>
+		<STRING hash="195097471">非常好。我们将结束这场战争，并签署您的和平条款。</STRING>
+		<STRING hash="201587037">好吧，我们也需要一些时间准备下次袭击。</STRING>
+		<STRING hash="178986281">是的，我们同意。和平对大家都有利。</STRING>
+		<STRING hash="196830738">条件非常好! 我们同意这份和平条约。</STRING>
+		<STRING hash="282812868">也许我们最好先谈和，再谈结盟。</STRING>
+		<STRING hash="172406433">不用了，我们现在的盟友已经够多了。</STRING>
+		<STRING hash="359222075">我们已经考虑过类似的提议。相信我们彼此一定会合作愉快。</STRING>
+		<STRING hash="60219225">没错! 我们要先摧毁谁?</STRING>
+		<STRING hash="254952077">没错! 现在，没有人可以阻挡$s0! 喔，不对，我是说$s0和$s1!</STRING>
+		<STRING hash="186030804">条件非常好! 我们同意这项结盟。</STRING>
+		<STRING hash="218383423">如果要我们提供协助，至少支付这么多的贡品。</STRING>
+		<STRING hash="198630764">这些条件真是少的可怜。我们需要更多。</STRING>
+		<STRING hash="189366780">只要比这个还少，我们就不会签订盟约。</STRING>
+		<STRING hash="179942468">是啊，谁不想加入您伟大的国家呢?</STRING>
+		<STRING hash="224646203">您的提议还算不错，我们的军队会马上与您并肩作战。</STRING>
+		<STRING hash="113867821">无论如何，我们需要换政府。</STRING>
+		<STRING hash="90672259">我们同意。那么要先杀谁呢?</STRING>
+		<STRING hash="172654211">提议很公平。我们会成为您的藩属。</STRING>
+		<STRING hash="217783634">您的提议不足以让我们放弃独立。</STRING>
+		<STRING hash="337312105">我们绝不会为这么点东西出卖自己民族。目前您没有足以吸引我们的东西。</STRING>
+		<STRING hash="193379578">反正我们一直认定你的土地是我们的。</STRING>
+		<STRING hash="174869181">我们很欣赏这种态度。这省了我们不少时间。</STRING>
+		<STRING hash="331136588">虽然我们两国正在交战，但是我们愿意和解，前提是必须根据我们的条件。</STRING>
+		<STRING hash="66330431">这个交易很公平。我们接受。</STRING>
+		<STRING hash="115481436">这个交易很公平。不后悔!</STRING>
+		<STRING hash="112094490">非常好，我想我们都同意。</STRING>
+		<STRING hash="187273799">好吧，如果您最多只能做到这样，我想我们可以同意。</STRING>
+		<STRING hash="42164205">这似乎公平。我接受。</STRING>
+		<STRING hash="243571091">不行，这对我们民族不公平。我们认为应该是像这样。</STRING>
+		<STRING hash="203467566">我们不同意您的提议，不过，或许您会同意这个提议?</STRING>
+		<STRING hash="116271759">先前那个提议很好。但这个更好。</STRING>
+		<STRING hash="205021505">那个交易对我们不太公平。请考虑这项提议。</STRING>
+		<STRING hash="93816062">我们满怀感激，接受您的贡品。</STRING>
+		<STRING hash="22201777">非常感谢您!</STRING>
+		<STRING hash="178969743">您不需要任何回报吗? 随便你了。</STRING>
+		<STRING hash="427861469">您的赠礼来得正好! 现在我们可以升级首都的防御能力，达到无懈可击。</STRING>
+		<STRING hash="165086851">我们的首领很乐于收到这些赠礼。</STRING>
+		<STRING hash="114859917">我们投降了。我们会将这件贡品献给您。</STRING>
+		<STRING hash="206629898">我们觉得现在对您的需求让步，才是明智之举。</STRING>
+		<STRING hash="57888995">够了! 够了! 请放我们一条生路。</STRING>
+		<STRING hash="182815262">凭什么要我们付给您? 应该是您付给我们才对!</STRING>
+		<STRING hash="200999449">这真是无法无天! 我们绝不容许这样的敲诈。</STRING>
+		<STRING hash="115462695">这是一个玩笑吧? 别说笑了!</STRING>
+		<STRING hash="180435386">我们不会为了这样微薄的代价，放弃自由。</STRING>
+		<STRING hash="254456942">如果您要我们听从，就必须给我们更多。</STRING>
+		<STRING hash="192455612">我们伟大的民族绝不会向暴政低头。</STRING>
+		<STRING hash="311983950">为什么我们要同意和平? 我们从攻击可以获得更多。</STRING>
+		<STRING hash="76264722">只有笨蛋才会签那份条约!</STRING>
+		<STRING hash="134021399">要靠您的全面破坏才会结束这场战争。</STRING>
+		<STRING hash="243319077">我们才不像您那样软弱，这场战争我们将会坚持到最后。</STRING>
+		<STRING hash="174500249">看不出这对我们有任何利益。我们不接受。</STRING>
+		<STRING hash="368368031">我们伟大的民族不需要和您们这种人结盟。而且，我们就是喜欢欺侮弱小。</STRING>
+		<STRING hash="621766239">在不同的情况下，也许我们会考虑与您结盟。很抱歉，我们不能接受您的提议。</STRING>
+		<STRING hash="402888531">您的民族无法提供紧急的协助。我们没有多余时间浪费在您身上。</STRING>
+		<STRING hash="199708652">过几个回合后，当您有我们所感兴趣的条件时，再回来找我们。</STRING>
+		<STRING hash="164281389">您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="87034289">这个交易比较符合我们的喜好。</STRING>
+		<STRING hash="186271542">不好意思，您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="221083251">要我们同意这项交易，您必须提供更多给我们。</STRING>
+		<STRING hash="183994371">等您征服更多的领域时，我们再来交涉。</STRING>
+		<STRING hash="268324888">您目前没有任何东西能迫使我们签那协议。</STRING>
+		<STRING hash="152117702">您是来谈判，还是来浪费我们的时间?</STRING>
+		<STRING hash="207952698">我们厌烦您的把戏。提出像样的提议，不然就别谈了!</STRING>
+		<STRING hash="267330760">很明显地，贵国不善于谈判。</STRING>
+		<STRING hash="439121001">我们并不是到此一游。如果这是您所能提出的最佳提议，也许我们应该结束协商。</STRING>
+		<STRING hash="207300490">那是我生平中见过最差劲的提议。是不是在开玩笑?</STRING>
+	</FILE>
+	<FILE hash="16135664" name="liberationruntime">
+		<STRING hash="51599754">占领敌人首都。</STRING>
+		<STRING hash="171745738">敌人打败您的盟友同时，您也输了。</STRING>
+		<STRING hash="236992347">您可以兴建新的城市，但您所占领的所有城市都将会交给盟友。</STRING>
+	</FILE>
+	<FILE hash="7711311" name="nomadruntime">
+		<STRING hash="51623452">消灭所有的游牧军队。</STRING>
+		<STRING hash="81083974">还有 $d0 个蓝色游牧兵。</STRING>
+		<STRING hash="85355995">还有 $d0 个紫色游牧兵。</STRING>
+		<STRING hash="84772568">还有 $d0 个绿色游牧兵。</STRING>
+		<STRING hash="196706264">提示: 毁掉所有$s0以断绝这些部族的供应来源。</STRING>
+		<STRING hash="70797852">还有 $d0 个蓝色游牧兵。</STRING>
+		<STRING hash="79888767">还有 $d0 个紫色游牧兵。</STRING>
+		<STRING hash="90841215">还有 $d0 个紫色游牧兵。</STRING>
+		<STRING hash="74130498">还有 $d0 个绿色游牧兵。</STRING>
+		<STRING hash="243983336">游牧兵对$s0开火了! 市中心已被铲为平地!</STRING>
+		<STRING hash="8065277">补给车</STRING></FILE>
+	<FILE hash="6406208" name="offruntime1">
+		<STRING hash="148721292">敌人的将军发动了突袭!</STRING>
+		<STRING hash="121804711">我军部队听到一支小型军队正在逼近。</STRING>
+		<STRING hash="111310636">敌人发动了反击!</STRING>
+	</FILE>
+	<FILE hash="10488957" name="pillageruntime">
+		<STRING hash="289242122">提示: 将敌军的健康值减半以占领敌军的生产建筑物。</STRING>
+		<STRING hash="203159043">提示: 破坏敌人的建筑物或寻找废墟，以取得资源。</STRING>
+	</FILE>
+	<FILE hash="12876998" name="liberationsetup">
+		<STRING hash="6008533">胡志明</STRING>
+		<STRING hash="9616026">孙德胜</STRING>
+		<STRING hash="7586967">长征</STRING>
+		<STRING hash="7799975">吴庭琰</STRING>
+		<STRING hash="13538188">阮文绍</STRING>
+		<STRING hash="1708882">反叛军</STRING></FILE>
+</ROOT>

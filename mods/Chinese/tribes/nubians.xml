@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Brian Reynolds (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="努比亚人">
+  <LEADERS>
+    <LEADER>皮安克海王</LEADER>
+    <LEADER>沙巴卡王</LEADER>
+    <LEADER>安玛妮莎卡女王</LEADER>
+    <LEADER>塔哈卡王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>拿巴达</CITY>
+    <CITY>亚琴</CITY>
+    <CITY>麦罗埃</CITY>
+    <CITY>吉布巴加尔</CITY>
+    <CITY>阿杜里斯</CITY>
+    <CITY>栋古拉</CITY>
+    <CITY>科勒</CITY>
+    <CITY>贝奈丝</CITY>
+    <CITY>塞纳</CITY>
+    <CITY>索巴</CITY>
+    <CITY>耶哈</CITY>
+    <CITY>马拉欧</CITY>
+    <CITY>马他拉</CITY>
+    <CITY>拉利贝拉</CITY>
+    <CITY>哈拉尔</CITY>
+    <CITY>寨拉</CITY>
+    <CITY>努里</CITY>
+    <CITY>卡瓦</CITY>
+    <CITY>阿瓦里提斯</CITY>
+    <CITY>马拉巴</CITY>
+    <CITY>慕帝斯</CITY>
+    <CITY>阿罗麦顿艾波里恩</CITY>
+    <CITY>尼康</CITY>
+    <CITY>奥波内</CITY>
+    <CITY>摩斯伦</CITY>
+    <CITY>撒拉比昂</CITY>
+    <CITY>卡德罗</CITY>
+    <CITY>杰伯莫雅</CITY>
+    <CITY>艾德哈巴</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab    </UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

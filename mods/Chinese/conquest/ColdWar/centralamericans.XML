@@ -1,0 +1,36 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="巴拿马人">
+  <LEADERS>
+    <LEADER>阿道夫</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>巴拿马城</CITY>
+    <CITY>牛口</CITY>
+    <CITY>大卫城</CITY>
+    <CITY>山提亚哥</CITY>
+    <CITY>契特雷</CITY>
+    <CITY>可可索洛</CITY>
+    <CITY>艾尔波芬尼尔</CITY>
+    <CITY>巴波亚</CITY>
+    <CITY>瓦卡蒙特</CITY>
+    <CITY>拉帕尔马</CITY>
+    <CITY>雅维萨</CITY>
+    <CITY>纳尔加纳</CITY>
+    <CITY>拉普拉马</CITY>
+    <CITY>科隆</CITY>
+    <CITY>波托贝洛</CITY>
+    <CITY>拉斯塔布拉斯</CITY>
+    <CITY>洛斯波佐斯</CITY>
+    <CITY>甜水镇</CITY>
+    <CITY>佩诺诺美</CITY>
+    <CITY>阿梅耶斯港</CITY>
+    <CITY>多雷加</CITY>
+    <CITY>波奎提</CITY>
+    <CITY>昌奎诺拉</CITY>
+    <CITY>康塞普森</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

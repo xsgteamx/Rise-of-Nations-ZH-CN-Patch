@@ -1,0 +1,38 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="荷兰人" substitute="1">
+  <LEADERS>
+    <LEADER>威廉五世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>阿姆斯特丹</CITY>
+    <CITY>兹窝勒</CITY>
+    <CITY>乌特勒支</CITY>
+    <CITY>海牙</CITY>
+    <CITY>劳尔宋</CITY>
+    <CITY>格罗宁根</CITY>
+    <CITY>哈伦</CITY>
+    <CITY>恩斯卡德</CITY>
+    <CITY>登黑德</CITY>
+    <CITY>爱因荷芬</CITY>
+    <CITY>特纳珍</CITY>
+    <CITY>提尔堡</CITY>
+    <CITY>马斯垂克</CITY>
+    <CITY>多德勒克</CITY>
+    <CITY>艾木登</CITY>
+    <CITY>登黑德</CITY>
+    <CITY>亚森</CITY>
+    <CITY>德夫赛尔</CITY>
+    <CITY>雷瓦登</CITY>
+    <CITY>新港</CITY>
+    <CITY>哈林根</CITY>
+    <CITY>荷威德</CITY>
+    <CITY>鹿特丹</CITY>
+    <CITY>莱顿</CITY>
+    <CITY>布列达</CITY>
+    <CITY>恩斯卡德</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Jason (Big Huge Games) -->
+<ROOT>
+  <CAT hash="2566007">
+    <STRING hash="30767674" hash_i="31407876" needed="1">Retcode 绝对值 - $NUM0</STRING>
+    <STRING hash="6589346" hash_i="6617952" needed="1">修复错误</STRING>
+    <STRING hash="17162192" hash_i="17237584" needed="1">无法执行 rise.exe</STRING>
+    <STRING hash="1027397" hash_i="1013259" needed="1">错误</STRING>
+    <STRING hash="11910296" hash_i="12870810" needed="1">RisePatchClass</STRING>
+    <STRING hash="32934964" hash_i="33128016" needed="1">正在修复《国家的崛起》</STRING>
+    <STRING hash="10737736" hash_i="10719400" needed="1">修复进度</STRING>
+    <STRING hash="9586965" hash_i="9544059" needed="1">修复警告</STRING>
+    <STRING hash="14401421" hash_i="15947865" needed="1">正在处理: $PCT0</STRING>
+    <STRING hash="32347459" hash_i="32740993" needed="1">无效修复档错误</STRING>
+    <STRING hash="1171663" hash_i="1239369" needed="1">中止</STRING>
+    <STRING hash="70885734" hash_i="71129750" needed="1">正在搜寻系统进行更新...</STRING>
+  </CAT>
+</ROOT>

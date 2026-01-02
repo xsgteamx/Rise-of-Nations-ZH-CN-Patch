@@ -1,0 +1,51 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="中国人">
+	<LEADERS>
+		<LEADER>秦始皇</LEADER>
+		<LEADER>汉武帝</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>北京</CITY>
+		<CITY>上海</CITY>
+		<CITY>成都</CITY>
+		<CITY>长安</CITY>
+		<CITY>长春</CITY>
+		<CITY>广州</CITY>
+		<CITY>济南</CITY>
+		<CITY>西安</CITY>
+		<CITY>哈尔滨</CITY>
+		<CITY>洛阳</CITY>
+		<CITY>兰州</CITY>
+		<CITY>太原</CITY>
+		<CITY>象州</CITY>
+		<CITY>潼川</CITY>
+		<CITY>坦州</CITY>
+		<CITY>龙兴府</CITY>
+		<CITY>福州</CITY>
+		<CITY>南宁</CITY>
+		<CITY>武汉</CITY>
+		<CITY>乌鲁木齐</CITY>
+		<CITY>南京</CITY>
+		<CITY>江阴</CITY>
+		<CITY>昆明</CITY>
+		<CITY>杭州</CITY>
+		<CITY>新乡</CITY>
+		<CITY>天津</CITY>
+		<CITY>香港</CITY>
+		<CITY>重庆</CITY>
+		<CITY>沈阳</CITY>
+		<CITY>乌苏</CITY>
+		<CITY>旅顺</CITY>
+		<CITY>齐西</CITY>
+		<CITY>南昌</CITY>
+		<CITY>长沙</CITY>
+		<CITY>合肥</CITY>
+		<CITY>贵阳</CITY>
+		<CITY>沁阳</CITY>
+		<CITY>青岛</CITY>
+		<CITY>衡阳</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>3 Asian   </UNIT_CONTINENT>
+	<BUILD_CONTINENT>2 Asian</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

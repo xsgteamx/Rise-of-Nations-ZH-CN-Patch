@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Robert Nicaise (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="桑海族">
+  <LEADERS>
+    <LEADER>桑尼‧阿里王</LEADER>
+    <LEADER>阿斯基亚大王</LEADER>
+    <LEADER>穆罕默德‧图尔王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>提姆卜克土</CITY>
+    <CITY>高</CITY>
+    <CITY>振乃</CITY>
+    <CITY>卡拉巴拉</CITY>
+    <CITY>库姆比沙列</CITY>
+    <CITY>提克大</CITY>
+    <CITY>塔德梅卡</CITY>
+    <CITY>尼亚美</CITY>
+    <CITY>泰格哈撒</CITY>
+    <CITY>塔绵拉塞</CITY>
+    <CITY>塔克大</CITY>
+    <CITY>陶登尼</CITY>
+    <CITY>瓦单</CITY>
+    <CITY>尼安尼</CITY>
+    <CITY>库几亚</CITY>
+    <CITY>高审</CITY>
+    <CITY>克里欧米</CITY>
+    <CITY>比拉克欧西</CITY>
+    <CITY>尼尼</CITY>
+    <CITY>克阿</CITY>
+    <CITY>塞安印克罗</CITY>
+    <CITY>巴玛克</CITY>
+    <CITY>塞郭</CITY>
+    <CITY>欧德塞茍</CITY>
+    <CITY>萨高</CITY>
+    <CITY>克毕</CITY>
+    <CITY>桑尼</CITY>
+    <CITY>席</CITY>
+    <CITY>图尔</CITY>
+    <CITY>阿斯基亚</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab    </UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

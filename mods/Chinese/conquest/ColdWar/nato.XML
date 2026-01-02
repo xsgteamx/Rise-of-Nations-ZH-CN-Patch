@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="北大西洋公约组织">
+  <LEADERS>
+    <LEADER>伊斯梅</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>巴黎</CITY>
+    <CITY>伦敦</CITY>
+    <CITY>波昂</CITY>
+    <CITY>海牙</CITY>
+    <CITY>坎培拉</CITY>
+    <CITY>渥太华</CITY>
+    <CITY>伊斯坦堡</CITY>
+    <CITY>奥斯陆</CITY>
+    <CITY>罗马</CITY>
+    <CITY>马德里</CITY>
+    <CITY>斯德哥尔摩</CITY>
+    <CITY>哥本哈根</CITY>
+    <CITY>布鲁塞尔</CITY>
+    <CITY>卢森堡</CITY>
+    <CITY>蒙地卡罗</CITY>
+    <CITY>杜塞尔多夫</CITY>
+    <CITY>安特卫普</CITY>
+    <CITY>爱丁堡</CITY>
+    <CITY>阿姆斯特丹</CITY>
+    <CITY>奥尔良</CITY>
+    <CITY>海姆斯</CITY>
+    <CITY>约克</CITY>
+    <CITY>坎特伯里</CITY>
+    <CITY>安卡拉</CITY>
+    <CITY>托雷多</CITY>
+    <CITY>伯斯</CITY>
+    <CITY>多伦多</CITY>
+    <CITY>塞维尔</CITY>
+    <CITY>墨尔本</CITY>
+    <CITY>特朗罕</CITY>
+    <CITY>乌普赛拉</CITY>
+    <CITY>根特</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

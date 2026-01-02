@@ -1,0 +1,42 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="伊索比亚人">
+  <LEADERS>
+    <LEADER>海尔塞拉西一世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>阿迪斯阿贝巴</CITY>
+    <CITY>阿多瓦</CITY>
+    <CITY>亚琴</CITY>
+    <CITY>哈拉尔</CITY>
+    <CITY>达里达瓦</CITY>
+    <CITY>冈德</CITY>
+    <CITY>纳兹雷特</CITY>
+    <CITY>美克雷</CITY>
+    <CITY>吉马</CITY>
+    <CITY>德瑟</CITY>
+    <CITY>巴赫达尔</CITY>
+    <CITY>德卜勒泽特</CITY>
+    <CITY>阿迪格拉特</CITY>
+    <CITY>马伊乔乌</CITY>
+    <CITY>古霸</CITY>
+    <CITY>瓦迪亚</CITY>
+    <CITY>德卜勒马科斯</CITY>
+    <CITY>德卜勒伯尔汉</CITY>
+    <CITY>吉几加</CITY>
+    <CITY>阿塞拉</CITY>
+    <CITY>哥尔</CITY>
+    <CITY>马吉</CITY>
+    <CITY>雅贝洛</CITY>
+    <CITY>纳格莱</CITY>
+    <CITY>伊米</CITY>
+    <CITY>开拉佛</CITY>
+    <CITY>瓦德</CITY>
+    <CITY>德吉伯</CITY>
+    <CITY>内格默特</CITY>
+    <CITY>克卜勒门格斯特</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab    </UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

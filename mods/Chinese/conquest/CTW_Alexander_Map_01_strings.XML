@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Mark Sobota (Big Huge Games) -->
+<ROOT>
+	<CAT hash="2131502">
+		<STRING hash="19599686" hash_i="19791536" needed="1">亚历山大大帝</STRING>
+		<STRING hash="267284385" hash_i="285092489" needed="1">追随亚历山大大帝的脚步，征服公元前 336 年的已知世界!</STRING>
+		<STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+		<STRING hash="-1720151383" hash_i="-1780382039" needed="1">亚历山大大帝可说是历史上相当杰出的一位将军。当亚历山大的父亲马其顿国王在公元前 366 年遭人谋杀后，年轻的亚历山大就被簇拥上了王位。在亚历山大大帝统治的十三年间，马其顿帝国的疆域从现今的希腊一路拓展到了印度。您可以选择追随亚历山大的脚步，或用自己的方式来征服世界!</STRING>
+		<STRING hash="0" hash_i="0" needed="1"/>
+	</CAT>
+	<CAT hash="5117100">
+		<STRING hash="7763596" hash_i="8571764" needed="1">西亚</STRING>
+		<STRING hash="8944339" hash_i="9864185" needed="1">南亚</STRING>
+		<STRING hash="12896864" hash_i="13820258" needed="1">北亚</STRING>
+		<STRING hash="11452586" hash_i="11553992" needed="1">南欧</STRING>
+	</CAT>
+	<CAT hash="7347124">
+		<STRING hash="1733883" hash_i="1716483" needed="1">拉丁姆</STRING>
+		<STRING hash="2085026" hash_i="2062520" needed="1">色雷斯</STRING>
+		<STRING hash="2466741" hash_i="2449535" needed="1">马其顿</STRING>
+		<STRING hash="2606946" hash_i="2586102" needed="1">佛里几亚</STRING>
+		<STRING hash="2720101" hash_i="2699257" needed="1">安息国</STRING>
+		<STRING hash="2525581" hash_i="2593287" needed="1">亚美尼亚</STRING>
+		<STRING hash="1240236" hash_i="1222836" needed="1">利底亚</STRING>
+		<STRING hash="9296013" hash_i="9290407" needed="1">大希腊城邦</STRING>
+		<STRING hash="2980920" hash_i="3053794" needed="1">大夏</STRING>
+		<STRING hash="1734882" hash_i="1719026" needed="1">希腊</STRING>
+		<STRING hash="1182891" hash_i="1165685" needed="1">米底亚</STRING>
+		<STRING hash="1858850" hash_i="1837028" needed="1">西西里岛</STRING>
+		<STRING hash="7408265" hash_i="7391059" needed="1">美索不达米亚</STRING>
+		<STRING hash="3211409" hash_i="3286801" needed="1">迦太基</STRING>
+		<STRING hash="1313265" hash_i="1291443" needed="1">叙利亚</STRING>
+		<STRING hash="4025025" hash_i="4004181" needed="1">波拉瓦斯</STRING>
+		<STRING hash="4767437" hash_i="4746593" needed="1">腓尼基</STRING>
+		<STRING hash="3807606" hash_i="3882998" needed="1">卡曼尼亚</STRING>
+		<STRING hash="3375796" hash_i="3359940" needed="1">格德罗西亚</STRING>
+		<STRING hash="1203598" hash_i="1186620" needed="1">印度</STRING>
+		<STRING hash="1894519" hash_i="1873675" needed="1">波斯</STRING>
+		<STRING hash="1545034" hash_i="1527634" needed="1">利比亚</STRING>
+		<STRING hash="2316693" hash_i="2384399" needed="1">阿拉伯</STRING>
+		<STRING hash="1054218" hash_i="1040080" needed="1">埃及</STRING>
+		<STRING hash="1527934" hash_i="1506112" needed="1">印度河</STRING>
+		<STRING hash="1505834" hash_i="1484012" needed="1">席巴</STRING>
+	</CAT>
+	<CAT hash="14987765">
+		<STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+	</CAT>
+	<CAT hash="2909936"><STRING hash="0" hash_i="0" needed="1"/><STRING hash="12376139" hash_i="12364509" needed="1">玩家连线中断</STRING><STRING hash="27997921" hash_i="28189459" needed="1">转换为「外交」模式</STRING><STRING hash="76887027" hash_i="77461273" needed="1">转换成「适者生存」模式</STRING><STRING hash="11242446" hash_i="12612938" needed="1">以人工智慧取代</STRING><STRING hash="8836697" hash_i="8938103" needed="1">储存并退出</STRING><STRING hash="658084" hash_i="643946" needed="1">退出</STRING></CAT></ROOT>

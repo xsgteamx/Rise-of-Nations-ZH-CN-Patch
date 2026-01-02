@@ -1,0 +1,47 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2, Installed Multi for 15 users (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="印度人">
+  <LEADERS>
+    <LEADER>维克拉姆帝亚六世</LEADER>
+    <LEADER>琴拉玛皇后</LEADER>
+    <LEADER>辛格</LEADER>
+    <LEADER>提普苏丹</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>德里</CITY>
+    <CITY>孟买</CITY>
+    <CITY>加尔各答</CITY>
+    <CITY>契奈</CITY>
+    <CITY>邦加罗尔</CITY>
+    <CITY>海德拉巴</CITY>
+    <CITY>艾哈迈达巴德</CITY>
+    <CITY>浦纳</CITY>
+    <CITY>苏拉特</CITY>
+    <CITY>坎普尔</CITY>
+    <CITY>斋浦尔</CITY>
+    <CITY>勒克瑙</CITY>
+    <CITY>纳格浦尔</CITY>
+    <CITY>华氏城</CITY>
+    <CITY>印多尔</CITY>
+    <CITY>瓦多达拉</CITY>
+    <CITY>波帕尔</CITY>
+    <CITY>孔巴托</CITY>
+    <CITY>卢迪安纳</CITY>
+    <CITY>科钦</CITY>
+    <CITY>阿格拉</CITY>
+    <CITY>瓦拉纳西</CITY>
+    <CITY>马杜赖</CITY>
+    <CITY>弥鲁特</CITY>
+    <CITY>纳西克</CITY>
+    <CITY>加巴浦尔</CITY>
+    <CITY>哲雪铺</CITY>
+    <CITY>阿桑索</CITY>
+    <CITY>丹巴德</CITY>
+    <CITY>法里达巴德</CITY>
+    <CITY>阿木里查</CITY>
+    <CITY>拉杰果德</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>5 EIndian</UNIT_CONTINENT>
+  <BUILD_CONTINENT>8 EIndian</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>8 EIndian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

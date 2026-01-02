@@ -1,0 +1,44 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="华沙公约组织">
+  <LEADERS>
+    <LEADER>乌布利希</LEADER>
+    <LEADER>何内克</LEADER>
+    <LEADER>西奥塞古</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>柏林</CITY>
+    <CITY>布达佩斯</CITY>
+    <CITY>华沙</CITY>
+    <CITY>布拉格</CITY>
+    <CITY>布加勒斯特</CITY>
+    <CITY>索非亚</CITY>
+    <CITY>贝尔格勒</CITY>
+    <CITY>德布勒森</CITY>
+    <CITY>米什科尔茨</CITY>
+    <CITY>佩奇</CITY>
+    <CITY>洛兹</CITY>
+    <CITY>克拉科夫</CITY>
+    <CITY>弗罗茨瓦夫</CITY>
+    <CITY>格但斯克</CITY>
+    <CITY>布尔诺</CITY>
+    <CITY>奥斯特拉瓦</CITY>
+    <CITY>奥洛摩兹</CITY>
+    <CITY>提米索拉</CITY>
+    <CITY>康斯坦察</CITY>
+    <CITY>布拉索夫</CITY>
+    <CITY>普罗夫迪夫</CITY>
+    <CITY>瓦尔纳</CITY>
+    <CITY>布尔加斯</CITY>
+    <CITY>斯利文</CITY>
+    <CITY>普利斯提纳</CITY>
+    <CITY>尼士</CITY>
+    <CITY>克拉古耶瓦茨</CITY>
+    <CITY>塞格德</CITY>
+    <CITY>索尔诺克</CITY>
+    <CITY>哈拉代兹克拉罗维</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

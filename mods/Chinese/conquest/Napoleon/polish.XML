@@ -1,0 +1,36 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="波兰人" substitute="1">
+  <LEADERS>
+    <LEADER>圣达尼老二世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>华沙</CITY>
+    <CITY>克拉科夫</CITY>
+    <CITY>洛兹</CITY>
+    <CITY>乌斯卡</CITY>
+    <CITY>格地尼亚</CITY>
+    <CITY>波兹南</CITY>
+    <CITY>洛劳治</CITY>
+    <CITY>拉当</CITY>
+    <CITY>卢布令</CITY>
+    <CITY>琴斯托霍瓦</CITY>
+    <CITY>卡托维治</CITY>
+    <CITY>科托布尔兹格</CITY>
+    <CITY>乌斯卡</CITY>
+    <CITY>波兹兰里</CITY>
+    <CITY>斯塞新</CITY>
+    <CITY>斯末诺契</CITY>
+    <CITY>格利维斯</CITY>
+    <CITY>热舒夫</CITY>
+    <CITY>比亚韦斯托克</CITY>
+    <CITY>毕哥斯</CITY>
+    <CITY>格但斯克</CITY>
+    <CITY>乌尔萨斯</CITY>
+    <CITY>灯塔山</CITY>
+    <CITY>托伦</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

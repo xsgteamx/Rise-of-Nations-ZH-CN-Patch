@@ -1,0 +1,41 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="普鲁士人" substitute="1">
+  <LEADERS>
+    <LEADER>斐特烈威廉三世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>柏林</CITY>
+    <CITY>弗里德兰</CITY>
+    <CITY>提尔希</CITY>
+    <CITY>但泽</CITY>
+    <CITY>哥尼斯堡</CITY>
+    <CITY>布勒斯伦</CITY>
+    <CITY>艾劳</CITY>
+    <CITY>普连兹劳</CITY>
+    <CITY>什威特</CITY>
+    <CITY>诺路平</CITY>
+    <CITY>埃伯斯瓦德</CITY>
+    <CITY>奥拉南堡</CITY>
+    <CITY>斯特劳斯堡</CITY>
+    <CITY>威登堡</CITY>
+    <CITY>拉德诺</CITY>
+    <CITY>布兰登堡</CITY>
+    <CITY>波茨丹</CITY>
+    <CITY>法肯湖</CITY>
+    <CITY>福斯坦瓦德</CITY>
+    <CITY>爱森胡顿斯塔</CITY>
+    <CITY>古本</CITY>
+    <CITY>科特布斯</CITY>
+    <CITY>福斯特</CITY>
+    <CITY>施普伦贝格</CITY>
+    <CITY>卢德威格斯菲尔德</CITY>
+    <CITY>卢肯瓦德</CITY>
+    <CITY>森夫腾贝格</CITY>
+    <CITY>芬尼斯特瓦德</CITY>
+    <CITY>劳克哈麦</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

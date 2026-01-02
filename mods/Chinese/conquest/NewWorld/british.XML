@@ -1,0 +1,42 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="英国人" substitute="1">
+  <LEADERS>
+    <LEADER>乔治三世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>新伦敦</CITY>
+    <CITY>多伦多</CITY>
+    <CITY>渥太华</CITY>
+    <CITY>哈利法克斯</CITY>
+    <CITY>春田市</CITY>
+    <CITY>罗威尔</CITY>
+    <CITY>新列斯特</CITY>
+    <CITY>新堡</CITY>
+    <CITY>乌斯特</CITY>
+    <CITY>列星顿</CITY>
+    <CITY>林肯</CITY>
+    <CITY>坎特伯里</CITY>
+    <CITY>来城</CITY>
+    <CITY>杜伦</CITY>
+    <CITY>曼彻斯特</CITY>
+    <CITY>多佛</CITY>
+    <CITY>南汉普顿</CITY>
+    <CITY>剑桥</CITY>
+    <CITY>赛伦</CITY>
+    <CITY>海克森</CITY>
+    <CITY>鲁尼米德</CITY>
+    <CITY>温莎</CITY>
+    <CITY>爱塞特</CITY>
+    <CITY>兰开斯特</CITY>
+    <CITY>喀来耳</CITY>
+    <CITY>格拉斯哥</CITY>
+    <CITY>布里斯托</CITY>
+    <CITY>新利物浦</CITY>
+    <CITY>伯明罕</CITY>
+    <CITY>温彻斯特</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+	<CAT hash="2131502">
+		<STRING hash="13024266" hash_i="13001798" needed="1">全世界</STRING>
+		<STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+		<STRING hash="4165503" hash_i="4169123" needed="1">世界地图</STRING>
+		<STRING hash="191862463" hash_i="191930169" needed="1">包含全世界所有民族的地图。</STRING>
+		<STRING hash="1609214396" hash_i="1564798088" needed="1">您已藉由智慧与熟练的领导能力统一了$TRIBENAME0。现在，您必须收服所有反抗您统治的人。不论野蛮人聚落或敌对民族，都将在您「征服世界」的过程中臣服。</STRING>
+		<STRING hash="1624940948" hash_i="1580524640" needed="1">您已藉由智慧与熟练的领导能力统一了$TRIBENAME0。现在，您必须收服所有反抗您统治的人。不论野蛮人聚落或敌对民族，都将在您「征服世界」的过程中臣服。</STRING><STRING hash="0" hash_i="0" needed="1"/></CAT>
+	<CAT hash="5117100">
+		<STRING hash="9957622" hash_i="10561706" needed="1">北美</STRING>
+		<STRING hash="9983922" hash_i="10584458" needed="1">南美</STRING>
+		<STRING hash="1508495" hash_i="1494357" needed="1">欧洲</STRING>
+		<STRING hash="4239478" hash_i="4749264" needed="1">西亚</STRING>
+		<STRING hash="4359606" hash_i="4879608" needed="1">东亚</STRING>
+		<STRING hash="2218791" hash_i="2286497" needed="1">非洲</STRING>
+	</CAT>
+	<CAT hash="7347124">
+		<STRING hash="1014365" hash_i="989713" needed="1">加拿大育空</STRING>
+		<STRING hash="4079509" hash_i="4063653" needed="1">格陵兰</STRING>
+		<STRING hash="5191608" hash_i="5173568" needed="1">勘察加半岛</STRING>
+		<STRING hash="7684557" hash_i="7662735" needed="1">斯堪的那维亚半岛</STRING>
+		<STRING hash="16352554" hash_i="16335388" needed="1">东斯堪的那维亚半岛</STRING>
+		<STRING hash="2761739" hash_i="2739917" needed="1">西伯利亚</STRING>
+		<STRING hash="6241129" hash_i="6177161" needed="1">西伯利亚</STRING>
+		<STRING hash="3601214" hash_i="3583174" needed="1">卡瑞利亚</STRING>
+		<STRING hash="16232426" hash_i="16205044" needed="1">西斯堪的那维亚半岛</STRING>
+		<STRING hash="1211246" hash_i="1189670" needed="1">乌拉山</STRING>
+		<STRING hash="8769749" hash_i="9428509" needed="1">加拿大南部</STRING>
+		<STRING hash="1948712" hash_i="1927270" needed="1">俄罗斯</STRING>
+		<STRING hash="8751514" hash_i="9406098" needed="1">加拿大北部</STRING>
+		<STRING hash="8499128" hash_i="8642368" needed="1">不列颠群岛</STRING>
+		<STRING hash="10399084" hash_i="10570402" needed="1">中欧</STRING>
+		<STRING hash="3070892" hash_i="3052594" needed="1">北海道</STRING>
+		<STRING hash="6241129" hash_i="6177161" needed="1">欧亚大草原</STRING>
+		<STRING hash="2670895" hash_i="2655039" needed="1">德国</STRING>
+		<STRING hash="2399840" hash_i="2381542" needed="1">荷兰</STRING>
+		<STRING hash="2466760" hash_i="2442108" needed="1">雅库次克</STRING>
+		<STRING hash="3322080" hash_i="3304874" needed="1">蒙古</STRING>
+		<STRING hash="16461860" hash_i="16499718" needed="1">太平洋西北部</STRING>
+		<STRING hash="2015546" hash_i="2000118" needed="1">法国</STRING>
+		<STRING hash="2123990" hash_i="2191696" needed="1">阿卡迪亚</STRING>
+		<STRING hash="9825878" hash_i="9802640" needed="1">达科他平原</STRING>
+		<STRING hash="640518" hash_i="708224" needed="1">阿尔卑斯山</STRING>
+		<STRING hash="6752968" hash_i="6727072" needed="1">俄亥俄山谷</STRING>
+		<STRING hash="2682896" hash_i="2755770" needed="1">巴尔干</STRING>
+		<STRING hash="13116014" hash_i="13122546" needed="1">洛几山脉</STRING>
+		<STRING hash="12336207" hash_i="13431277" needed="1">中国东北</STRING>
+		<STRING hash="18129026" hash_i="18243120" needed="1">大西洋海岸</STRING>
+		<STRING hash="1253930" hash_i="1236952" needed="1">义大利</STRING>
+		<STRING hash="1734882" hash_i="1719026" needed="1">希腊</STRING>
+		<STRING hash="3924554" hash_i="3999946" needed="1">高加索</STRING>
+		<STRING hash="1148786" hash_i="1126964" needed="1">西班牙</STRING>
+		<STRING hash="1245191" hash_i="1227151" needed="1">韩国</STRING>
+		<STRING hash="3564981" hash_i="3632687" needed="1">安那托利雅</STRING>
+		<STRING hash="1355419" hash_i="1337553" needed="1">日本</STRING>
+		<STRING hash="7408265" hash_i="7391059" needed="1">美索不达米亚</STRING>
+		<STRING hash="1229394" hash_i="1304786" needed="1">中国</STRING>
+		<STRING hash="1203598" hash_i="1186620" needed="1">印度</STRING>
+		<STRING hash="18284941" hash_i="18281337" needed="1">密西西比河谷</STRING>
+		<STRING hash="1894519" hash_i="1873675" needed="1">波斯</STRING>
+		<STRING hash="5251012" hash_i="5851548" needed="1">南亚</STRING>
+		<STRING hash="7294995" hash_i="7804781" needed="1">西非</STRING>
+		<STRING hash="2285625" hash_i="2263803" needed="1">撒哈拉沙漠</STRING>
+		<STRING hash="1282687" hash_i="1264389" needed="1">阿拉伯汉志地方</STRING>
+		<STRING hash="1054218" hash_i="1040080" needed="1">埃及</STRING>
+		<STRING hash="10895893" hash_i="11902869" needed="1">东南亚</STRING>
+		<STRING hash="1931782" hash_i="1914576" needed="1">墨西哥</STRING>
+		<STRING hash="2316693" hash_i="2384399" needed="1">阿拉伯</STRING>
+		<STRING hash="3140099" hash_i="3115447" needed="1">犹加敦半岛</STRING>
+		<STRING hash="1480630" hash_i="1462356" needed="1">努比亚</STRING>
+		<STRING hash="11779302" hash_i="12687216" needed="1">中非</STRING>
+		<STRING hash="1798444" hash_i="1781044" needed="1">拉丁美洲大草原</STRING>
+		<STRING hash="19946535" hash_i="20015151" needed="1">伊索比亚高地</STRING>
+		<STRING hash="1822853" hash_i="1890559" needed="1">亚马逊</STRING>
+		<STRING hash="1829202" hash_i="1813346" needed="1">几内亚</STRING>
+		<STRING hash="897944" hash_i="965650" needed="1">安地斯山</STRING>
+		<STRING hash="4800885" hash_i="4868591" needed="1">澳洲</STRING>
+		<STRING hash="12923164" hash_i="13843010" needed="1">南非</STRING>
+		<STRING hash="2055015" hash_i="2034171" needed="1">南美彭巴草原</STRING>
+	</CAT>
+	<CAT hash="14987765">
+		<STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+	</CAT>
+	<CAT hash="2909936">
+		<STRING hash="0" hash_i="0" needed="1"/>
+		<STRING hash="12376139" hash_i="12364509" needed="1">Drop Players(s)</STRING>
+		<STRING hash="27997921" hash_i="28189459" needed="1">Convert to "Diplomacy"</STRING>
+		<STRING hash="76887027" hash_i="77461273" needed="1">Convert to "Survival of the Fittest"</STRING>
+		<STRING hash="11242446" hash_i="12612938" needed="1">Replace with AI</STRING>
+		<STRING hash="8836697" hash_i="8938103" needed="1">Save and Exit</STRING>
+		<STRING hash="658084" hash_i="643946" needed="1">Exit</STRING>
+	</CAT>
+</ROOT>

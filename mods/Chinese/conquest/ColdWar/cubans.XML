@@ -1,0 +1,41 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="古巴人">
+  <LEADERS>
+    <LEADER>格劳</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>哈瓦那</CITY>
+    <CITY>圣地牙哥古巴</CITY>
+    <CITY>瓦拉德罗</CITY>
+    <CITY>长礁</CITY>
+    <CITY>西恩菲哥斯</CITY>
+    <CITY>卡马圭</CITY>
+    <CITY>基尔蒙礁</CITY>
+    <CITY>圣马利亚礁</CITY>
+    <CITY>比亚克拉拉</CITY>
+    <CITY>格兰玛</CITY>
+    <CITY>普拉雅基诺</CITY>
+    <CITY>马瑞雅波提约</CITY>
+    <CITY>瓜达拉凡卡</CITY>
+    <CITY>桑提斯匹利</CITY>
+    <CITY>欧尔根</CITY>
+    <CITY>普拉雅拉哥</CITY>
+    <CITY>开亚可可</CITY>
+    <CITY>千里达</CITY>
+    <CITY>皮纳里约</CITY>
+    <CITY>谢戈德阿维拉</CITY>
+    <CITY>云尼斯</CITY>
+    <CITY>拉非</CITY>
+    <CITY>洛斯阿罗姆斯</CITY>
+    <CITY>尼克罗</CITY>
+    <CITY>摩亚</CITY>
+    <CITY>巴雅摩</CITY>
+    <CITY>希巴拉</CITY>
+    <CITY>艾斯美拉达斯</CITY>
+    <CITY>拉伊沙贝拉</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>4 Iroquois</UNIT_CONTINENT>
+  <BUILD_CONTINENT>6 Iroquois</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>6 Iroquois</BACKUP_BUILD_CONTINENT>
+</TRIBE>

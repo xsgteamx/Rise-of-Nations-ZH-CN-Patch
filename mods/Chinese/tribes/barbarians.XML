@@ -1,0 +1,17 @@
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="野蛮人">
+	<LEADERS>
+		<LEADER>野蛮人领袖</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>蛮族城市</CITY>
+		<CITY>蛮族城市</CITY>
+		<CITY>蛮族城市</CITY>
+		<CITY>蛮族城市</CITY>
+		<CITY>蛮族城市</CITY>
+		<CITY>蛮族城市</CITY>
+		<CITY>蛮族城市</CITY>
+    <CITY>蛮族城市</CITY>
+    <CITY>蛮族城市</CITY>
+	</CITIES>
+</TRIBE>

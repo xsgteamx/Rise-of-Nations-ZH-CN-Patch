@@ -1,0 +1,39 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="埃及人">
+  <LEADERS>
+    <LEADER>法老王内克大内玻二世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>皮拉美西斯</CITY>
+    <CITY>艾尔-李甚特</CITY>
+    <CITY>艾尔-阿马尔奈</CITY>
+    <CITY>艾得夫</CITY>
+    <CITY>伊里芬丁(象岛)</CITY>
+    <CITY>阿斯尤特</CITY>
+    <CITY>萨卡拉</CITY>
+    <CITY>萨伊斯</CITY>
+    <CITY>标托</CITY>
+    <CITY>拉克特</CITY>
+    <CITY>布巴斯提斯</CITY>
+    <CITY>坦尼斯</CITY>
+    <CITY>卡尔那</CITY>
+    <CITY>路克索</CITY>
+    <CITY>斯柏曼鲁</CITY>
+    <CITY>亚特菲</CITY>
+    <CITY>卡呼恩</CITY>
+    <CITY>希</CITY>
+    <CITY>哈瓦拉</CITY>
+    <CITY>伊兹贝特鲁希迪</CITY>
+    <CITY>梅尔</CITY>
+    <CITY>阿赫米姆</CITY>
+    <CITY>阿拜多斯</CITY>
+    <CITY>萨斯比</CITY>
+    <CITY>阿马拉</CITY>
+    <CITY>艾尔-色布阿</CITY>
+    <CITY>赫拉克列奥波里斯</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 Europe</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

@@ -1,0 +1,72 @@
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="席巴人" substitute="1">
+  <LEADERS>
+    <LEADER>席巴女王</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>哈里布</CITY>
+    <CITY>耶律特</CITY>
+    <CITY>悠姆</CITY>
+    <CITY>萨德卡拉巴</CITY>
+    <CITY>梅因</CITY>
+    <CITY>加云</CITY>
+    <CITY>麦什德</CITY>
+    <CITY>哈兹</CITY>
+    <CITY>巴伊汉</CITY>
+    <CITY>沙利伯珊马尔</CITY>
+    <CITY>塔克苏里曼</CITY>
+    <CITY>巴拉伯</CITY>
+    <CITY>坎兰</CITY>
+    <CITY>檞伊巴</CITY>
+    <CITY>占哈里</CITY>
+    <CITY>札卡哈加</CITY>
+    <CITY>沙美何恩</CITY>
+    <CITY>札哥拉斯</CITY>
+    <CITY>焦夫</CITY>
+    <CITY>瓦迪葛登</CITY>
+    <CITY>阿美地雅</CITY>
+    <CITY>迈法亚</CITY>
+    <CITY>那吉兰</CITY>
+    <CITY>亚丁</CITY>
+    <CITY>沙那</CITY>
+    <CITY>塔兹</CITY>
+    <CITY>穆卡拉</CITY>
+    <CITY>伊布</CITY>
+    <CITY>考卡班</CITY>
+    <CITY>吉卜拉</CITY>
+    <CITY>哈贾</CITY>
+    <CITY>卡那</CITY>
+    <CITY>申姆</CITY>
+    <CITY>阿萨尔</CITY>
+    <CITY>沙瓦</CITY>
+    <CITY>朱哈</CITY>
+    <CITY>加纳</CITY>
+    <CITY>开萨</CITY>
+    <CITY>雅库港</CITY>
+    <CITY>塞依允</CITY>
+    <CITY>西邦姆</CITY>
+    <CITY>杜姆纳</CITY>
+    <CITY>沙夫拉</CITY>
+    <CITY>昆特</CITY>
+    <CITY>荷台达</CITY>
+    <CITY>拉希吉</CITY>
+    <CITY>豪塔</CITY>
+    <CITY>马克哈</CITY>
+    <CITY>拉达</CITY>
+    <CITY>久班</CITY>
+    <CITY>倍南</CITY>
+    <CITY>纳法干</CITY>
+    <CITY>达马尔</CITY>
+    <CITY>巴拉奇胥</CITY>
+    <CITY>加尔</CITY>
+    <CITY>舒克拉</CITY>
+    <CITY>马哈拉</CITY>
+    <CITY>马哈维特</CITY>
+    <CITY>哈兹姆焦夫</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

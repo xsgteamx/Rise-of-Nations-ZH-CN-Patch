@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+	<CAT hash="587613">
+		<STRING hash="11685233" hash_i="11756429" needed="1">基本资源</STRING>
+		<STRING hash="20489380" hash_i="20551444" needed="1">稀有食物资源。</STRING>
+		<STRING hash="147467286" hash_i="156441532" needed="1">减少研究与升级次数 $NUMBER0%。</STRING>
+		<STRING hash="113202238" hash_i="120574496" needed="1">单位升级成本减少 $NUMBER0%。</STRING>
+		<STRING hash="180822180" hash_i="192662692" needed="1">#ICON27 科学研究的成本减少 $NUMBER0%。</STRING>
+		<STRING hash="172749797" hash_i="187362279" needed="1">#ICON25 民事研究的成本减少 $NUMBER0%。</STRING>
+		<STRING hash="182561711" hash_i="193954395" needed="1">#ICON26 商业研究的成本减少 $NUMBER0%。</STRING>
+		<STRING hash="87506613" hash_i="93518609" needed="1">商队收入增加 $NUMBER0%。</STRING>
+		<STRING hash="127701008" hash_i="136619784" needed="1">军营部队成本减少 $NUMBER0%。</STRING>
+		<STRING hash="108052760" hash_i="115154366" needed="1">马厩单位成本减少 $NUMBER0%。</STRING>
+		<STRING hash="132453351" hash_i="141713909" needed="1">车厂单位成本减少 $NUMBER0%。</STRING>
+		<STRING hash="166713158" hash_i="178869008" needed="1">攻城/炮兵单位成本减少 $NUMBER0%。</STRING>
+		<STRING hash="178361967" hash_i="190646447" needed="1">市场销售价格 +$NUMBER0 且购买价格 -$NUMBER1。</STRING>
+		<STRING hash="165161095" hash_i="176196279" needed="1">#ICON23 时代演进成本减少 $NUMBER0%。</STRING>
+		<STRING hash="179338198" hash_i="190089704" needed="1">市民建造建筑物与奇迹加快 $NUMBER0%。</STRING>
+		<STRING hash="112820383" hash_i="120189315" needed="1">建造奇迹成本减少$NUMBER0%。</STRING>
+		<STRING hash="183793237" hash_i="193611755" needed="1">#ICON24 军事研究成本减少 $NUMBER0%。</STRING>
+		<STRING hash="223947293" hash_i="223468201" needed="1">军营、马厩与码头生产时间减少 $NUMBER0%。</STRING>
+		<STRING hash="122452978" hash_i="130056882" needed="1">谷仓研究成本减少 $NUMBER0%。</STRING>
+		<STRING hash="171072432" hash_i="178172594" needed="1">兵工厂和码头单位得到 +$NUMBER0% 生命点数。</STRING>
+		<STRING hash="94163552" hash_i="96831316" needed="1">#ICON20 人口上限 +$NUMBER0%。</STRING>
+		<STRING hash="69993360" hash_i="69971538" needed="1">船只在海上会自动修复。</STRING>
+		<STRING hash="76521631" hash_i="82031785" needed="1">降低所有食物成本 $NUMBER0%。</STRING>
+		<STRING hash="117828710" hash_i="126659822" needed="1">增加 #ICON21 商业限制 +$NUMBER0%。</STRING>
+		<STRING hash="42031216" hash_i="46557986" needed="1">民族边界 +$NUMBER0%。</STRING>
+		<STRING hash="219551962" hash_i="224074346" needed="1">飞机成本减少 $NUMBER0%，速度加快 $NUMBER1%。</STRING>
+		<STRING hash="104712415" hash_i="111694881" needed="1">增加航行船只速度 $NUMBER0%。</STRING>
+		<STRING hash="177991301" hash_i="192101669" needed="1">弓兵、塔楼、堡垒和城市受到 +$NUMBER1 攻击。</STRING>
+		<STRING hash="172156159" hash_i="185192517" needed="1">市民生产加快 $NUMBER0% 且降价 $NUMBER1%。</STRING>
+		<STRING hash="126026323" hash_i="135826793" needed="1">降低所有 #ICON2 木材成本 $NUMBER0%。</STRING>
+		<STRING hash="172570610" hash_i="184862394" needed="1">核导弹速度加快 $NUMBER0% 并降价 $NUMBER1%。</STRING>
+		<STRING hash="162975423" hash_i="173047229" needed="1">敌方领域的损耗降低 $NUMBER0%。</STRING>
+		<STRING hash="39526173" hash_i="44052943" needed="1">民族边界 +$NUMBER0。</STRING>
+		<STRING hash="78654592" hash_i="84318460" needed="1">市民防御力增加 $NUMBER0。</STRING>
+		<STRING hash="73318768" hash_i="78724850" needed="1">斥候视野增加 $NUMBER0。</STRING>
+		<STRING hash="126670614" hash_i="134730970" needed="1">寺庙研究成本减少 $NUMBER0%。</STRING>
+		<STRING hash="59762226" hash_i="59829932" needed="1">每个城市可以额外多一座农场。</STRING>
+		<STRING hash="55669031" hash_i="59908255" needed="1">所有成本减少 $NUMBER0%。</STRING>
+		<STRING hash="39398892" hash_i="39512062" needed="1">免费的斥候和商人</STRING>
+		<STRING hash="87780619" hash_i="93683435" needed="1">所有财富成本减少 $NUMBER0%。</STRING>
+		<STRING hash="106222893" hash_i="113200515" needed="1">船只战斗射程增加 $NUMBER0。</STRING>
+		<STRING hash="76101706" hash_i="81508168" needed="1">资源收入提高 $NUMBER0%。</STRING>
+		<STRING hash="112475487" hash_i="119755375" needed="1">所有单位增加 $NUMBER0% 的生命点数。</STRING>
+		<STRING hash="103602204" hash_i="110387614" needed="1">海军单位成本减少 $NUMBER0%。</STRING>
+		<STRING hash="82594421" hash_i="88334403" needed="1">所有金属成本减少 $NUMBER0%。</STRING>
+		<STRING hash="95816745" hash_i="102215257" needed="1">单位的递增成本降低 $NUMBER0%。</STRING>
+		<STRING hash="78424887" hash_i="84181125" needed="1">市民防御力增加 $NUMBER0。</STRING>
+		<STRING hash="56674842" hash_i="59829932" needed="1">每个城市可以额外多一座农场。</STRING>
+		<STRING hash="113861114" hash_i="121458652" needed="1">所有单位的生命点数增加 $NUMBER0% 。</STRING>
+		<STRING hash="102440803" hash_i="109209577" needed="1">海军单位成本减少 $NUMBER0%。</STRING>
+		<STRING hash="81422450" hash_i="87171002" needed="1">所有金属成本减少 $NUMBER0%。</STRING>
+		<STRING hash="113325601" hash_i="120697859" needed="1">增加单位的成本减少 $NUMBER0%。</STRING>
+		<STRING hash="189871371" hash_i="195578207" needed="1">马厩和车厂单位的成本减少 $NUMBER0%。</STRING>
+		<STRING hash="114094080" hash_i="121458652" needed="1">所有单位生命点数增加 $NUMBER0%。</STRING><STRING hash="65228068" hash_i="70132214" needed="1">Increases ship speed by $NUMBER0%.</STRING></CAT>
+	<CAT hash="5799388">
+		<STRING hash="0" hash_i="0" needed="1"/>
+		<STRING hash="18235975" hash_i="18298039" needed="1">稀有食物资源</STRING>
+		<STRING hash="48316772" hash_i="48424200" needed="1">加速研究与升级</STRING>
+		<STRING hash="20180700" hash_i="20289892" needed="1">单位升级降价</STRING>
+		<STRING hash="28254149" hash_i="30066889" needed="1">科学研究加分</STRING>
+		<STRING hash="23093140" hash_i="24722438" needed="1">民事研究加分</STRING>
+		<STRING hash="30961383" hash_i="32991505" needed="1">商业研究加分</STRING>
+		<STRING hash="9549012" hash_i="10503438" needed="1">商队加分</STRING>
+		<STRING hash="30587098" hash_i="32405312" needed="1">军营部队降价</STRING>
+		<STRING hash="22163518" hash_i="23519296" needed="1">马厩单位降价</STRING>
+		<STRING hash="32968667" hash_i="34925325" needed="1">车厂单位降价</STRING>
+		<STRING hash="49316992" hash_i="52418960" needed="1">攻城/炮兵单位降价</STRING>
+		<STRING hash="17709399" hash_i="19040397" needed="1">市场价格加分</STRING>
+		<STRING hash="20242399" hash_i="22000635" needed="1">时代演进降价</STRING>
+		<STRING hash="24055863" hash_i="25267355" needed="1">市民建造速度加快</STRING>
+		<STRING hash="11828830" hash_i="12706172" needed="1">奇迹降价</STRING>
+		<STRING hash="31187895" hash_i="33125419" needed="1">军事研究加分</STRING>
+		<STRING hash="55849638" hash_i="56475694" needed="1">生产步行单位/马匹/帆船加快</STRING>
+		<STRING hash="34474051" hash_i="36338081" needed="1">谷仓研究降价</STRING>
+		<STRING hash="35489584" hash_i="36208990" needed="1">船只/炮兵生命点数</STRING>
+		<STRING hash="26362468" hash_i="28232524" needed="1">人口上限加分</STRING>
+		<STRING hash="15177844" hash_i="16318806" needed="1">船只在海上回复</STRING>
+		<STRING hash="17531243" hash_i="18134095" needed="1">食物成本降低</STRING>
+		<STRING hash="10397967" hash_i="11466707" needed="1">商业加分</STRING>
+		<STRING hash="36183080" hash_i="40709850" needed="1">民族边界 +$NUMBER0</STRING>
+		<STRING hash="43631754" hash_i="44994796" needed="1">飞机降价且更快</STRING>
+		<STRING hash="22178329" hash_i="22313841" needed="1">航行船只更快</STRING>
+		<STRING hash="9048116" hash_i="9994856" needed="1">箭术加分</STRING>
+		<STRING hash="85845041" hash_i="89559069" needed="1">平民生产速度加快并降价</STRING>
+		<STRING hash="19809197" hash_i="20628375" needed="1">木材成本减半</STRING>
+		<STRING hash="24772106" hash_i="26275680" needed="1">核单位降价</STRING>
+		<STRING hash="15485697" hash_i="16296777" needed="1">减少损耗</STRING>
+		<STRING hash="22234203" hash_i="23009365" needed="1">木材成本减少</STRING>
+		<STRING hash="19049350" hash_i="21412358" needed="1">市民防御力加分</STRING>
+		<STRING hash="28014279" hash_i="28085333" needed="1">增加斥候视野</STRING>
+		<STRING hash="30709710" hash_i="32379444" needed="1">寺庙研究降价</STRING>
+		<STRING hash="19124534" hash_i="20783736" needed="1">每个城市有更多农场</STRING>
+		<STRING hash="15517638" hash_i="16078122" needed="1">减少所有成本</STRING>
+		<STRING hash="39398892" hash_i="39512062" needed="1">免费的斥候和商人</STRING>
+		<STRING hash="22135391" hash_i="22908705" needed="1">减少财富成本</STRING>
+		<STRING hash="25961734" hash_i="26087388" needed="1">增加海军射程</STRING>
+		<STRING hash="6536794" hash_i="6545624" needed="1">更多收入</STRING>
+		<STRING hash="35348627" hash_i="35585433" needed="1">增加单位生命点数</STRING>
+		<STRING hash="19934643" hash_i="21198105" needed="1">海军单位降价</STRING>
+		<STRING hash="19953961" hash_i="20638425" needed="1">减少金属成本</STRING>
+		<STRING hash="22543340" hash_i="23223708" needed="1">降低单位成本</STRING>
+		<STRING hash="19169734" hash_i="20783736" needed="1">每个城市有更多农场</STRING>
+		<STRING hash="75763479" hash_i="80245133" needed="1">马厩和车厂单位降价</STRING>
+</CAT>
+</ROOT>

@@ -1,0 +1,45 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="奥地利人" substitute="1">
+  <LEADERS>
+    <LEADER>奥皇法兰西斯一世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>维也纳</CITY>
+    <CITY>萨尔斯堡</CITY>
+    <CITY>林茨</CITY>
+    <CITY>因斯布鲁克</CITY>
+    <CITY>格拉兹</CITY>
+    <CITY>布达佩斯</CITY>
+    <CITY>焦尔</CITY>
+    <CITY>德布勒森</CITY>
+    <CITY>佩奇</CITY>
+    <CITY>松波特赫</CITY>
+    <CITY>塞格德</CITY>
+    <CITY>米什科尔茨</CITY>
+    <CITY>瓦格拉姆</CITY>
+    <CITY>奥斯特利兹</CITY>
+    <CITY>克拉迪亚</CITY>
+    <CITY>赫曼斯塔特</CITY>
+    <CITY>克路治</CITY>
+    <CITY>奥拉迪亚</CITY>
+    <CITY>阿拉德</CITY>
+    <CITY>布拉格</CITY>
+    <CITY>皮森</CITY>
+    <CITY>奥斯特拉瓦</CITY>
+    <CITY>布尔诺</CITY>
+    <CITY>契斯凯布达札维</CITY>
+    <CITY>哈拉代兹克拉罗维</CITY>
+    <CITY>布拉提斯拉瓦</CITY>
+    <CITY>尼特拉</CITY>
+    <CITY>田辛</CITY>
+    <CITY>济纳</CITY>
+    <CITY>科马诺</CITY>
+    <CITY>卢策内次</CITY>
+    <CITY>普勒索夫</CITY>
+    <CITY>科西策</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>1 NEuro</BACKUP_BUILD_CONTINENT>
+</TRIBE>

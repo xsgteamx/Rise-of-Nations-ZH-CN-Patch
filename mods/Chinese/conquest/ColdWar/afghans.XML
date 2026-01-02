@@ -1,0 +1,41 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="阿富汗人">
+  <LEADERS>
+    <LEADER>查希尔</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>喀布尔</CITY>
+    <CITY>基瑞巴德</CITY>
+    <CITY>夕拉卡罕</CITY>
+    <CITY>康度兹</CITY>
+    <CITY>巴格兰姆</CITY>
+    <CITY>马萨沙里夫</CITY>
+    <CITY>图拉贡迪</CITY>
+    <CITY>辛丹德</CITY>
+    <CITY>坎大哈</CITY>
+    <CITY>加札尼</CITY>
+    <CITY>加拉拉巴德</CITY>
+    <CITY>德瓦拉</CITY>
+    <CITY>塔卢坎</CITY>
+    <CITY>瓦沙杰</CITY>
+    <CITY>斯克札</CITY>
+    <CITY>巴拉克</CITY>
+    <CITY>特美兹</CITY>
+    <CITY>卡拉特</CITY>
+    <CITY>加达克</CITY>
+    <CITY>加德兹</CITY>
+    <CITY>塔林科特</CITY>
+    <CITY>拉什卡尔加</CITY>
+    <CITY>沙伊汗</CITY>
+    <CITY>兰加尔</CITY>
+    <CITY>卡勒雅法斯</CITY>
+    <CITY>赫拉特</CITY>
+    <CITY>巴尔赫</CITY>
+    <CITY>贾姆尖塔</CITY>
+    <CITY>奴瑞斯坦</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>4 Arab</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

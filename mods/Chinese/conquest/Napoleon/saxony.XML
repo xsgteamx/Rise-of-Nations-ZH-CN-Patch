@@ -1,0 +1,29 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="萨克逊人" substitute="1">
+  <LEADERS>
+    <LEADER>斐特烈奥古斯特一世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>德勒斯登</CITY>
+    <CITY>莱比鍚</CITY>
+    <CITY>克姆尼茨</CITY>
+    <CITY>茨维考</CITY>
+    <CITY>弗莱堡</CITY>
+    <CITY>诺森</CITY>
+    <CITY>史尼山</CITY>
+    <CITY>赖兴河</CITY>
+    <CITY>昆尼格斯布拉克</CITY>
+    <CITY>班曾</CITY>
+    <CITY>考第兹</CITY>
+    <CITY>安纳伯</CITY>
+    <CITY>佐比兹</CITY>
+    <CITY>沃根史坦</CITY>
+    <CITY>波塔</CITY>
+    <CITY>克菲德林堡</CITY>
+    <CITY>马格德堡</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

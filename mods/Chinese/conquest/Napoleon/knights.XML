@@ -1,0 +1,30 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="马尔他骑士团">
+  <LEADERS>
+    <LEADER>荷派斯奇大统领</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>圣艾摩堡</CITY>
+    <CITY>维托里奥萨</CITY>
+    <CITY>森格里</CITY>
+    <CITY>柯斯匹克瓦</CITY>
+    <CITY>圣安杰罗堡</CITY>
+    <CITY>格兰港</CITY>
+    <CITY>佩拉</CITY>
+    <CITY>马尔萨</CITY>
+    <CITY>里斯卡索里</CITY>
+    <CITY>汉伦</CITY>
+    <CITY>西利玛</CITY>
+    <CITY>马奴亚</CITY>
+    <CITY>拉斯卡瑞斯</CITY>
+    <CITY>马沙姆斯西多</CITY>
+    <CITY>迦利斯</CITY>
+    <CITY>圣保罗湾</CITY>
+    <CITY>梅利哈湾</CITY>
+    <CITY>诺达比尔</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

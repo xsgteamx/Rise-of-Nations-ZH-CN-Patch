@@ -1,0 +1,31 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="雅典人" substitute="1">
+  <LEADERS>
+    <LEADER>德摩斯西尼斯</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>加尔西士</CITY>
+    <CITY>霍扎</CITY>
+    <CITY>基俄斯</CITY>
+    <CITY>特拉</CITY>
+    <CITY>米洛斯</CITY>
+    <CITY>派露斯岛</CITY>
+    <CITY>提洛岛</CITY>
+    <CITY>艾立斯莱亚</CITY>
+    <CITY>希拉克里亚</CITY>
+    <CITY>派特雷</CITY>   
+    <CITY>派里厄斯</CITY>
+    <CITY>美加拉</CITY>
+    <CITY>埃伊纳岛</CITY>
+    <CITY>撒拉密斯</CITY>
+    <CITY>马拉松</CITY>
+    <CITY>留克特拉</CITY>
+    <CITY>法勒伦</CITY>
+    <CITY>德西里亚</CITY>
+    <CITY>卡利斯特斯</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>0 Med</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

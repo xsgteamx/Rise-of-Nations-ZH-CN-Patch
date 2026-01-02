@@ -1,0 +1,39 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="哥伦比亚人">
+  <LEADERS>
+    <LEADER>卡玛戈</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>波哥大 </CITY>
+    <CITY>巴兰哈拉</CITY>
+    <CITY>卡利</CITY>
+    <CITY>美得林</CITY>
+    <CITY>喀他基纳</CITY>
+    <CITY>圣安德列斯</CITY>
+    <CITY>圣马塔</CITY>
+    <CITY>辛塞莱霍</CITY>
+    <CITY>瓦那杜帕</CITY>
+    <CITY>布加拉曼加</CITY>
+    <CITY>珀雷拉</CITY>
+    <CITY>亚美尼亚</CITY>
+    <CITY>帕斯托</CITY>
+    <CITY>莫可亚</CITY>
+    <CITY>夫罗伦西亚</CITY>
+    <CITY>密土</CITY>
+    <CITY>约帕尔</CITY>
+    <CITY>屯哈</CITY>
+    <CITY>阿劳卡</CITY>
+    <CITY>维拉维辛西奥</CITY>
+    <CITY>勒提西亚</CITY>
+    <CITY>卡雷诺港</CITY>
+    <CITY>阿劳卡</CITY>
+    <CITY>阿布列特斯</CITY>
+    <CITY>瓦耶</CITY>
+    <CITY>布拿温德拉</CITY>
+    <CITY>蒙波斯</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>2 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

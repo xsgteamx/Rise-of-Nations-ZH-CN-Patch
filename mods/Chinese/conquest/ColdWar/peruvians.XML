@@ -1,0 +1,41 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="秘鲁人">
+  <LEADERS>
+    <LEADER>布斯塔曼特</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>利玛</CITY>
+    <CITY>库斯科</CITY>
+    <CITY>阿雷奇帕</CITY>
+    <CITY>特鲁希略</CITY>
+    <CITY>奇克拉攸</CITY>
+    <CITY>皮乌拉</CITY>
+    <CITY>伊基多斯</CITY>
+    <CITY>契姆伯特</CITY>
+    <CITY>宛卡约</CITY>
+    <CITY>普卡帕</CITY>
+    <CITY>塔克纳</CITY>
+    <CITY>伊卡</CITY>
+    <CITY>苏拉纳</CITY>
+    <CITY>胡略卡</CITY>
+    <CITY>瓦努科</CITY>
+    <CITY>钦察阿尔塔</CITY>
+    <CITY>阿亚库乔</CITY>
+    <CITY>塔拉波托</CITY>
+    <CITY>塔拉拉</CITY>
+    <CITY>卡哈马卡</CITY>
+    <CITY>纳斯卡</CITY>
+    <CITY>皮斯科</CITY>
+    <CITY>坦比斯</CITY>
+    <CITY>特鲁希略</CITY>
+    <CITY>塞奇恩</CITY>
+    <CITY>马丘比丘</CITY>
+    <CITY>亚里纳科查</CITY>
+    <CITY>卡拉兹</CITY>
+    <CITY>哈拉兹</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 American</UNIT_CONTINENT>
+  <BUILD_CONTINENT>4 American</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

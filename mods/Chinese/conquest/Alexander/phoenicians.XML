@@ -1,0 +1,43 @@
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="腓尼基人" substitute="1">
+  <LEADERS>
+    <LEADER>阿兹米利克</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>辛米亚</CITY>
+    <CITY>札勒法</CITY>
+    <CITY>朱比尔</CITY>
+    <CITY>阿瓦德</CITY>
+    <CITY>比布鲁斯</CITY>
+    <CITY>亚柯</CITY>
+    <CITY>西顿</CITY>
+    <CITY>的黎波里斯</CITY>
+    <CITY>柏利图斯</CITY>
+    <CITY>迦太基</CITY>
+    <CITY>加迪兹</CITY>
+    <CITY>乌提卡</CITY>
+    <CITY>哈卓米顿</CITY>
+    <CITY>提帕萨</CITY>
+    <CITY>西喀</CITY>
+    <CITY>利克色斯</CITY>
+    <CITY>摩加多尔</CITY>
+    <CITY>莫提亚</CITY>
+    <CITY>诺拉</CITY>
+    <CITY>萨罗</CITY>
+    <CITY>阿木内卡</CITY>
+    <CITY>巴勒摩</CITY>
+    <CITY>特拉耶马</CITY>
+    <CITY>维雅利卡斯</CITY>
+    <CITY>巴里亚利</CITY>
+    <CITY>阿布德拉</CITY>
+    <CITY>巴利亚</CITY>
+    <CITY>卡马那</CITY>
+    <CITY>乌加里特</CITY>
+    <CITY>基提翁</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

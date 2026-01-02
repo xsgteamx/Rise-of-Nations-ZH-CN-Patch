@@ -1,0 +1,50 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="葡萄牙人" substitute="1">
+  <LEADERS>
+    <LEADER>玛丽亚皇后一世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>里斯本</CITY>
+    <CITY>法提马</CITY>
+    <CITY>孔布拉</CITY>
+    <CITY>亚威罗</CITY>
+    <CITY>波多</CITY>
+    <CITY>瓜达</CITY>
+    <CITY>加斯德卢布朗科</CITY>
+    <CITY>艾芙拉</CITY>
+    <CITY>贝札</CITY>
+    <CITY>波提茂</CITY>
+    <CITY>拉哥斯</CITY>
+    <CITY>沙格里斯</CITY>
+    <CITY>圣安东尼奥</CITY>
+    <CITY>阿布朗提斯</CITY>
+    <CITY>波塔莱格雷</CITY>
+    <CITY>基马蓝斯</CITY>
+    <CITY>特兰科索</CITY>
+    <CITY>阿朱巴罗塔</CITY>
+    <CITY>桑塔林</CITY>
+    <CITY>维德城堡</CITY>
+    <CITY>克拉图</CITY>
+    <CITY>奥维卡</CITY>
+    <CITY>阿拉可斯</CITY>
+    <CITY>艾瓦斯</CITY>
+    <CITY>胡罗门哈</CITY>
+    <CITY>亚卡塞</CITY>
+    <CITY>木拉</CITY>
+    <CITY>塞帕</CITY>
+    <CITY>阿朱斯特</CITY>
+    <CITY>麦托拉</CITY>
+    <CITY>奥雷格</CITY>
+    <CITY>夕瓦斯</CITY>
+    <CITY>圣维森</CITY>
+    <CITY>波奇斯</CITY>
+    <CITY>阿尔布斐拉</CITY>
+    <CITY>法罗</CITY>
+    <CITY>塔维拉</CITY>
+    <CITY>卡赛拉</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

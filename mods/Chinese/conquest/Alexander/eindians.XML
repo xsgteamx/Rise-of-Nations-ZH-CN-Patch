@@ -1,0 +1,36 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="印度人">
+  <LEADERS>
+    <LEADER>难陀</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>哈拉帕</CITY>
+    <CITY>摩亨佐达罗</CITY>
+    <CITY>达巴柯</CITY>
+    <CITY>加迪里久达罗</CITY>
+    <CITY>卡里班甘</CITY>
+    <CITY>巴拿瓦利</CITY>
+    <CITY>拉卡希喀西</CITY>
+    <CITY>纳鲁瓦罗达罗</CITY>
+    <CITY>善友达罗</CITY>
+    <CITY>阿木里</CITY>
+    <CITY>多拉维那</CITY>
+    <CITY>苏克他达</CITY>
+    <CITY>洛塞</CITY>
+    <CITY>朗哥尔</CITY>
+    <CITY>阿兰吉布尔</CITY>
+    <CITY>加利普尔</CITY>
+    <CITY>基塔</CITY>
+    <CITY>卢尔瓦拉什尔</CITY>
+    <CITY>干杰里瓦拉</CITY>
+    <CITY>纳格尔</CITY>
+    <CITY>科特达提姆巴</CITY>
+    <CITY>特洛德</CITY>
+    <CITY>哥普</CITY>
+    <CITY>法菈</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>5 EIndian</UNIT_CONTINENT>
+  <BUILD_CONTINENT>8 EIndian</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>8 EIndian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

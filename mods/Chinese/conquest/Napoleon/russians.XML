@@ -1,0 +1,50 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Warroom (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="俄罗斯人" substitute="1">
+  <LEADERS>
+    <LEADER>沙皇亚历山大一世</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>莫斯科</CITY>
+    <CITY>圣彼得堡</CITY>
+    <CITY>基辅</CITY>
+    <CITY>明斯克</CITY>
+    <CITY>萨瓦斯特波尔</CITY>
+    <CITY>斯墨蓝斯克</CITY>
+    <CITY>诺福格勒</CITY>
+    <CITY>海参崴</CITY>
+    <CITY>波罗次克</CITY>
+    <CITY>伊尔库次克</CITY>
+    <CITY>罗斯托夫</CITY>
+    <CITY>里沃夫</CITY>
+    <CITY>维尔纳</CITY>
+    <CITY>库斯克</CITY>
+    <CITY>伯扬斯克</CITY>
+    <CITY>维塔斯克</CITY>
+    <CITY>普斯科夫</CITY>
+    <CITY>敖德萨</CITY>
+    <CITY>阿斯特拉堪</CITY>
+    <CITY>伊克特宁堡</CITY>
+    <CITY>雅洛斯拉夫</CITY>
+    <CITY>下诺夫哥罗德</CITY>
+    <CITY>格罗德诺</CITY>
+    <CITY>凯斯耐维</CITY>
+    <CITY>卡尔科夫</CITY>
+    <CITY>奥伦堡</CITY>
+    <CITY>鄂木斯克</CITY>
+    <CITY>萨拉多夫</CITY>
+    <CITY>克拉斯诺亚尔斯克</CITY>
+    <CITY>雅库次克</CITY>
+    <CITY>彼得罗巴甫洛夫斯克</CITY>
+    <CITY>塞米帕里庭斯克</CITY>
+    <CITY>阿契安基尔</CITY>
+    <CITY>莫曼斯克</CITY>
+    <CITY>维洛嘉</CITY>
+    <CITY>契里亚宾斯克</CITY>
+    <CITY>乌兰乌迪</CITY>
+    <CITY>新西伯利亚</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+  <BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

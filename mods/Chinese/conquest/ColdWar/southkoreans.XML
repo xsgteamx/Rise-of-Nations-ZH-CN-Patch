@@ -1,0 +1,47 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Mark Sobota (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="南韩人">
+  <LEADERS>
+    <LEADER>李承晚</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>大丘</CITY>
+    <CITY>光州</CITY>
+    <CITY>城南</CITY>
+    <CITY>蔚山</CITY>
+    <CITY>富川</CITY>
+    <CITY>水原</CITY>
+    <CITY>安养</CITY>
+    <CITY>清州</CITY>
+    <CITY>高阳</CITY>
+    <CITY>安山</CITY>
+    <CITY>昌原</CITY>
+    <CITY>浦项</CITY>
+    <CITY>马山</CITY>
+    <CITY>光明</CITY>
+    <CITY>扶余</CITY>
+    <CITY>权山</CITY>
+    <CITY>春川</CITY>
+    <CITY>三陟</CITY>
+    <CITY>安东</CITY>
+    <CITY>原州</CITY>
+    <CITY>论山</CITY>
+    <CITY>丽山</CITY>
+    <CITY>南原</CITY>
+    <CITY>大田</CITY>
+    <CITY>密阳</CITY>
+    <CITY>光洲</CITY>
+    <CITY>木普</CITY>
+    <CITY>罗州</CITY>
+    <CITY>全州</CITY>
+    <CITY>晋州</CITY>
+    <CITY>尚州</CITY>
+    <CITY>济州</CITY>
+    <CITY>水曲</CITY>
+    <CITY>天安</CITY>
+    <CITY>堤川</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>3 Asian   </UNIT_CONTINENT>
+  <BUILD_CONTINENT>3 Korean</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

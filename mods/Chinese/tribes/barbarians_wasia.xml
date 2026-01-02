@@ -1,0 +1,51 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Andy Clark (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="苏美人">
+	<LEADERS>
+		<LEADER>阿鲁利姆王</LEADER>
+		<LEADER>阿拉贾王</LEADER>
+		<LEADER>恩门鲁安那王</LEADER>
+		<LEADER>杜姆扎德王</LEADER>
+		<LEADER>乌巴尔图图王</LEADER>
+		<LEADER>南吉克立克玛王</LEADER>
+		<LEADER>玛玛柯尔王</LEADER>
+		<LEADER>麦克亚尼叶达王</LEADER>
+		<LEADER>普安奴王</LEADER>
+		<LEADER>恩巴美拉格西王</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>巴比伦</CITY>
+		<CITY>阿达卜</CITY>
+		<CITY>达布伦</CITY>
+		<CITY>乌鲁克</CITY>
+		<CITY>埃里都</CITY>
+		<CITY>苏萨</CITY>
+		<CITY>拉格萨许</CITY>
+		<CITY>乌尔</CITY>
+		<CITY>德尔</CITY>
+		<CITY>安善</CITY>
+		<CITY>基什</CITY>
+		<CITY>西帕尔</CITY>
+		<CITY>阿匹萨拉</CITY>
+		<CITY>库塔</CITY>
+		<CITY>埃什南纳</CITY>
+		<CITY>基安</CITY>
+		<CITY>舒鲁帕克</CITY>
+		<CITY>阿拉塔</CITY>
+		<CITY>拉尔萨</CITY>
+		<CITY>库塔拉</CITY>
+		<CITY>迪尔巴特</CITY>
+		<CITY>巴德·提比拉</CITY>
+		<CITY>玛拉德</CITY>
+		<CITY>乌玛</CITY>
+		<CITY>凯什</CITY>
+		<CITY>拉格什</CITY>
+		<CITY>纳格苏</CITY>
+		<CITY>安纳基</CITY>
+		<CITY>拉腊克</CITY>
+		<CITY>伊辛</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>3 Asian   </UNIT_CONTINENT>
+	<BUILD_CONTINENT>2 Asian</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>2 Asian</BACKUP_BUILD_CONTINENT>
+</TRIBE>

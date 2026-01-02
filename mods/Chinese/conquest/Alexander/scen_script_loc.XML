@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Mark Sobota (Big Huge Games) -->
+<ROOT name="Alexander ">
+	<FILE hash="17779315" name="barbariantactics">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="533724">巴姆</STRING>
+		<STRING hash="1433513">哈特拉</STRING>
+		<STRING hash="1458559">迦巴</STRING>
+		<STRING hash="5134601">吉诺多迪亚</STRING>
+		<STRING hash="1235201">塔盖伊</STRING>
+		<STRING hash="2645720">卡雷</STRING>
+		<STRING hash="6523455">尼斯佛瑞恩</STRING>
+		<STRING hash="3646515">哈蒙吉亚</STRING>
+		<STRING hash="134635834">提示: 占领城市可得到额外的部队。</STRING>
+		<STRING hash="20942645">配给计时器: $NUM0</STRING>
+		<STRING hash="284741361">来自$STRING0的战俘向我们透露敌人主要首都的位置。</STRING>
+		<STRING hash="24154533">您的配给很低!</STRING>
+		<STRING hash="536720709">来自$STRING0的战俘向我们透露其中一座敌方城市的地点! 不过，可能有更近的城市。</STRING>
+		<STRING hash="55484137">我们征召了一架弩炮。</STRING>
+		<STRING hash="88450319">我们征召了一队方阵步兵。</STRING>
+		<STRING hash="88066963">我们征召了一队弓兵。</STRING>
+		<STRING hash="108043805">我们征召了一队标枪兵。</STRING>
+		<STRING hash="57238785">我们征召了一名马其顿骑兵。</STRING>
+		<STRING hash="60725215">我们征召了一名轻马兵。</STRING>
+		<STRING hash="69169302">我们征召了一辆补给车。</STRING>
+	</FILE>
+	<FILE hash="9826091" name="capturedarius">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="1750936">柏萨斯</STRING>
+		<STRING hash="5231724">斯皮塔米尼斯</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="4404003">伊克巴他拿</STRING>
+		<STRING hash="1025722">沙维</STRING>
+		<STRING hash="1875433">拉吉</STRING>
+		<STRING hash="9750824">里海隘口</STRING>
+		<STRING hash="142118290">占领敌人首都或掳获大流士。</STRING>
+		<STRING hash="35983110">亚历山大扣留时间: 10:00</STRING>
+		<STRING hash="27616068">柏萨斯扣留时间: 10:00</STRING>
+		<STRING hash="39014490">斯皮塔米尼斯扣留时间: 10:00</STRING>
+		<STRING hash="652344610">柏萨斯强迫大流士任命他为新的波斯统治者! 他的名号是阿太薛西斯。现在大流士的军队追随阿太薛西斯。</STRING>
+		<STRING hash="51599754">占领敌人首都。</STRING>
+		<STRING hash="11169628">大流士自由了。</STRING>
+		<STRING hash="43474443">$STRING0扣留时间: $STRING1</STRING>
+		<STRING hash="36937953">您掳获了大流士!</STRING>
+		<STRING hash="44088046">柏萨斯掳获了大流士!</STRING>
+		<STRING hash="59654348">斯皮塔米尼斯掳获了大流士!</STRING>
+		<STRING hash="45388618">大流士逃走!</STRING>
+		<STRING hash="660691296">柏萨斯强迫大流士任命他为新的波斯统治者! 他的名号是阿太薛西斯。现在大流士的军队追随阿太薛西斯。</STRING>
+		<STRING hash="46928194">大流士逃到了大夏。</STRING>
+		<STRING hash="45795706">占领敌人首都。</STRING>
+		<STRING hash="43783977">您控制了大流士。</STRING>
+		<STRING hash="51198850">柏萨斯控制了大流士。</STRING>
+		<STRING hash="68014250">斯皮塔米尼斯控制了大流士。</STRING>
+		<STRING hash="553674349">由于各自的努力都徒劳无功，斯皮塔米尼斯同意追随柏萨斯。他们的军力和扣留时间已经合并。</STRING>
+		<STRING hash="2778456">艾斯发罕</STRING>
+		<STRING hash="9782193">卡维尔沙漠</STRING>
+		<STRING hash="7041448">萨德拉卡达</STRING>
+		<STRING hash="2102900">阿贝拉</STRING>
+		<STRING hash="88743136">掳获大流士或征服敌人。</STRING>
+		<STRING hash="192245452">大流士现在别无选择，只能任命您为波斯的统治者!</STRING>
+		<STRING hash="152829402">大流士已设法逃离我们的掌控范围。</STRING>
+		<STRING hash="746818045">柏萨斯强迫大流士任命他为新的波斯统治者! 他的名号是阿太薛西斯。现在大流士和斯皮塔米尼斯的军队都追随阿太薛西斯。</STRING>
+		<STRING hash="471258673">斯皮塔米尼斯强迫大流士任命他为新的波斯统治者! 现在大流士和柏萨斯的军队都追随斯皮塔米尼斯。</STRING>
+		<STRING hash="4144443">亚历山大</STRING>
+		<STRING hash="1251281858">大流士死了! 柏萨斯和斯皮塔米尼斯无意再战而离开了战场。他们留下各自的军队与大流士的部队一起奋战。我们现在必须击败他们的联合军。</STRING>
+		<STRING hash="1213838656">大流士逃了! 柏萨斯和斯皮塔米尼斯无意再战而离开了战场。他们留下各自的军队与大流士的部队一起奋战。现在我们必须击败他们的联合军。</STRING>
+	</FILE>
+	<FILE hash="10183369" name="ciliciangates">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="2206601">戈尔迪乌姆</STRING>
+		<STRING hash="579957">索利</STRING>
+		<STRING hash="1830677">塔尔萨斯</STRING>
+		<STRING hash="11347711">克里克亚隘口</STRING>
+		<STRING hash="5692501">摩普绥提亚</STRING>
+		<STRING hash="1491378">阿达纳</STRING>
+	</FILE>
+	<FILE hash="1040080" name="egypt">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="23503934">法老王内克大内玻二世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="747032">萨伊斯</STRING>
+		<STRING hash="5028773">赫利奥波利斯</STRING>
+		<STRING hash="898155">吉萨</STRING>
+		<STRING hash="2155857">孟菲斯</STRING>
+		<STRING hash="5164143">阿曼纳</STRING>
+		<STRING hash="1743678">底比斯</STRING>
+		<STRING hash="1951947">卡尔那</STRING>
+		<STRING hash="1802521">阿拜多斯</STRING>
+	</FILE>
+	<FILE hash="3684370" name="granicus">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="1529139">门农</STRING>
+		<STRING hash="704614">特洛伊</STRING>
+		<STRING hash="1853655">阿比杜斯</STRING>
+		<STRING hash="4468232">达希林</STRING>
+		<STRING hash="1612725">萨迪斯</STRING>
+		<STRING hash="2313537">格里尼恩</STRING>
+	</FILE>
+	<FILE hash="1996265" name="greece2">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="18499616">色萨利执政官</STRING>
+		<STRING hash="8310901">阿吉斯三世</STRING>
+		<STRING hash="2236093">菲尼克斯</STRING>
+		<STRING hash="6106635">德摩斯西尼斯</STRING>
+		<STRING hash="9309906">帖撒罗尼迦</STRING>
+		<STRING hash="2150886">斯巴达</STRING>
+		<STRING hash="2631491">奥林匹亚</STRING>
+		<STRING hash="1046663">阿哥斯</STRING>
+		<STRING hash="2153829">利吉姆</STRING>
+		<STRING hash="1743678">底比斯</STRING>
+		<STRING hash="1404385">德尔菲</STRING>
+		<STRING hash="6813436">温泉关</STRING>
+		<STRING hash="1594162">雅典</STRING>
+		<STRING hash="2104090">美加拉</STRING>
+		<STRING hash="2612118">厄利特里亚</STRING>
+		<STRING hash="416436449">到达色萨利人 (蓝色) 的首都，希望您的大军能对他们产生压力，让他们加入您这一方。</STRING>
+		<STRING hash="5130669">退还</STRING>
+		<STRING hash="7080250">合并</STRING>
+		<STRING hash="5387782">现状</STRING>
+		<STRING hash="1292940792">来自色萨利人 (蓝色) 的消息: 亚历山大，我们等了您好久。您要是早点来又没有造成这样的破坏，我们就会加入您。很遗憾，现在我们必须誓死反抗您。</STRING>
+		<STRING hash="1755160020">来自色萨利人 (蓝色) 的消息: 亚历山大，您的战术让我们印象深刻。我们两个民族没必要再打下去。就像您父亲以前那样，我们任命您为色萨利执政官。我们的军队任您指挥去对付剩下的希腊叛军。</STRING>
+		<STRING hash="1346081">和平</STRING>
+		<STRING hash="490200">战争</STRING>
+		<STRING hash="864592474">雅典人 (黄色) 见识到底比斯人 (绿色) 的灭亡，不想遭遇同样的命运。他们放下武器向您投降了。</STRING>
+		<STRING hash="2826750">彻底毁灭!</STRING>
+		<STRING hash="2108968">保留它</STRING>
+		<STRING hash="-2105152069">来自色萨利人 (蓝色) 的消息: 您怎么能够神不知鬼不觉地绕过我们的堡垒? 您的军队真是庞大...不过，现在没有问题了，亚历山大，我们决定为您效命。就像您父亲一样，任命您为色萨利执政官。我们的军队将由您指挥出战其余的希腊叛军。</STRING>
+		<STRING hash="727319778">您现在控制了红色和蓝色的玩家。只要选取想要控制的那一方的单位或建筑，就可以变更控制的对象。</STRING>
+		<STRING hash="1304858888">来自底比斯人 (绿色) 的消息: 不要指望我们会投降。就算是投降，也是你向我们投降。说实在的，你何不干脆回家，把打仗的事留给我们和我们的盟友雅典人 (黄色) 这些大人呢?</STRING>
+		<STRING hash="1488809562">您的将军们问: 您确定不放斯巴达人 (紫色) 一马吗? 我们不必击败他们就可以占领希腊。当然，他们以后可能会造反，不过到时候我们的军队也会更强大，对付他们更是易如反掌。</STRING>
+		<STRING hash="255512944">您的将军们说: 如您所愿。我们会像追随您父亲一样地追随您。</STRING>
+		<STRING hash="2009706048">斥候们带回了斯巴达的地图。您的将军们建议放斯巴达人 (紫色) 一马。他们非常强大，但是不一定要击败他们才能占领希腊。当然，他们以后可能会造反，不过到时候我们的军队也会更为强大，对付他们就会易如反掌。</STRING>
+		<STRING hash="219786751">您的将军们说: 那就这么做吧，不过可别说我们没警告您!</STRING>
+		<STRING hash="190322215">您现在控制了红色、蓝色和黄色的玩家。</STRING>
+		<STRING hash="-2100413452">我们占领了底比斯 (绿色) 首都! 您想要将之夷为平地，因为他们对您的侮辱实在令人愤怒。其他的希腊城邦也可能因此决定加入我们，以免遭受相同的命运。您的一位顾问警告您，这么做可能会伤害到我们与其他民族的外交关系。</STRING>
+		<STRING hash="196196743">剩下的底比斯 (绿色) 城市宣誓向您效忠。</STRING>
+		<STRING hash="108043805">我们征召了一队标枪兵。</STRING>
+		<STRING hash="88450319">我们征召了一队方阵步兵。</STRING>
+		<STRING hash="88066963">我们征召了一队弓兵。</STRING>
+		<STRING hash="60725215">我们征召了一名轻马兵。</STRING>
+		<STRING hash="57238785">我们征召了一名马其顿骑兵。</STRING>
+		<STRING hash="55484137">我们征召了一架弩炮。</STRING>
+		<STRING hash="69169302">我们征召了一辆补给车。</STRING>
+		<STRING hash="58813405">消灭色萨利人 (蓝色)。</STRING>
+		<STRING hash="44935412">消灭底比斯人 (绿色)。</STRING>
+		<STRING hash="57661509">消灭雅典人 (黄色)。</STRING>
+		<STRING hash="50406662">击败斯巴达人 (紫色)。</STRING>
+		<STRING hash="984359867">来自底比斯人 (绿色) 的消息: 不要指望我们会投降。就算是投降，也是你向我们投降。说实在的，你何不干脆回家，把打仗的事留给我们这些大人呢？。</STRING>
+		<STRING hash="984782926">来自雅典人 (黄色) 的消息: 不要指望我们会投降。就算是投降，也是你向我们投降。说实在的，你何不干脆回家，把打仗的事留给我们这些大人呢？</STRING>
+		<STRING hash="184468003">您现在控制了蓝色和黄色的玩家。</STRING>
+	</FILE>
+	<FILE hash="3297684" name="greece2c">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="18499616">色萨利执政官</STRING>
+		<STRING hash="8310901">阿吉斯三世</STRING>
+		<STRING hash="2236093">菲尼克斯</STRING>
+		<STRING hash="6106635">德摩斯西尼斯</STRING>
+		<STRING hash="9309906">帖撒罗尼迦</STRING>
+		<STRING hash="2150886">斯巴达</STRING>
+		<STRING hash="2631491">奥林匹亚</STRING>
+		<STRING hash="1046663">阿哥斯</STRING>
+		<STRING hash="2153829">利吉姆</STRING>
+		<STRING hash="1743678">底比斯</STRING>
+		<STRING hash="1404385">德尔菲</STRING>
+		<STRING hash="6813436">温泉关</STRING>
+		<STRING hash="1594162">雅典</STRING>
+		<STRING hash="2104090">美加拉</STRING>
+		<STRING hash="2612118">厄利特里亚</STRING>
+	</FILE>
+	<FILE hash="2592581" name="greece2d">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="18499616">色萨利执政官</STRING>
+		<STRING hash="8310901">阿吉斯三世</STRING>
+		<STRING hash="2236093">菲尼克斯</STRING>
+		<STRING hash="6106635">德摩斯西尼斯</STRING>
+		<STRING hash="9309906">帖撒罗尼迦</STRING>
+		<STRING hash="2150886">斯巴达</STRING>
+		<STRING hash="2631491">奥林匹亚</STRING>
+		<STRING hash="1046663">阿哥斯</STRING>
+		<STRING hash="2153829">利吉姆</STRING>
+		<STRING hash="1743678">底比斯</STRING>
+		<STRING hash="1404385">德尔菲</STRING>
+		<STRING hash="6813436">温泉关</STRING>
+		<STRING hash="1594162">雅典</STRING>
+		<STRING hash="2104090">美加拉</STRING>
+		<STRING hash="2612118">厄利特里亚</STRING>
+	</FILE>
+	<FILE hash="10798430" name="halicarnassus">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="1529139">门农</STRING>
+		<STRING hash="2327249">米利都</STRING>
+		<STRING hash="4123024">阿拉班达</STRING>
+		<STRING hash="2483615">桑索斯</STRING>
+		<STRING hash="1649473">克尼多斯</STRING>
+		<STRING hash="10798430">哈利卡纳素斯</STRING>
+		<STRING hash="1454902">罗德斯岛</STRING>
+	</FILE>
+	<FILE hash="1521180" name="jhelum">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="1065840">波罗斯</STRING>
+		<STRING hash="12111085">阿比萨瑞斯王公</STRING>
+		<STRING hash="5603509">安比王</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="3765906">马拉卡尔</STRING>
+		<STRING hash="6834464">西堪德普</STRING>
+		<STRING hash="1691375">奴浦</STRING>
+		<STRING hash="1090472">拉古</STRING>
+		<STRING hash="2327355">社浦</STRING>
+		<STRING hash="2895940">迪拉瓦</STRING>
+		<STRING hash="45234758">征服波罗斯 (蓝色) 才能赢得胜利。</STRING>
+		<STRING hash="520449144">提示: 选择一个盟友。每个民族提供不同的加分。按一下民族的首都来检视它提供何种加分。</STRING>
+		<STRING hash="307678542">我们的盟友提议用他们 50 单位的木材生产交换我们 60 单位的食物生产。</STRING>
+		<STRING hash="858044">好的</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="234990607">我们失去了盟友的木材收入，不过重新得到了自己的食物收入。</STRING>
+		<STRING hash="136751756">您的提议得更吸引人才行。</STRING>
+		<STRING hash="15147718">盟友加分: 无。</STRING>
+		<STRING hash="109188755">盟友加分: 帮您杀死战象。</STRING>
+		<STRING hash="122493148">盟友加分: 替您生产战象。</STRING>
+		<STRING hash="943149116">为了表示对双方新结盟的重视，阿比萨瑞斯王公 (紫色) 贡献出一座马厩替我们生产战象。这些会送到我们的首都以供我们使用。</STRING>
+		<STRING hash="856345691">为了表示重视双方的新结盟，安比王 (绿色) 教我们如何应战大象。结果，敌人所有战象的生命点数都减少了三分之一。</STRING>
+	</FILE>
+	<FILE hash="1798419" name="jhelum2">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="1065840">波罗斯</STRING>
+		<STRING hash="12111085">阿比萨瑞斯王公</STRING>
+		<STRING hash="5603509">安比王</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="3765906">马拉卡尔</STRING>
+		<STRING hash="6834464">西堪德普</STRING>
+		<STRING hash="1691375">奴浦</STRING>
+		<STRING hash="1090472">拉古</STRING>
+		<STRING hash="2327355">社浦</STRING>
+		<STRING hash="2895940">迪拉瓦</STRING>
+	</FILE>
+	<FILE hash="1716483" name="latium">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="46099191">独裁者柯索</STRING>
+		<STRING hash="10458915">萨谟奈联盟</STRING>
+		<STRING hash="15996775">坎佩尼亚议会</STRING>
+		<STRING hash="8098189">塔昆国王</STRING>
+		<STRING hash="11576541">翁布里国王</STRING>
+		<STRING hash="10646201">皮斯农联盟</STRING>
+		<STRING hash="3113017">那不勒斯</STRING>
+		<STRING hash="560387">罗马</STRING>
+		<STRING hash="541933">维依</STRING>
+		<STRING hash="1233515">提布尔</STRING>
+		<STRING hash="1077183">塞雷</STRING>
+		<STRING hash="3103398">沙伊皮盎</STRING>
+		<STRING hash="5246070">贝内温图</STRING>
+		<STRING hash="4450348">阿奎隆尼亚</STRING>
+		<STRING hash="3308198">民土美</STRING>
+		<STRING hash="1524237">卡普亚</STRING>
+		<STRING hash="3952647">塔昆尼</STRING>
+		<STRING hash="1240168">瓦尔奇</STRING>
+		<STRING hash="2818247">沃尔西尼</STRING>
+		<STRING hash="544544">托蒂</STRING>
+		<STRING hash="923329">特尼</STRING>
+		<STRING hash="2626610">阿斯库路姆</STRING>
+		<STRING hash="285671828">您在阿斯库路姆的时候，控制住泄漏地图的皮斯农间谍集团!</STRING>
+		<STRING hash="649940774">您控制了强大的伊特拉斯坎人的首都，让敌人部队的士气低落不振。他们的军队再也不像以前那样勇猛了。</STRING>
+		<STRING hash="98635327">占领剩下的敌人首都。</STRING>
+		<STRING hash="78936884">提示: 征服萨谟奈人 (紫色)。</STRING>
+		<STRING hash="68771297">提示: 征服皮斯农 (白色)。</STRING>
+		<STRING hash="101583411">提示: 征服翁布里人 (浅蓝色)。</STRING>
+		<STRING hash="322882342">在特尼发现了特殊的开矿工具。您的金属 #ICON5 生产增加了。</STRING>
+		<STRING hash="1122856731">因为您占领了萨谟奈人的所有城市，所以他们承认您的统治。剩下的市民同意向您进贡他们的资源。您的所有资源搜集速率增加了 100。</STRING>
+	</FILE>
+	<FILE hash="1527634" name="libya">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4908361">两次击倒</STRING>
+		<STRING hash="2149529">的黎波里</STRING>
+	</FILE>
+	<FILE hash="1766346" name="libya2">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4908361">两次击倒</STRING>
+		<STRING hash="2149529">的黎波里</STRING>
+	</FILE>
+	<FILE hash="1775209" name="libya3">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4908361">两次击倒</STRING>
+		<STRING hash="2149529">的黎波里</STRING>
+	</FILE>
+	<FILE hash="2814761" name="magadha">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="7480582">难陀</STRING>
+		<STRING hash="6344505">布塞法拉</STRING>
+		<STRING hash="15139252">亚历山卓奥区</STRING>
+		<STRING hash="15182024">亚历山大欧比阿纳</STRING>
+		<STRING hash="1731094">乌贾因</STRING>
+		<STRING hash="7562879">华氏城</STRING>
+		<STRING hash="3982829">王舍城</STRING>
+		<STRING hash="2744383">阿约提亚</STRING>
+		<STRING hash="2691429">达尔沃</STRING>
+		<STRING hash="3950175">古巴加</STRING>
+		<STRING hash="4143748">亚利卡满都</STRING>
+		<STRING hash="4499116">巴威康达</STRING>
+		<STRING hash="194368732">您从乌贾因的图书馆得到 2000 单位的知识 #ICON4。</STRING>
+		<STRING hash="415045147">您手下一位将军在古巴加找到一个盒子，里面装有印度各省的详细地图。</STRING>
+		<STRING hash="351662721">因为控制亚利卡满都，您降低了摩揭陀国组织大军的能力。</STRING>
+		<STRING hash="217978401">占领巴威康达后，那个区域的印度治疗师就加入您的军队。</STRING>
+		<STRING hash="432271251">您的士兵已经对打仗感到厌烦了。他们从马其顿跟着您走遍万水千山，但以后再也不追随您了。</STRING>
+		<STRING hash="305467668">拿下巴威康达之后，印度巫师教导您的士兵们如何自己治疗。</STRING>
+		<STRING hash="607402231">您在达尔沃发现一种训练马匹的新技术，这让您的马其顿骑兵在对付战象时能更为有效。</STRING>
+		<STRING hash="1990068132">几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 搜集速率和商业设限成长 3 倍。</STRING>
+		<STRING hash="604840757">王舍城的婆罗门哲人已经教导您的马其顿方阵步兵如何增强耐力。现在您的方阵步兵单位在战场上会更为强悍。</STRING>
+	</FILE>
+	<FILE hash="9555634" name="magnagraecia">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="1391492">塔拉斯</STRING>
+		<STRING hash="6611200">美塔波恩逊</STRING>
+		<STRING hash="4440915">赫拉克里亚</STRING>
+		<STRING hash="1099975">西若斯</STRING>
+		<STRING hash="1600836">克罗顿</STRING>
+		<STRING hash="3485157">潘多西雅</STRING>
+		<STRING hash="1505053">洛克罗依</STRING>
+		<STRING hash="4436712">阿波罗尼亚</STRING>
+	</FILE>
+	<FILE hash="2165042" name="maurya">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="23628309">旃陀罗笈多</STRING>
+		<STRING hash="6344505">布塞法拉</STRING>
+		<STRING hash="15139252">亚历山卓奥区</STRING>
+		<STRING hash="15182024">亚历山大欧比阿纳</STRING>
+		<STRING hash="1731094">乌贾因</STRING>
+		<STRING hash="7562879">华氏城</STRING>
+		<STRING hash="3982829">王舍城</STRING>
+		<STRING hash="2744383">阿约提亚</STRING>
+		<STRING hash="2691429">达尔沃</STRING>
+		<STRING hash="3950175">古巴加</STRING>
+		<STRING hash="4143748">亚利卡满都</STRING>
+		<STRING hash="4499116">巴威康达</STRING>
+		<STRING hash="194368732">您从乌贾因的图书馆得到 2000 单位的知识 #ICON4。</STRING>
+		<STRING hash="415045147">您手下一位将军在古巴加找到一个盒子，里面装有印度各省的详细地图。</STRING>
+		<STRING hash="351310682">因为控制亚利卡满都，您降低了旃陀罗笈多组织大军的能力。</STRING>
+		<STRING hash="217978401">占领巴威康达后，那个区域的印度治疗师就加入您的军队。</STRING>
+		<STRING hash="432271251">您的士兵已经对打仗感到厌烦了。他们从马其顿跟着您走遍万水千山，但以后再也不追随您了。</STRING>
+		<STRING hash="305467668">拿下巴威康达之后，印度巫师教导您的士兵们如何自己治疗。</STRING>
+		<STRING hash="607402231">您在达尔沃发现一种训练马匹的新技术，这让您的马其顿骑兵在对付战象时能更为有效。</STRING>
+		<STRING hash="1990068132">几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 搜集速率和商业设限成长 3 倍。</STRING>
+		<STRING hash="604840757">王舍城的婆罗门哲人已经教导您的马其顿方阵步兵如何增强耐力。现在您的方阵步兵单位在战场上会更为强悍。</STRING>
+	</FILE>
+	<FILE hash="10867951" name="mauryamagadha">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="7480582">难陀</STRING>
+		<STRING hash="23628309">旃陀罗笈多</STRING>
+		<STRING hash="6344505">布塞法拉</STRING>
+		<STRING hash="15139252">亚历山卓奥区</STRING>
+		<STRING hash="15182024">亚历山大欧比阿纳</STRING>
+		<STRING hash="1731094">乌贾因</STRING>
+		<STRING hash="7562879">华氏城</STRING>
+		<STRING hash="3982829">王舍城</STRING>
+		<STRING hash="2744383">阿约提亚</STRING>
+		<STRING hash="3950175">古巴加</STRING>
+		<STRING hash="2691429">达尔沃</STRING>
+		<STRING hash="4143748">亚利卡满都</STRING>
+		<STRING hash="4499116">巴威康达</STRING>
+		<STRING hash="194423136">您从乌贾因的图书馆取得 2000 单位的知识 #ICON4。</STRING>
+		<STRING hash="415045147">您手下一位将军在古巴加找到一个盒子，里面装有印度各省的详细地图。</STRING>
+		<STRING hash="344050399">因为控制亚利卡满都，您降低了旃陀罗笈多组织大军的能力。</STRING>
+		<STRING hash="432271251">您的士兵已经对打仗感到厌烦了。他们从马其顿跟着您走遍万水千山，但以后再也不追随您了。</STRING>
+		<STRING hash="607402231">您在达尔沃发现一种训练马匹的新技术，这让您的马其顿骑兵在对付战象时能更为有效。</STRING>
+		<STRING hash="1990068132">几名斥候带回绝佳的消息: 他们侦察到有毛绒绒的小动物在挖掘金子。您驱骑前往调查，发现这个区域的土拨鼠在沙底下钻洞，翻上来的土石里含有金沙! 您的财富 #ICON3 搜集速率和商业设限成长 3 倍。</STRING>
+		<STRING hash="604840757">王舍城的婆罗门哲人已经教导您的马其顿方阵步兵如何增强耐力。现在您的方阵步兵单位在战场上会更为强悍。</STRING>
+	</FILE>
+	<FILE hash="1873675" name="persia">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+	</FILE>
+	<FILE hash="3089893" name="persia14">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+	</FILE>
+	<FILE hash="2473246" name="persia24">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+	</FILE>
+	<FILE hash="2528498" name="persia28">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+	</FILE>
+	<FILE hash="2483561" name="persia34">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+	</FILE>
+	<FILE hash="2302264" name="pillage">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="1743678">底比斯</STRING>
+		<STRING hash="3000024">艾尔-李甚特</STRING>
+		<STRING hash="1102048">卡呼恩</STRING>
+		<STRING hash="747032">萨伊斯</STRING>
+		<STRING hash="582728">艾得夫</STRING>
+		<STRING hash="12195026">+$NUM0 个$STRING0</STRING>
+		<STRING hash="82808928">提示: 在您的堡垒产生佣兵 </STRING>
+		<STRING hash="202746091">用掠夺的手段，搜集每种资源各 $NUM0 个单位，知识部份除外。</STRING>
+		<STRING hash="12280033">+$NUM0 个$STRING1</STRING>
+		<STRING hash="212952278">用掠夺的手段，每种资源各贮备 $NUM0 个单位，知识部份除外。</STRING>
+	</FILE>
+	<FILE hash="1837028" name="sicily">
+		<STRING hash="34027066">苏里曼大帝</STRING>
+		<STRING hash="19306784">柯索</STRING>
+		<STRING hash="3633737">叙拉古</STRING>
+	</FILE>
+	<FILE hash="2114267" name="sicily2">
+		<STRING hash="34027066">苏里曼大帝</STRING>
+		<STRING hash="19306784">柯索</STRING>
+		<STRING hash="3633737">叙拉古</STRING>
+	</FILE>
+	<FILE hash="2124582" name="sicily3">
+		<STRING hash="34027066">苏里曼大帝</STRING>
+		<STRING hash="19306784">柯索</STRING>
+		<STRING hash="3633737">叙拉古</STRING>
+	</FILE>
+	<FILE hash="1506112" name="sindhu">
+		<STRING hash="12857481">哈德连皇帝</STRING>
+		<STRING hash="12181193">苏丹雷诺斯</STRING>
+		<STRING hash="9598722">卡奇盐沼</STRING>
+	</FILE>
+	<FILE hash="1783351" name="sindhu2">
+		<STRING hash="12857481">哈德连皇帝</STRING>
+		<STRING hash="12181193">苏丹雷诺斯</STRING>
+		<STRING hash="9598722">卡奇盐沼</STRING>
+	</FILE>
+	<FILE hash="1793666" name="sindhu3">
+		<STRING hash="12857481">哈德连皇帝</STRING>
+		<STRING hash="12181193">苏丹雷诺斯</STRING>
+		<STRING hash="9598722">卡奇盐沼</STRING>
+	</FILE>
+	<FILE hash="3646102" name="sogdiana">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="3327989">奥斯瑞特</STRING>
+		<STRING hash="2891210">阿萨息斯</STRING>
+		<STRING hash="5555963">巴散提斯</STRING>
+		<STRING hash="6659413">发拉斯马尼斯</STRING>
+		<STRING hash="3925265">监市城</STRING>
+		<STRING hash="4539291">撒马尔罕</STRING>
+		<STRING hash="3549503">瑙特卡</STRING>
+		<STRING hash="2613849">捷尼帕</STRING>
+		<STRING hash="5512097">哈努姆</STRING>
+		<STRING hash="4079717">西罗波利斯</STRING>
+		<STRING hash="51599754">占领敌人首都。</STRING>
+		<STRING hash="115911302">和堡垒中的 4 个民族结盟或击败他们。</STRING>
+		<STRING hash="182264536">提示: 在堡垒上按一下便可得知如何和他们结盟。</STRING>
+		<STRING hash="34861732">他已经是您的盟友了。</STRING>
+		<STRING hash="18904230">和他协商。</STRING>
+		<STRING hash="111644670">他不会终止和柏萨斯的结盟。</STRING>
+		<STRING hash="46220843">我们还需要更多。</STRING>
+		<STRING hash="401682638">$STRING0 (黄色) 和您签订盟约，谢谢您帮助他垄断食物市场。</STRING>
+		<STRING hash="311494132">$STRING0 (黄色) 和柏萨斯签订盟约，因为他摧毁了我们的农场。</STRING>
+		<STRING hash="185669568">要把哈努姆交给$STRING 0 (青绿色) 来取得他的结盟吗?</STRING>
+		<STRING hash="347227">是</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="1052118702">虽然击败了大流士，我们还是必须把剩下的非盟友民族纳入控制，不结盟就征服他们。我们不能随他们高兴做什么就做什么。</STRING>
+		<STRING hash="80329810">他不和不遵守誓约的人结盟。</STRING>
+		<STRING hash="1013573609">波斯人战败了! 不幸的是男爵们现在竟然觊觎这个地方，人人都想要控制这里。我们必须击败这些男爵，才能攻取这个区域。</STRING>
+		<STRING hash="418363">60%</STRING>
+		<STRING hash="417618">50%</STRING>
+		<STRING hash="416957">40%</STRING>
+		<STRING hash="416044">30%</STRING>
+		<STRING hash="415233">20%</STRING>
+		<STRING hash="503988">10%</STRING>
+		<STRING hash="37159621">摧毁敌人堡垒。</STRING>
+		<STRING hash="104202292">把他的堡垒生命点数降低为 $STRING0。</STRING>
+		<STRING hash="172010603">使木材在市场上的价格下跌到 1。</STRING>
+		<STRING hash="54403683">消灭在 $STRING0 的所有农场。</STRING>
+		<STRING hash="41338605">替他掳获哈努姆。</STRING>
+		<STRING hash="178637199">您已经将 $STRING0 (橘色) 击败并使他投降了。</STRING>
+		<STRING hash="392427953">$STRING0 (白色) 感谢您帮忙降低了木材的价格并同意结盟。</STRING>
+		<STRING hash="13154935">储存 $NUM0 单位食物。</STRING>
+		<STRING hash="103915862">迫使木材销售率降至 $NUM0。</STRING>
+		<STRING hash="89380527">召集一支有 $NUM0 名马其顿骑兵的军队。</STRING>
+		<STRING hash="256734537">由于我们储存食物的能力卓越，所以$STRING0 (白色) 已经同意结盟。</STRING>
+		<STRING hash="406671165">为了感谢您协助他们降低木材的价格，所以$STRING0 (黄色) 已经与您签署结盟。</STRING>
+		<STRING hash="285687519">$STRING 0 (青绿色) 对您的马其顿骑兵印象深刻，已经同意与您结盟。</STRING>
+	</FILE>
+	<FILE hash="2062520" name="thrace">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="3537107">蓝格洛斯</STRING>
+		<STRING hash="8056256">克莱特王</STRING>
+		<STRING hash="26136327">多米凯特皇帝</STRING>
+		<STRING hash="6856543">托塔女王</STRING>
+		<STRING hash="17482154">赛西亚商人</STRING>
+		<STRING hash="1224257">培拉</STRING>
+		<STRING hash="5085807">暗妃波里</STRING>
+		<STRING hash="4682697">阿格瑞安人</STRING>
+		<STRING hash="1534537">培利亚</STRING>
+		<STRING hash="2653580">伊利里亚</STRING>
+		<STRING hash="99600452">消灭造反的克莱特王 (紫色)。</STRING>
+		<STRING hash="645266551">我们的盟友阿格瑞安人 (蓝色) 正受到多变莫测的托塔女王 (黄色) 的攻击。他们要求我们协助赶走这些野蛮人。</STRING>
+		<STRING hash="288194429">击败攻击盟友阿格瑞安人 (蓝色) 的托塔女王 (黄色) 部队。</STRING>
+		<STRING hash="634901563">您遇上了盖塔 (绿色) 游牧骑兵。消灭他们的唯一方法就是摧毁他们的马厩。找到他们的马厩并摧毁它们。</STRING>
+		<STRING hash="180481094">找到 $NUM0 座盖塔 (绿色) 马厩并摧毁它们。</STRING>
+		<STRING hash="174924912">摧毁剩下的 $NUM0 座盖塔 (绿色) 马厩。</STRING>
+		<STRING hash="741743013">一名赛西亚商人正在兜售盖塔位置图，开价 500 单位的财富。我们该怎么做? 付他钱、叫他等一等，还是杀了他拿走地图?</STRING>
+		<STRING hash="2905864">买下它们</STRING>
+		<STRING hash="759301">等待</STRING>
+		<STRING hash="2705508">杀了他</STRING>
+		<STRING hash="791049475">来自商人的消息: 您的财富不够吗? 没关系。我会在暗妃波里。等您有钱付给我的时候，就选取我和我说话。</STRING>
+		<STRING hash="156574173">您给了那名赛西亚商人 500 单位的财富!</STRING>
+		<STRING hash="510479189">来自商人的消息: 和您作生意真是愉快啊。如果您有兴趣的话，我还有另一项提议。</STRING>
+		<STRING hash="858044">好的</STRING>
+		<STRING hash="135770">否</STRING>
+		<STRING hash="641171585">我可以帮您联系希腊佣兵。只要付我 500 单位的财富作为费用，您就可以将他们召募到军营里了。</STRING>
+		<STRING hash="458710588">亚历山大，再次感谢。希腊佣兵已编入您军营的第四纵列。</STRING>
+		<STRING hash="1018067142">来自商人的消息: 看来您没有足够的财富可以付给我。我可以等。我会在暗妃波里。等您有钱付给我的时候，就选取我和我说话。</STRING>
+		<STRING hash="432578097">一名赛西亚商人正在兜售建立希腊佣兵的能力，开价 500 单位的财富。您想付他钱吗?</STRING>
+		<STRING hash="461322398">亚历山大，再次感谢。希腊佣兵已编入您军营的第四纵列。</STRING>
+		<STRING hash="779387060">来自商人的消息: 您的财富不够吗? 没关系。我会在暗妃波里。等您有钱付我给的时候，就选取我和我说话。</STRING>
+		<STRING hash="308438008">我们找到了地图，还有能使我们拥有财富经济繁荣的文件。</STRING>
+		<STRING hash="198714164">我们从那名商人那里获得了盖塔领域 (绿色) 的地图!</STRING>
+		<STRING hash="1184685592">所有的盖塔 (绿色) 游牧骑兵都在逃离那个区域! 我们的骑兵指挥官从和他们的交战过程中学到很多，所以现在我们的马厩才有马其顿骑兵和弓马兵队伍可以运用。</STRING>
+		<STRING hash="182768821">所有的盖塔 (绿色) 游牧骑兵都在逃离那个区域!</STRING>
+		<STRING hash="799838171">来自阿格瑞安人 (蓝色) 的消息: 谢谢您帮助我们打退敌人托塔女王 (黄色)。我们既然不再受制于那些野蛮人，就可以帮您击败其他敌人了。</STRING>
+		<STRING hash="128254830">我们推翻了克莱特王 (紫色)!</STRING>
+		<STRING hash="218815701">来自商人的消息: 和您作生意真是愉快啊。</STRING>
+		<STRING hash="222028162">击败托塔女王 (黄色) 的部队来替您的盟友报仇雪耻。</STRING>
+		<STRING hash="741517314">一名赛西亚商人正在兜售盖塔位置图，开价 200 单位的财富。我们该怎么做? 付他钱、叫他等一等，还是杀了他拿走地图?</STRING>
+		<STRING hash="156355728">您给了那名赛西亚商人 200 单位的财富!</STRING>
+		<STRING hash="555347607">赛西亚商人死了。我们在他身上找到了地图，还有能使我们拥有财富经济繁荣的文件。</STRING>
+	</FILE>
+	<FILE hash="2339759" name="thrace2">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="3537107">蓝格洛斯</STRING>
+		<STRING hash="8056256">克莱特王</STRING>
+		<STRING hash="26136327">多米凯特皇帝</STRING>
+		<STRING hash="6856543">托塔女王</STRING>
+		<STRING hash="17482154">赛西亚商人</STRING>
+		<STRING hash="1224257">培拉</STRING>
+		<STRING hash="5085807">暗妃波里</STRING>
+		<STRING hash="2653580">伊利里亚</STRING>
+		<STRING hash="1534537">培利亚</STRING>
+		<STRING hash="4682697">阿格瑞安人</STRING>
+		<STRING hash="260041242">从托塔女王 (黄色) 手中解救阿格瑞安人 (蓝色) 的阿格瑞安首都。</STRING>
+		<STRING hash="99600452">消灭造反的克莱特王 (紫色)。</STRING>
+		<STRING hash="634901563">您遇上了盖塔 (绿色) 游牧骑兵。消灭他们的唯一方法就是摧毁他们的马厩。找到他们的马厩并摧毁它们。</STRING>
+		<STRING hash="180481094">找到 $NUM0 座盖塔 (绿色) 马厩并摧毁它们。</STRING>
+		<STRING hash="2239328">付他钱</STRING>
+		<STRING hash="759301">等待</STRING>
+		<STRING hash="2705508">杀了他</STRING>
+		<STRING hash="512621082">来自商人的消息: 您的财富不够吗? 没关系，我会在暗妃波里附近等。只要选取我就可以和我说话。</STRING>
+		<STRING hash="168623384">您给了那名赛西亚商人 1000 单位的财富!</STRING>
+		<STRING hash="428649027">来自商人的消息: 和您作生意真是愉快啊。愿您的新友谊为您带来荣耀。</STRING>
+		<STRING hash="903726822">来自商人的消息: 看来您没有足够的财富可以付给我。没关系，我会在暗妃波里等您拿足够的钱来支付。只要选取我就可以和我说话。</STRING>
+		<STRING hash="731647338">来自商人的消息: 财富不够吗? 没关系，我会在暗妃波里附近等您拿足够的钱来支付。只要选取我就可以和我说话。</STRING>
+		<STRING hash="339332799">我们找到了能使我们拥有食物经济繁荣和财富经济繁荣的文件。</STRING>
+		<STRING hash="1184685592">所有的盖塔 (绿色) 游牧骑兵都在逃离那个区域! 我们的骑兵指挥官从和他们的交战过程中学到很多，所以现在我们的马厩才有马其顿骑兵和弓马兵队伍可以运用。</STRING>
+		<STRING hash="182768821">所有的盖塔 (绿色) 游牧骑兵都在逃离那个区域!</STRING>
+		<STRING hash="5921752">阿格瑞安人</STRING>
+		<STRING hash="799838171">来自阿格瑞安人 (蓝色) 的消息: 谢谢您帮助我们打退敌人托塔女王 (黄色)。我们既然不再受制于那些野蛮人，就可以帮您击败其他敌人了。</STRING>
+		<STRING hash="104208849">我们推翻了克莱特王 (紫色)!</STRING>
+		<STRING hash="177089335">您给了那名赛西亚商人 $NUM0 单位的财富!</STRING>
+		<STRING hash="741551823">一名赛西亚商人说只要 $NUM0 单位的财富，就可以担保我们和盖塔之间的和平。我们该怎么做: 付他钱、叫他等一等，还是杀了他并拿走他的货物?</STRING>
+		<STRING hash="786881158">一名赛西亚商人说只要 $NUM0 单位的财富，就可以担保我们和盖塔结盟。我们该怎么做: 付他钱、叫他等一等，还是杀了他并拿走他的货物?</STRING>
+	</FILE>
+	<FILE hash="3232756" name="thracec">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="3537107">蓝格洛斯</STRING>
+		<STRING hash="8056256">克莱特王</STRING>
+		<STRING hash="26136327">多米凯特皇帝</STRING>
+		<STRING hash="6856543">托塔女王</STRING>
+		<STRING hash="17482154">赛西亚商人</STRING>
+		<STRING hash="1224257">培拉</STRING>
+		<STRING hash="5085807">暗妃波里</STRING>
+		<STRING hash="4682697">阿格瑞安人</STRING>
+		<STRING hash="1534537">培利亚</STRING>
+		<STRING hash="2653580">伊利里亚</STRING>
+	</FILE>
+	<FILE hash="612562" name="tyre">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="2865086">阿兹米利克</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="612562">提尔</STRING>
+		<STRING hash="2946269">旧提尔</STRING>
+		<STRING hash="13656284">北边村落</STRING>
+		<STRING hash="1651940013">我们到达提尔时，正值一年一度的麦勒卡特神盛大庆典。身为海克力斯神的皇室后代，如果您前往参访提尔寺庙，并向麦勒卡特奉献牺牲，提尔人就不得不承认您是他们的国王。</STRING>
+		<STRING hash="2441838">支付 150</STRING>
+		<STRING hash="3534936">获得 100</STRING>
+		<STRING hash="1295289">支付 0</STRING>
+		<STRING hash="324505680">我们的海军部队终于抵达并加入我们。让我们把腓尼基人赶出海去。</STRING>
+		<STRING hash="235957017">提示: 先占领旧提尔附近的城市，再攻击首都。</STRING>
+		<STRING hash="2910595">支付 100</STRING>
+		<STRING hash="1551453">获得 75</STRING>
+		<STRING hash="13679036">南边村落</STRING>
+		<STRING hash="1081562933">来自腓尼基人的消息: 致伟大的亚历山大。我们不想打仗。给我们 100 单位的贡品，我们就愿意追随您，不然，我们给您 75 单位的贡品，请您离开。(您有 $NUM0 单位的贡品。)</STRING>
+		<STRING hash="178196985">很遗憾，您没有足够的贡品做这件事。</STRING>
+		<STRING hash="474639709">来自您顾问的消息: 既然您已参访过提尔人的寺庙，他们就不得不宣布您已经即位为王。</STRING>
+	</FILE>
+	<FILE hash="750647" name="tyre2">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="2865086">阿兹米利克</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="612562">提尔</STRING>
+		<STRING hash="2946269">旧提尔</STRING>
+		<STRING hash="13656284">北边村落</STRING>
+		<STRING hash="13679036">南边村落</STRING>
+	</FILE>
+	<FILE hash="756816" name="tyre3">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="2865086">阿兹米利克</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="612562">提尔</STRING>
+		<STRING hash="13656284">北边村落</STRING>
+		<STRING hash="2946269">旧提尔</STRING>
+		<STRING hash="13679036">南边村落</STRING>
+	</FILE>
+	<FILE hash="895871" name="yemen">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="7738335">米那国王</STRING>
+		<STRING hash="9173811">沙巴国王</STRING>
+		<STRING hash="16143624">海德拉米斯国王</STRING>
+		<STRING hash="16679504">卡塔班国王</STRING>
+		<STRING hash="18101932">希米亚尔国王</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="2077015">卡诺</STRING>
+		<STRING hash="1388448">马雷布</STRING>
+		<STRING hash="2403753">沙巴瓦</STRING>
+		<STRING hash="1258908">提马纳</STRING>
+		<STRING hash="1340229">札法尔</STRING>
+		<STRING hash="520449144">提示: 选择一个盟友。每个民族提供不同的加分。按一下民族的首都来检视它提供何种加分。</STRING>
+		<STRING hash="44165052">盟友加分: 财富速率 +50。</STRING>
+		<STRING hash="71989398">盟友加分: 每项资源 +250 单位。</STRING>
+		<STRING hash="70681336">他们不想和您结盟。</STRING>
+		<STRING hash="165633602">盟友加分: 免费的商业和民事科技。</STRING>
+		<STRING hash="114132133">盟友加分: 允许您训练战马车。</STRING>
+		<STRING hash="429224710">为了表示对新结盟的感谢，米那国王将您的财富率增加 50。</STRING>
+		<STRING hash="397708434">为了表示对新结盟的感谢，沙巴国王协助我们，使生产骑兵单位的速度增加 20%。</STRING>
+		<STRING hash="1089305305">卡塔班国王为了表示欢迎双方成为新盟友，和我们分享新的商业和民事科技。请不要破坏盟约辜负他的好意，不然您会发现很难交到新朋友。</STRING>
+		<STRING hash="227238740">希米亚尔国王不再让我们训练战马车。</STRING>
+		<STRING hash="136751756">您的提议得更吸引人才行。</STRING>
+		<STRING hash="126752431">海德拉米斯向我们进贡了 252 个单位的知识。</STRING>
+		<STRING hash="80739871">盟友加分: 步行弓兵 +25% 健康值。</STRING>
+		<STRING hash="438679230">为了表示对新结盟的感谢，沙巴国王将您的财富率增加 50。</STRING>
+		<STRING hash="371658595">为了表示对新结盟的感谢，米那国王教导我们的弓兵，使他们的健康值增加 25%。</STRING>
+		<STRING hash="231297834">米那国王将不再教导我们的弓兵增加 25% 健康值的方法。</STRING>
+		<STRING hash="174485064">沙巴国王不再送您财富了。</STRING>
+		<STRING hash="139476856">盟友加分: 步行弓兵增加 1 单位的攻击力和范围。</STRING>
+		<STRING hash="446408573">为了表示对新结盟的感谢，米那国王教导我们的弓兵增加 +1 单位攻击力和射程的方法。</STRING>
+		<STRING hash="1007010586">海德拉米斯国王为了表示对双方新结盟的感谢，送给我们每项资源 250 单位的贡品。请不要破坏盟约辜负他的好意，不然您会发现很难结交新朋友。</STRING>
+		<STRING hash="145604460">海德拉米斯送了我们 250 单位的食物贡品。</STRING>
+		<STRING hash="168832496">海德拉米斯送了我们 250 单位的木材贡品。</STRING>
+		<STRING hash="158438550">海德拉米斯送了我们 250 单位的金属贡品。</STRING>
+		<STRING hash="168775500">海德拉米斯送了我们 250 单位的财富贡品。</STRING>
+		<STRING hash="171648201">海德拉米斯送了我们 250 单位的知识贡品。</STRING>
+		<STRING hash="668604729">希米亚尔国王感谢您的友谊。他愿意让我们运用适当的军事科技，在我们自己的马厩训练战马车。</STRING>
+	</FILE>
+	<FILE hash="17760393" name="alexander_battles">
+		<STRING hash="411241871">波斯人有强大的帝国，却敌不过您的马其顿军队和统御能力。</STRING>
+		<STRING hash="866285238">对印度人所知不多。据说在他们领地的另一边有一片海洋，是世界的尽头。统治权从这个海岸延伸到另一个海岸，真是了不起。</STRING>
+		<STRING hash="949229531">有人说这些罗马人是野蛮人。就算是吧，可是他们的剑很强，而且军队训练精良。如果就这样放任不管，他们也许有一天会成为强大帝国。</STRING>
+		<STRING hash="527412128">埃及人和您父亲以前是朋友。他们伟大的帝国虽然没落了，却仍然控制着巨大的财富。</STRING>
+		<STRING hash="613415052">野蛮人的区域都大同小异，只要去过一次就够了。我们有必要把时间浪费在他们身上吗? 这种事就交给其他民族去做吧。</STRING>
+		<STRING hash="349596560">这个区域有许多佣兵。这场战役或许可以让他们和我们的部队轮番上阵。</STRING>
+		<STRING hash="580764893">对这个区域所知不多。许多部族竞相争夺不足的资源。顺利的话，我们可以一个一个剔除他们。</STRING>
+		<STRING hash="832844149">希腊从来就不喜欢听命于您的父亲，当然也不会主动听命于您。我们要快点占领这块领域，因为希腊人和波斯人是盟友。</STRING>
+		<STRING hash="403962200">收复祖国刻不容缓! 让这些入侵者爬回家去。</STRING>
+		<STRING hash="692886641">我们北方的野蛮人过去受您父亲统治。大部份在他过世后就背叛了马其顿。不过，我们在那边还有些朋友。</STRING>
+		<STRING hash="513857578">印度是个资源丰富且传奇众多的国度。目前正在打一场由印度两个派系挑起的内战。</STRING>
+		<STRING hash="602324510">这个区域有许多部族。不过，其中有个部族最强。小心他们的国王波罗斯，他是个非常危险的人物。</STRING>
+		<STRING hash="477206568">入侵这块领域必须渡海。当我们的部队登陆时，得准备好面对一场苦战。</STRING>
+		<STRING hash="825210034">罗马每天都在累积力量，不过他们现在仍然和区域内其他几个民族竞争。现在是攻击的好时机。</STRING>
+		<STRING hash="622350924">罗马每天都在累积力量。如果我们不快点拿回希腊领域的控制权，罗马人可能会得到它。</STRING>
+		<STRING hash="409504356">这个区域内有许多希腊城邦。他们讨厌你也互相厌恶。</STRING>
+		<STRING hash="547416545">这个区域内有许多希腊城邦。在控制住那些离家乡很近的希腊人之前，干预这个地区的事务不是明智之举。</STRING>
+		<STRING hash="308839533">埃及人是难以应付的对手。他们不会轻易放弃独立。</STRING>
+		<STRING hash="209122685">对这块土地，我们只知道它有恶劣的沙漠气候。</STRING>
+		<STRING hash="453241585">200 年前居鲁士大帝在横越这座沙漠时损失了一支军队。只有疯子才会走同样的路。</STRING>
+		<STRING hash="1107444529">我们终于赶上大流士那个坏蛋了。现在正是掳获他的大好机会。我已经为这场战役增添了额外的补给品，所以您不必担心要另外投入您自己的资源。</STRING>
+		<STRING hash="192261371">大流士三世已经重新整装，准备再次面对您!</STRING>
+		<STRING hash="225430064">大流士三世已经集结军队，准备和您战场上见!</STRING>
+		<STRING hash="1754676605">我们的斥候回报，要想征服这块领域，就要做好长期作战的准备。巴比伦、苏撒、波塞波里斯和波斯的古老首都帕沙戈德等大城都在此处。这里有着丰富的资源，但也危机重重。</STRING>
+		<STRING hash="1776770274">我们的斥候回报，要想征服这块领域，就要做好长期作战的准备。巴比伦、苏撒、波塞波里斯和波斯的古老首都帕沙戈德等大城都在此处。这里有着丰富的资源，但也危机重重。</STRING>
+		<STRING hash="1777186525">我们的斥候回报，要想征服这块领域，就要做好长期作战的准备。巴比伦、苏撒、波塞波里斯和波斯的古老首都帕沙戈德等大城都在此处。这里有着丰富的资源，但也危机重重。</STRING>
+		<STRING hash="1871478638">我们的斥候回报，要想征服这块领域，就要做好长期作战的准备。巴比伦、苏撒、波塞波里斯和波斯的古老首都帕沙戈德等大城都在此处。这里有着丰富的资源，但也危机重重。</STRING>
+		<STRING hash="1894393461">我们的斥候回报，要想征服这块领域，就要做好长期作战的准备。巴比伦、苏撒、波塞波里斯和波斯的古老首都帕沙戈德等大城都在此处。这里有着丰富的资源，但也危机重重。</STRING>
+		<STRING hash="1896380725">我们的斥候回报，要想征服这块领域，就要做好长期作战的准备。巴比伦、苏撒、波塞波里斯和波斯的古老首都帕沙戈德等大城都在此处。这里有着丰富的资源，但也危机重重。</STRING>
+		<STRING hash="872014270">一度在波斯领导之下，却为征服者所夺去。我们知道有场硬仗要打，却没想到是这么困难，就好像是我们要从波斯人手上征服它一样。</STRING>
+		<STRING hash="191737384">大流士三世已经重新整装，准备再次面对您!</STRING>
+		<STRING hash="222393183">大流士三世已经集结军队，准备和您战场上见!</STRING>
+		<STRING hash="431155948">波斯人有强大的帝国，却敌不过您的马其顿军队和统御能力。</STRING>
+		<STRING hash="301182991">您控制了整个希腊。直捣波斯帝国心脏的时候到了!</STRING>
+		<STRING hash="913036846">攻击利底亚会引来波斯帝国的军队。您准备要迎战他们的大军了吗? 或许先控制住整个希腊比较妥当。</STRING>
+		<STRING hash="416332900">印度是个资源丰富且传奇众多的国度。这个国家现由强大的摩揭陀国国王所统治。</STRING>
+		<STRING hash="416720428">印度是个资源丰富且传奇众多的国度。这个国家现由强大的旃陀罗笈多国王所统治。</STRING>
+		<STRING hash="1140349840">部署在此处的腓尼基海军，替他们的波斯主人掌控着地中海。我们必须在提尔登陆，才能征服这个地方，提尔就是那座位于海岸边的岛城。这可不是件轻松的事。</STRING>
+		<STRING hash="-1801466404">您必须进入一条严峻的山道，才能到达这个地区的首都。您的将军们从色诺芬的作品中，得知关于这条路的详细记载，所以他们都鼓励您走这条路，并由这条路一路走到巴比伦。色诺芬是位史学家，于公元前 401 年曾参加波斯内战。</STRING>
+	</FILE>
+	<FILE hash="12381631" name="alexander_diplo">
+		<STRING hash="1319470601">很遗憾，现在不能选择向印度人施展外交。他们的领袖难陀正与新近崛起的旃陀罗笈多进行内战。顺利的话，这场战争一结束，我们就能与印度人重开对谈。</STRING>
+		<STRING hash="436030197">我们没有兴趣与您协商。我们只想征服贵国，世界将会是我们的天下。</STRING>
+		<STRING hash="258162342">我们已经是盟友了，不必再签订和平协议。</STRING>
+		<STRING hash="70035668">没错，就让我们结束这场恐怖的战争吧!</STRING>
+		<STRING hash="195097471">非常好。我们将结束这场战争，并签署您的和平条款。</STRING>
+		<STRING hash="196830738">条件非常好! 我们同意这份和平条约。</STRING>
+		<STRING hash="359600753">波斯的敌人不可能是我们的敌人。让我们结束战争，不要再浪费双方的资源了。</STRING>
+		<STRING hash="297272383">我们由衷地期望和平。我们卷入了和波斯人的可怕战争。</STRING>
+		<STRING hash="353648286">我们由衷地期望和平。我们希望集中力量应付和罗马人的战争。</STRING>
+		<STRING hash="719371909">虽然我们的盟友波斯人不高兴我们结束和您的战争，但我们无法忘记过去和您父亲的友谊。我们接受。</STRING>
+		<STRING hash="718640191">虽然我们的盟友罗马人不高兴我们结束和您的战争，但我们无法忘记过去和您父亲的友谊。我们接受。</STRING>
+		<STRING hash="716638828">虽然我们的盟友印度人不高兴我们结束和您的战争，但我们无法忘记过去和您父亲的友谊。我们接受。</STRING>
+		<STRING hash="393225925">我们对彼此或许所知不多，但是我们都知道结束这场战争是合理的。</STRING>
+		<STRING hash="85211533">您应该要签署和约。</STRING>
+		<STRING hash="277434749">我很高兴您发现自己的错误。战争对大家都不好。</STRING>
+		<STRING hash="525006263">您和您的希腊盟友用战争把我的帝国搅得天翻地覆。我在想您要到什么时候才能恢复理智。</STRING>
+		<STRING hash="500757870">谢天谢地，您终于愿意结束这场可怕的战争了。打一开始我就没睡过一天好觉。</STRING>
+		<STRING hash="448570942">我们的盟友埃及人不会高兴我们这么做，不过他们不能控制我们。我们接受。</STRING>
+		<STRING hash="449511803">我们的盟友波斯人不会高兴我们这么做，不过他们不能控制我们。我们接受。</STRING>
+		<STRING hash="213002444">出自对您伟大帝国的尊敬，我们又怎么能拒绝这样的提议呢?</STRING>
+		<STRING hash="205857887">能和您这样的帝国建立和平，真是再好不过。</STRING>
+		<STRING hash="195125383">这个想法真是太棒了。我们会签署和平条约。</STRING>
+		<STRING hash="193424870">我们两个帝国和平共处将是一幅美丽的景象。</STRING>
+		<STRING hash="215489134">我们听了您的提议也有所决定。我们接受您的建议。</STRING>
+		<STRING hash="23175115">我们接受您的协定。</STRING>
+		<STRING hash="259977725">您居然这么要求，真有意思，我也正要向您提出一模一样的建议呢!</STRING>
+		<STRING hash="82715382">很棒的主意。为什么不呢? 我们同意。</STRING>
+		<STRING hash="338683203">很抱歉，我们的盟友波斯人不高兴我们和您握手言和。</STRING>
+		<STRING hash="321203975">很抱歉，我们的盟友罗马人不高兴我们和您握手言和。</STRING>
+		<STRING hash="331824749">很抱歉，我们的盟友印度人不高兴我们和您握手言和。</STRING>
+		<STRING hash="519959884">波斯使节嘲笑言和的想法。我想他们有点气您消灭了他们一度强大的帝国。</STRING>
+		<STRING hash="811345824">嗯，有好消息，也有坏消息。坏消息是波斯人对和平不感兴趣。好消息是他们反正也不重要了。</STRING>
+		<STRING hash="590993519">之前，我还希望双方帝国能看到和平。可叹啊，这场战争持续得太久，和平再也不可能了。</STRING>
+		<STRING hash="487245816">来自波斯使节副手的回答: 我们没空和你们这种人谈这种事。</STRING>
+		<STRING hash="365671616">来自波斯使节副手的回答: 刚刚说我们会得到什么好处来着?</STRING>
+		<STRING hash="342791722">来自波斯使节副手的回答: 帮我们双方一个忙，别来烦我。</STRING>
+		<STRING hash="282812868">也许我们最好先谈和，再谈结盟。</STRING>
+		<STRING hash="172406433">不用了，我们现在的盟友已经够多了。</STRING>
+		<STRING hash="327040918">我们正要向您提出同样的协定! 相信双方民族会合作愉快。</STRING>
+		<STRING hash="79852887">我们期望和您合作。</STRING>
+		<STRING hash="186030804">这些条件很棒! 我们同意这项结盟。</STRING>
+		<STRING hash="135391511">波斯人的敌人就是我们的朋友。</STRING>
+		<STRING hash="944789292">这项结盟提议来得真是时候。波斯人在东方威胁着我们。请协助我们对抗他们，那么我们就自动放弃结盟的惯例贡品。</STRING>
+		<STRING hash="328164806">您和您父亲一样是个好人。我们立刻签署盟约吧!</STRING>
+		<STRING hash="259774676">在对抗波斯人的战争中绝对需要朋友。我们接受。</STRING>
+		<STRING hash="555341471">虽然我们的盟友波斯人不高兴我们和您结盟，但我们无法忘记过去和您父亲的友谊。</STRING>
+		<STRING hash="538602413">虽然我们的盟友罗马人不高兴我们和您结盟，但我们无法忘记过去和您父亲的友谊。</STRING>
+		<STRING hash="547957235">虽然我们的盟友印度人不高兴我们和您结盟，但我们无法忘记过去和您父亲的友谊。</STRING>
+		<STRING hash="206040282">我们完全同意结盟事项。</STRING>
+		<STRING hash="682152203">从您父亲那时候起，我们就和您们的人商量有关结盟的事。结盟成真的那一天该是多美好的日子呀。</STRING>
+		<STRING hash="316854550">双方帝国多年来一直是朋友。我们很期待更稳固的友谊。</STRING>
+		<STRING hash="348103973">我们对彼此或许所知不多，但是我们都知道结盟是合理的。</STRING>
+		<STRING hash="102701797">您应该要签署和约。</STRING>
+		<STRING hash="628193824">我等这天等很久了。同为伟大民族的领袖，你我之间有很特殊的关系。相信我们会合作愉快。</STRING>
+		<STRING hash="346633304">好，就让我们像兄弟一样携手合作。结盟会带给双方帝国繁荣昌盛。</STRING>
+		<STRING hash="576400083">结盟? 这对双方人民都是好事。自从您横扫波斯帝国那天开始，我就恶梦连连。</STRING>
+		<STRING hash="221636714">能和您这样的帝国建立和平，真是再好不过。</STRING>
+		<STRING hash="222777517">这个主意太好了。谁敢对抗我们联合的力量?</STRING>
+		<STRING hash="205713946">双方帝国结成盟友势在必行。</STRING>
+		<STRING hash="292075080">我们听了您的提议也有所决定。我们接受您的建议。</STRING>
+		<STRING hash="200212778">我们认为可以接受这项协定。让我们结成盟友吧!</STRING>
+		<STRING hash="227443053">这个结合双方力量的主意太棒了。从此我们打遍天下无敌手!</STRING>
+		<STRING hash="1269996002">您居然这么要求，真有意思，我也正要向您提出一模一样的建议呢! 嗯，除了一点，我本来打算叫它「罗马联盟」，而不是「马其顿联盟」。好吧，那就叫它「地中海联盟」。</STRING>
+		<STRING hash="300258247">很抱歉，我们的盟友波斯人不高兴我们和您结盟。</STRING>
+		<STRING hash="284790713">很抱歉，我们的盟友罗马人不高兴我们和您结盟。</STRING>
+		<STRING hash="294431120">很抱歉，我们的盟友印度人不高兴我们和您结盟。</STRING>
+		<STRING hash="324000014">让伟大的亚历山大求我和他结盟? 真可惜这事没有发生。</STRING>
+		<STRING hash="203987139">如果您认为我会和您结盟，您一定当我是疯子。</STRING>
+		<STRING hash="549667365">波斯使节嘲笑结盟的想法。我想他们有点气您消灭了他们一度强大的帝国。</STRING>
+		<STRING hash="478666698">之前，我还希望双方帝国能结盟。可叹啊，我的人民不喜欢这个主意。</STRING>
+		<STRING hash="220435740">我们没空和你们这种人谈这种事。</STRING>
+		<STRING hash="113323169">刚刚说我们会得到什么好处来着?</STRING>
+		<STRING hash="90598855">帮我们双方一个忙，别来烦我。</STRING>
+		<STRING hash="268450147">我们无法促成和波斯使节副手的会议。</STRING>
+		<STRING hash="311687374">和埃及人的结盟让我们无法和您结盟，现在是小心谨慎为上。</STRING>
+		<STRING hash="305685068">和波斯人的结盟让我们无法和您结盟，现在是小心谨慎为上。</STRING>
+		<STRING hash="463620240">这对您来说或许是个好主意，对我却不是。很高兴在我们谈话时，我们没有摧毁您的城镇。</STRING>
+		<STRING hash="409269289">您居然这么要求，真有意思，这个主意糟透了。以后这种主意就留给您自己吧。</STRING>
+		<STRING hash="189014916">目前您提出的条件都不能吸引我们。</STRING>
+		<STRING hash="277442356">这些条件真是少的可怜。我们需要更多。</STRING>
+		<STRING hash="225086941">只要比你现在给的还少，我们就不会签订盟约。</STRING>
+		<STRING hash="29737199">永远不可能。</STRING>
+		<STRING hash="79049802">我们绝不会出卖灵魂给你。</STRING>
+		<STRING hash="1347756">绝不!</STRING>
+		<STRING hash="193379578">嗯，我们一直认定你的土地是我们的。</STRING>
+		<STRING hash="174869181">我们很欣赏这种态度。这省了我们不少时间。</STRING>
+		<STRING hash="331136588">虽然我们两国正在交战，但是我们愿意和解，前提是必须根据我们的条件。</STRING>
+		<STRING hash="66330431">这个交易很公平。我们接受。</STRING>
+		<STRING hash="115481436">这个交易很公平。不后悔!</STRING>
+		<STRING hash="112094490">非常好，我想我们都同意。</STRING>
+		<STRING hash="187273799">好吧，如果您最多只能做到这样，我想我们可以同意。</STRING>
+		<STRING hash="42164205">这似乎公平。我接受。</STRING>
+		<STRING hash="243571091">不行，这对我们民族不公平。我们认为应该是像这样。</STRING>
+		<STRING hash="203467566">我们不同意您的提议，不过，或许您会同意这个提议?</STRING>
+		<STRING hash="116271759">先前那个提议很好。但这个更好。</STRING>
+		<STRING hash="205021505">那个交易对我们不太公平。请考虑这项提议。</STRING>
+		<STRING hash="93816062">我们满怀感激，接受您的贡品。</STRING>
+		<STRING hash="22201777">非常感谢您!</STRING>
+		<STRING hash="178969743">您不需要任何回报吗? 随便你了。</STRING>
+		<STRING hash="427861469">您的赠礼来得正好! 现在我们可以升级首都的防御能力，达到无懈可击。</STRING>
+		<STRING hash="165086851">我们的首领很乐于收到这些赠礼。</STRING>
+		<STRING hash="114859917">我们投降了。我们会将这件贡品献给您。</STRING>
+		<STRING hash="206629898">我们觉得现在对您的需求让步，才是明智之举。</STRING>
+		<STRING hash="57888995">够了! 够了! 请放我们一条生路。</STRING>
+		<STRING hash="182815262">凭什么要我们付给您? 应该是您付给我们才对!</STRING>
+		<STRING hash="200999449">这真是无法无天! 我们绝不容许这样的敲诈。</STRING>
+		<STRING hash="115462695">当真? 别拿我开玩笑了。</STRING>
+		<STRING hash="217783634">您的提议不足以让我们放弃独立。</STRING>
+		<STRING hash="180435386">我们不会为了这样微薄的代价，放弃自由。</STRING>
+		<STRING hash="254456942">如果您要我们听从，就必须给我们更多。</STRING>
+		<STRING hash="192455612">我们伟大的民族绝不会向暴政低头。</STRING>
+		<STRING hash="337312105">我们绝不会为这么点东西出卖自己民族。目前您没有足以吸引我们的东西。</STRING>
+		<STRING hash="311983950">为什么我们要同意和平? 我们从攻击可以获得更多。</STRING>
+		<STRING hash="76264722">只有笨蛋才会签那份条约!</STRING>
+		<STRING hash="134021399">要靠您的全面破坏才会结束这场战争。</STRING>
+		<STRING hash="243319077">我们才不像您那样软弱，这场战争我们将会坚持到最后。</STRING>
+		<STRING hash="174500249">看不出这对我们有任何利益。我们不接受。</STRING>
+		<STRING hash="368368031">我们伟大的民族不需要和您们这种人结盟。而且，我们就是喜欢欺侮弱小。</STRING>
+		<STRING hash="621766239">在不同的情况下，也许我们会考虑与您结盟。很抱歉，我们不能接受您的提议。</STRING>
+		<STRING hash="402888531">您的民族无法提供紧急的协助。我们没有多余时间浪费在您身上。</STRING>
+		<STRING hash="199708652">过几个回合后，当您有我们所感兴趣的条件时，再回来找我们。</STRING>
+		<STRING hash="164281389">您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="87034289">这个交易比较符合我们的喜好。</STRING>
+		<STRING hash="186271542">不好意思，您现在的条件不足以引起我们的兴趣。</STRING>
+		<STRING hash="221083251">要我们同意这项交易，您必须提供更多给我们。</STRING>
+		<STRING hash="183994371">等您征服更多的领域时，我们再来交涉。</STRING>
+		<STRING hash="268324888">您目前没有任何东西能迫使我们签那协议。</STRING>
+		<STRING hash="209811227">不要再拿无意义的提议来浪费我们的时间了。我们还得去征服世界呢。</STRING>
+		<STRING hash="304811188">废话少说。拿不出实际的提议就请离开。</STRING>
+		<STRING hash="409933660">您一定要提议这种废话吗? 如果您不想说话，就请结束这些协商吧。</STRING>
+		<STRING hash="250415741">请不要辜负我们的好意。如果您有重要的提议，就请提出。</STRING>
+		<STRING hash="218236791">事情不太对。您没有提供我们任何东西。</STRING>
+		<STRING hash="152117702">您是来谈判，还是来浪费我们的时间?</STRING>
+		<STRING hash="207952698">我们厌烦您的把戏。提出像样的提议，不然就别谈了!</STRING>
+		<STRING hash="267330760">很明显地，贵国不善于谈判。</STRING>
+		<STRING hash="439121001">我们并不是到此一游。如果这是您所能提出的最佳提议，也许我们应该结束协商。</STRING>
+		<STRING hash="207300490">那是我生平中见过最差劲的提议了。是不是在开玩笑啊?</STRING>
+		<STRING hash="271962336">我们很高兴与您结盟，不过得按照我们的条件才行。</STRING>
+		<STRING hash="225166887">那个交易不符我们的需求。这才是我们能够接受的提议。</STRING>
+		<STRING hash="191779310">或许您宁愿接受这些条件?</STRING>
+		<STRING hash="438553498">在你对底比斯人犯下暴行后，我很惊讶你居然还敢在这里露面。</STRING>
+		<STRING hash="866544776">您能够提议结束这场战争对我们来说真是太好了。和波斯的战争花费了我们很多贡品。请送给我们 $NUM0 单位的贡品，我们就会签署和平条约。</STRING>
+		<STRING hash="488829394">虽然我们的人民相距遥远，但精神上却是在一起的。我们会签署您的和平条约。</STRING>
+		<STRING hash="202475519">伟大的亚历山大，我们谦卑地感谢您的提议。我们接受您的提议。</STRING>
+		<STRING hash="749525951">嗯，我本来以为没有人会因为大笑而死，不过当波斯使节副手知道那件事时，他看起来就好像快笑死了。</STRING>
+		<STRING hash="531176963">来自波斯使节副手的回答: 和我们比起来，你的民族不过是群等着被踩扁的小蚂蚁。</STRING>
+		<STRING hash="424466278">来自您顾问的消息: 我们无法促成和波斯使节副手的会议。</STRING>
+		<STRING hash="746664817">伟大的亚历山大，能和您结盟真是太好了。新兴的罗马人一直威胁着我们。我们会十分感激您所提供的一切协助。</STRING>
+		<STRING hash="444787023">您能够提出这项提议对我们来说真是太好了。我们对波斯的战争花费太大了。</STRING>
+		<STRING hash="463700294">虽然我们的人民相距遥远，但精神上却是在一起的。我们同意这项结盟。</STRING>
+		<STRING hash="170831550">伟大的亚历山大，我们谦卑地感谢您的提议。</STRING>
+		<STRING hash="315884715">亚历山大，很高兴您和我们联络。我没兴趣成为您的盟友，那么，再见了。</STRING>
+		<STRING hash="1087775600">来自您顾问的消息: 嗯，我有好消息，也有坏消息。坏消息是波斯人对结盟不感兴趣。好消息是他们反正也不重要了。</STRING>
+		<STRING hash="900032757">来自您顾问的消息: 嗯，我本来以为没有人会因为大笑而死，不过当我告诉波斯使节副手那件事时，他看起来就好像快笑死了。</STRING>
+		<STRING hash="239341727">和我们比起来，你的民族不过是群等着被踩扁的小蚂蚁。</STRING>
+		<STRING hash="324695814">我想应该很快就会达成协定。很快的意思就是不可能，滚开!</STRING>
+	</FILE>
+	<FILE hash="11014738" name="alexander_init">
+		<STRING hash="108895421">平定色雷斯和希腊的叛乱。</STRING>
+	</FILE>
+	<FILE hash="22139611" name="alexander_post_turn">
+		<STRING hash="424184757">恭喜您重新统一您父亲的王国! 托勒密将军决定加入您的帝国。</STRING>
+		<STRING hash="504347786">为了感谢您统一利底亚、佛里几亚、大希腊城邦和西西里岛，希腊人提供您安提培特将军的服务。</STRING>
+		<STRING hash="705992853">希腊人对您的统治渐感不安。让大希腊城邦里分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="654664752">希腊人对您的统治渐感不安。让西西里岛上分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="757341408">希腊人对您的统治渐感不安。让大希腊城邦和西西里岛上分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="496870801">希腊人对您的统治渐感不安。让佛里几亚的希腊人不再受到大流士的统治，也许可以安抚他们。</STRING>
+		<STRING hash="1059334807">希腊人对您的统治渐感不安。让佛里几亚的希腊人不再受到大流士的统治，以及让大希腊城邦里分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="1039903448">希腊人对您的统治渐感不安。解放佛里几亚的希腊人不受大流士统治，并且将西西里岛上分裂的希腊殖民地归还给他们，也许可以安抚他们。</STRING>
+		<STRING hash="1137519868">希腊人对您的统治渐感不安。让佛里几亚的希腊人不再受到大流士的统治，以及让大希腊城邦和西西里岛上分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="488175919">希腊人对您的统治渐感不安。让利底亚的希腊人不再受到大流士的统治，也许可以安抚他们。</STRING>
+		<STRING hash="1049193893">希腊人对您的统治渐感不安。让利底亚的希腊人不再受到大流士的统治，以及让大希腊城邦里分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="1024189634">希腊人对您的统治渐感不安。让利底亚的希腊人不再受到大流士的统治，以及让西西里岛上分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="1125393968">希腊人对您的统治渐感不安。让利底亚的希腊人不再受到大流士的统治，以及让大希腊城邦和西西里岛上分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="567385728">希腊人对您的统治渐感不安。让利底亚和佛里几亚的希腊人不再受到大流士的统治，也许可以安抚他们。</STRING>
+		<STRING hash="1119517238">希腊人对您的统治渐感不安。让利底亚和佛里几亚的希腊人不再受到大流士的统治，以及让大希腊城邦里分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="1087518963">希腊人对您的统治渐感不安。让利底亚和佛里几亚的希腊人不再受到大流士的统治，以及让西西里岛上分裂的希腊殖民地重回祖国怀抱，也许可以安抚他们。</STRING>
+		<STRING hash="14685008">解散海军</STRING>
+		<STRING hash="761115738">解散海军让我们取得 200 单位的贡品，但却损失了战役的战略性资源。我们得要占领腓尼基领域才能重新取得战略性资源。</STRING>
+		<STRING hash="493624420">既然我们劫掠了腓尼基首都，他们的海军就再也不能封锁我们的战役战略性资源。</STRING>
+		<STRING hash="1498350313">来自埃及人的消息: 波斯人征服了我们。他们只关心我们的财富，不管我们的死活。您的父亲曾经是埃及的挚友。不知他的儿子是否会延续这份友谊呢? 请救救我们; 我们会好好回报您的。</STRING>
+		<STRING hash="859428776">来自埃及人的消息: 伟大的亚历山大，您解救了我们。我们会永远向您效忠。您得到一张食物经济繁荣加分卡作为酬谢。</STRING>
+		<STRING hash="513240669">来自腓尼基人的消息: 很高兴我们能和平地解决彼此的歧见。这是我们承诺给您的 100 单位贡品。</STRING>
+		<STRING hash="348507401">来自腓尼基人的消息: 我们来拿应得的 150 单位贡品。祝您统治顺利。</STRING>
+		<STRING hash="1267610350">来自在印度的希腊商人的消息: 摩揭陀王国正受到由旃陀罗笈多领导的另一支印度派系的攻击。旃陀罗笈多已经占领了外围各省，而且正在进逼摩揭陀国首都!</STRING>
+		<STRING hash="768686107">来自在印度的希腊商人的消息: 旃陀罗笈多已经占领了摩揭陀国首都，并处决了统治者。现在印度是由强大的旃陀罗笈多人所统治。</STRING>
+		<STRING hash="773722135">似乎是前希腊城邦底比斯的生还者在晚上烧了我们的首都。马其顿的领域力量降到 1!</STRING>
+		<STRING hash="2553556">波斯人</STRING>
+		<STRING hash="5551340">阿太薛西斯</STRING>
+		<STRING hash="7172586">斯皮塔米尼斯一世</STRING>
+		<STRING hash="552154128">大流士死后，柏萨斯登基为波斯国王。自封为阿太薛西斯，而所有的波斯领域都追随他。</STRING>
+		<STRING hash="108895421">平定色雷斯和希腊的叛乱。</STRING>
+		<STRING hash="51269332">平定色雷斯的叛乱。</STRING>
+		<STRING hash="48588794">平定希腊的叛乱。</STRING>
+		<STRING hash="342668463">藉着要求归还利底亚和佛里几亚，及征服大希腊城邦和西西里岛来安抚希腊人。</STRING>
+		<STRING hash="270781795">藉着要求归还利底亚和佛里几亚，及征服大希腊城邦来安抚希腊人。</STRING>
+		<STRING hash="242756683">藉着要求归还利底亚和佛里几亚，及征服西西里岛来安抚希腊人。</STRING>
+		<STRING hash="269439378">藉着要求归还利底亚，和征服大希腊城邦和西西里岛来安抚希腊人。</STRING>
+		<STRING hash="278879384">藉着要求归还佛里几亚，和征服大希腊城邦和西西里岛来安抚希腊人。</STRING>
+		<STRING hash="185518505">藉着要求归还利底亚和佛里几亚来安抚希腊人。</STRING>
+		<STRING hash="193108090">藉着征服大希腊城邦和西西里岛来安抚希腊人。</STRING>
+		<STRING hash="220186810">藉着要求归还利底亚和征服大希腊城邦来安抚希腊人。</STRING>
+		<STRING hash="226001392">藉着要求归还佛里几亚和征服大希腊城邦来安抚希腊人。</STRING>
+		<STRING hash="203847720">藉着要求归还利底亚和征服西西里岛来安抚希腊人。</STRING>
+		<STRING hash="207941264">藉着要求归还佛里几亚和征服西西里岛来安抚希腊人。</STRING>
+		<STRING hash="99049116">藉着要求归还利底亚来安抚希腊人。</STRING>
+		<STRING hash="111529796">藉着要求归还佛里几亚来安抚希腊人。</STRING>
+		<STRING hash="150129465">藉着要求归还大希腊城邦来安抚希腊人。</STRING>
+		<STRING hash="106281952">藉着要求归还西西里岛来安抚希腊人。</STRING>
+		<STRING hash="325036803">征服腓尼基来打破腓尼基海军对我们战略性资源的封锁。</STRING>
+		<STRING hash="332763630">征服腓尼基来打破腓尼基海军对您战略性资源的封锁。</STRING>
+		<STRING hash="27832641">扩展您的影响力。</STRING>
+		<STRING hash="912568054">您光荣地成功统一了希腊人。这可以让国内质疑您才能的那些人闭嘴。为了感谢您，希腊人向您献上安提培特将军的服务。</STRING>
+		<STRING hash="704302554">希腊人非常生气您还没统一所有的希腊同胞。少数叛逆的希腊人在希腊放火，降低了它的领域力量。</STRING>
+		<STRING hash="710096688">希腊人因为您不断疏忽他们与兄弟之间的统一而勃然大怒。他们已经反抗您的控制，现在必须重新征服了。</STRING>
+		<STRING hash="1360871662">一队希腊佣兵要求以 50 单位贡品的代价为您效命。他们是重装步兵的一种，却不像一般重装步兵强悍，不过训练的成本减少很多。如果您接受的话，可以马上在您的军营展开训练。</STRING>
+		<STRING hash="2000285">接受</STRING>
+		<STRING hash="2245578">拒绝</STRING>
+		<STRING hash="456359872">您的希腊佣兵渐感不安。除非您另外再支付他们 50 单位的贡品，否则他们会离开您的军队。</STRING>
+		<STRING hash="899851">同意</STRING>
+		<STRING hash="1471659">拒绝</STRING>
+		<STRING hash="1390874353">一队希腊佣兵要求以 $NUM2 单位贡品的代价为您效命。他们是重装步兵的一种，却不像一般重装步兵强悍，不过训练的成本减少很多。如果您接受的话，可以马上在您的军营展开训练。</STRING>
+		<STRING hash="467073075">您的希腊佣兵渐感不安。除非您另外再支付他们 $NUM0 单位的贡品，否则他们会离开您的军队。</STRING>
+		<STRING hash="1520390142">既然我们渡过了希拉海进入波斯帝国，或许该解散海军来取得 200 单位的贡品。当然，这表示波斯人可以使用他们的腓尼基海军来阻挡我们取得战役的战略性资源。</STRING>
+		<STRING hash="9646759">保持海军</STRING>
+		<STRING hash="793019311">解散海军让我们取得 200 单位的贡品，却也损失了战役的战略性资源。我们得要占领腓尼基领域才能重新取得战略性资源。</STRING>
+		<STRING hash="848546058">来自赛西亚商人的消息: 我很感激在色雷斯的生意。因为那笔钱我才能致富。在此以 30 单位的贡品聊表谢意。</STRING>
+		<STRING hash="186886161">解救埃及人免于波斯人的高压统治。</STRING>
+		<STRING hash="23628309">旃陀罗笈多</STRING>
+		<STRING hash="484513403">来自腓尼基人的消息: 很高兴我们能和平地解决彼此的歧见。这是我们承诺给您的 75 单位贡品。</STRING>
+		<STRING hash="353385226">来自腓尼基人的消息: 我们来拿应得的 100 单位贡品。祝您统治顺利。</STRING>
+	</FILE>
+	<FILE hash="12766894" name="cilicianruntime">
+		<STRING hash="104903617">占领并守住波斯首都。</STRING>
+		<STRING hash="45340541">占领克里克亚隘口。</STRING>
+	</FILE>
+	<FILE hash="10218189" name="darius2runtime">
+		<STRING hash="383654251">大流士三世还没记取教训啊! 经历过亚历山大的另一轮猛攻后总该学乖了吧。</STRING>
+		<STRING hash="380599512">大流士三世是很谨慎的指挥官，而亚历山大果断的猛烈攻击却能打乱他的决定。</STRING>
+		<STRING hash="446773727">大流士三世那些号称神兵的皇家卫队再次背弃了他! 他又要逃离战场了!</STRING>
+		<STRING hash="414809817">大流士三世的皇家卫队背弃了他! 他正逃离亚历山大的攻击，他的军队也和他一起逃亡!</STRING>
+		<STRING hash="59567745">占领敌人首都。</STRING>
+		<STRING hash="365617282">大流士三世是很谨慎的指挥官，而亚历山大果断的猛烈攻击却能打乱他的决定。</STRING>
+		<STRING hash="447331569">大流士三世那些号称神兵的皇家卫队再次背弃了他! 他又要逃离战场了!</STRING>
+	</FILE>
+	<FILE hash="9115945" name="dariusruntime">
+		<STRING hash="383654251">大流士三世还没记取教训啊! 经历过亚历山大的另一轮猛攻后总该学乖了吧。</STRING>
+		<STRING hash="380599512">大流士三世是很谨慎的指挥官，而亚历山大果断的猛烈攻击却能打乱他的决定。</STRING>
+		<STRING hash="262770132">大流士三世的皇家卫队再次背弃了他! 他又要逃离战场了</STRING>
+		<STRING hash="578595598">大流士三世那些号称神兵的皇家卫队背弃了他! 他正逃离亚历山大的猛烈攻击，而他的军队也和他一起逃走了!</STRING>
+		<STRING hash="59567745">占领敌人首都。</STRING>
+		<STRING hash="365617282">大流士三世是很谨慎的指挥官，而亚历山大果断的猛烈攻击却能打乱他的决定。</STRING>
+		<STRING hash="285245064">大流士三世的皇家卫队背弃了他! 他又要逃离战场了!</STRING>
+		<STRING hash="590856391">大流士三世那些号称神兵的皇家卫队背弃了他! 他正逃离亚历山大的猛烈攻击，而他的军队也和他一起逃走了!</STRING>
+	</FILE>
+	<FILE hash="8926792" name="desertruntime">
+		<STRING hash="18672654">$s0 个单位逃脱。</STRING>
+		<STRING hash="12241566">失去 $s0 个单位。</STRING>
+		<STRING hash="11705735">$s0 个单位离开。</STRING>
+		<STRING hash="10620260">失去 $s0 个单位。</STRING>
+		<STRING hash="10117059">$s0 个单位离开。</STRING>
+		<STRING hash="16551903">$s0 个单位逃脱。</STRING>
+		<STRING hash="31916633">使用寺庙来治疗。</STRING>
+	</FILE>
+	<FILE hash="7619293" name="egyptruntime">
+		<STRING hash="49137003">占领敌人的首都。</STRING>
+	</FILE>
+	<FILE hash="12751870" name="granicusruntime">
+		<STRING hash="104903617">占领并守住波斯首都。</STRING>
+		<STRING hash="27421516">门农被杀死了!</STRING>
+		<STRING hash="48704977">击败门农的军队 (白色)。</STRING>
+	</FILE>
+	<FILE hash="8206738" name="greece2bonus">
+		<STRING hash="424291298">战役开始时每项资源有 +$NUM0 加分，多亏了斯巴达战争时获得的战利品。</STRING>
+	</FILE>
+	<FILE hash="7616962" name="greece2setup">
+		<STRING hash="7090354">马其顿人</STRING>
+		<STRING hash="4369278">雅典人</STRING>
+		<STRING hash="3629018">斯巴达人</STRING>
+		<STRING hash="2805527">底比斯人</STRING>
+		<STRING hash="7196051">色萨利人</STRING>
+	</FILE>
+	<FILE hash="12401575" name="guerillaruntime">
+		<STRING hash="14690555">$d0 个单位阵亡。</STRING>
+		<STRING hash="489692642">只要您的补给车不在敌人领域内或受敌人部队威胁，即可治疗士兵。</STRING>
+		<STRING hash="12900591">$d0 个单位阵亡。</STRING>
+		<STRING hash="120471320">多数人民支持您的目标!</STRING>
+	</FILE>
+	<FILE hash="24068443" name="halicarnassusruntime">
+		<STRING hash="12182155">占领米利都</STRING>
+		<STRING hash="28713090">占领哈利卡纳素斯</STRING>
+		<STRING hash="104903617">占领并守住波斯首都。</STRING>
+	</FILE>
+	<FILE hash="12870766" name="hideawayruntime">
+		<STRING hash="43472503">控制的领域: $NUM0%</STRING>
+		<STRING hash="41248484">存活的敌人将军: $NUM0</STRING>
+		<STRING hash="2288513">伏击!</STRING>
+	</FILE>
+	<FILE hash="6705765" name="latiumsetup">
+		<STRING hash="3060486">萨谟奈人</STRING>
+		<STRING hash="3876852">坎佩尼亚</STRING>
+		<STRING hash="4952059">伊特拉斯坎人</STRING>
+		<STRING hash="3564283">翁布里人</STRING>
+		<STRING hash="2449521">皮斯农</STRING>
+	</FILE>
+	<FILE hash="3817167" name="mgruntime">
+		<STRING hash="485905084">提示: 选择一个盟友。每个民族提供不同的加分。按一下民族的首都来检视它提供何种加分。</STRING>
+		<STRING hash="389595435">塔拉斯同意支付您小额贡品。您所有资源的搜集速率都 +45。</STRING>
+		<STRING hash="432776903">美塔波恩逊同意借您居住地点。您的人口产能增加了 50。</STRING>
+		<STRING hash="474987470">赫拉克里亚同意和您分享科技计画。您所有部门的研究都可以提高一个等级。</STRING>
+		<STRING hash="540752610">潘多西雅的海神波塞顿最高祭司保佑了您的皇家卫队。您的马其顿骑兵在战役中可以承受更大的伤害。</STRING>
+		<STRING hash="190449289">交互运用外交和武力来征服这个半岛。</STRING>
+		<STRING hash="485424072">剩下的城邦认为若是各自为政是无法击败您的，所以他们结合在一起组成了 $s0 联盟。</STRING>
+		<STRING hash="241548871">和塔拉斯结盟可以增加您每项资源的搜集速率。</STRING>
+		<STRING hash="234607614">和美塔波恩逊结盟可以增加您的人口产能。</STRING>
+		<STRING hash="297168129">和赫拉克里亚结盟可以提供您各部门研究的额外等级。</STRING>
+		<STRING hash="217865051">和潘多西雅结盟可以提供您的马其顿骑兵更多生命点数。</STRING>
+		<STRING hash="357894798">和克罗顿的结盟将使您在军营所训练的每个单位都得到额外的一个单位。</STRING>
+		<STRING hash="446599749">西若斯允许您使用他们的储存设备，您的资源容纳量增加了 100。</STRING>
+		<STRING hash="428314914">克罗顿提供军事顾问给您; 他们会针对您所训练的每种军营单位，再多训练 1 个。</STRING>
+		<STRING hash="285032539">和西若斯结盟可以增加您各项资源的商业产能。</STRING>
+		<STRING hash="265437328">和洛克罗依结盟，可以让您的骑兵在战场有疗伤的能力。</STRING>
+		<STRING hash="489035628">洛克罗依的治疗师和您分享了治疗伤马的秘方。您现在可以在战场上治疗骑兵。</STRING>
+	</FILE>
+	<FILE hash="2311903" name="mgsetup">
+		<STRING hash="1472740">希腊人</STRING>
+	</FILE>
+	<FILE hash="9235363" name="persiaruntime">
+		<STRING hash="1666354">买下它</STRING>
+		<STRING hash="4266043">多谢，不用了</STRING>
+		<STRING hash="70859105">来自斥候的消息: 您的损失。</STRING>
+		<STRING hash="781075999">既然有了码头，就让我们出航到巴比伦或苏撒吧。我们需要劫掠其中一个城市，或者两个都抢，才有足够的力量去占领首都。</STRING>
+		<STRING hash="87505316">占领巴比伦古城。</STRING>
+		<STRING hash="88740371">占领雄伟的苏撒城。</STRING>
+		<STRING hash="679731434">我们在苏撒附近发现一座满是战象的马厩，它已加入我方。我们的战俘也告诉我们一些新的军事研究。</STRING>
+		<STRING hash="520654663">巴比伦人的殷勤照料治愈了我们所有部队。附近的部队也都会很快获得治疗。</STRING>
+		<STRING hash="122989292">提示: 占领巴比伦古城。</STRING>
+		<STRING hash="124644635">提示: 占领雄伟的苏撒城。</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+		<STRING hash="60904033">占领波斯首都。</STRING>
+	</FILE>
+	<FILE hash="18405580" name="supplytrainruntime">
+		<STRING hash="189187342">使用我们斥候建造的了望台来安排伏击。</STRING>
+		<STRING hash="35283543">$s0 辆补给车被摧毁。</STRING>
+		<STRING hash="32132765">$s0 辆补给车被摧毁。</STRING>
+	</FILE>
+	<FILE hash="14782652" name="supplytrainsetup">
+		<STRING hash="5577166">斥候团队</STRING>
+	</FILE>
+	<FILE hash="7960456" name="thrace2setup">
+		<STRING hash="7090354">马其顿人</STRING>
+		<STRING hash="5921752">阿格瑞安人</STRING>
+		<STRING hash="4451912">伊利里亚人</STRING>
+		<STRING hash="4562641">赛西亚人</STRING>
+		<STRING hash="1130043">盖塔</STRING>
+	</FILE>
+	<FILE hash="7051802" name="thracesetup">
+		<STRING hash="7090354">马其顿人</STRING>
+		<STRING hash="5921752">阿格瑞安人</STRING>
+		<STRING hash="4451912">伊利里亚人</STRING>
+		<STRING hash="4562641">赛西亚人</STRING>
+		<STRING hash="1130043">盖塔</STRING>
+	</FILE>
+	<FILE hash="4081764" name="tyresetup">
+		<STRING hash="7090354">马其顿人</STRING>
+		<STRING hash="7236285">腓尼基人</STRING>
+	</FILE>
+	<FILE hash="5194930" name="yemensetup">
+		<STRING hash="7090354">马其顿人</STRING>
+		<STRING hash="2804194">席巴人</STRING>
+	</FILE>
+	<FILE hash="1808734" name="jhelum3">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="1065840">波罗斯</STRING>
+		<STRING hash="12111085">阿比萨瑞斯王公</STRING>
+		<STRING hash="5603509">安比王</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="3765906">马拉卡尔</STRING>
+		<STRING hash="6834464">西堪德普</STRING>
+		<STRING hash="1691375">奴浦</STRING>
+		<STRING hash="1090472">拉古</STRING>
+		<STRING hash="2327355">社浦</STRING>
+		<STRING hash="2895940">迪拉瓦</STRING>
+		<STRING hash="4144443">亚历山大</STRING>
+	</FILE>
+	<FILE hash="11514854" name="crazyalexander">
+		<STRING hash="25311551">要让亚历山大活着。</STRING>
+		<STRING hash="64681485">使用补给车来治疗他。</STRING>
+	</FILE>
+	<FILE hash="2150914" name="persia2">
+		<STRING hash="19791536">亚历山大大帝</STRING>
+		<STRING hash="4809620">大流士三世</STRING>
+		<STRING hash="5875678">亚历山大港</STRING>
+		<STRING hash="6023478">帕沙戈德</STRING>
+		<STRING hash="2696389">巴比伦</STRING>
+		<STRING hash="903440">苏撒</STRING>
+		<STRING hash="5044983">波塞波里斯</STRING>
+	</FILE>
+	<FILE hash="18966338" name="capturedariussetup">
+		<STRING hash="1750936">柏萨斯</STRING>
+	</FILE>
+	<FILE hash="18346335" name="seainvasionruntime">
+		<STRING hash="105442025">提示: 使用您的市民来建造城市。</STRING>
+	</FILE>
+	<FILE hash="7058990" name="desertbonus"><STRING hash="338594189">因为营救了一些单位，您在战役中的每项资源获得 +$NUM0 的加分。</STRING></FILE>
+	<FILE hash="14723407" name="seainvasionsetup"><STRING hash="14666931">野蛮人领袖</STRING><STRING hash="23503934">法老王内克大内玻二世</STRING><STRING hash="23628309">旃陀罗笈多</STRING><STRING hash="7480582">难陀</STRING><STRING hash="46099191">独裁者柯索</STRING><STRING hash="5551340">阿太薛西斯</STRING><STRING hash="7172586">斯皮塔米尼斯一世</STRING><STRING hash="4809620">大流士三世</STRING></FILE></ROOT>

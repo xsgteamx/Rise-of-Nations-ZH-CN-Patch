@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Scott Lewis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 U (http://www.xmlspy.com) by Jason Coleman (private) -->
+<!--LOCALIZATION -->
+<!--LOCALIZATION -->
+<!--LOCALIZATION LEGAL element (only one)-->
+<!--LOCALIZATION -->
+<!--LOCALIZATION -->
+<ROOT>
+  <LEGAL>
+    <LINE>© 2017 Skybox Labs. Portions 与 © 2017 Microsoft Corporation. 版权所有。Microsoft、Windows、 DirectDraw、DirectPlay、DirectSound、DirectX、Microsoft Game Studios 标志、MSN、Rise of Nations 及 Thrones and Patriots 系 Microsoft Corporation 在美国及/或其他国家 (地区) 的注册商标或商标。</LINE>
+    <SPACE/>
+    <LINE>警告: 这个电脑程序受着作权法及国际协定保护。未经授权的复制或散布这个程序的部份或全部，将会受到严厉的民刑事处分，并需负担法律规定的最高赔偿。</LINE>
+      </LEGAL>
+  <REG_KEY>SOFTWARE\Big Huge Games\RiseOfNationsExpansion\1.0</REG_KEY>
+  <REG_KEY_TRIAL>SOFTWARE\Microsoft\Microsoft Games\RiseOfNations Trial\1.0</REG_KEY_TRIAL>
+  <ABOUTBOX name="replaywin" left="0" top="0" width="480" height="480">
+  <IFACETEXLOAD id="TEXT_WRAPPER_SKYBOXLOGO" file=".\art\skyboxLogo.tga" sort="0" pixformat="PF_32" />
+    <IFACETEX name="bg0" texture="TEX_CIV" left="0" top="147" width="4" height="4"/>
+    <IFACETEX name="bg1" texture="TEX_CIV" left="5" top="147" width="138" height="4"/>
+    <IFACETEX name="bg2" texture="TEX_CIV" left="144" top="147" width="4" height="4"/>
+    <IFACETEX name="bg3" texture="TEX_CIV" left="0" top="174" width="4" height="21"/>
+    <IFACETEX name="bg4" texture="TEX_CIV" left="5" top="174" width="138" height="21"/>
+    <IFACETEX name="bg5" texture="TEX_CIV" left="144" top="174" width="4" height="21"/>
+    <IFACETEX name="bg6" texture="TEX_CIV" left="0" top="218" width="4" height="4"/>
+    <IFACETEX name="bg7" texture="TEX_CIV" left="5" top="218" width="138" height="4"/>
+    <IFACETEX name="bg8" texture="TEX_CIV" left="144" top="218" width="4" height="4"/>
+    <IFACETEX name="butnormal0" texture="TEX_DIPLO" left="336" top="190" width="12" height="32"/>
+    <IFACETEX name="butnormal1" texture="TEX_DIPLO" left="349" top="190" width="149" height="32"/>
+    <IFACETEX name="butnormal2" texture="TEX_DIPLO" left="499" top="190" width="12" height="32"/>
+    <IFACETEX name="buthighlight0" texture="TEX_DIPLO" left="336" top="157" width="12" height="32"/>
+    <IFACETEX name="buthighlight1" texture="TEX_DIPLO" left="349" top="157" width="149" height="32"/>
+    <IFACETEX name="buthighlight2" texture="TEX_DIPLO" left="499" top="157" width="12" height="32"/>
+    <IFACETEX name="butdown0" texture="TEX_DIPLO" left="336" top="223" width="12" height="32"/>
+    <IFACETEX name="butdown1" texture="TEX_DIPLO" left="349" top="223" width="149" height="32"/>
+    <IFACETEX name="butdown2" texture="TEX_DIPLO" left="499" top="223" width="12" height="32"/>
+    <IFACETEX name="skyboxlogo" texture="TEXT_WRAPPER_SKYBOXLOGO" left="0" top="0" width="300" height="73" />
+    <STYLE NO_SET_RENDERTARGET="1" CLIENTDRAG="1" TOP="1"/>
+    <IFACERECT name="title" left="4" top="18" right_inverse="4" height="24"/>
+    <IFACERECT name="version" left="4" top="50" right_inverse="4" height="16"/>    
+    <IFACERECT name="stringbox_back" left="14" top="106" right_inverse="14" bottom_inverse="42"/>
+    <IFACERECT name="skyboxlogo" left="87" top="360" width="300" height="73" />
+    <IFACEBORDER name="misc">
+      <IFACETEX name="corner0" texture="TEX_CIV" left="377" top="258" width="3" height="3"/>
+      <IFACETEX name="corner1" texture="TEX_CIV" left="509" top="258" width="3" height="3"/>
+      <IFACETEX name="corner2" texture="TEX_CIV" left="509" top="287" width="3" height="3"/>
+      <IFACETEX name="corner3" texture="TEX_CIV" left="337" top="287" width="3" height="3"/>
+      <IFACETEX name="edge0" texture="TEX_CIV" left="381" top="258" width="127" height="3"/>
+      <IFACETEX name="edge1" texture="TEX_CIV" left="377" top="262" width="3" height="24"/>
+      <IFACETEX name="edge2" texture="TEX_CIV" left="381" top="287" width="127" height="3"/>
+      <IFACETEX name="edge3" texture="TEX_CIV" left="509" top="262" width="3" height="24"/>
+    </IFACEBORDER>
+    <IFACERECT name="misc_border" left="10" top="102" right_inverse="10" bottom_inverse="38"/>
+    <BUTTON name="close" title="Close" right_inverse="14" bottom_inverse="11" width="-112" height="-19">
+      <FONTCOLOR r="255" g="255" b="255"/>
+      <FONT size="12"/>
+    </BUTTON>
+    <BUTTON name="credits" title="Credits" right_inverse="133" bottom_inverse="11" width="-112" height="-19">
+      <FONTCOLOR r="255" g="255" b="255"/>
+      <FONT size="12"/>
+    </BUTTON>
+    <STRINGBOX name="legal" left="18" top="110" right_inverse="18" bottom_inverse="45">
+      <FONTCOLOR r="255" g="255" b="255"/>
+      <FONT size="12" style=""/>
+    </STRINGBOX>
+  </ABOUTBOX>
+</ROOT>

@@ -1,0 +1,52 @@
+
+
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute-->
+<TRIBE name="法国人" substitute="1">
+	<LEADERS>
+		<LEADER>路易十四国王</LEADER>
+	</LEADERS>
+	<CITIES>
+		<CITY>纽奥尔良</CITY>
+		<CITY>巴顿鲁治</CITY>
+		<CITY>圣路易</CITY>
+		<CITY>莫比尔</CITY>
+		<CITY>太子港</CITY>
+		<CITY>开云</CITY>
+		<CITY>拉法叶</CITY>
+		<CITY>新里昂</CITY>
+		<CITY>巴士地</CITY>
+		<CITY>比洛克夕</CITY>
+		<CITY>土鲁斯</CITY>
+		<CITY>布洛瓦</CITY>
+		<CITY>普瓦提耶</CITY>
+		<CITY>迪戎</CITY>
+		<CITY>亚维农</CITY>
+		<CITY>特鲁瓦</CITY>
+		<CITY>布列斯特</CITY>
+		<CITY>利哈佛</CITY>
+		<CITY>纳尔榜</CITY>
+		<CITY>艾克斯</CITY>
+		<CITY>波尔奇斯</CITY>
+		<CITY>凡尔赛宫</CITY>
+		<CITY>苏阿松</CITY>
+		<CITY>亚眠</CITY>
+		<CITY>瑟堡</CITY>
+		<CITY>卡昂</CITY>
+		<CITY>洛黑昂</CITY>
+		<CITY>安格拉姆</CITY>
+		<CITY>北昂</CITY>
+		<CITY>尼姆</CITY>
+		<CITY>土伦</CITY>
+		<CITY>贝桑松</CITY>
+		<CITY>思特拉斯堡</CITY>
+		<CITY>加来</CITY>
+		<CITY>布洛涅</CITY>
+		<CITY>旺多姆</CITY>
+		<CITY>慕林斯</CITY>
+		<CITY>里翁</CITY>
+		<CITY>奥碧松</CITY>
+	</CITIES>
+	<UNIT_CONTINENT>0 European</UNIT_CONTINENT>
+	<BUILD_CONTINENT>1 NEuro</BUILD_CONTINENT>
+	<BACKUP_BUILD_CONTINENT>0 Med</BACKUP_BUILD_CONTINENT>
+</TRIBE>

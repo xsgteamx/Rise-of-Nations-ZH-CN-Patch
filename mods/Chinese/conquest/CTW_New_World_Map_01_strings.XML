@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
+<ROOT>
+	<CAT hash="2131502">
+		<STRING hash="8675598" hash_i="8633352" needed="1">新世界</STRING>
+		<STRING hash="410953914" hash_i="413952044" needed="1">扩张您在美洲的领域，直到您的民族在这些富饶的土地上取得绝对的支配地位。</STRING>
+		<STRING hash="466831782" hash_i="479023696" needed="1">美国原住民、欧洲人和美国人有其特定的胜利条件。按一下民族名称来检视。</STRING>
+		<STRING hash="523084463" hash_i="529312559" needed="1">阿兹特克人必须击败所有的欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="524112849" hash_i="530043525" needed="1">马雅人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="509230295" hash_i="514773215" needed="1">印加人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="0" hash_i="0" needed="1"/>
+		<STRING hash="545395308" hash_i="551579602" needed="1">拉科塔人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="509262808" hash_i="514804588" needed="1">马雅人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="523352471" hash_i="529155037" needed="1">拉科塔人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="-1823520696" hash_i="-1885359932" needed="1">当第一批探险家向西航行、寻找通往远东的海路时，竟偶然地发现了新世界。虽然这片土地上有着丰富的资源，但您除了必须对抗强悍的原住民外，还必须与其他的欧洲势力竞争，才能征服世界。</STRING>
+		<STRING hash="809674484" hash_i="823340466" needed="1">葡萄牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="783444782" hash_i="796230056" needed="1">西班牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="782191535" hash_i="794802109" needed="1">法国人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="782905939" hash_i="796164693" needed="1">英国人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="528797847" hash_i="534860375" needed="1">易落魁人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING><STRING hash="725112669" hash_i="737815533" needed="1">美国人必须脱离英国赢得独立，将所有欧洲民族赶出新世界，并征服所有的北美洲领域。</STRING><STRING hash="780254687" hash_i="792618517" needed="1">荷兰人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="-935306933" hash_i="-1041466305" needed="1">您的四周环伺着强悍的敌人，不但如此，现在又有更多人渡海而来，沿着海岸线建立殖民地。您必须要将所有的敌人赶走，不然甚至无法保有祖先传下来的土地。现在就开战，相信您所领导的英勇战士一定能击败其他原住民部落、欧洲来的征服者，以及他们的殖民地，进而征服世界!</STRING><STRING hash="-1457104064" hash_i="-1545826684" needed="1">您来到了这个新世界，并把这里变成了自己的家。您当然希望这是个和平的地方，但可惜您的敌人并不苟同。原住民部落已无法容忍您的存在，您的家园被征收的赋税也越来越沉重。看来独立是您唯一的选择。为了确保您的自由，您现在必须征服世界。</STRING></CAT>
+	<CAT hash="5117100">
+		<STRING hash="9957622" hash_i="10561706" needed="1">北美</STRING>
+		<STRING hash="9983922" hash_i="10584458" needed="1">南美</STRING>
+	</CAT>
+	<CAT hash="7347124">
+		<STRING hash="4079509" hash_i="4063653" needed="1">格陵兰</STRING>
+		<STRING hash="12487918" hash_i="12454140" needed="1">育空领域</STRING>
+		<STRING hash="2726957" hash_i="2708683" needed="1">努勒维特</STRING>
+		<STRING hash="2174406" hash_i="2153260" needed="1">魁北克</STRING>
+		<STRING hash="14120046" hash_i="14078330" needed="1">奥勒冈领域</STRING>
+		<STRING hash="9825878" hash_i="9802640" needed="1">达科他平原</STRING>
+		<STRING hash="6671033" hash_i="6681793" needed="1">大湖区</STRING>
+		<STRING hash="16677799" hash_i="16681435" needed="1">印第安纳领域</STRING>
+		<STRING hash="5639823" hash_i="5715215" needed="1">加州</STRING>
+		<STRING hash="6426855" hash_i="6405539" needed="1">新英格兰</STRING>
+		<STRING hash="5692482" hash_i="5655826" needed="1">新墨西哥州</STRING>
+		<STRING hash="1296364" hash_i="1273858" needed="1">德克萨斯州</STRING>
+		<STRING hash="21177159" hash_i="21196225" needed="1">路易斯安那领域</STRING>
+		<STRING hash="8960796" hash_i="8939952" needed="1">宾夕法尼亚州</STRING>
+		<STRING hash="3311853" hash_i="3289495" needed="1">维吉尼亚州</STRING>
+		<STRING hash="1931782" hash_i="1914576" needed="1">墨西哥</STRING>
+		<STRING hash="3507657" hash_i="3583049" needed="1">卡罗来纳州</STRING>
+		<STRING hash="2509293" hash_i="2493865" needed="1">佛罗里达州</STRING>
+		<STRING hash="1083717" hash_i="1159109" needed="1">古巴</STRING>
+		<STRING hash="5941467" hash_i="5943149" needed="1">西印度群岛</STRING>
+		<STRING hash="3140099" hash_i="3115447" needed="1">犹加敦半岛</STRING>
+		<STRING hash="13456083" hash_i="14363997" needed="1">中美洲</STRING>
+		<STRING hash="7637534" hash_i="7607628" needed="1">新格瑞那达</STRING>
+		<STRING hash="4448078" hash_i="4425720" needed="1">委内瑞拉</STRING>
+		<STRING hash="2221282" hash_i="2205426" needed="1">盖亚纳</STRING>
+		<STRING hash="1822853" hash_i="1890559" needed="1">亚马逊</STRING>
+		<STRING hash="1766679" hash_i="1839553" needed="1">巴西</STRING>
+		<STRING hash="671520" hash_i="650676" needed="1">秘鲁</STRING>
+		<STRING hash="2601938" hash_i="2674812" needed="1">玻利维亚</STRING>
+		<STRING hash="9350359" hash_i="10304785" needed="1">中央盆地</STRING>
+		<STRING hash="842314" hash_i="917706" needed="1">智利</STRING>
+		<STRING hash="4367638" hash_i="4435344" needed="1">阿根廷</STRING>
+	</CAT>
+	<CAT hash="14987765">
+		<STRING hash="466831782" hash_i="479023696" needed="1">美国原住民、欧洲人和美国人有其特定的胜利条件。按一下民族名称来检视。</STRING>
+		<STRING hash="523084463" hash_i="529312559" needed="1">阿兹特克人必须击败所有的欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="509230295" hash_i="514773215" needed="1">印加人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="528797847" hash_i="534860375" needed="1">易落魁人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="523352471" hash_i="529155037" needed="1">拉科塔人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="509262808" hash_i="514804588" needed="1">马雅人必须击败所有欧洲民族，而且要控制比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="780254687" hash_i="792618517" needed="1">荷兰人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="809674484" hash_i="823340466" needed="1">葡萄牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="782905939" hash_i="796164693" needed="1">英国人必须搜集 1000 单位的贡品，并击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING><STRING hash="725112669" hash_i="737815533" needed="1">美国人必须脱离英国赢得独立，将所有欧洲民族赶出新世界，并征服所有的北美洲领域。</STRING><STRING hash="782191535" hash_i="794802109" needed="1">法国人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING><STRING hash="783444782" hash_i="796230056" needed="1">西班牙人必须搜集 1000 单位的贡品，击败所有美国原住民，并比其他欧洲民族及美国人征服更多领域。</STRING></CAT>
+</ROOT>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Mark Sobota (Big Huge Games) -->
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Isaac Ellis (Big Huge Games) -->
+<ROOT>
+  <OFFENSIVE>
+    <ENTRY name="CONQUEST">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="FIELD BATTLE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="TACTICS">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AMBUSH">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SKIRMISH">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AIRLIFT">
+      <STRING/>
+    </ENTRY>
+  </OFFENSIVE>
+  <DEFENSIVE>
+    <ENTRY name="SURPRISE ATTACK!">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="CONQUEST">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="GUERRILLA WARFARE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AIRLIFT">
+      <STRING/>
+    </ENTRY>
+  </DEFENSIVE>
+  <BARBARIAN>
+    <ENTRY name="MELEE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="TACTICS">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BARBARIAN RALLY">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="FIELD BATTLE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SUDDEN DEATH">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="WHEEL AND DEAL">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BARBARIANS AT THE GATES!">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="HIDEAWAY">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SKIRMISH">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AIRLIFT">
+      <STRING/>
+    </ENTRY>
+  </BARBARIAN>
+  <CUSTOM>
+    <ENTRY name="LIBERATION">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SUEZ CANAL">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION RICE BOWL">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION BATATA">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION LOWENZAHN">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION VEREINHEITLICHUNG">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="WEST COAST OFFENSIVE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BATTLE OF THE MIDWEST">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION CARIBOU">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="WARSAW OFFENSIVE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="HUNGARIAN REVOLT">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="CZECH REFORM">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SKIRMISH">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="INDIA">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="TOKYO DEFENSIVE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SUGAR CANE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="PANAMA CANAL">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AFGHANISTAN">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BAY OF PIGS">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AFRICAN CIVIL WAR">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="MOSCOW">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="VIETNAM">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="INCHON">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="PORK CHOP HILL">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BATTLE OF NEW YORK">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION POTOMAC">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="GUERILLA WARFARE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="PACIFIC SUNRISE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION LION'S MANE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION DINGO">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION COWBOY">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION SUNSET">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION PANDA">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="AIRLIFT">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION FEUERKUGEL">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="FALKLAND CONFLICT">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION PERU">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="FALKLANDS CONFLICT">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="OPERATION GOLDSTRIKE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BATTLE OF CHOSIN">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BATTLE OF PUSON">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BATTLE OF CHOSIN2">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="PORK CHOP HILL2">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SKIRMISH2">
+      <STRING/>
+    </ENTRY>
+  </CUSTOM>
+  <ESPIONAGEUSA>
+    <ENTRY name="MISSILE STRIKE">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BOMB DROP">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="COUNTRYSIDE REVOLT">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SEEK AND DESTROY">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="SAVE THE HOSTAGES">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="FINAL MISSION">
+      <STRING/>
+    </ENTRY>
+  </ESPIONAGEUSA>
+  <ESPIONAGEUSSR>
+    <ENTRY name="INFILTRATION">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="BRIBERY">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="COASTAL ATTACK">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="TRAITORS">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="GUERRILLA ACTION">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="FINAL MISSION">
+      <STRING/>
+    </ENTRY>
+    <ENTRY name="COUNTER MISSILE STRIKE">
+      <STRING/>
+    </ENTRY>
+  </ESPIONAGEUSSR>
+  <INSTRUCTIONS name="RUSSIANS">优先顺序:<BULLET/>我们在华沙公约组织的盟友，在第二次世界大战惨遭蹂躏，处境凄惨。我们必须重建他们的领域力量，至少提升到第三级，不然他们一定会改变效忠对象。或者，我们也可以将我们的军队驻扎在他们的领域内，镇压住任何动乱一回合。<BULLET/>我们应全心全力专注在有重要战略地位的中东地区。如果我们迅速占领中东，就可以阻止美军进入南亚，而使我军能更容易控制该区。<SPACE/>胜利条件:<BULLET/>您与美国正在争夺霸权。消灭美国或增加您的总工业收入，并且比美国多 50 单位贡品，就可以获得胜利。<SPACE/>冷战规则:<BULLET/>工业 - 在您的回合结束时，您在每个领域中所得到的每一个领域力量点数，都会在工业收入中增加一个单位贡品。<BULLET/>核武器 - 在您每个领域中，最多可制造出三个单位的核武器。您可以随时发射核武器，但美军同时也会发射他们的核武器。领域被核导弹击中后，就会变成无人占据的领域。<BULLET/>遭破坏的领域 - 领域被核导弹破坏后，将有一回合无法进行攻击。<BULLET/>谍报任务 - 除了战役以外，还可以进行谍报任务。每一回合中，除了攻击，可执行一次谍报任务。谍报活动成功，将可获得特殊加分。在世界视野的迷你地图旁边，按一下间谍图示，就可以开始进行谍报任务。<BULLET/>外交 - 冷战期间，民族之间不会有结盟，但是可同意成为附庸国。此外，也不能征服领域，不过您若是成功进行整肃行动，该领域便可成为您的附庸国。<BULLET/>附庸国 - 他们也算是您的领域，但您不会接收他们的稀有资源收入。您并未击败这些国家，因此他们可能会脱离您的控制。<BULLET/>备战等级显示 - 可以测出核战争的危险程度。由于攻打美国、制造过多核武器及其他因素而造就了这个测量机制。一旦备战等级显示达到第一等级，就会启动所有的核武器。<BULLET/>先进战斗机 - 在研究信息时代及第 7 级军事科技之后，喷射战斗机即可升级到先进战斗机<BULLET/>隐形轰炸机 - 在研究信息时代及第 7 级科学科技之后，战斗轰炸机即可升级到隐形轰炸机。</INSTRUCTIONS>
+  <INSTRUCTIONS name="AMERICANS">优先顺序:<BULLET/>我们在北大西洋公约的欧洲盟友，在第二次世界大战惨遭蹂躏，处境凄惨。我们必须重建他们的领域力量，至少提升到第三级，不然他们一定会改变效忠对象。我们并没有很多军队，但还是可以将他们驻扎在这些领域中，平定动乱一回合。<BULLET/>苏联受其北韩盟友之托，正计划要在下一回合派遣军队到南韩。联合国也计划派遣由我们指挥的和平部队前往该区。如果我们失败了，就要冒险拱手将朝鲜半岛让给苏联。<SPACE/>胜利条件:<BULLET/>您与苏联正在争夺霸权。消灭苏联或增加您的总工业收入，并且比苏联多 50 单位贡品，就可以获得胜利。<SPACE/>冷战规则:<BULLET/>工业 - 在您的回合结束时，您在每个领域中所得到的每一个领域力量点数，都会在工业收入中增加一个单位贡品。<BULLET/>核武器 - 在您每个领域中，最多可制造出三个单位的核武器。您可以随时发射核武器，但苏联军同时也会发射他们的核武器。领域被核导弹击中后，就会变成无人占据的领域。<BULLET/>遭破坏的领域 - 领域被核导弹破坏后，将有一回合无法进行攻击。<BULLET/>谍报任务 - 除了战役以外，还可以进行谍报任务。每一回合中，除了攻击，可执行一次谍报任务。谍报活动成功，将可获得特殊加分。在世界视野的迷你地图旁边，按一下间谍图示，就可以开始进行谍报任务。<BULLET/>外交 - 冷战期间，民族之间不会有结盟，但是可同意成为附庸国。此外，也不能征服领域，不过您若是成功进行整肃行动，该领域便可成为您的附庸国。<BULLET/>附庸国 - 他们也算是您的领域，但您不会接收他们的稀有资源收入。您并未击败这些国家，因此他们可能会脱离您的控制。<BULLET/>备战等级显示 - 可以测出核战争的危险程度。由于攻打苏联、制造过多核武器及其他因素而造就了这个测量机制。一旦备战等级显示达到第一等级，就会启动所有的核武器。<BULLET/>先进战斗机 - 在研究信息时代及第 7 级军事科技之后，喷射战斗机即可升级到先进战斗机<BULLET/>隐形轰炸机 - 在研究信息时代及第 7 级科学科技之后，战斗轰炸机即可升级到隐形轰炸机。</INSTRUCTIONS>
+  <INTRO_TEXT>
+    <ENTRY name="INTRO_TEXT">冷战始于第二次世界大战后，美国和苏联为了对抗纳粹威胁而暂时结为盟友，但是却都怀疑对方有不轨的意图。双方在击败希特勒之后，便开始为全球的影响力展开竞争。两大强权操纵所属盟国互别苗头，但自身却从未有正面的军事冲突。双方因担忧核战争会一发不可收拾，都不希望挑起「热战」，因此产生所谓的「冷战」。<SPACE/>不过，即使冷战，双方在许多其他方面，还是相互竞争。最可怕的是军备竞赛，双方开始储备核武器并扩大导弹射程。双方都对敌方从事大规模的谍报任务。这项竞争的建设性成果是太空竞赛。苏联太空人首先升空，但美国太空人则领先登陆月球而扳回一城。双方发展新科技，完成这些令人惊叹的功绩，两方都获益。<SPACE/>冷战的另一特点就是形成军事结盟。美国联合西欧，成立北大西洋公约组织。苏联则组织大部分的东欧国家形成共同防卫联盟，建立了华沙公约组织予以回应。如果联盟的任何会员国遭受攻击，其他会员国就会即刻前来援助陷入困境的国家。<SPACE/>尽管战争从未爆发，不过有好几次都几乎一触即发，尤其以古巴导弹危机的那段期间更是一发千钧。当时，美国发现苏联在离美国只有 90 英哩远的古巴开始部署核导弹时，紧张气氛节节升高。更糟的是，苏联还陆续引进更多导弹，计划部署在古巴。美国甘迺迪总统果断地采取外交手段，让苏联把导弹撤出古巴，解除这项危机。<SPACE/>最后，美国的经济力终于战胜了苏联的劳动力。共产主义在苏联正式宣告失败，其实在苏联尚未瓦解之前，许多共产政策就早已停用多时。华沙公约组织就此解散，但是北大西洋公约组织直至今日仍旧存在，甚至前苏联的会员国开始加入。</ENTRY>
+  </INTRO_TEXT>
+</ROOT>

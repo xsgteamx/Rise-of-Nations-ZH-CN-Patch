@@ -1,0 +1,40 @@
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by user (Big Huge Games) -->
+<!-- LOCALIZATION: LEADER and CITY elements; also, name attribute -->
+<TRIBE name="刚果人">
+  <LEADERS>
+    <LEADER>尤卢</LEADER>
+  </LEADERS>
+  <CITIES>
+    <CITY>金夏沙</CITY>
+    <CITY>策西拉</CITY>
+    <CITY>波马</CITY>
+    <CITY>马塔迪</CITY>
+    <CITY>姆班扎恩古恩古</CITY>
+    <CITY>班敦杜</CITY>
+    <CITY>基克威特</CITY>
+    <CITY>木班达卡</CITY>
+    <CITY>松戈</CITY>
+    <CITY>盖梅纳</CITY>
+    <CITY>邦杜</CITY>
+    <CITY>布塔</CITY>
+    <CITY>提土尔</CITY>
+    <CITY>伊西罗</CITY>
+    <CITY>吉山干尼</CITY>
+    <CITY>曼巴沙</CITY>
+    <CITY>贝尼</CITY>
+    <CITY>金杜</CITY>
+    <CITY>卡力马</CITY>
+    <CITY>萨班达</CITY>
+    <CITY>迪洛</CITY>
+    <CITY>利卡西</CITY>
+    <CITY>布拉萨市</CITY>
+    <CITY>恩戈</CITY>
+    <CITY>兼巴拉</CITY>
+    <CITY>韦索</CITY>
+    <CITY>因普丰多</CITY>
+    <CITY>黑角</CITY>
+  </CITIES>
+  <UNIT_CONTINENT>1 Arab</UNIT_CONTINENT>
+  <BUILD_CONTINENT>5 Turk</BUILD_CONTINENT>
+  <BACKUP_BUILD_CONTINENT>4 American</BACKUP_BUILD_CONTINENT>
+</TRIBE>

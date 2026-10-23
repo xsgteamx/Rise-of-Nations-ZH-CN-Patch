@@ -3,7 +3,7 @@
 	<CAT hash="587613">
 		<STRING hash="11685233" hash_i="11756429" needed="1">基本资源</STRING>
 		<STRING hash="20489380" hash_i="20551444" needed="1">稀有食物资源。</STRING>
-		<STRING hash="147467286" hash_i="156441532" needed="1">减少研究与升级次数 $NUMBER0%。</STRING>
+		<STRING hash="147467286" hash_i="156441532" needed="1">研究和升级所需时间减少 $NUMBER0%。</STRING>
 		<STRING hash="113202238" hash_i="120574496" needed="1">单位升级成本减少 $NUMBER0%。</STRING>
 		<STRING hash="180822180" hash_i="192662692" needed="1">#ICON27 科学研究的成本减少 $NUMBER0%。</STRING>
 		<STRING hash="172749797" hash_i="187362279" needed="1">#ICON25 民事研究的成本减少 $NUMBER0%。</STRING>
@@ -28,7 +28,7 @@
 		<STRING hash="42031216" hash_i="46557986" needed="1">民族边界 +$NUMBER0%。</STRING>
 		<STRING hash="219551962" hash_i="224074346" needed="1">飞机成本减少 $NUMBER0%，速度加快 $NUMBER1%。</STRING>
 		<STRING hash="104712415" hash_i="111694881" needed="1">增加航行船只速度 $NUMBER0%。</STRING>
-		<STRING hash="177991301" hash_i="192101669" needed="1">弓兵、塔楼、堡垒和城市受到 +$NUMBER1 攻击。</STRING>
+		<STRING hash="177991301" hash_i="192101669" needed="1">弓兵、塔楼、堡垒和城市的攻击力增加 $NUMBER1。</STRING>
 		<STRING hash="172156159" hash_i="185192517" needed="1">市民生产加快 $NUMBER0% 且降价 $NUMBER1%。</STRING>
 		<STRING hash="126026323" hash_i="135826793" needed="1">降低所有 #ICON2 木材成本 $NUMBER0%。</STRING>
 		<STRING hash="172570610" hash_i="184862394" needed="1">核导弹速度加快 $NUMBER0% 并降价 $NUMBER1%。</STRING>
@@ -52,7 +52,7 @@
 		<STRING hash="113861114" hash_i="121458652" needed="1">所有单位的生命点数增加 $NUMBER0% 。</STRING>
 		<STRING hash="102440803" hash_i="109209577" needed="1">海军单位成本减少 $NUMBER0%。</STRING>
 		<STRING hash="81422450" hash_i="87171002" needed="1">所有金属成本减少 $NUMBER0%。</STRING>
-		<STRING hash="113325601" hash_i="120697859" needed="1">增加单位的成本减少 $NUMBER0%。</STRING>
+		<STRING hash="113325601" hash_i="120697859" needed="1">单位成本的递增幅度降低 $NUMBER0%。</STRING>
 		<STRING hash="189871371" hash_i="195578207" needed="1">马厩和车厂单位的成本减少 $NUMBER0%。</STRING>
 		<STRING hash="114094080" hash_i="121458652" needed="1">所有单位生命点数增加 $NUMBER0%。</STRING><STRING hash="65228068" hash_i="70132214" needed="1">Increases ship speed by $NUMBER0%.</STRING></CAT>
 	<CAT hash="5799388">

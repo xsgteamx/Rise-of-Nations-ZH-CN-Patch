@@ -101,7 +101,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Stance Back</ENGLISH_NAME>
-    <NAME>后退态势</NAME>
+    <NAME>上一个姿态</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_x="0" tex_y="0" tex_row="-1" clip="0">
@@ -111,7 +111,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Formation Back</ENGLISH_NAME>
-    <NAME>后退阵式</NAME>
+    <NAME>上一个阵形</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="5" tex_row="11" clip="0">
@@ -146,7 +146,7 @@
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="4" tex_row="2" clip="0">
     <ENGLISH_NAME>Alarm Peasant</ENGLISH_NAME>
-    <NAME>警告平民</NAME>
+    <NAME>让市民避难</NAME>
     <DESC>按一下将此工作者送往安全地区。</DESC>
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="4" tex_row="2" clip="0">
@@ -267,7 +267,7 @@
   <OPTION tex_id="TEX_ORDERS_0" tex_col="7" tex_row="4" clip="0">
     <ENGLISH_NAME>Rally Point</ENGLISH_NAME>
     <NAME>集结点</NAME>
-    <DESC>按一下将建筑设为集结点。</DESC>
+    <DESC>点击为该建筑设置集结点。</DESC>
   </OPTION>
   <OPTION tex_id="TEX_BUILDINGS_1" tex_col="3" tex_row="4" clip="0">
     <ENGLISH_NAME>Clear Rally Point</ENGLISH_NAME>
@@ -326,7 +326,7 @@
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="7" tex_row="5" clip="0">
     <ENGLISH_NAME>Building Stance</ENGLISH_NAME>
-    <NAME>建筑态势</NAME>
+    <NAME>新建单位姿态</NAME>
     <DESC>按一下可设定在这里所产生单位的开始态势。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -412,7 +412,7 @@
   <OPTION tex_col="7" tex_row="1" clip="0">
     <ENGLISH_NAME>Back to Main Diplomacy</ENGLISH_NAME>
     <NAME>返回主要外交</NAME>
-    <DESC>按一下返回﹝主要外交﹞功能表。</DESC>
+    <DESC>按一下返回﹝主要外交﹞菜单。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Diplomacy Status</ENGLISH_NAME>
@@ -451,13 +451,13 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Quit</ENGLISH_NAME>
-    <NAME>退出</NAME>
+    <NAME>撤出</NAME>
     <DESC>按一下则退出游戏。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Game Menu</ENGLISH_NAME>
-    <NAME>游戏功能表</NAME>
-    <DESC>按一下可开启游戏功能表。</DESC>
+    <NAME>游戏菜单</NAME>
+    <DESC>按一下可开启游戏菜单。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Options Screen</ENGLISH_NAME>
@@ -641,18 +641,18 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Help Text Detail</ENGLISH_NAME>
-    <NAME>说明文字细节</NAME>
+    <NAME>提示详细程度</NAME>
     <DESC>按一下可变更说明文字细节。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Prev Help Detail</ENGLISH_NAME>
-    <NAME>上个说明细节</NAME>
+    <NAME>降低提示详细程度</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Advanced Options</ENGLISH_NAME>
     <NAME>进阶选项</NAME>
-    <DESC>按一下可切换进阶功能表。</DESC>
+    <DESC>按一下可切换进阶菜单。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Toggle Clock</ENGLISH_NAME>
@@ -671,7 +671,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Toggle Units Behind</ENGLISH_NAME>
-    <NAME>切换后方单位</NAME>
+    <NAME>显示被遮挡单位</NAME>
     <DESC>按一下可切换建筑与树木后方单位的显示。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -832,7 +832,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Good"</ENGLISH_NAME>
-    <NAME>好"</NAME>
+    <NAME>资源"</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -847,27 +847,27 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Drag</ENGLISH_NAME>
-    <NAME>托曳</NAME>
+    <NAME>拖动</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Mouseover Object</ENGLISH_NAME>
-    <NAME>将滑鼠指标移至物体上方</NAME>
+    <NAME>将鼠标指标移至物体上方</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="7" tex_row="6" clip="0">
     <ENGLISH_NAME>Eject</ENGLISH_NAME>
-    <NAME>退出</NAME>
-    <DESC>按一下来退出此一单位。</DESC>
+    <NAME>撤出</NAME>
+    <DESC>点击让该单位撤出。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Eject Air Fueling</ENGLISH_NAME>
-    <NAME>退出空中加油</NAME>
+    <NAME>起飞（正在加油）</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Eject Air Ready</ENGLISH_NAME>
-    <NAME>退出空中整备</NAME>
+    <NAME>起飞（已就绪）</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -928,7 +928,7 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Group</ENGLISH_NAME>
     <NAME>群组</NAME>
-    <DESC>按右键产生单位。按左键进行选择。(快速键: CTRL+# 产生; # 选择; SHIFT+# 消除)。</DESC>
+    <DESC>右键创建编组，左键选择编组。（快捷键：CTRL+# 创建；# 选择；SHIFT+# 删除。）</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Creating Fighter Bomber</ENGLISH_NAME>
@@ -1048,7 +1048,7 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Edit Script</ENGLISH_NAME>
     <NAME>编辑指令码</NAME>
-    <DESC>按一下可建立、编辑或报错此剧情的指令码。</DESC>
+    <DESC>点击创建、编辑或调试此剧情的脚本。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Starting Resources</ENGLISH_NAME>
@@ -1088,11 +1088,11 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Options</ENGLISH_NAME>
     <NAME>选项</NAME>
-    <DESC>按一下显示﹝剧情编辑器﹞的选项功能表。</DESC>
+    <DESC>按一下显示﹝剧情编辑器﹞的选项菜单。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Quit</ENGLISH_NAME>
-    <NAME>退出</NAME>
+    <NAME>撤出</NAME>
     <DESC>按一下退出剧情编辑器。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -1143,22 +1143,22 @@
   <OPTION tex_id="TEX_ORDERS_0" tex_col="3" tex_row="11" clip="0">
     <ENGLISH_NAME>Increase Hit Points</ENGLISH_NAME>
     <NAME>增加生命点数</NAME>
-    <DESC>按一下可增加选择物体的生命点数。按住 SHIFT 再按滑鼠左键可快速增加，按住 ALT 再按滑鼠左键可以最快速度增加，按住 CTRL 再按滑鼠左键则是以非常慢的速度增加。</DESC>
+    <DESC>按一下可增加选择物体的生命点数。按住 SHIFT 再按鼠标左键可快速增加，按住 ALT 再按鼠标左键可以最快速度增加，按住 CTRL 再按鼠标左键则是以非常慢的速度增加。</DESC>
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="4" tex_row="11" clip="0">
     <ENGLISH_NAME>Decrease Hit Points</ENGLISH_NAME>
     <NAME>减少生命点数</NAME>
-    <DESC>按一下可减少选择物体的生命点数。按住 SHIFT 再按滑鼠左键可快速减少，按住 ALT 再按滑鼠左键可以最快速度减少，按住 CTRL 再按滑鼠左键则是以非常慢的速度减少。</DESC>
+    <DESC>按一下可减少选择物体的生命点数。按住 SHIFT 再按鼠标左键可快速减少，按住 ALT 再按鼠标左键可以最快速度减少，按住 CTRL 再按鼠标左键则是以非常慢的速度减少。</DESC>
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="1" tex_row="8" clip="0">
     <ENGLISH_NAME>Increase Craft</ENGLISH_NAME>
-    <NAME>增加特殊功能</NAME>
-    <DESC>按一下可增加选择物体的特殊功能。按住 SHIFT 再按滑鼠左键可快速增加，按住 ALT 再按滑鼠左键可以最快速度增加，按住 CTRL 再按滑鼠左键则是以非常慢的速度增加。</DESC>
+    <NAME>增加技能值</NAME>
+    <DESC>按一下可增加选择物体的特殊功能。按住 SHIFT 再按鼠标左键可快速增加，按住 ALT 再按鼠标左键可以最快速度增加，按住 CTRL 再按鼠标左键则是以非常慢的速度增加。</DESC>
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="1" tex_row="9" clip="0">
     <ENGLISH_NAME>Decrease Craft</ENGLISH_NAME>
-    <NAME>减少特殊功能</NAME>
-    <DESC>按一下可减少选择物体的特殊功能。按住 SHIFT 再按滑鼠左键可快速减少，按住 ALT 再按滑鼠左键可以最快速度减少，按住 CTRL 再按滑鼠左键则是以非常慢的速度减少。</DESC>
+    <NAME>减少技能值</NAME>
+    <DESC>按一下可减少选择物体的特殊功能。按住 SHIFT 再按鼠标左键可快速减少，按住 ALT 再按鼠标左键可以最快速度减少，按住 CTRL 再按鼠标左键则是以非常慢的速度减少。</DESC>
   </OPTION>
   <OPTION tex_id="TEX_ORDERS_0" tex_col="7" tex_row="10" clip="0">
     <ENGLISH_NAME>Activate Building</ENGLISH_NAME>
@@ -1187,8 +1187,8 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Change Map Seed</ENGLISH_NAME>
-    <NAME>变更地图识别值种子</NAME>
-    <DESC>按一下变更地图的识别值种子。</DESC>
+    <NAME>更改地图随机种子</NAME>
+    <DESC>点击更改地图的随机种子。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Toggle Fog of War</ENGLISH_NAME>
@@ -1217,7 +1217,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Nation Flip</ENGLISH_NAME>
-    <NAME>随机选取民族</NAME>
+    <NAME>切换民族</NAME>
     <DESC>按一下会显示其他民族。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -1287,7 +1287,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Add Feature</ENGLISH_NAME>
-    <NAME>新增特色</NAME>
+    <NAME>添加地表装饰</NAME>
     <DESC>按一下可增加个别灌木丛或岩石</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -1338,12 +1338,12 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Give Resource</ENGLISH_NAME>
     <NAME>增加资源</NAME>
-    <DESC>按一下可增加这项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键可得 100 单位，按住 SHIFT 再按滑鼠左键可得 500 单位，按住 ALT 再按滑鼠左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键可得 1 单位。</DESC>
+    <DESC>按一下可增加这项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键可得 100 单位，按住 SHIFT 再按鼠标左键可得 500 单位，按住 ALT 再按鼠标左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键可得 1 单位。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Take Resource</ENGLISH_NAME>
     <NAME>减少资源</NAME>
-    <DESC>按一下可减少这项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键减少 100 单位，按住 SHIFT 再按滑鼠左键减少 500 单位，按住 ALT 再按滑鼠左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键减少 1 单位。</DESC>
+    <DESC>按一下可减少这项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键减少 100 单位，按住 SHIFT 再按鼠标左键减少 500 单位，按住 ALT 再按鼠标左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键减少 1 单位。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Give Resource</ENGLISH_NAME>
@@ -1363,7 +1363,7 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Give Each Resource</ENGLISH_NAME>
     <NAME>增加每项资源</NAME>
-    <DESC>按一下可增加每项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键可得 100 单位，按住 SHIFT 再按滑鼠左键可得 500 单位，按住 ALT 再按滑鼠左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键可得 1 单位。</DESC>
+    <DESC>按一下可增加每项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键可得 100 单位，按住 SHIFT 再按鼠标左键可得 500 单位，按住 ALT 再按鼠标左键可得 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键可得 1 单位。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Give Each Resource</ENGLISH_NAME>
@@ -1373,7 +1373,7 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Take Each Resource</ENGLISH_NAME>
     <NAME>减少每项资源</NAME>
-    <DESC>按一下可减少每项资源 $NUMBER0 单位。按住 CTRL 再按滑鼠左键减少 100 单位，按住 SHIFT 再按滑鼠左键减少 500 单位，按住 ALT 再按滑鼠左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按滑鼠左键减少 1 单位。</DESC>
+    <DESC>按一下可减少每项资源 $NUMBER0 单位。按住 CTRL 再按鼠标左键减少 100 单位，按住 SHIFT 再按鼠标左键减少 500 单位，按住 ALT 再按鼠标左键减少 10000 单位，同时按住 CTRL 及 SHIFT 再按鼠标左键减少 1 单位。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Take Each Resource</ENGLISH_NAME>
@@ -1432,17 +1432,17 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Add Random Features</ENGLISH_NAME>
-    <NAME>新增随机特色</NAME>
+    <NAME>添加随机地表装饰</NAME>
     <DESC>按一下可增加随机灌木丛或岩石</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Remove One Feature</ENGLISH_NAME>
-    <NAME>移除一个特色</NAME>
+    <NAME>移除一处地表装饰</NAME>
     <DESC>按一下可清除一个灌木丛或岩石</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Clear All Features</ENGLISH_NAME>
-    <NAME>清除所有特色</NAME>
+    <NAME>清除所有地表装饰</NAME>
     <DESC>按一下可清除所有灌木丛或岩石</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -1458,7 +1458,7 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Adjust Height</ENGLISH_NAME>
     <NAME>调整高度</NAME>
-    <DESC>选取这个按钮并往左拖曳来提升地形高度。选取这个按钮并往右拖曳来降低地形高度。</DESC>
+    <DESC>选择此按钮后，按住鼠标左键拖动可升高地形，按住鼠标右键拖动可降低地形。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Height Increase</ENGLISH_NAME>
@@ -1472,7 +1472,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Apply Changes</ENGLISH_NAME>
-    <NAME>套用变更</NAME>
+    <NAME>应用更改</NAME>
     <DESC>按一下套用您在这个地图上所作的变更</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -1482,7 +1482,7 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Remove Feature</ENGLISH_NAME>
-    <NAME>移除特色</NAME>
+    <NAME>移除地表装饰</NAME>
     <DESC>按一下可移除最后放置的山地</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
@@ -1638,7 +1638,7 @@
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Select Patriot, no zoom</ENGLISH_NAME>
     <NAME>选择爱国者，不缩放</NAME>
-    <DESC>按一下不用放大就可选择爱国者。</DESC>
+    <DESC>点击选择爱国者，不移动或缩放视角。</DESC>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Select Damaged Units</ENGLISH_NAME>
@@ -1647,12 +1647,12 @@
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Filter Selection for Damaged Units</ENGLISH_NAME>
-    <NAME>受损单位的选择筛选器</NAME>
+    <NAME>仅保留选中的受损单位</NAME>
     <DESC/>
   </OPTION>
   <OPTION tex_col="-1" tex_row="-1" clip="0">
     <ENGLISH_NAME>Filter Selection for Units on Screen</ENGLISH_NAME>
-    <NAME>画面单位的选择筛选器</NAME>
+    <NAME>仅保留屏幕内的选中单位</NAME>
     <DESC/>
   </OPTION>
 </OPTIONS>

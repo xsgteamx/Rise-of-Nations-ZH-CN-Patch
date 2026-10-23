@@ -2,9 +2,9 @@
 <!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by XMLSPY 5 Professional Ed. Release 2 (Big Huge Games) -->
 <ROOT name="NewWorld">
 	<FILE hash="1890559" name="amazon">
-		<STRING hash="11360110">英王享利八世</STRING>
+		<STRING hash="11360110">英王亨利八世</STRING>
 		<STRING hash="3205065">瓦斯卡</STRING>
-		<STRING hash="3704440">亚马逊河尼亚</STRING>
+		<STRING hash="3704440">亚马逊地区</STRING>
 		<STRING hash="942840">贝伦</STRING>
 		<STRING hash="2024904">玛瑙斯</STRING>
 		<STRING hash="999560">帕拉</STRING>
@@ -95,7 +95,7 @@
 		<STRING hash="10210835">皇土</STRING>
 	</FILE>
 	<FILE hash="1050581" name="lakes">
-		<STRING hash="11360110">英王享利八世</STRING>
+		<STRING hash="11360110">英王亨利八世</STRING>
 		<STRING hash="1745379">奥奈达</STRING>
 		<STRING hash="2836072">提欧罗</STRING>
 		<STRING hash="8109434">条华农达顿</STRING>
@@ -111,7 +111,7 @@
 	</FILE>
 	<FILE hash="5470053" name="mercantile">
 		<STRING hash="4908361">两次击倒</STRING>
-		<STRING hash="7949715">坐着的公牛</STRING>
+		<STRING hash="7949715">坐牛</STRING>
 		<STRING hash="3249254">塔多达哈</STRING>
 		<STRING hash="6467560">疯马</STRING>
 		<STRING hash="2701481">木尼索塔</STRING>
@@ -136,7 +136,7 @@
 		<STRING hash="620134">祖尼人</STRING>
 	</FILE>
 	<FILE hash="650676" name="peru">
-		<STRING hash="11360110">英王享利八世</STRING>
+		<STRING hash="11360110">英王亨利八世</STRING>
 		<STRING hash="3205065">瓦斯卡</STRING>
 		<STRING hash="1427907">库斯科</STRING>
 		<STRING hash="1581631">皮萨克</STRING>
@@ -173,7 +173,7 @@
 		<STRING hash="224185143">法国人对于我们拒绝离开感到愤怒，他们已经宣战了!</STRING>
 		<STRING hash="680527682">葡萄牙人很感激您的帮忙，但现在请您马上离开这个地方。他们会给您 100 个单位的贡品作为赔偿。</STRING>
 		<STRING hash="241639194">葡萄牙人对于我们拒绝离开感到愤怒，他们已经宣战了!</STRING>
-		<STRING hash="3756955">路易七世</STRING>
+		<STRING hash="3756955">路易十二世</STRING>
 	</FILE>
 	<FILE hash="2153260" name="quebec">
 		<STRING hash="17874528">奥托·冯·俾斯麦</STRING>
@@ -183,7 +183,7 @@
 		<STRING hash="10335830">三河城</STRING>
 	</FILE>
 	<FILE hash="8591103" name="tenochtitlan">
-		<STRING hash="11360110">英王享利八世</STRING>
+		<STRING hash="11360110">英王亨利八世</STRING>
 		<STRING hash="17633602">马克特朱玛皇帝</STRING>
 		<STRING hash="3450551">摩由特兰</STRING>
 		<STRING hash="3420025">佐可本</STRING>
@@ -191,7 +191,7 @@
 		<STRING hash="5843300">特拉特罗科</STRING>
 	</FILE>
 	<FILE hash="3115447" name="yucatan">
-		<STRING hash="11360110">英王享利八世</STRING>
+		<STRING hash="11360110">英王亨利八世</STRING>
 		<STRING hash="1540458">巴尔卡王</STRING>
 		<STRING hash="3007521">玛雅潘</STRING>
 		<STRING hash="1230308">武锡玛</STRING>
@@ -222,19 +222,19 @@
 		<STRING hash="1823045">坦比斯</STRING>
 	</FILE>
 	<FILE hash="16663038" name="aztecrallyruntime">
-		<STRING hash="199975033">提示: 利用被消灭单位所取得的资源来建造新的部队。</STRING>
+		<STRING hash="199975033">提示：利用消灭敌方单位获得的资源，组建更多部队。</STRING>
 	</FILE>
 	<FILE hash="8070177" name="caribruntime">
-		<STRING hash="520449144">提示: 选择一个盟友。每个民族提供不同的加分。按一下民族的首都来检视它提供何种加分。</STRING>
+		<STRING hash="520449144">提示: 选择一个盟友。每个民族提供不同的加成。点击一个民族的首都，即可查看它提供的加成。</STRING>
 		<STRING hash="263500116">提示: 立即决胜规则已启用； 任何民族只要失掉一座城市，马上宣告战败。</STRING>
-		<STRING hash="144709079">盟友加分: 替您产生中古时代骑兵。</STRING>
+		<STRING hash="144709079">盟友加分：为您提供中古时代战士。</STRING>
 		<STRING hash="175561574">盟友加分: 增加您独特单位的力量。</STRING>
 		<STRING hash="188485415">盟友加分: 他们有一部份人口会加入您的国家。</STRING>
 		<STRING hash="174015351">盟友加分: 他们会告诉您秘密!</STRING>
 		<STRING hash="154432957">盟友加分: 他们会提高您的财富搜集率。</STRING>
-		<STRING hash="871102510">来自尼波悠王的消息 (蓝色): 为了庆祝双方的友谊，我们同意固定提供年轻的骑兵给您。他们会到您的首都去。</STRING>
+		<STRING hash="871102510">来自尼波悠王的消息（蓝色）：为感谢这份新的友谊，我们同意不断向您派遣年轻战士。他们将在您的首都出现。</STRING>
 		<STRING hash="598953684">来自加勒比王的消息 (紫色): 为了表示对新盟友的欢迎，我们会指导您如何让独特单位变得更强大。</STRING>
-		<STRING hash="501300626">来自拉古诺王的消息 (青绿色): 既然我们现在是盟友，将来新开辟的贸易路线会让您的财富搜集率增加 30 吧。</STRING>
+		<STRING hash="501300626">来自拉古诺王的消息（青绿色）：既然我们已成为盟友，新开通的贸易路线将使您的财富搜集率增加 30。</STRING>
 		<STRING hash="136751756">我们要求您提供更令人信服的提议。</STRING>
 		<STRING hash="139474230">盟友加分: 他们会告诉您祕密!</STRING>
 		<STRING hash="456735959">来自尼波悠王的消息 (蓝色): 既然我们的同盟关系已经结束，我们的年轻战士现在回到我们的控制了。</STRING>
@@ -285,7 +285,7 @@
 		<STRING hash="15196609">$STRING0 (黄色)</STRING>
 		<STRING hash="139319854">当时间结束时，拥有最多的商人小屋。</STRING>
 		<STRING hash="49011530">$STRING0商人小屋: $NUM0 座</STRING>
-		<STRING hash="185739647">$STRING0 再 5 分钟就会有最多座的商人小屋。</STRING>
+		<STRING hash="185739647">距离结束还剩 5 分钟，$STRING0目前拥有最多的商人小屋。</STRING>
 		<STRING hash="49182935">$STRING0商人小屋: $NUM1 座</STRING>
 	</FILE>
 	<FILE hash="14060219" name="metalrushruntime">
@@ -295,8 +295,8 @@
 		<STRING hash="12599581">$STRING0 (绿色)</STRING>
 		<STRING hash="15196609">$STRING0 (黄色)</STRING>
 		<STRING hash="42174561">$STRING0搜集的金属: 0 单位</STRING>
-		<STRING hash="103099612">$STRING0还未达到 500 单位金属的目标。</STRING>
-		<STRING hash="101384006">$STRING0还未达到 250 单位金属的目标 。</STRING>
+		<STRING hash="103099612">$STRING0距离目标所需的金属已不足 500 单位。</STRING>
+		<STRING hash="101384006">$STRING0距离目标所需的金属已不足 250 单位。</STRING>
 		<STRING hash="57337532">$STRING0搜集的金属: $NUM1 单位</STRING>
 	</FILE>
 	<FILE hash="11040647" name="metalrushsetup">
@@ -304,22 +304,22 @@
 	</FILE>
 	<FILE hash="15479370" name="newworld_battles">
 		<STRING hash="185133931">这里就是那些造反的美国人的首都。</STRING>
-		<STRING hash="476533059">美国人是英国人的走狗，帮忙看门的。对我们没有威胁。</STRING>
+		<STRING hash="476533059">美国人算不上士兵，不过是英国这个小店主之国手下的伙计。他们对我们构不成威胁。</STRING>
 		<STRING hash="334287467">美国人对我们没有威胁。他们所谓的民主政治，最后一定会瓦解而一团乱。</STRING>
 		<STRING hash="224985699">请小心与阿兹特克人交战。他们的凶悍众所皆知。</STRING>
-		<STRING hash="419505760">英国人很想要在新世界里取得一个重要的立足点。我们被迫一定要阻止他们。</STRING>
+		<STRING hash="419505760">英国人一心想在新世界站稳脚跟。我们要阻止他们绝非易事。</STRING>
 		<STRING hash="516561355">荷兰人很会做乳酪，顶多也只是在海上经商。只要拿把剑对着他们，他们就会吓跑了。</STRING>
 		<STRING hash="723825190">法国人没有足够的资源，无法在新世界里固守他们的土地。很快就会离开。不过，没有理由这么慢，应该叫他们赶快滚。</STRING>
 		<STRING hash="361640203">我们已经派遣许多斥候去深入研究印加。但却没有人回来。</STRING>
-		<STRING hash="265930538">易落魁人是野蛮但有效率的骑兵。我会小心对付他们。</STRING>
+		<STRING hash="265930538">易落魁人是凶悍而高效的战士。与他们打交道时，我会格外谨慎。</STRING>
 		<STRING hash="248687517">拉科塔人不会有多大的威胁。他们甚至还不知道领域这个观念。</STRING>
-		<STRING hash="417211238">我们不必太担心马雅人。阿兹特克人已经重挫他们的的光辉历史了。</STRING>
+		<STRING hash="417211238">我们不必太担心马雅人。阿兹特克人早已粉碎了他们所有的辉煌梦想。</STRING>
 		<STRING hash="470555935">西班牙人是第一个进入新世界的欧洲民族。如果您想要的话，也可以让他们成为第一个离开的民族。</STRING>
 		<STRING hash="188044348">这些土地看起来好像没有人居住，不过，小心外表是可以伪装的。</STRING>
-		<STRING hash="429571112">击败所有欧洲民族，而且还要征服比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="429571112">击败所有欧洲民族，而且还要征服比其他美洲原住民还要多的领域。</STRING>
 		<STRING hash="368655860">把所有欧洲民族赶出西半球，进而征服整个北美。</STRING>
 		<STRING hash="95257507">脱离英国，赢得独立。</STRING>
-		<STRING hash="722783695">要搜集 1000 单位的贡品，击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING>
+		<STRING hash="722783695">要搜集 1000 单位的贡品，击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING>
 		<STRING hash="308875030">游牧兵进驻在这个区域。我们必须消灭他们，才能取得这个领域。</STRING>
 		<STRING hash="185711519">一支佣兵部队已经在这块领域建立基地。</STRING>
 		<STRING hash="766033816">我们的斥候回报说这里除了一望无际的草原，什么都没有。这里可能是拉科塔人的首都，不过，目前我们还没有发现他们的行踪。</STRING>
@@ -327,7 +327,7 @@
 		<STRING hash="322361853">我们的斥候回报说这一带有许多山地。所以在这里一定可以发现金属。</STRING>
 		<STRING hash="386831796">阿兹特克的首都位于一座湖泊岛屿上。要到达那里会很困难。</STRING>
 		<STRING hash="210886783">我们预期在易落魁首都有许多湖泊和大森林。</STRING>
-		<STRING hash="374547051">只要有有人伤亡，这个地区的敌人一定会离开。</STRING>
+		<STRING hash="374547051">只要给当地居民造成一些伤亡，这个地区的敌人就一定会离开。</STRING>
 		<STRING hash="249417842">我们要征服这个领域，必须先掌握这个地区的贸易才行。</STRING>
 		<STRING hash="600349026">这片土地的传说把我们的士兵吓坏了。我们需要利用探索队，向他们说明没有什么好怕的，就算是敌人也一样。</STRING>
 		<STRING hash="148956043">我们征服这片土地应该没有问题。</STRING>
@@ -341,11 +341,11 @@
 		<STRING hash="341899127">有许多部族都想要居住在这个区域。很不幸，只有一个部族可以生存，希望那就是我们。</STRING>
 		<STRING hash="267240729">如果我们能在这里撑过冬天，我们就可以取得这个领域。</STRING>
 		<STRING hash="426091532">这块领域有许多部族。我们必须运用外交手段，否则他们会群起对抗我们。</STRING>
-		<STRING hash="458188594">其他人会认为这才是他们的土地，但他们并不属于这里。我们还是远离这种纷扰比较好。</STRING>
+		<STRING hash="458188594">其他人自以为这片土地属于他们，但他们根本不属于这里。让我们清除这些祸害。</STRING>
 		<STRING hash="449027498">这一区寒冷荒芜。如果我们发动这场战役，商队和商人会拒绝追随我们。</STRING>
 		<STRING hash="611026596">这个地区到处都是旧文明的废墟。我们必须一个一个找出来，利用取得的资源来建造更多部队。</STRING>
 		<STRING hash="693167166">葡萄牙人不是这个地区唯一的殖民者。法国人也在此建立殖民地。我们也许可以让他们互相残杀。</STRING>
-		<STRING hash="1412142879">英国人沿着贯穿此地的圣罗伦斯河两岸建造城市。在毫无选择的情况下，我们将发动战争，只要夺下中央的一座城市，就可以将他们的国家一分为二。</STRING>
+		<STRING hash="1412142879">英国人沿着贯穿这一地区的圣罗伦斯河修建了所有城市。战斗开始时，我们会被挤在角落里，但只要夺取中部的一座城市，就能将他们的国家一分为二。</STRING>
 		<STRING hash="334515659">我们如果选择与法国人在陆上对抗，首先要先将他们赶离海面才行。</STRING>
 		<STRING hash="627096621">西班牙人已经在这座主要的大岛建造首都。我们在发动攻击之前，最好先在周围较小的岛上做好万全准备。</STRING>
 		<STRING hash="377091621">当地有一个部族希望与我们结盟，一起对抗另外两个已经结盟的部族。</STRING>
@@ -380,7 +380,7 @@
 		<STRING hash="174869181">我们很欣赏这种态度。这省了我们不少时间。</STRING>
 		<STRING hash="331136588">虽然我们两国正在交战，但是我们愿意和解，前提是必须根据我们的条件。</STRING>
 		<STRING hash="66330431">这个交易很公平。我们接受。</STRING>
-		<STRING hash="116415955">这个交易很公平。不后悔!</STRING>
+		<STRING hash="116415955">这个交易对我们很有利。我们接受！</STRING>
 		<STRING hash="118441376">非常好，这样我们可以同意。</STRING>
 		<STRING hash="190001827">嗯，如果您已经竭尽所能，我们应该可以同意了。</STRING>
 		<STRING hash="45969555">蛮公平的。我们接受。</STRING>
@@ -402,14 +402,14 @@
 		<STRING hash="180435386">我们不会为了这样微薄的代价，放弃自由。</STRING>
 		<STRING hash="254456942">如果您要我们听从，就必须给我们更多。</STRING>
 		<STRING hash="192455612">我们伟大的民族绝不会向暴政低头。</STRING>
-		<STRING hash="311983950">为什么我们要同意和平? 我们从攻击可以获得更多。</STRING>
+		<STRING hash="311983950">我们为什么要同意议和? 贵国还有大量战利品等着我们夺取。</STRING>
 		<STRING hash="76264722">只有笨蛋才会签那份条约!</STRING>
-		<STRING hash="134021399">要靠您的全面破坏才会结束这场战争。</STRING>
+		<STRING hash="134021399">只有将您彻底消灭，这场战争才会结束。</STRING>
 		<STRING hash="243319077">我们才不像您那样软弱，这场战争我们将会坚持到最后。</STRING>
 		<STRING hash="174500249">看不出这对我们有任何利益。我们不接受。</STRING>
 		<STRING hash="368368031">我们这伟大国家不需要与贵国结盟。而且我们喜欢欺负弱小。</STRING>
 		<STRING hash="621766239">在不同的情况下，也许我们会考虑与您结盟。很抱歉，我们不能接受您的提议。</STRING>
-		<STRING hash="402888531">您的民族无法提供紧急的协助。我们没有多余时间浪费在您身上。</STRING>
+		<STRING hash="402888531">您的国家无法为任何人提供实质性的帮助。我们没时间浪费在您身上。</STRING>
 		<STRING hash="199708652">过几个回合后，当您有我们所感兴趣的条件时，再回来找我们。</STRING>
 		<STRING hash="164281389">您现在的条件不足以引起我们的兴趣。</STRING>
 		<STRING hash="87034289">这个交易比较符合我们的喜好。</STRING>
@@ -419,7 +419,7 @@
 		<STRING hash="152117702">您是来谈判，还是来浪费我们的时间?</STRING>
 		<STRING hash="207952698">我们厌烦您的把戏。提出像样的提议，不然就别谈了!</STRING>
 		<STRING hash="267330760">很明显地，你们不善于谈判。</STRING>
-		<STRING hash="439121001">我们并不是到此一游。如果这是您所能提出的最佳提议，也许我们应该结束协商。</STRING>
+		<STRING hash="439121001">我们不是来这里玩闹的。如果这就是您能提出的最好条件，也许我们应该结束谈判。</STRING>
 		<STRING hash="207300490">那是我生平中见过最差劲的提议。是不是在开玩笑?</STRING>
 		<STRING hash="263850033">您现在没有什么东西值得我们签订这份合约。</STRING>
 		<STRING hash="4991502">葡萄牙人</STRING>
@@ -450,12 +450,12 @@
 		<STRING hash="902615244">英国人为了报复我们的独立宣言，已经从英国调来援兵，而且已经成功拿下新英格兰。目前正朝我们的首都前进!</STRING>
 		<STRING hash="922555870">英国人为了报复我们的独立宣言，已经从英国调来援兵，而且已经成功拿下宾夕法尼亚州。目前正朝我们的首都前进!</STRING>
 		<STRING hash="825870719">英国人为了报复我们的独立宣言，已经从大不列颠调来援兵进攻宾夕法尼亚州。目前正朝我们的首都前进!</STRING>
-		<STRING hash="601191856">来自殖民地的消息: 我们已经受够了英国国王长期以来的压迫! 我们要开始为自由而战，就算牺牲生命，也再所不惜!</STRING>
+		<STRING hash="601191856">来自殖民地的消息: 我们已经受够了英国国王长期以来的压迫! 我们要开始为自由而战，就算牺牲生命，也在所不惜!</STRING>
 		<STRING hash="298924439">您们是一个值得尊敬的民族。希望有荣幸可以缔结为盟友。</STRING>
 		<STRING hash="3108466">自由!</STRING>
 		<STRING hash="632303537">您在一场重要战役中击败英国。这次胜利迫使他们回到谈判桌，他们必须承认您的独立!</STRING>
 		<STRING hash="9176178">返回地图</STRING>
-		<STRING hash="1144696980">您已经将英国人赶出北美洲。您的人民不必再忍受国王与议会的统治，也不必缴纳沉重的苛税了!</STRING>
+		<STRING hash="1144696980">您已经将英国人赶出北美洲。您的人民不必再忍受从未见过的国王和从未选举过的议会的统治，也不必缴纳沉重的苛税了!</STRING>
 		<STRING hash="777049793">陛下已经同意让殖民地独立; 皇恩浩荡，英格兰会割让宾夕法尼亚州的领域给您。</STRING>
 		<STRING hash="248560713">陛下已经同意让殖民地独立。</STRING>
 		<STRING hash="1118549121">来自美国人的消息: 我们不会再容忍欧洲人干涉美洲事务。从现在起，只要有任何欧洲国家再插手任何西半球自由国家的事务，我们一定会开始反击。</STRING>
@@ -466,14 +466,14 @@
 		<STRING hash="297956547">我们现在有能力建造强大的装甲舰! 在您的码头上就可以建造了。</STRING>
 	</FILE>
 	<FILE hash="9245240" name="newworld_init">
-		<STRING hash="429571112">击败所有欧洲民族，而且还要征服比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="429571112">击败所有欧洲民族，而且还要征服比其他美洲原住民还要多的领域。</STRING>
 		<STRING hash="368655860">把所有欧洲民族赶出西半球，进而征服整个北美。</STRING>
 		<STRING hash="95257507">脱离英国，赢得独立。</STRING>
-		<STRING hash="722783695">要搜集 1000 单位的贡品，击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING>
+		<STRING hash="722783695">要搜集 1000 单位的贡品，击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING>
 		<STRING hash="27832641">扩展您的影响力。</STRING>
 		<STRING hash="4819542">亨利八世</STRING>
 		<STRING hash="2556973">威廉一世</STRING>
-		<STRING hash="3756955">路易七世</STRING>
+		<STRING hash="3756955">路易十二世</STRING>
 		<STRING hash="2922765">卡洛斯一世</STRING>
 		<STRING hash="1628665">曼纽</STRING>
 		<STRING hash="4689080">亚当斯</STRING>
@@ -482,9 +482,9 @@
 		<STRING hash="5886146">黑蛇</STRING>
 		<STRING hash="6249804">阿塔胡亚尔帕</STRING>
 		<STRING hash="4646819">蒙特苏马</STRING>
-		<STRING hash="864913273">您没有权限与其他民族进行协商。等到您向英国宣战而取得独立时，王室才会为您决定您的外交政策。</STRING></FILE>
+		<STRING hash="864913273">您无权与其他国家展开谈判。在您向英国宣战、争取独立之前，您的外交政策都由英国王室决定。</STRING></FILE>
 	<FILE hash="19513138" name="newworld_post_turn">
-		<STRING hash="834710349">您的骑兵已经学会如何操作欧洲人引进的新式火药武器和重骑兵。您现在反而可以向欧洲人展示如何正确操作这些武器了!</STRING>
+		<STRING hash="834710349">您的战士已经学会如何操作欧洲人引进的新式火药武器和重骑兵。您现在反而可以向欧洲人展示如何正确操作这些武器了!</STRING>
 		<STRING hash="741157387">您的人民已经学会如何发展和利用这片新土地。人口上限从原先的 125 位增加到 200 位。</STRING>
 		<STRING hash="182800411">英国已经从我们这里拿走 $d0 单位的贡品作为税收。</STRING>
 		<STRING hash="190479324">您已经从美国人身上征收到 $d0 单位的贡品当作税金。</STRING>
@@ -492,20 +492,20 @@
 		<STRING hash="446788376">您在一场重要战役中击败英国。这次胜利已经迫使英国承认您的独立!</STRING>
 		<STRING hash="9176178">返回地图</STRING>
 		<STRING hash="463755215">您已经将英国赶出这块大陆。您不用再遵守他们的命令，或是缴纳沉重的苛税!</STRING>
-		<STRING hash="11590248">祖国胜利</STRING>
+		<STRING hash="11590248">原住民胜利</STRING>
 		<STRING hash="478703022">您已经击败渡海而来的侵略者，并且建立起您帝国，成为全美洲的霸主。</STRING>
 		<STRING hash="15284187">欧洲胜利</STRING>
 		<STRING hash="338355430">您已经搜集大量财富，现在掌控的领域比任何人还多。</STRING>
 		<STRING hash="15764642">美国胜利</STRING>
-		<STRING hash="287309160">您已经排除欧洲人在新世界的影响力并团结北美的势力。</STRING>
-		<STRING hash="429571112">击败所有欧洲民族，而且还要征服比其他美国原住民还要多的领域。</STRING>
+		<STRING hash="287309160">您已消除欧洲人在新世界的影响力，并统一了北美洲。</STRING>
+		<STRING hash="429571112">击败所有欧洲民族，而且还要征服比其他美洲原住民还要多的领域。</STRING>
 		<STRING hash="368655860">把所有欧洲民族赶出西半球，进而征服整个北美。</STRING>
 		<STRING hash="95257507">脱离英国，赢得独立。</STRING>
-		<STRING hash="728160946">至少要搜集 1000 单位的贡品，并击败所有美国原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING>
+		<STRING hash="728160946">至少要搜集 1000 单位的贡品，并击败所有美洲原住民，而且要征服比其他欧洲民族及美国人还要多的领域。</STRING>
 		<STRING hash="27832641">扩展您的影响力。</STRING>
 		<STRING hash="4819542">亨利八世</STRING>
 		<STRING hash="2556973">威廉一世</STRING>
-		<STRING hash="3756955">路易七世</STRING>
+		<STRING hash="3756955">路易十二世</STRING>
 		<STRING hash="2922765">卡洛斯一世</STRING>
 		<STRING hash="1628665">曼纽</STRING>
 		<STRING hash="4689080">亚当斯</STRING>
@@ -516,7 +516,7 @@
 		<STRING hash="4646819">蒙特苏马</STRING>
 		<STRING hash="297956547">我们现在有能力建造强大的装甲舰! 在您的码头上就可以建造了。</STRING>
 		<STRING hash="471697886">英国人已经被赶出这块大陆。您不用再遵守他们的命令，或是缴纳沉重的苛税!</STRING>
-		<STRING hash="898873284">您没有权限与其他民族进行协商。等到您向英国宣战而取得独立时，英国王室才会为您决定您的外交政策。</STRING></FILE>
+		<STRING hash="898873284">您无权与其他国家展开谈判。在您向英国宣战、争取独立之前，您的外交政策都由英国王室决定。</STRING></FILE>
 	<FILE hash="6263520" name="peruruntime">
 		<STRING hash="42056244">占领敌人首都。</STRING>
 	</FILE>
@@ -533,7 +533,7 @@
 		<STRING hash="92697837">从海盗战利品获得 100 个单位的财富!</STRING>
 		<STRING hash="9426960">海盗战利品!</STRING>
 		<STRING hash="178319532">您已经在毁坏的港口内发现航海图!</STRING>
-		<STRING hash="175913881">航海图带领我们探险地图!</STRING>
+		<STRING hash="175913881">这些航海图揭示了地图上尚未探索的区域！</STRING>
 		<STRING hash="9919935">航海图!</STRING>
 	</FILE>
 	<FILE hash="12064034" name="settlersruntime">
@@ -551,18 +551,18 @@
 		<STRING hash="61131098">占领所有敌方城市。</STRING>
 	</FILE>
 	<FILE hash="12764478" name="warpartyruntime">
-		<STRING hash="48508129">消灭 $d0 个以上的敌人单位。</STRING>
-		<STRING hash="44410985">消灭 $d0 个以上的敌人单位。</STRING>
-		<STRING hash="194718203">当地村庄的骑兵已加入成为您的作战部队!</STRING>
-		<STRING hash="240303450">大家听说了您的袭击行动。许多当地的骑兵已经加入您的行列。</STRING>
-		<STRING hash="367170184">该地区的年轻骑兵已经加入您的作战部队! 他们希望能在战役中证明自己的能力。</STRING>
+		<STRING hash="48508129">还需消灭 $d0 个敌方单位。</STRING>
+		<STRING hash="44410985">还需消灭 $d0 个敌方单位。</STRING>
+		<STRING hash="194718203">当地村庄的战士已加入成为您的作战部队!</STRING>
+		<STRING hash="240303450">大家听说了您的袭击行动。许多当地的战士已经加入您的行列。</STRING>
+		<STRING hash="367170184">该地区的年轻战士已经加入您的作战部队! 他们希望能在战役中证明自己的能力。</STRING>
 	</FILE>
 	<FILE hash="11302140" name="yucatanruntime">
 		<STRING hash="61131098">占领所有敌方城市。</STRING>
 	</FILE>
 	<FILE hash="7568926" name="yukonruntime">
 		<STRING hash="1052464871">我们已经联络上一群育空商人。他们可以克服这种寒冷的气候，而且愿意以 15 单位的贡品 (您有 $NUM0 单位的贡品) 的收费来提供服务。</STRING>
-		<STRING hash="858044">好的</STRING>
+		<STRING hash="858044">确定</STRING>
 		<STRING hash="135770">否</STRING>
 		<STRING hash="187631059">我们现在有能力在自己的市场训练育空商人。</STRING>
 		<STRING hash="808279543">我们已经联系一群商人，也就是育空商人。他们可以克服这种寒冷的气候，愿意以 500 个单位的食物价格来提供服务。</STRING>

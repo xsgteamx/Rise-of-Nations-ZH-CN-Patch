@@ -56,14 +56,14 @@
 		<STRING hash="180435386">我们不会为了这样微薄的代价，放弃自由。</STRING>
 		<STRING hash="254456942">如果您要我们听从，就必须给我们更多。</STRING>
 		<STRING hash="192455612">我们伟大的民族绝不会向暴政低头。</STRING>
-		<STRING hash="311983950">为什么我们要同意和平? 我们从攻击可以获得更多。</STRING>
+		<STRING hash="311983950">我们为什么要同意议和? 贵国还有大量战利品等着我们夺取。</STRING>
 		<STRING hash="76264722">只有笨蛋才会签那份条约!</STRING>
-		<STRING hash="134021399">要靠您的全面破坏才会结束这场战争。</STRING>
+		<STRING hash="134021399">只有将你们彻底消灭，这场战争才会结束。</STRING>
 		<STRING hash="243319077">我们才不像您那样软弱，这场战争我们将会坚持到最后。</STRING>
 		<STRING hash="174500249">看不出这对我们有任何利益。我们不接受。</STRING>
 		<STRING hash="368368031">我们伟大的民族不需要和您们这种人结盟。而且，我们就是喜欢欺侮弱小。</STRING>
 		<STRING hash="621766239">在不同的情况下，也许我们会考虑与您结盟。很抱歉，我们不能接受您的提议。</STRING>
-		<STRING hash="402888531">您的民族无法提供紧急的协助。我们没有多余时间浪费在您身上。</STRING>
+		<STRING hash="402888531">您的国家无法为任何人提供实质性的帮助。我们没时间浪费在您身上。</STRING>
 		<STRING hash="199708652">过几个回合后，当您有我们所感兴趣的条件时，再回来找我们。</STRING>
 		<STRING hash="164281389">您现在的条件不足以引起我们的兴趣。</STRING>
 		<STRING hash="87034289">这个交易比较符合我们的喜好。</STRING>
@@ -74,7 +74,7 @@
 		<STRING hash="152117702">您是来谈判，还是来浪费我们的时间?</STRING>
 		<STRING hash="207952698">我们厌烦您的把戏。提出像样的提议，不然就别谈了!</STRING>
 		<STRING hash="267330760">很明显地，贵国不善于谈判。</STRING>
-		<STRING hash="439121001">我们并不是到此一游。如果这是您所能提出的最佳提议，也许我们应该结束协商。</STRING>
+		<STRING hash="439121001">我们不是来这里玩闹的。如果这就是您能提出的最好条件，也许我们应该结束谈判。</STRING>
 		<STRING hash="207300490">那是我生平中见过最差劲的提议。是不是在开玩笑?</STRING>
 	</FILE>
 	<FILE hash="16135664" name="liberationruntime">
@@ -92,7 +92,7 @@
 		<STRING hash="79888767">还有 $d0 个紫色游牧兵。</STRING>
 		<STRING hash="90841215">还有 $d0 个紫色游牧兵。</STRING>
 		<STRING hash="74130498">还有 $d0 个绿色游牧兵。</STRING>
-		<STRING hash="243983336">游牧兵对$s0开火了! 市中心已被铲为平地!</STRING>
+		<STRING hash="243983336">游牧兵放火焚烧了$s0！市中心已被夷为平地！</STRING>
 		<STRING hash="8065277">补给车</STRING></FILE>
 	<FILE hash="6406208" name="offruntime1">
 		<STRING hash="148721292">敌人的将军发动了突袭!</STRING>
@@ -100,7 +100,7 @@
 		<STRING hash="111310636">敌人发动了反击!</STRING>
 	</FILE>
 	<FILE hash="10488957" name="pillageruntime">
-		<STRING hash="289242122">提示: 将敌军的健康值减半以占领敌军的生产建筑物。</STRING>
+		<STRING hash="289242122">提示：将敌方军事生产建筑的生命值削减一半，即可占领它们。</STRING>
 		<STRING hash="203159043">提示: 破坏敌人的建筑物或寻找废墟，以取得资源。</STRING>
 	</FILE>
 	<FILE hash="12876998" name="liberationsetup">

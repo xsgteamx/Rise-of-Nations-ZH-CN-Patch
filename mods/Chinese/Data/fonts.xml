@@ -14,54 +14,54 @@
 	<FONTS>
 		<CODEPAGE name="Default" use_ea_line_breaking="1">
 			<RESOLUTION res="1280">
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="22" style="B"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="18" style="B"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="18" style=""/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="16" style="B"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="16" style="I"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="16" style="BI"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="B"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="OB"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="OBS"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style="U"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="BI"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style="I"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style=""/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="B"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="B"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style=""/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style=""/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="22" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="18" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="18" style=""/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="16" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="16" style="I"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="16" style="BI"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="OB"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="OBS"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="14" style="U"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="BI"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="14" style="I"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="14" style=""/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="12" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="12" style=""/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="14" style=""/>
 			</RESOLUTION>
 			<RESOLUTION res="1024">
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="22" style="B"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="18" style="B"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="B"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="14" style="I"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="14" style="BI"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="OB"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="OBS"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style="U"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="B"/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="10" style="B"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="10" style=""/>
-				<FONT filename="Data\Fonts\msjhbd.ttc" name="微軟正黑體" size="12" style="BI"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style="I"/>
-				<FONT filename="Data\Fonts\msjh.ttc" name="微軟正黑體" size="12" style=""/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="22" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="18" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="14" style="I"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="14" style="BI"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="12" style="OB"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="12" style="OBS"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="12" style="U"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="12" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="10" style="B"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="10" style=""/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Bold.otf" name="Noto Sans CJK SC" size="12" style="BI"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="12" style="I"/>
+				<FONT filename="Data\Fonts\NotoSansCJKsc-Regular.otf" name="Noto Sans CJK SC" size="12" style=""/>
 			</RESOLUTION>
 			<!--  <RESOLUTION res="800">
-        <FONT name="微軟正黑體" size="22" tex_size="18" style="B"/>
-        <FONT name="微軟正黑體" size="18" tex_size="15" style="B"/>
-        <FONT name="微軟正黑體" size="14" tex_size="12" style="B"/>
-        <FONT name="微軟正黑體" size="14" tex_size="12" style="I"/>
-        <FONT name="微軟正黑體" size="14" tex_size="12" style="BI"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style="OB"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style="OBS"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style="U"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style="B"/>
-        <FONT name="微軟正黑體" size="10" tex_size="8" style="B"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style="BI"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style="I"/>
-        <FONT name="微軟正黑體" size="12" tex_size="10" style=""/>
+        <FONT name="Noto Sans CJK SC" size="22" tex_size="18" style="B"/>
+        <FONT name="Noto Sans CJK SC" size="18" tex_size="15" style="B"/>
+        <FONT name="Noto Sans CJK SC" size="14" tex_size="12" style="B"/>
+        <FONT name="Noto Sans CJK SC" size="14" tex_size="12" style="I"/>
+        <FONT name="Noto Sans CJK SC" size="14" tex_size="12" style="BI"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style="OB"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style="OBS"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style="U"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style="B"/>
+        <FONT name="Noto Sans CJK SC" size="10" tex_size="8" style="B"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style="BI"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style="I"/>
+        <FONT name="Noto Sans CJK SC" size="12" tex_size="10" style=""/>
       </RESOLUTION>
       -->
 		</CODEPAGE>

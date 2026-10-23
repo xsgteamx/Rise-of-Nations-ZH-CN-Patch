@@ -176,8 +176,7 @@
 			<STRING>{蒙古人拥有游牧的力量。}
          <BULLET/>每次建造一座新的马厩或车厂，就可免费获得射击骑兵 (游戏一开始有 $NUMBER5 名，具备 2 项军事研究时可得 $NUMBER3 名，具备 3 项军事研究时可得 $NUMBER7 名。)
       <BULLET/>生产骑乘单位的成本便宜 $NUMBER0% 且速度加快 $NUMBER1%。
-         <BULLET/>每多控制 $NUMBER4% 的世界大陆，所额外获得的食物量是所有民族食物量的一半。
-      <BULLET/>各单位的损耗率降低 $NUMBER2%。还可以有免费的粮秣搜索、补给或后勤学研究。
+         <BULLET/>每控制世界陆地面积的 $NUMBER4%，食物收入增加 1（再乘以国家数量的一半）。<BULLET/>各单位的损耗率降低 $NUMBER2%。还可以有免费的粮秣搜索、补给或后勤学研究。
       </STRING>
 		</ENTRY>
 		<ENTRY name="TRIBE18">
@@ -208,8 +207,7 @@
          <BULLET/>可免费成立在议会里的政府。每所新大学还可免费获得 $NUMBER2 名学者。
          <BULLET/>飞机和航空母舰的价格便宜 $NUMBER0%。从现代开始，每个空军基地就可得到 $NUMBER1 架免费的轰炸机 (这些免费的轰炸机都不计入递增成本)。
       
-      <BULLET/>军事单位的升级成本便宜 20%。每个军营单位可获得食物、木材、金属和财富各 +2 单位 (这些单位处于驻守状态时例外) 。
-      <BULLET/>开始征服世界战役时，可使用建造奇迹加分卡。</STRING>
+      <BULLET/>军事单位的升级成本便宜 20%。每个军营单位可获得食物、木材、金属和财富各 +3 单位 (这些单位处于驻守状态时例外) 。<BULLET/>开始征服世界战役时，可使用建造奇迹加分卡。</STRING>
 		</ENTRY>
 		<ENTRY name="TRIBE21">
 			<STRING>{印度人拥有君权的力量。}
@@ -340,7 +338,7 @@
 		<SETUPCHECKS>
 			<ENTRY name="SETUPCHECK0">
 				<STRING>
-{储存至设定档}: 选取此方块来储存您的设定档。目前的设定值将会成为下次游戏的默认值。
+{储存至玩家档案}: 选取此方块来储存您的玩家档案。目前的设定值将会成为下次游戏的默认值。
 </STRING>
 			</ENTRY>
 			<ENTRY name="SETUPCHECK1">
@@ -1930,24 +1928,16 @@
 </STRING>
 			</ENTRY>
 			<ENTRY name="POPWIN0">
-				<STRING>
-最先控制世界领域 30% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。
-</STRING>
+				<STRING>最先控制世界领域 30% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="POPWIN1">
-				<STRING>
-最先控制世界领域 35% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。
-</STRING>
+				<STRING>最先控制世界领域 35% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="POPWIN2">
-				<STRING>
-最先控制世界领域 40% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。
-</STRING>
+				<STRING>最先控制世界领域 40% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="POPWIN3">
-				<STRING>
-最先控制世界领域 45% 的玩家或团队获胜。这个设定只适用于 2 个玩家或团队以上的游戏。
-</STRING>
+				<STRING>最先控制世界领域 45% 的玩家或团队获胜。这个设定只适用于 玩家或队伍数量超过 2 个的游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="POPWIN4">
 				<STRING>
@@ -2301,7 +2291,7 @@
 		<BUTTON>
 			<ENTRY name="CANCEL">
 				<STRING>
-按一下放弃此游戏并返回上一个功能表。
+按一下放弃此游戏并返回上一个菜单。
 </STRING>
 			</ENTRY>
 			<ENTRY name="START">
@@ -2310,9 +2300,7 @@
 </STRING>
 			</ENTRY>
 			<ENTRY name="OPTIONS">
-				<STRING>
-按一下可修改您的玩家设定档与选项。
-</STRING>
+				<STRING>按一下可修改您的玩家档案与选项。</STRING>
 			</ENTRY>
 			<ENTRY name="RESET">
 				<STRING>
@@ -2336,7 +2324,9 @@
 			<ENTRY name="INVITE">
 				<STRING>按一下邀请你的朋友。</STRING>
 			</ENTRY>
-			<ENTRY name="OPTIONS_SOLO"><STRING>按一下可修改您的玩家设定档与选项。</STRING></ENTRY><ENTRY name="RESET_SOLO"><STRING>按一下可以将所有设定值重设为默认值。</STRING></ENTRY></BUTTON>
+			<ENTRY name="OPTIONS_SOLO"><STRING>按一下可修改您的玩家档案与选项。</STRING></ENTRY><ENTRY name="RESET_SOLO"><STRING>按一下可以将所有设定值重设为默认值。</STRING></ENTRY>
+			<ENTRY name="APPLY"><STRING>按一下应用尚未生效的游戏及玩家设置。待应用的更改以透明背景标记；没有待应用的更改时，此按钮不可用。</STRING></ENTRY>
+		</BUTTON>
 		<EDITBOX>
 			<ENTRY name="CHAT_SEND">
 				<STRING>您可在这个空格输入聊天消息，然后传送给游戏里的其他玩家。</STRING>
@@ -2400,7 +2390,7 @@
 </STRING>
 			</ENTRY>
 			<ENTRY name="BACK">
-				<STRING>按一下可返回上一个功能表。
+				<STRING>按一下可返回上一个菜单。
 </STRING>
 			</ENTRY>
 		</BUTTONS>
@@ -8142,7 +8132,7 @@
 		</ENTRY>
 		<ENTRY name="CONQUISTADOR">
 			<STRING>
-				<BULLET/> 西班牙的独特 {射击骑兵}，火药时代 #ICON31 - 快速的火药武装突击兵，能在移动时射击; 攻击力比其他射击骑兵强大。</STRING>
+				<BULLET/>西班牙的独特 {射击骑兵}，火药时代 #ICON30 - 快速的火药武装突击兵，能在移动时射击; 攻击力比其他射击骑兵强大。</STRING>
 		</ENTRY>
 		<ENTRY name="ECONQUISTADOR">
 			<STRING>
@@ -8913,7 +8903,7 @@
 		</ENTRY>
 		<ENTRY name="STATRANGE">
 			<STRING>
-射程显示一个单位或建筑能够射击武器的距离。在这个图示上按住滑鼠键，就可以在主要地图看见选择的单位或建筑射程的影像表示。
+射程显示一个单位或建筑能够射击武器的距离。在这个图示上按住鼠标键，就可以在主要地图看见选择的单位或建筑射程的影像表示。
 </STRING>
 		</ENTRY>
 		<ENTRY name="STATCLOAK">
@@ -8960,9 +8950,7 @@
 </STRING>
 		</ENTRY>
 		<ENTRY name="STATSUPPLIES">
-			<STRING>
-补给单位携带有限的补给物资; 每次因为受到损害而修复 1 点生命点数，都会耗费携带的补给物资。当补给物资耗尽以后，补给单位就会被消灭。
-</STRING>
+			<STRING>补给单位携带的补给物资有限，每修复 1 点生命值就会消耗补给。补给耗尽后，该单位就会消失。</STRING>
 		</ENTRY>
 		<ENTRY name="STATDECOY">
 			<STRING>
@@ -9288,7 +9276,7 @@
 		</ENTRY>
 		<ENTRY name="MENU">
 			<STRING>
-在游戏功能表，您可以{储存}和{载入}游戏、{放弃}或{退出}游戏，或者调整您的喜好设定。
+在游戏菜单，您可以{储存}和{载入}游戏、{放弃}或{退出}游戏，或者调整您的喜好设定。
 </STRING>
 			<TRANSLATION/>
 		</ENTRY>
@@ -10269,13 +10257,13 @@
 	<TIPS num="73">
 		<ENTRY name="T0">
 			<STRING>
-按一下﹝下个提示﹞可以切换可用的提示。按一下﹝上个提示﹞可以回到之前的提示。您也可以先选择﹝功能表﹞，再选择﹝显示提示﹞来启动这项功能。
+按一下﹝下个提示﹞可以切换可用的提示。按一下﹝上个提示﹞可以回到之前的提示。您也可以先选择﹝菜单﹞，再选择﹝显示提示﹞来启动这项功能。
 </STRING>
 		</ENTRY>
 		<ENTRY name="T1">
 			<STRING>
 
-用滑鼠左键，拖曳方块包围单位群，就可选取一群单位。按右键可以移动选取单位，按住右键的状况下，再按左键则可设定其阵型。</STRING>
+用鼠标左键，拖曳方块包围单位群，就可选取一群单位。按右键可以移动选取单位，按住右键的状况下，再按左键则可设定其阵型。</STRING>
 		</ENTRY>
 		<ENTRY name="T2">
 			<STRING>
@@ -10316,7 +10304,7 @@
 		</ENTRY>
 		<ENTRY name="T10">
 			<STRING>
-如果您想调整游戏选项及喜好设定，请按一下位于画面右上角的{功能表}按钮 (或按一下 {F10}) 再选择{选项}。您也可以调整音乐、音效及视讯设定。
+如果您想调整游戏选项及喜好设定，请按一下位于画面右上角的{菜单}按钮 (或按一下 {F10}) 再选择{选项}。您也可以调整音乐、音效及视讯设定。
 </STRING>
 		</ENTRY>
 		<ENTRY name="T11">
@@ -10358,7 +10346,7 @@
 		</ENTRY>
 		<ENTRY name="T19">
 			<STRING>
-若要利用不同等级的细节，请转动滑鼠滚轮来缩放视野。使用 PAGE UP 及 PAGE DOWN 键也可以缩放视野。
+若要利用不同等级的细节，请转动鼠标滚轮来缩放视野。使用 PAGE UP 及 PAGE DOWN 键也可以缩放视野。
 </STRING>
 		</ENTRY>
 		<ENTRY name="T20">
@@ -10518,7 +10506,7 @@
 			<STRING>若要记忆视界，请在未选择单位或建筑时，按一下 CTRL+ F1。按一下 F1 即可随时回到画面视界。按 CTRL+F1-F8 及 0-9 就能储存不同的视界。</STRING>
 		</ENTRY>
 		<ENTRY name="T54">
-			<STRING>按一下默认快速键 {L} 可以选择一座图书馆。快速按两下会使图书馆置中，快速按三下会放大。重复按 {L} 而不快速按两下会在所有图书馆之间切换。其他建筑也有类似的快速键，例如大学用 {U}、市场用 {N}，而城市用 {C}。
+			<STRING>按一下默认快捷键 {L} 可以选择一座图书馆。快速按两下会使图书馆置中，快速按三下会放大。重复按 {L} 而不快速按两下会在所有图书馆之间切换。其他建筑也有类似的快捷键，例如大学用 {U}、市场用 {N}，而城市用 {C}。
 </STRING>
 		</ENTRY>
 		<ENTRY name="T55">
@@ -10531,7 +10519,7 @@
 		</ENTRY>
 		<ENTRY name="T57">
 			<STRING>
-若要控制您所选取部队的阵式，请在指定前往的位置按住右键不放，然后在仍然按住滑鼠右键时，按左键选择阵式。您也可以在按住滑鼠右键时拖曳，改变阵式面对的方向。在此时转动滑鼠滚轮，会伸长或压缩阵式; 使用方向键则可以微调阵式的位置。
+若要控制您所选取部队的阵式，请在指定前往的位置按住右键不放，然后在仍然按住鼠标右键时，按左键选择阵式。您也可以在按住鼠标右键时拖曳，改变阵式面对的方向。在此时转动鼠标滚轮，会伸长或压缩阵式; 使用方向键则可以微调阵式的位置。
        </STRING>
 		</ENTRY>
 		<ENTRY name="T58">
@@ -10624,7 +10612,7 @@
 			<STRING>按一下可以开始多人游戏。您可以在 Internet 上，或透过区域网路进行《国家的崛起》游戏。</STRING>
 		</ENTRY>
 		<ENTRY name="options">
-			<STRING>按一下可以使用玩家设定档及选项。</STRING>
+			<STRING>按一下可以使用玩家档案及选项。</STRING>
 		</ENTRY>
 		<ENTRY name="options_menu">
 			<STRING>按一下可以使用剧情编辑器与其他功能。</STRING>
@@ -10664,7 +10652,7 @@
 			<STRING>按一下可以播放已记录的游戏。</STRING>
 		</ENTRY>
 		<ENTRY name="back">
-			<STRING>按一下可以返回主功能表。</STRING>
+			<STRING>按一下可以返回主菜单。</STRING>
 		</ENTRY>
 		<!--Multi Menu-->
 		<ENTRY name="steamqm">
@@ -10686,11 +10674,11 @@
 			<STRING>按一下可以播放已记录的游戏。</STRING>
 		</ENTRY>
 		<ENTRY name="back">
-			<STRING>按一下可以返回主功能表。</STRING>
+			<STRING>按一下可以返回主菜单。</STRING>
 		</ENTRY>
 		<!--Options Menu-->
 		<ENTRY name="options">
-			<STRING>按一下可以设定喜好设定、重新对应快速键，并管理您的玩家设定档。</STRING>
+			<STRING>按一下可以设定喜好设定、重新对应快捷键，并管理您的玩家档案。</STRING>
 		</ENTRY>
 		<ENTRY name="editor">
 			<STRING>按一下可以进入剧情编辑器，这项工具能让您建立并编辑自定义的剧情。</STRING>
@@ -10714,7 +10702,7 @@
 			<STRING>按一下可以显示目前的「每日消息」，指出开发期间的最新改变。</STRING>
 		</ENTRY>
 		<ENTRY name="back">
-			<STRING>按一下可以返回主功能表。</STRING>
+			<STRING>按一下可以返回主菜单。</STRING>
 		</ENTRY>
 	</TOPMENU>
 	<CANCELS>
@@ -11245,7 +11233,7 @@
    </STRING>
 	</ENTRY>
 	<ENTRY name="DRAGEDITOR2">
-		<STRING>按滑鼠右键可以设定起始顺序。按 SHIFT 同时按右键，可以增加其他传送点。按 CTRL 同时按右键，可以将单位移动到新位置。当按住滑鼠右键不放，同时按一下左键可以设定阵式，滚动滑鼠可以设定阵式的宽度。
+		<STRING>按鼠标右键可以设定起始顺序。按 SHIFT 同时按右键，可以增加其他传送点。按 CTRL 同时按右键，可以将单位移动到新位置。当按住鼠标右键不放，同时按一下左键可以设定阵式，滚动鼠标可以设定阵式的宽度。
 
    </STRING>
 	</ENTRY>
@@ -11316,7 +11304,7 @@
 
 
 
-      您也可以用滑鼠拖曳以画出一个箭头。
+      您也可以用鼠标拖曳以画出一个箭头。
 
 
 
@@ -11345,16 +11333,16 @@
 				<STRING>按一下可以取消设定值的变更。</STRING>
 			</ENTRY>
 			<ENTRY name="ASSIGN">
-				<STRING>按一下可以将上面方块里列出的快速键，指定给左边清单里所选择的功能。</STRING>
+				<STRING>按一下可以将上面方块里列出的快捷键，指定给左边清单里所选择的功能。</STRING>
 			</ENTRY>
 			<ENTRY name="REMOVE">
-				<STRING>按一下可以删除这个键盘快速键。</STRING>
+				<STRING>按一下可以删除这个键盘快捷键。</STRING>
 			</ENTRY>
 			<ENTRY name="IMPORT">
-				<STRING>汇入键盘快速键清单。</STRING>
+				<STRING>汇入键盘快捷键清单。</STRING>
 			</ENTRY>
 			<ENTRY name="EXPORT">
-				<STRING>汇出键盘快速键，如此您便可以将它们转移到另一部机器。</STRING>
+				<STRING>汇出键盘快捷键，如此您便可以将它们转移到另一部机器。</STRING>
 			</ENTRY>
 			<ENTRY name="PLUS">
 				<STRING>按一下可以将这项图形元件移到清单上方。</STRING>
@@ -11366,36 +11354,38 @@
 				<STRING>按一下可以自动决定所有图形元件的效能等级。</STRING>
 			</ENTRY>
 			<ENTRY name="ALL_HIGH">
-				<STRING>按一下可以让所有图形元件皆使用的高效能特色。</STRING>
+				<STRING>点击将所有画面效果设为高质量。</STRING>
 			</ENTRY>
 			<ENTRY name="ALL_LOW">
-				<STRING>按一下可以让所有图形元件皆使用低效能特色。</STRING>
+				<STRING>点击将所有画面效果设为低质量。</STRING>
 			</ENTRY>
 			<ENTRY name="ALL_ON">
-				<STRING>按一下可以开启所有图形元件。</STRING>
+				<STRING>点击开启所有画面效果。</STRING>
 			</ENTRY>
 			<ENTRY name="ALL_OFF">
 				<STRING>按一下可以关闭所有图形元件。</STRING>
 			</ENTRY>
 			<ENTRY name="DELETE">
-				<STRING>按一下可以删除选择的玩家设定档。</STRING>
+				<STRING>按一下可以删除选择的玩家档案。</STRING>
 			</ENTRY>
 			<ENTRY name="NEW">
-				<STRING>按一下可以建立新的玩家设定档。</STRING>
+				<STRING>按一下可以建立新的玩家档案。</STRING>
 			</ENTRY>
 			<ENTRY name="RENAME">
-				<STRING>按一下可以重新命名选择的玩家设定档。</STRING>
+				<STRING>按一下可以重新命名选择的玩家档案。</STRING>
 			</ENTRY>
 			<ENTRY name="ADD_NAME">
-				<STRING>按一下可以增加新的玩家昵称。您可以使用多个昵称来进行游戏，同时仍保持同一个玩家设定档。</STRING>
+				<STRING>按一下可以增加新的玩家昵称。您可以使用多个昵称来进行游戏，同时仍保持同一个玩家档案。</STRING>
 			</ENTRY>
 			<ENTRY name="DELETE_NAME">
 				<STRING>按一下可以删除选择的玩家昵称。</STRING>
 			</ENTRY>
 			<ENTRY name="ACCEPT">
-				<STRING>按一下可以接受解析度变更。</STRING>
+				<STRING>按一下可以接受分辨率变更。</STRING>
 			</ENTRY>
-			<ENTRY name="RENDER_ON"><STRING>Text needed for OPTIONSWIN/BUTTON/RENDER_ON in help.xml!</STRING></ENTRY></BUTTON>
+			<ENTRY name="RENDER_ON"><STRING>点击开启所有画面效果。</STRING></ENTRY>
+			<ENTRY name="RENDER_OFF"><STRING>按一下关闭所有图形组件。</STRING></ENTRY>
+		</BUTTON>
 		<CHECKBOX>
 			<ENTRY name="SHOW_UNITS_BEHIND">
 				<STRING>选取此方块，可以加亮强调藏匿在建筑或树木后方的单位。潜藏的单位会以本身团队的颜色来显示。</STRING>
@@ -11416,7 +11406,7 @@
 				<STRING>按一下可以控制闲散市民所寻找的工作类型，或让他们维持闲散状态。</STRING>
 			</ENTRY>
 			<ENTRY name="CRAFT_AS_GROUP">
-				<STRING>选取此方块后，当特殊能力用户 (如间谍) 的群组被指定目标时，整个群组都会使用特殊能力 (如收买)。尽管整个群组都要执行这项任务，只有一个单位能在任务成功后使用特殊能力。如果未选取此方块，则每次群组被指定目标时，只有一名特殊功能用户会试图使用特殊能力。</STRING>
+				<STRING>勾选后，指定目标时，编组中的技能单位（如间谍）会一起尝试使用特殊能力（如贿赂），成功时只消耗其中一个单位的技能值。不勾选时，每次指定目标只由编组中的一个单位尝试使用技能。</STRING>
 			</ENTRY>
 			<ENTRY name="SHOW_GAME_CLOCK">
 				<STRING>选取此方块可以在介面上显示游戏时钟。</STRING>
@@ -11431,7 +11421,7 @@
 				<STRING>选取此方块可以使攻城与炮兵单位在闲散 5 秒钟后自行部署 (机枪会在 1 秒后部署)。如果没有选取，装载的攻城与炮兵单位就会在被命令部署前，一直维持装载状态。</STRING>
 			</ENTRY>
 			<ENTRY name="AUTO_CAST">
-				<STRING>选取此方块可以使特殊功能用户 (如间谍与斥候) ，在闲散时自动使用一些特殊能力。</STRING>
+				<STRING>勾选后，间谍、斥候等拥有特殊能力的单位会在空闲时自动使用部分技能。</STRING>
 			</ENTRY>
 			<ENTRY name="DRAG_MILITARY">
 				<STRING>选取此方块可以使拖曳选择偏重军事单位: 如果在拖曳方块里有任何军事单位，所有的非军事单位 (如市民、学者、商队) 会因筛选而不被选取。如果没有选取，则会选取所有拖曳方块内的单位。</STRING>
@@ -11452,28 +11442,28 @@
 				<STRING>这里的方块决定使用那些图形元件，以及是否使用高效能或低效能图样 (或自动决定效能等级)。高效能图样需要较快的电脑系统及显卡。</STRING>
 			</ENTRY>
 			<ENTRY name="LOW">
-				<STRING>设定为低效能的画面元件会使用低效能图样来加快图形转换。</STRING>
+				<STRING>设为低质量时，会减少画面细节以提高渲染速度。</STRING>
 			</ENTRY>
 			<ENTRY name="HIGH">
-				<STRING>设定为高效能的画面元件会使用高效能图样来呈现最佳图形细节。</STRING>
+				<STRING>设为高质量时，会显示更多画面细节。</STRING>
 			</ENTRY>
 			<ENTRY name="ALLOW_TAUNTS">
 				<STRING>选取此方块让玩家能使用音效「嘲讽」，在聊天方块里键入号码就可以叫出预先录制的音效。</STRING>
 			</ENTRY>
 			<ENTRY name="ALLOW_IN_GAME_MUSIC">
-				<STRING>选取此方块就可在游戏进行时听到音乐。若未选取此方块，则音乐只会在主功能表中播放。玩家的系统若不够快，不选取此方块则会有较快的游戏效能。</STRING>
+				<STRING>勾选后，将在游戏过程中播放音乐。配置较低的电脑可取消勾选以提高运行速度。</STRING>
 			</ENTRY>
 			<ENTRY name="BUILDING_STANCES">
-				<STRING>按一下可以设定所有建筑所生产单位的默认建造态势。请注意: 您也可以针对个别建筑来作不同的默认态势。</STRING>
+				<STRING>设置所有建筑新训练单位的默认姿态。您也可以为单座建筑设置不同的默认姿态。</STRING>
 			</ENTRY>
 			<ENTRY name="ALWAYS_COMBINE">
-				<STRING>选取此方块，将在众多单位无法同时以全形显示时，同类单位的单位图示，合并成单一图示 (并用一个号码表示单位数量)。如果没有选取此方块，单位图示只在必须配合有限画面空间时才会合并。</STRING>
+				<STRING>勾选后，当单位图标无法以原始大小全部显示时，同类单位会合并为一个图标，并用数字标示数量。不勾选时，图标会缩小以适应可用空间。</STRING>
 			</ENTRY>
 			<ENTRY name="AUTO_ALL_CLEAR">
 				<STRING>选取此方块，可让因全城警备而躲藏的市民，在状况安全后自动返回工作。如果没有选取此方块，在明确发出解除警备的讯号之前，他们会一直待在建筑里面。</STRING>
 			</ENTRY>
 			<ENTRY name="RECORD_GAMES">
-				<STRING>选取此方块可记录游戏，并能在稍后播放。若要在稍后播放游戏，请在单人或多人游戏功能表选择「记录游戏」。</STRING>
+				<STRING>选取此方块可记录游戏，并能在稍后播放。若要在稍后播放游戏，请在单人或多人游戏菜单选择「记录游戏」。</STRING>
 			</ENTRY>
 			<ENTRY name="DISABLE_CROSS_NETWORK_PLAY">
 				<STRING>选取此方块可停用跨网路游玩功能。</STRING>
@@ -11557,19 +11547,19 @@
 				<STRING>选取此方块会收到玩家的首都迁移的通知。</STRING>
 			</ENTRY>
 			<ENTRY name="ALLOW_MAIN_MENU_MUSIC">
-				<STRING>选取此方块可在主功能表中听到音乐。</STRING>
+				<STRING>选取此方块可在主菜单中听到音乐。</STRING>
 			</ENTRY>
 			<ENTRY name="DISABLE_AUDIO_DUCKING">
-				<STRING>选取此方块可关闭windows音效。</STRING>
+				<STRING>勾选后，禁止 Windows 在检测到通信活动时自动降低游戏音量。</STRING>
 			</ENTRY>
 			<ENTRY name="SECTION_ONOFF">
 				<STRING>选取此方块可决定使用那些图形元件，以及是否使用高效能或低效能图样 (或自动决定效能等级)。高效能图样需要较快的电脑系统及显卡。</STRING>
 			</ENTRY>
 			<ENTRY name="LOW_ONOFF">
-				<STRING>选取此方块可使用低效能图样来加快图形转换。</STRING>
+				<STRING>设为关闭时，将禁用这项画面效果，提高渲染速度。</STRING>
 			</ENTRY>
 			<ENTRY name="HIGH_ONOFF">
-				<STRING>选取此方块可用高效能图样来呈现最佳图形细节。</STRING>
+				<STRING>设为开启时，将启用这项画面效果，增加画面细节。</STRING>
 			</ENTRY>
 			<ENTRY name="ANTI-ALIASING">
 				<STRING>选取此方块可开启反锯齿。</STRING>
@@ -11580,22 +11570,22 @@
 				<STRING>﹝游戏﹞索引标签控制单位与建筑的行为，并让您设定一些偏好的介面设定。</STRING>
 			</ENTRY>
 			<ENTRY name="HOTKEYS">
-				<STRING>﹝快速键﹞索引标签可让您为多数的游戏命令指定键盘快速键。</STRING>
+				<STRING>﹝快捷键﹞索引标签可让您为多数的游戏命令指定键盘快捷键。</STRING>
 			</ENTRY>
 			<ENTRY name="MOUSE">
-				<STRING>﹝滑鼠﹞索引标签可让您控制滑鼠的表现。</STRING>
+				<STRING>﹝鼠标﹞索引标签可让您控制鼠标的表现。</STRING>
 			</ENTRY>
 			<ENTRY name="GRAPHICS">
-				<STRING>﹝画面﹞索引标签可让您选择显示解析度，并最佳化视讯效能。</STRING>
+				<STRING>﹝画面﹞索引标签可让您选择显示分辨率，并最佳化视讯效能。</STRING>
 			</ENTRY>
 			<ENTRY name="SOUND">
 				<STRING>﹝音效﹞索引标签可让您控制音效及音乐的音量等级。</STRING>
 			</ENTRY>
 			<ENTRY name="PLAYER">
-				<STRING>﹝玩家﹞索引标签可让您管理玩家设定档与昵称。</STRING>
+				<STRING>﹝玩家﹞索引标签可让您管理玩家档案与昵称。</STRING>
 			</ENTRY>
 			<ENTRY name="PLAYER_DISABLED">
-				<STRING>﹝玩家﹞索引标签可让您管理玩家设定档及昵称。这项索引标签在游戏或剧情进行时无法使用。</STRING>
+				<STRING>﹝玩家﹞索引标签可让您管理玩家档案及昵称。这项索引标签在游戏或剧情进行时无法使用。</STRING>
 			</ENTRY>
 		</SPOT>
 		<SLIDER>
@@ -11629,30 +11619,30 @@
 		</SLIDER>
 		<LISTBOX>
 			<ENTRY name="PROFILE">
-				<STRING>这个方块列出所有可用的玩家设定档，您可以按一下其中之一，再使用显示在右边的按钮。</STRING>
+				<STRING>这个方块列出所有可用的玩家档案，您可以按一下其中之一，再使用显示在右边的按钮。</STRING>
 			</ENTRY>
 			<ENTRY name="NICKNAME">
-				<STRING>这个方块列出所有可用于此设定档的玩家昵称。您可以使用昵称在不同的「控制代码」下进行游戏，同时依然使用相同的喜好设定。</STRING>
+				<STRING>这里列出当前玩家档案中的昵称。您可以使用不同昵称进行游戏，同时保留同一套偏好设置。</STRING>
 			</ENTRY>
 			<ENTRY name="HOTKEYS">
-				<STRING>这个方块列出所有可用的快速键设定。您在一项快速键设定上按一下，便可以改变或检查它。</STRING>
+				<STRING>这个方块列出所有可用的快捷键设定。您在一项快捷键设定上按一下，便可以改变或检查它。</STRING>
 			</ENTRY>
 			<ENTRY name="KEY">
-				<STRING>这个方块列出所有可用的快速键设定。您在一项快速键设定上按一下，便可以改变或检查它。</STRING>
+				<STRING>这个方块列出所有可用的快捷键设定。您在一项快捷键设定上按一下，便可以改变或检查它。</STRING>
 			</ENTRY>
 			<ENTRY name="ASSIGNED">
-				<STRING>此项显示目前指派给快速键顺序的命令。</STRING>
+				<STRING>此项显示目前指派给快捷键顺序的命令。</STRING>
 			</ENTRY>
 			<ENTRY name="NAME">
-				<STRING>这个方块列出所有可用于此设定档的玩家昵称。您可以使用昵称在不同的「控制代码」下进行游戏，同时依然使用相同的喜好设定。</STRING>
+				<STRING>这里列出当前玩家档案中的昵称。您可以使用不同昵称进行游戏，同时保留同一套偏好设置。</STRING>
 			</ENTRY>
 		</LISTBOX>
 		<COMBOBOX>
 			<ENTRY name="GROUPS">
-				<STRING>按一下可以筛选出那些键盘快速键会显示在清单上。</STRING>
+				<STRING>按一下可以筛选出那些键盘快捷键会显示在清单上。</STRING>
 			</ENTRY>
 			<ENTRY name="RESOLUTION">
-				<STRING>按一下可设定显示解析度。</STRING>
+				<STRING>按一下可设定显示分辨率。</STRING>
 			</ENTRY>
 			<ENTRY name="LANGUAGE">
 				<STRING>按一下可设定显示语言。</STRING>
@@ -11663,7 +11653,7 @@
 		</COMBOBOX>
 		<EDITBOX>
 			<ENTRY name="EDIT">
-				<STRING>在方块里按一下，再为选择的功能按一下想要配合使用的键盘快速键。您也可以按滑鼠中间键，转动滑鼠滚轮，或按一下任何「扩充」的滑鼠键。在这里无法重新对应主要的滑鼠左、右键。</STRING>
+				<STRING>在方块里按一下，再为选择的功能按一下想要配合使用的键盘快捷键。您也可以按鼠标中间键，转动鼠标滚轮，或按一下任何「扩充」的鼠标键。在这里无法重新对应主要的鼠标左、右键。</STRING>
 			</ENTRY>
 			<ENTRY name="MP_PORT">
 				<STRING>按一下这个方块，并输入要用于主持游戏时，或当您为用户端要连线至远端主机时所用的连接埠号码。</STRING>
@@ -11978,26 +11968,26 @@
 				<STRING>按一下可透过 Internet 连线观察游戏。您将需要知道主持人的电脑 IP 地址。您自己不能控制民族，不过可以从任一玩家的观点来观看游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="CANCEL">
-				<STRING>按一下可以取消并返回上一个功能表。</STRING>
+				<STRING>按一下可以取消并返回上一个菜单。</STRING>
 			</ENTRY>
 		</BUTTON>
 	</NETSEARCHWIN>
 	<GAMESPYLOGIN>
 		<BUTTON>
 			<ENTRY name="CREATE">
-				<STRING>按一下可以建立新的 GameSpy 设定档。 </STRING>
+				<STRING>按一下可以建立新的 GameSpy 玩家档案。 </STRING>
 			</ENTRY>
 			<ENTRY name="LOGIN">
 				<STRING>在上面的方块输入昵称及密码后，按一下即可登入。</STRING>
 			</ENTRY>
 			<ENTRY name="CANCEL">
-				<STRING>按一下可以取消并返回上一个功能表。</STRING>
+				<STRING>按一下可以取消并返回上一个菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="CREATE_NEW">
-				<STRING>按一下可建立新的 GameSpy 设定档。您将需要输入您的电子邮件地址，并在上面的方块选择昵称及密码。</STRING>
+				<STRING>按一下可建立新的 GameSpy 玩家档案。您将需要输入您的电子邮件地址，并在上面的方块选择昵称及密码。</STRING>
 			</ENTRY>
 			<ENTRY name="CANCEL_NEW">
-				<STRING>按一下可以取消并返回上一个功能表。</STRING>
+				<STRING>按一下可以取消并返回上一个菜单。</STRING>
 			</ENTRY>
 		</BUTTON>
 		<CHECKBOX>
@@ -12080,7 +12070,7 @@
 				<STRING>显示每间游戏室的无民族力量设定。</STRING>
 			</ENTRY>
 			<ENTRY name="QUIT">
-				<STRING>按一下可以取消并返回上一个功能表。</STRING>
+				<STRING>按一下可以取消并返回上一个菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="CREATE">
 				<STRING>按一下可建立新的游戏室。您会成为新游戏室的主持人，并能控制游戏的设定。</STRING>
@@ -12142,6 +12132,10 @@
 			<ENTRY name="PLAYERDETAILSPRIVATECHAT">
 				<STRING>按一下加入私人聊天</STRING>
 			</ENTRY>
+
+			<ENTRY name="INVITE"><STRING>您收到了一位好友的游戏邀请！按一下查看。</STRING></ENTRY>
+			<ENTRY name="PLAYERDETAILSBLOCKUSER"><STRING>按一下屏蔽此玩家。</STRING></ENTRY>
+			<ENTRY name="PLAYERDETAILSUNBLOCKUSER"><STRING>按一下取消屏蔽此玩家。</STRING></ENTRY>
 		</BUTTON>
 		<LISTBOX>
 			<ENTRY name="SESSIONS">
@@ -12215,7 +12209,7 @@
 				<STRING>按一下选择要进行的游戏类别。</STRING>
 			</ENTRY>
 			<ENTRY name="REGION">
-				<STRING>Text needed for GAMESPYTITLE/COMBOBOX/REGION in help.xml!</STRING>
+				<STRING>点击选择地区。</STRING>
 			</ENTRY>
 		</COMBOBOX>
 		<ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT0"><STRING>Text needed for GAMESPYTITLE / SORT0 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT3"><STRING>Text needed for GAMESPYTITLE / SORT3 in help.xml!</STRING></ENTRY><ENTRY name=" SORT4"><STRING>Text needed for GAMESPYTITLE / SORT4 in help.xml!</STRING></ENTRY><ENTRY name=" SORT12"><STRING>Text needed for GAMESPYTITLE / SORT12 in help.xml!</STRING></ENTRY><ENTRY name=" SORT0"><STRING>Text needed for GAMESPYTITLE / SORT0 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT4"><STRING>Text needed for GAMESPYTITLE / SORT4 in help.xml!</STRING></ENTRY><ENTRY name=" SORT3"><STRING>Text needed for GAMESPYTITLE / SORT3 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT0"><STRING>Text needed for GAMESPYTITLE / SORT0 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT3"><STRING>Text needed for GAMESPYTITLE / SORT3 in help.xml!</STRING></ENTRY><ENTRY name=" SORT4"><STRING>Text needed for GAMESPYTITLE / SORT4 in help.xml!</STRING></ENTRY><ENTRY name=" SORT12"><STRING>Text needed for GAMESPYTITLE / SORT12 in help.xml!</STRING></ENTRY><ENTRY name=" SORT4"><STRING>Text needed for GAMESPYTITLE / SORT4 in help.xml!</STRING></ENTRY><ENTRY name=" SORT12"><STRING>Text needed for GAMESPYTITLE / SORT12 in help.xml!</STRING></ENTRY><ENTRY name=" SORT4"><STRING>Text needed for GAMESPYTITLE / SORT4 in help.xml!</STRING></ENTRY><ENTRY name=" SORT3"><STRING>Text needed for GAMESPYTITLE / SORT3 in help.xml!</STRING></ENTRY><ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT0"><STRING>Text needed for GAMESPYTITLE / SORT0 in help.xml!</STRING></ENTRY><ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY><ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT3"><STRING>Text needed for GAMESPYTITLE / SORT3 in help.xml!</STRING></ENTRY><ENTRY name=" SORT2"><STRING>Text needed for GAMESPYTITLE / SORT2 in help.xml!</STRING></ENTRY><ENTRY name=" SORT0"><STRING>Text needed for GAMESPYTITLE / SORT0 in help.xml!</STRING></ENTRY><ENTRY name=" SORT4"><STRING>Text needed for GAMESPYTITLE / SORT4 in help.xml!</STRING></ENTRY><ENTRY name=" SORT0"><STRING>Text needed for GAMESPYTITLE / SORT0 in help.xml!</STRING></ENTRY><ENTRY name=" SORT1"><STRING>Text needed for GAMESPYTITLE / SORT1 in help.xml!</STRING></ENTRY></GAMESPYTITLE>
@@ -12282,7 +12276,7 @@
 		</EDITBOX>
 		<BUTTON>
 			<ENTRY name="CANCEL">
-				<STRING>按一下可以取消并返回上一个功能表。</STRING>
+				<STRING>按一下可以取消并返回上一个菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="CREATE">
 				<STRING>按一下可建立新游戏室来进行这场游戏。</STRING>
@@ -12403,7 +12397,7 @@
 				<STRING>按一下可选择教学游戏 6，进阶的教学游戏，其中会涵盖外交与现代武器。</STRING>
 			</ENTRY>
 			<ENTRY name="CANCEL">
-				<STRING>按一下可以返回主功能表。</STRING>
+				<STRING>按一下可以返回主菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="START">
 				<STRING>按一下可开始您所选择的教学游戏。</STRING>
@@ -12430,7 +12424,7 @@
 				<STRING>按一下可向上卷动。</STRING>
 			</ENTRY>
 			<ENTRY name="BACK">
-				<STRING>按一下可返回﹝工具与其他功能﹞功能表。</STRING>
+				<STRING>按一下可返回﹝工具与其他功能﹞菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="START">
 				<STRING>按一下可开始选择的技能测试。</STRING>
@@ -12477,7 +12471,7 @@
 				<STRING>按一下可载入储存的征服世界游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="CANCEL">
-				<STRING>按一下可返回上一个功能表。</STRING>
+				<STRING>按一下可返回上一个菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="START">
 				<STRING>按一下可开始新的征服世界游戏。</STRING>
@@ -12758,7 +12752,7 @@
 				<STRING>按一下可关闭﹝成就﹞画面。</STRING>
 			</ENTRY>
 			<ENTRY name="MAIN_MENU">
-				<STRING>按一下可进入主功能表。</STRING>
+				<STRING>按一下可进入主菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="TAB_GRAPH_SCORE">
 				<STRING>按一下可观看随时间经过的分数图表。</STRING>
@@ -12945,13 +12939,13 @@
 				<STRING>显示在游戏结束时依然生存的民族。</STRING>
 			</ENTRY>
 			<ENTRY name="MOUSE_CLICKS">
-				<STRING>玩家按过滑鼠键的次数。</STRING>
+				<STRING>玩家按过鼠标键的次数。</STRING>
 			</ENTRY>
 			<ENTRY name="PLAYER_SPEED">
-				<STRING>玩家每分钟按滑鼠键或使用快速键的次数。</STRING>
+				<STRING>玩家每分钟按鼠标键或使用快捷键的次数。</STRING>
 			</ENTRY>
 			<ENTRY name="HOTKEYS_PRESSED">
-				<STRING>玩家使用快速键的次数。</STRING>
+				<STRING>玩家使用快捷键的次数。</STRING>
 			</ENTRY>
 			<ENTRY name="TIME_ZOOMED_IN">
 				<STRING>玩家用于放大的时间。</STRING>
@@ -12972,13 +12966,13 @@
 				<STRING>表示胜利的玩家。</STRING>
 			</ENTRY>
 			<ENTRY name="INTERFACE_CLICKS">
-				<STRING>玩家在介面中按滑鼠键的次数。</STRING>
+				<STRING>玩家在介面中按鼠标键的次数。</STRING>
 			</ENTRY>
 			<ENTRY name="MINIMAP_CLICKS">
-				<STRING>玩家在迷你地图中按滑鼠键的次数。</STRING>
+				<STRING>玩家在迷你地图中按鼠标键的次数。</STRING>
 			</ENTRY>
 			<ENTRY name="MAINMAP_CLICKS">
-				<STRING>玩家在主要地图上按滑鼠键的次数。</STRING>
+				<STRING>玩家在主要地图上按鼠标键的次数。</STRING>
 			</ENTRY>
 			<ENTRY name="CONTROL_GROUPS_ACTIVATED">
 				<STRING>玩家启动控制群组的次数。</STRING>
@@ -13075,7 +13069,7 @@
 				<STRING>按一下可显示世界状态画面。</STRING>
 			</ENTRY>
 			<ENTRY name="NEGOTIATE">
-				<STRING>Text needed for CONQUESTDIPLOWIN/BUTTON/NEGOTIATE in help.xml!</STRING>
+				<STRING>点击进行谈判。</STRING>
 			</ENTRY>
 		</BUTTON>
 	</CONQUESTDIPLOWIN>
@@ -13286,7 +13280,7 @@
 				<STRING>按一下可以返回战略地图。</STRING>
 			</ENTRY>
 			<ENTRY name="MENU">
-				<STRING>按一下可退出到主功能表。</STRING>
+				<STRING>按一下可退出到主菜单。</STRING>
 			</ENTRY>
 		</BUTTON>
 		<ENTRY name="VICTORY">
@@ -13366,7 +13360,7 @@
 				<STRING>按一下可以载入已储存的游戏。</STRING>
 			</ENTRY>
 			<ENTRY name="GAME_OPTIONS">
-				<STRING>按一下可修改您的玩家设定档与选项。</STRING>
+				<STRING>按一下可修改您的玩家档案与选项。</STRING>
 			</ENTRY>
 			<ENTRY name="QUIT">
 				<STRING>退出目前的战役。</STRING>
@@ -13561,7 +13555,7 @@
 	<ENDGAMEWIN>
 		<BUTTON>
 			<ENTRY name="EXAMINE_MAP">
-				<STRING>按一下可以隐藏结束游戏功能表，并检视整个地图。</STRING>
+				<STRING>按一下可以隐藏结束游戏菜单，并检视整个地图。</STRING>
 			</ENTRY>
 			<ENTRY name="ACHIEVEMENTS">
 				<STRING>按一下可以检视游戏中玩家的表现与成就。</STRING>
@@ -13570,13 +13564,13 @@
 				<STRING>按一下可以观赏游戏过程的播放。</STRING>
 			</ENTRY>
 			<ENTRY name="QUIT">
-				<STRING>按一下可以返回主功能表。</STRING>
+				<STRING>按一下可以返回主菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="QUIT_CTW">
 				<STRING>按一下可以返回战略地图。</STRING>
 			</ENTRY>
 			<ENTRY name="GAME_REPORT">
-				<STRING>Text needed for ENDGAMEWIN/BUTTON/GAME_REPORT in help.xml!</STRING>
+				<STRING>点击查看游戏报告。</STRING>
 			</ENTRY>
 		</BUTTON>
 	</ENDGAMEWIN>
@@ -13932,7 +13926,7 @@
 				<STRING>可要求殖民地。殖民地并未显示在地图上，但可以提供稀有资源、贡品和奇迹。</STRING>
 			</ENTRY>
 			<ENTRY name="STANCE">
-				<STRING>Text needed for CONQUESTNEGOTIATEWIN/LISTBOX/STANCE in help.xml!</STRING>
+				<STRING>选择谈判时的外交立场。</STRING>
 			</ENTRY>
 		</LISTBOX>
 		<SPOT>
@@ -14058,7 +14052,7 @@
 		</BUTTON>
 		<COMBOBOX>
 			<ENTRY name="STANCE">
-				<STRING>Text needed for CONQUESTNEGOTIATEWIN/COMBOBOX/STANCE in help.xml!</STRING>
+				<STRING>选择谈判时的外交立场。</STRING>
 			</ENTRY>
 		</COMBOBOX>
 	</CONQUESTNEGOTIATEWIN>
@@ -14122,12 +14116,12 @@
 				<STRING>可在游戏中回覆Twitch的聊天消息。</STRING>
 			</ENTRY>
 			<ENTRY name="ENABLE_CAMERA">
-				<STRING>显示在线串流媒体的解析度。</STRING>
+				<STRING>显示在线串流媒体的分辨率。</STRING>
 			</ENTRY>
 		</CHECKBOX>
 		<COMBOBOX>
 			<ENTRY name="RESOLUTIONS">
-				<STRING>设定Twitch解析度。</STRING>
+				<STRING>设定Twitch分辨率。</STRING>
 			</ENTRY>
 		</COMBOBOX>
 		<EDITBOX>
@@ -14153,7 +14147,7 @@
 		</LISTBOX>
 		<BUTTON>
 			<ENTRY name="BTN-BACK">
-				<STRING>按一下可返回﹝工具与其他功能﹞功能表。</STRING>
+				<STRING>按一下可返回﹝工具与其他功能﹞菜单。</STRING>
 			</ENTRY>
 			<ENTRY name="BTN-UNSUBSCRIBE">
 				<STRING>取消订阅所选模组，将从您的系统中移除相关存档。您必须订阅自己创造的模组。</STRING>
@@ -14197,7 +14191,7 @@
 				<STRING>返回模组管理器。</STRING>
 			</ENTRY>
 		</BUTTON>
-		<COMBOBOX><ENTRY name="COMBO-VISIBILITY"><STRING>Text needed for PUBLISHWIN/COMBOBOX/COMBO-VISIBILITY in help.xml!</STRING></ENTRY></COMBOBOX></PUBLISHWIN>
+		<COMBOBOX><ENTRY name="COMBO-VISIBILITY"><STRING>选择发布到创意工坊后，哪些人可以查看此项目。</STRING></ENTRY></COMBOBOX></PUBLISHWIN>
 	<PUBLISHINGWIN>
 		<BUTTON>
 			<ENTRY name="BTN-OK">

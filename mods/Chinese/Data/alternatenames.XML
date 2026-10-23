@@ -129,7 +129,7 @@
       <STRING>会计</STRING>
       <STRING>装配线</STRING>
       <STRING>电视</STRING>
-      <STRING>Internet</STRING>
+      <STRING>互联网</STRING>
     </EPOCHTYPE>
     <EPOCHTYPE name="Globalization">
       <STRING>方向</STRING>

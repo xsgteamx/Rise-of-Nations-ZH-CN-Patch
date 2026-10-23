@@ -1,0 +1,7 @@
+Rise of Nations EE Simplified Chinese compatibility repair
+Based on xsgteamx/Rise-of-Nations-ZH-CN-Patch; traditional Chinese retail text, KuanKuan / 3DM archive attribution retained.
+Text license as declared by upstream: CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Source and changes: https://github.com/xsgteamx/Rise-of-Nations-ZH-CN-Patch/pull/1
+Noto Sans CJK SC: SIL OFL 1.1; see OFL.txt and SOURCES.txt at this mod's root.
+Unofficial translation; not affiliated with the game developers.

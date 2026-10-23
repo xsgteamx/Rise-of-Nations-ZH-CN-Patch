@@ -2,7 +2,7 @@
 <ROOT>
 	<CAT hash="2131502">
 		<STRING hash="13024266" hash_i="13001798" needed="1">全世界</STRING>
-		<STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+		<STRING hash="267690941" hash_i="267668435" needed="1">通过征服、胁迫和精明的谈判，控制整个世界。</STRING>
 		<STRING hash="4165503" hash_i="4169123" needed="1">世界地图</STRING>
 		<STRING hash="191862463" hash_i="191930169" needed="1">包含全世界所有民族的地图。</STRING>
 		<STRING hash="1609214396" hash_i="1564798088" needed="1">您已藉由智慧与熟练的领导能力统一了$TRIBENAME0。现在，您必须收服所有反抗您统治的人。不论野蛮人聚落或敌对民族，都将在您「征服世界」的过程中臣服。</STRING>
@@ -22,13 +22,12 @@
 		<STRING hash="7684557" hash_i="7662735" needed="1">斯堪的那维亚半岛</STRING>
 		<STRING hash="16352554" hash_i="16335388" needed="1">东斯堪的那维亚半岛</STRING>
 		<STRING hash="2761739" hash_i="2739917" needed="1">西伯利亚</STRING>
-		<STRING hash="6241129" hash_i="6177161" needed="1">西伯利亚</STRING>
 		<STRING hash="3601214" hash_i="3583174" needed="1">卡瑞利亚</STRING>
 		<STRING hash="16232426" hash_i="16205044" needed="1">西斯堪的那维亚半岛</STRING>
 		<STRING hash="1211246" hash_i="1189670" needed="1">乌拉山</STRING>
-		<STRING hash="8769749" hash_i="9428509" needed="1">加拿大南部</STRING>
+		<STRING hash="8769749" hash_i="9428509" needed="1">下加拿大</STRING>
 		<STRING hash="1948712" hash_i="1927270" needed="1">俄罗斯</STRING>
-		<STRING hash="8751514" hash_i="9406098" needed="1">加拿大北部</STRING>
+		<STRING hash="8751514" hash_i="9406098" needed="1">上加拿大</STRING>
 		<STRING hash="8499128" hash_i="8642368" needed="1">不列颠群岛</STRING>
 		<STRING hash="10399084" hash_i="10570402" needed="1">中欧</STRING>
 		<STRING hash="3070892" hash_i="3052594" needed="1">北海道</STRING>
@@ -44,7 +43,7 @@
 		<STRING hash="640518" hash_i="708224" needed="1">阿尔卑斯山</STRING>
 		<STRING hash="6752968" hash_i="6727072" needed="1">俄亥俄山谷</STRING>
 		<STRING hash="2682896" hash_i="2755770" needed="1">巴尔干</STRING>
-		<STRING hash="13116014" hash_i="13122546" needed="1">洛几山脉</STRING>
+		<STRING hash="13116014" hash_i="13122546" needed="1">落基山脉</STRING>
 		<STRING hash="12336207" hash_i="13431277" needed="1">中国东北</STRING>
 		<STRING hash="18129026" hash_i="18243120" needed="1">大西洋海岸</STRING>
 		<STRING hash="1253930" hash_i="1236952" needed="1">义大利</STRING>
@@ -80,7 +79,7 @@
 		<STRING hash="2055015" hash_i="2034171" needed="1">南美彭巴草原</STRING>
 	</CAT>
 	<CAT hash="14987765">
-		<STRING hash="267690941" hash_i="267668435" needed="1">透过征服、高压统治和狡猾的交际手段来控制全世界。</STRING>
+		<STRING hash="267690941" hash_i="267668435" needed="1">通过征服、胁迫和精明的谈判，控制整个世界。</STRING>
 	</CAT>
 	<CAT hash="2909936">
 		<STRING hash="0" hash_i="0" needed="1"/>

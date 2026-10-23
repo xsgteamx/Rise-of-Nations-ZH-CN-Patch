@@ -80,12 +80,12 @@
 			<SHORT_STRING>报错跳至传送点</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_DISPLAY_PROFILE" dependent="0">
-			<STRING>显示设定档</STRING>
-			<SHORT_STRING>显示设定档</SHORT_STRING>
+			<STRING>显示玩家档案</STRING>
+			<SHORT_STRING>显示玩家档案</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_TOGGLE_PROFILE_RUNNING" dependent="0">
-			<STRING>切换执行设定档</STRING>
-			<SHORT_STRING>设定档执行中</SHORT_STRING>
+			<STRING>切换执行玩家档案</STRING>
+			<SHORT_STRING>玩家档案执行中</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_TOGGLE_PARAM_CONSOLE" dependent="0">
 			<STRING>切换参数主控台</STRING>
@@ -196,20 +196,20 @@
 			<SHORT_STRING>人工智慧建造</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_CLEAR_PROFILE" dependent="0">
-			<STRING>清除设定档</STRING>
-			<SHORT_STRING>清除设定档</SHORT_STRING>
+			<STRING>清除玩家档案</STRING>
+			<SHORT_STRING>清除玩家档案</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_DUMP_PROFILE" dependent="0">
-			<STRING>删除设定档</STRING>
-			<SHORT_STRING>删除设定档</SHORT_STRING>
+			<STRING>删除玩家档案</STRING>
+			<SHORT_STRING>删除玩家档案</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_DUMP_MEM_PROFILE" dependent="0">
-			<STRING>删除记忆体设定档</STRING>
-			<SHORT_STRING>删除记忆体设定档</SHORT_STRING>
+			<STRING>删除记忆体玩家档案</STRING>
+			<SHORT_STRING>删除记忆体玩家档案</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_QUIT" dependent="0">
-			<STRING>退出</STRING>
-			<SHORT_STRING>退出</SHORT_STRING>
+			<STRING>撤出</STRING>
+			<SHORT_STRING>撤出</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_BUILD_NEW_WORLD" dependent="0">
 			<STRING>建造新世界</STRING>
@@ -988,8 +988,8 @@
 			<SHORT_STRING>放弃</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_QUIT" dependent="0">
-			<STRING>退出</STRING>
-			<SHORT_STRING>退出</SHORT_STRING>
+			<STRING>撤出</STRING>
+			<SHORT_STRING>撤出</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_GARRISON" dependent="0">
 			<STRING>单位: 驻守</STRING>
@@ -1376,8 +1376,8 @@
 			<SHORT_STRING>切换研究进展列</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_TOGGLE_ADVANCED" dependent="0">
-			<STRING>切换进阶功能表</STRING>
-			<SHORT_STRING>进阶功能表</SHORT_STRING>
+			<STRING>切换进阶菜单</STRING>
+			<SHORT_STRING>进阶菜单</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_STATWIN" dependent="0">
 			<STRING>状态窗口</STRING>
@@ -1400,8 +1400,8 @@
 			<SHORT_STRING>显示目标</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_MENU" dependent="0">
-			<STRING>游戏功能表</STRING>
-			<SHORT_STRING>游戏功能表</SHORT_STRING>
+			<STRING>游戏菜单</STRING>
+			<SHORT_STRING>游戏菜单</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_OPTIONS" dependent="0">
 			<STRING>游戏选项</STRING>
@@ -1969,12 +1969,12 @@
 			<SHORT_STRING>选取所有受损单位</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_FILTER_DAMAGED">
-			<STRING>受损单位的选择筛选器</STRING>
-			<SHORT_STRING>受损单位的选择筛选器</SHORT_STRING>
+			<STRING>仅保留选中的受损单位</STRING>
+			<SHORT_STRING>仅保留选中的受损单位</SHORT_STRING>
 		</KEY>
 		<KEY enum="OPTION_FILTER_ONSCREEN">
-			<STRING>画面单位的选择筛选器</STRING>
-			<SHORT_STRING>画面单位的选择筛选器</SHORT_STRING>
+			<STRING>仅保留屏幕内的选中单位</STRING>
+			<SHORT_STRING>仅保留屏幕内的选中单位</SHORT_STRING>
 		</KEY>
 		<KEY enum="SYSTEM_MARWAN_START">
 			<STRING>SYSTEM_MARWAN_START</STRING>
